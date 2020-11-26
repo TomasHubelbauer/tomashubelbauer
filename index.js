@@ -37,7 +37,8 @@ void async function () {
         case 'CreateEvent': {
           switch (event.payload.ref_type) {
             case 'branch': {
-              markdown += `created branch ${event.payload.ref} in ${name(event.repo.name)}`;
+              // TODO: Make the branch name into a link to the branch on GitHub
+              markdown += `created branch \`${event.payload.ref}\` in ${name(event.repo.name)}`;
               break;
             }
             case 'repository': {
