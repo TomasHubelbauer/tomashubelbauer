@@ -1,8 +1,8 @@
 import fs from 'fs';
+import https from 'https';
 
 void async function () {
-  const data = await fs.promises.readFile('data.json');
-  const events = JSON.parse(data);
+  const events = await download();
 
   let markdown = '';
   let heading = '';
@@ -13,22 +13,28 @@ void async function () {
       throw new Error('A non-me event has happened.');
     }
 
-    const [year, month, day, hour, minute] = event.created_at.split(/[-T:]/);
+    const _date = new Date(event.created_at);
 
     // TODO: Replace with a human format for certain values (today, yesterday, name of the week day if in the past week)
-    const _heading = `## ${year}/${month}/${day}\n\n`;
+    const _heading = date(_date);
     if (heading !== _heading) {
       if (heading && !more) {
+        markdown += '\n';
         markdown += '<details>\n';
-        markdown += '<summary>…</summary>\n\n';
+        markdown += '<summary>…</summary>\n';
         more = true;
       }
 
-      markdown += _heading;
+      // Skip a heading for "Today"
+      if (heading) {
+        markdown += '\n';
+        markdown += `## ${dates[_heading] || _heading}\n\n`;
+      }
+
       heading = _heading;
     }
 
-    markdown += `- \`${hour}:${minute}\`: `;
+    markdown += `- \`${time(_date)}\`: `;
 
     // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types
     switch (event.type) {
@@ -114,6 +120,7 @@ void async function () {
   }
 
   if (more) {
+    markdown += '\n';
     markdown += '</details>\n';
   }
 
@@ -122,10 +129,26 @@ void async function () {
   markdown += '\n';
 
   // TODO: Show in an ago format
-  markdown += `${new Date().toISOString()}\n`;
+  markdown += `${date(new Date())} ${time(new Date())}\n`;
 
   await fs.promises.writeFile('readme.md', markdown);
 }()
+
+function download() {
+  return new Promise((resolve, reject) => {
+    const headers = { 'User-Agent': 'TomasHubelbauer' };
+    const request = https.get('https://api.github.com/users/tomashubelbauer/events?per_page=100', { headers }, async response => {
+      request.on('error', reject);
+
+      const buffers = [];
+      for await (const buffer of response) {
+        buffers.push(buffer);
+      }
+
+      resolve(JSON.parse(Buffer.concat(buffers)));
+    });
+  });
+}
 
 // TODO: Return user/repo for non-me names
 function name(name) {
@@ -149,4 +172,30 @@ function commit(repo, payload) {
 
 function issue(issue) {
   return `[#${issue.number} ${issue.title}](${issue.html_url})`;
+}
+
+let now = new Date();
+const dates = {};
+for (let index = 0; index < 7; index++) {
+  const date = now.toISOString().slice(0, 10);
+  if (index === 0) {
+    dates[date] = 'Today';
+  }
+  else if (index === 1) {
+    dates[date] = 'Yesterday';
+  }
+  else {
+    dates[date] = now.toLocaleDateString('en-US', { weekday: 'long' });
+  }
+
+  now = new Date(now.setDate(now.getDate() - 1));
+}
+
+function date(instant) {
+  const date = instant.toISOString().slice(0, 10);
+  return dates[date] || date;
+}
+
+function time(instant) {
+  return instant.toISOString().slice(11, 16);
 }

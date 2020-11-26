@@ -23,11 +23,9 @@ jobs:
         git config --global user.name "Tomas Hubelbauer"
         
         # Run the CI script
-        curl https://api.github.com/users/tomashubelbauer/events?per_page=100 --output data.json
         node .
         
         # Stage the Git index changes resulting from the CI script
-        # TODO: Add `readme.md` instead once it starts being processed
         git add readme.md
         
         # Reset unstaged changes so that Git commit won't fail (e.g.: package-lock.json, temporary files, …)
