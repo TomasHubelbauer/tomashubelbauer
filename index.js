@@ -29,7 +29,7 @@ void async function () {
         heading = _heading;
       }
 
-      markdown += `- ${hour}:${minute}: `;
+      markdown += `- \`${hour}:${minute}\`: `;
 
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types
       switch (event.type) {
