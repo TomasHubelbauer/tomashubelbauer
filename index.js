@@ -117,7 +117,9 @@ void async function () {
       markdown += '</details>\n';
     }
 
+    markdown += '\n';
     markdown += '---\n';
+    markdown += '\n';
 
     // TODO: Show in an ago format
     markdown += `${new Date().toISOString()}\n`;
