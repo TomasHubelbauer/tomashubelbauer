@@ -40,6 +40,9 @@ jobs:
         
         # Commit the staged changes to the workflow repository
         git commit -m "Scrape the latest 100 of my user events from the GitHub API"
+        
+        # Authorize with GitHub using the workflow personal access token
+        git remote set-url origin https://tomashubelbauer:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}
                 
         # Push the commit to the workflow repository 
         git push origin HEAD:main
