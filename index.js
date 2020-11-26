@@ -34,7 +34,7 @@ void async function () {
       heading = _heading;
     }
 
-    markdown += `- \`${time(_date)}\`: `;
+    markdown += `- \`${time(_date)}\`\n  `;
 
     // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types
     switch (event.type) {
@@ -43,11 +43,11 @@ void async function () {
         switch (event.payload.ref_type) {
           case 'branch': {
             // TODO: Make the branch name into a link to the branch on GitHub
-            markdown += `created branch \`${event.payload.ref}\` in ${name(event.repo.name)}`;
+            markdown += `created branch \`${event.payload.ref}\` in${name(event.repo.name)}`;
             break;
           }
           case 'repository': {
-            markdown += `created repository ${name(event.repo.name)}`;
+            markdown += `created repository${name(event.repo.name)}`;
             break;
           }
           default: {
@@ -60,7 +60,7 @@ void async function () {
 
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#forkevent
       case 'ForkEvent': {
-        markdown += `forked ${name(event.repo.name)} into ${name(event.payload.forkee.full_name)}`;
+        markdown += `forked${name(event.repo.name)}\n  into${name(event.payload.forkee.full_name)}`;
         break;
       }
 
@@ -68,7 +68,7 @@ void async function () {
       case 'IssueCommentEvent': {
         switch (event.payload.action) {
           case 'created': {
-            markdown += `commented on ${issue(event.payload.issue)} in ${name(event.repo.name)}`;
+            markdown += `commented on${issue(event.payload.issue)}\n  in${name(event.repo.name)}`;
             break;
           }
           default: {
@@ -83,11 +83,11 @@ void async function () {
       case 'IssuesEvent': {
         switch (event.payload.action) {
           case 'created': {
-            markdown += `opened ${issue(event.payload.issue)} in ${name(event.repo.name)}`;
+            markdown += `opened${issue(event.payload.issue)}\n  in${name(event.repo.name)}`;
             break;
           }
           case 'closed': {
-            markdown += `closed ${issue(event.payload.issue)} in ${name(event.repo.name)}`;
+            markdown += `closed${issue(event.payload.issue)}\n  in${name(event.repo.name)}`;
             break;
           }
           default: {
@@ -100,14 +100,14 @@ void async function () {
 
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#pushevent
       case 'PushEvent': {
-        markdown += `pushed ${commit(event.repo, event.payload)}`;
+        markdown += `pushed${commit(event.repo, event.payload)}`;
         break;
       }
 
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#watchevent
       case 'WatchEvent': {
         // TODO: Handle the `payload.action` once they fix it so it is not always `started`
-        markdown += `starred ${name(event.repo.name)}`;
+        markdown += `starred${name(event.repo.name)}`;
         break;
       }
 
@@ -154,24 +154,24 @@ function download() {
 function name(name) {
   const [user, repo] = name.split('/');
   if (user !== 'TomasHubelbauer') {
-    return `[\`${name}\`](https://github.com/${name})`;
+    return `\n  [\`${name}\`](https://github.com/${name})`;
   }
 
-  return `[\`${repo}\`](https://github.com/${name})`;
+  return `\n  [\`${repo}\`](https://github.com/${name})`;
 }
 
 function commit(repo, payload) {
   if (payload.commits.length === 1) {
     const commit = payload.commits[0];
-    return `[*${commit.message}*](https://github.com/${repo.name}/commit/${commit.sha}) into ${name(repo.name)}`;
+    return `\n  [*${commit.message}*](https://github.com/${repo.name}/commit/${commit.sha})\n  into${name(repo.name)}`;
   }
 
   const commit = payload.commits[payload.commits.length - 1];
-  return `[*${commit.message}*](https://github.com/${repo.name}/commit/${commit.sha}) and ${payload.commits.length - 1} other${payload.commits.length - 2 ? 's' : ''} into ${name(repo.name)}`;
+  return `\n  [*${commit.message}*](https://github.com/${repo.name}/commit/${commit.sha})\n  and ${payload.commits.length - 1} other${payload.commits.length - 2 ? 's' : ''} into${name(repo.name)}`;
 }
 
 function issue(issue) {
-  return `[#${issue.number} ${issue.title}](${issue.html_url})`;
+  return `\n  [#${issue.number} ${issue.title}](${issue.html_url})`;
 }
 
 let now = new Date();
