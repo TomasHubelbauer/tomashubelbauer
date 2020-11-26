@@ -1,0 +1,45 @@
+name: github-actions
+on:
+  push:
+    branches:
+    # Limit to the `master` branch
+    - master
+  schedule:
+    # Run hourly
+    - cron:  '0 * * * *'
+jobs:
+  github-actions:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out the source code
+      uses: actions/checkout@v1
+    - name: Run the workflow
+      run: |
+        set -e
+        set -x
+        
+        # Configure Git for the push from the workflow to the repository
+        git config --global user.email "tomas@hubelbauer.net"
+        git config --global user.name "Tomas Hubelbauer"
+        
+        # Run the CI script
+        curl https://api.github.com/users/tomashubelbauer/events?per_page=100 --output data.json
+        # TODO: Run `node .` to process the data into `readme.md`
+        
+        # Stage the Git index changes resulting from the CI script
+        # TODO: Add `readme.md` instead once it starts being processed
+        git add data.json
+        
+        # Reset unstaged changes so that Git commit won't fail (e.g.: package-lock.json, temporary files, …)
+        git checkout -- .
+        
+        # Bail if there are no changes to commit and hence no GitHub Pages to build
+        if git diff-index --quiet HEAD --; then
+          exit
+        fi
+        
+        # Commit the staged changes to the workflow repository
+        git commit -m "Scrape the latest 100 of my user events from the GitHub API"
+                
+        # Push the commit to the workflow repository 
+        git push
