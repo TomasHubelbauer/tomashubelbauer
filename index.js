@@ -5,7 +5,7 @@ void async function () {
     const data = await fs.promises.readFile('data.json');
     const events = JSON.parse(data);
 
-    let markdown = '# Tomas Hubelbauer\n\n';
+    let markdown = '';
     let heading = '';
     let more = false;
 
