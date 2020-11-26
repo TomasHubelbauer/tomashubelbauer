@@ -2,8 +2,8 @@ name: github-actions
 on:
   push:
     branches:
-    # Limit to the `master` branch
-    - master
+    # Limit to the `main` branch
+    - main
   schedule:
     # Run hourly
     - cron:  '0 * * * *'
