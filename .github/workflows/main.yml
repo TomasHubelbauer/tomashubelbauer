@@ -42,4 +42,4 @@ jobs:
         git commit -m "Scrape the latest 100 of my user events from the GitHub API"
                 
         # Push the commit to the workflow repository 
-        git push
+        git push origin HEAD:main
