@@ -65,8 +65,7 @@ void async function () {
       case 'CreateEvent': {
         switch (event.payload.ref_type) {
           case 'branch': {
-            // TODO: Make the branch name into a link to the branch on GitHub
-            markdown += `created branch \`${event.payload.ref}\` in${name(event.repo.name)}`;
+            markdown += `created branch ${branch(event.repo, event.payload)}`;
             break;
           }
           case 'repository': {
@@ -188,7 +187,6 @@ function download(url) {
   });
 }
 
-// TODO: Return user/repo for non-me names
 function name(name) {
   const [user, repo] = name.split('/');
   if (user !== 'TomasHubelbauer') {
@@ -206,6 +204,10 @@ function commit(repo, payload) {
 
   const commit = payload.commits[payload.commits.length - 1];
   return `\n  [*${commit.message}*](https://github.com/${repo.name}/commit/${commit.sha})\n  and ${payload.commits.length - 1} other${payload.commits.length - 2 ? 's' : ''} into${name(repo.name)}`;
+}
+
+function branch(repo, payload) {
+  return `\n  [\`${payload.ref}\`](https://github.com/${repo.name}/tree/${payload.ref})\n  in${name(repo.name)}`;
 }
 
 function issue(issue) {
