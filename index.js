@@ -2,7 +2,29 @@ import fs from 'fs';
 import https from 'https';
 
 void async function () {
-  const events = await download();
+  /** @type {{ actor: { login: string; }; created_at: string; type: string; payload: unknown; repo: { name: string; }; }[]} */
+  let events;
+
+  // Use cached events to avoid using up the API rate limit in development
+  try {
+    events = JSON.parse(await fs.promises.readFile('events.json'));
+  }
+  catch (error) {
+    if (error.code !== 'ENOENT') {
+      throw error;
+    }
+
+    // Fetch all 300 events GitHub API will provide:
+    // https://docs.github.com/en/free-pro-team@latest/rest/reference/activity#events
+    // Note that the docs say `per_page` is not supported but it seems to work…
+    events = [
+      ...await download('https://api.github.com/users/tomashubelbauer/events?per_page=100'),
+      ...await download('https://api.github.com/users/tomashubelbauer/events?per_page=100&page=2'),
+      ...await download('https://api.github.com/users/tomashubelbauer/events?per_page=100&page=3'),
+    ];
+
+    await fs.promises.writeFile('events.json', JSON.stringify(events, null, 2));
+  }
 
   let markdown = '';
   let heading = '';
@@ -134,10 +156,10 @@ void async function () {
   await fs.promises.writeFile('readme.md', markdown);
 }()
 
-function download() {
+function download(url) {
   return new Promise((resolve, reject) => {
     const headers = { 'User-Agent': 'TomasHubelbauer' };
-    const request = https.get('https://api.github.com/users/tomashubelbauer/events?per_page=100', { headers }, async response => {
+    const request = https.get(url, { headers }, async response => {
       request.on('error', reject);
 
       const buffers = [];
