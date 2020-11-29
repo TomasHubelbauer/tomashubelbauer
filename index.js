@@ -39,18 +39,15 @@ void async function () {
 
     const _heading = date(_date);
     if (heading !== _heading) {
-      if (heading && !more) {
-        markdown += '\n';
-        markdown += '<details>\n';
-        markdown += '<summary>…</summary>\n';
-        more = true;
-      }
-
-      // Skip a heading for "Today"
       if (heading) {
         markdown += '\n';
-        markdown += `## ${dates[_heading] || _heading}\n\n`;
+        markdown += '</details>\n';
+        markdown += '\n';
       }
+
+      markdown += '<details>\n';
+      markdown += `<summary>${dates[_heading] || _heading}</summary>\n`;
+      markdown += '\n';
 
       heading = _heading;
     }
