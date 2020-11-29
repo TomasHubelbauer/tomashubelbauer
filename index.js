@@ -26,7 +26,7 @@ void async function () {
     await fs.promises.writeFile('events.json', JSON.stringify(events, null, 2));
   }
 
-  let markdown = '<center>\n\n![](banner.svg)\n\n</center>\n\n';
+  let markdown = '![](banner.svg)\n\n';
   let heading = '';
   let more = false;
 
