@@ -40,14 +40,19 @@ void async function () {
     const _heading = date(_date);
     if (heading !== _heading) {
       if (heading) {
-        markdown += '\n';
-        markdown += '</details>\n';
+        if (heading !== 'Today') {
+          markdown += '\n';
+          markdown += '</details>\n';
+        }
+
         markdown += '\n';
       }
 
-      markdown += '<details>\n';
-      markdown += `<summary>${dates[_heading] || _heading}</summary>\n`;
-      markdown += '\n';
+      if (_heading !== 'Today') {
+        markdown += '<details>\n';
+        markdown += `<summary>${dates[_heading] || _heading}</summary>\n`;
+        markdown += '\n';
+      }
 
       heading = _heading;
     }
@@ -152,7 +157,7 @@ void async function () {
     markdown += '\n';
   }
 
-  if (more) {
+  if (heading !== 'Today') {
     markdown += '\n';
     markdown += '</details>\n';
   }
