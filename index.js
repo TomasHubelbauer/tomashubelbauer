@@ -37,7 +37,6 @@ void async function () {
 
     const _date = new Date(event.created_at);
 
-    // TODO: Replace with a human format for certain values (today, yesterday, name of the week day if in the past week)
     const _heading = date(_date);
     if (heading !== _heading) {
       if (heading && !more) {
