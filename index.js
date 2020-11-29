@@ -80,6 +80,21 @@ void async function () {
         break;
       }
 
+      // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#deleteevent
+      case 'DeleteEvent': {
+        switch (event.payload.ref_type) {
+          case 'tag': {
+            markdown += `deleted tag \`${event.payload.ref}\` in${name(event.repo.name)}`;
+            break;
+          }
+          default: {
+            throw new Error(`Unhandled ref type ${event.payload.ref_type}.`);
+          }
+        }
+
+        break;
+      }
+
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#forkevent
       case 'ForkEvent': {
         markdown += `forked${name(event.repo.name)}\n  into${name(event.payload.forkee.full_name)}`;
