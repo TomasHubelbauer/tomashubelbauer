@@ -30,7 +30,7 @@ void async function () {
   }
   
   // TODO: Show in an ago format
-  let markdown = '![](banner.svg)\n\n${date(new Date())} ${time(new Date())}:\n\n';
+  let markdown = `![](banner.svg)\n\n${date(new Date())} ${time(new Date())}:\n\n`;
   let heading = '';
   let more = false;
 
