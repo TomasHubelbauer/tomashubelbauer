@@ -28,8 +28,9 @@ void async function () {
 
     await fs.promises.writeFile('events.json', JSON.stringify(events, null, 2));
   }
-
-  let markdown = '![](banner.svg)\n\n';
+  
+  // TODO: Show in an ago format
+  let markdown = '![](banner.svg)\n\n${date(new Date())} ${time(new Date())}:\n\n';
   let heading = '';
   let more = false;
 
@@ -176,11 +177,6 @@ void async function () {
   }
 
   markdown += '\n';
-  markdown += '---\n';
-  markdown += '\n';
-
-  // TODO: Show in an ago format
-  markdown += `${date(new Date())} ${time(new Date())}\n`;
 
   await fs.promises.writeFile('readme.md', markdown);
 }()
