@@ -29,8 +29,8 @@ void async function () {
     await fs.promises.writeFile('events.json', JSON.stringify(events, null, 2));
   }
   
-  // TODO: Show in an ago format
-  let markdown = `![](banner.svg)\n\n${date(new Date())} ${time(new Date())}:\n\n`;
+  // TODO: Show *Today* as `<details open>` too
+  let markdown = `![](banner.svg)\n\n${date(new Date())} (${time(new Date())}):\n\n`;
   let heading = '';
   let more = false;
 
@@ -175,8 +175,6 @@ void async function () {
     markdown += '\n';
     markdown += '</details>\n';
   }
-
-  markdown += '\n';
 
   await fs.promises.writeFile('readme.md', markdown);
 }()
