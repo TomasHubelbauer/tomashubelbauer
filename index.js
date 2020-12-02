@@ -141,6 +141,13 @@ void async function () {
 
         break;
       }
+        
+      // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#pullrequestevent
+      case 'PullRequestEvent': {
+        // TODO: Flesh this out properly
+        markdown += `${event.payload.action} a pull request`;
+        break;
+      }
 
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#pushevent
       case 'PushEvent': {
