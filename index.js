@@ -1,6 +1,9 @@
 import fs from 'fs';
 import https from 'https';
 
+// Crash process and bring down the workflow in case of an unhandled rejection
+process.on('unhandledRejection', error => { throw error; });
+
 void async function () {
   /** @type {{ actor: { login: string; }; created_at: string; type: string; payload: unknown; repo: { name: string; }; }[]} */
   let events;
