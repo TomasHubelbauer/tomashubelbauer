@@ -87,6 +87,10 @@ void async function () {
             markdown += `deleted tag \`${event.payload.ref}\` in${name(event.repo.name)}`;
             break;
           }
+          case 'branch': {
+            markdown += `deleted branch \`${event.payload.ref}\` in${name(event.repo.name)}`;
+            break;
+          }
           default: {
             throw new Error(`Unhandled ref type ${event.payload.ref_type}.`);
           }
