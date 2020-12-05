@@ -40,7 +40,7 @@ jobs:
         fi
         
         # Commit the staged changes to the workflow repository
-        git commit -m "Update the GitHub profile readme"
+        git commit -m "Generate readme.md based on the API script"
         
         # Authorize with GitHub using the workflow personal access token
         git remote set-url origin https://tomashubelbauer:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}
