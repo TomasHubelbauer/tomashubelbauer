@@ -29,10 +29,8 @@ void async function () {
     await fs.promises.writeFile('events.json', JSON.stringify(events, null, 2));
   }
   
-  // TODO: Show *Today* as `<details open>` too
-  let markdown = `![](banner.svg)\n\n${date(new Date())} (${time(new Date())}):\n\n`;
-  let heading = '';
-  let more = false;
+  let markdown = `![](banner.svg)\n\n`;
+  let heading;
 
   for (const event of events) {
     if (event.actor.login !== 'TomasHubelbauer') {
@@ -44,20 +42,14 @@ void async function () {
     const _heading = date(_date);
     if (heading !== _heading) {
       if (heading) {
-        if (heading !== 'Today') {
-          markdown += '\n';
-          markdown += '</details>\n';
-        }
-
+        markdown += '\n';
+        markdown += '</details>\n';
         markdown += '\n';
       }
 
-      if (_heading !== 'Today') {
-        markdown += '<details>\n';
-        markdown += `<summary>${dates[_heading] || _heading}</summary>\n`;
-        markdown += '\n';
-      }
-
+      markdown += `<details${_heading === 'Today' ? ' open' : ''}>\n`;
+      markdown += `<summary>${dates[_heading] || _heading}${_heading === 'Today' ? ` (${time(new Date())})` : ''}</summary>\n`;
+      markdown += '\n';
       heading = _heading;
     }
 
@@ -171,10 +163,8 @@ void async function () {
     markdown += '\n';
   }
 
-  if (heading !== 'Today') {
-    markdown += '\n';
-    markdown += '</details>\n';
-  }
+  markdown += '\n';
+  markdown += '</details>\n';
 
   await fs.promises.writeFile('readme.md', markdown);
 }()
