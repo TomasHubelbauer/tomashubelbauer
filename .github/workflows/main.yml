@@ -22,6 +22,9 @@ jobs:
         git config --global user.email "tomas@hubelbauer.net"
         git config --global user.name "Tomas Hubelbauer"
         
+        # Drop all history of readme.md as it is generated
+        git filter-branch --index-filter "git rm readme.md" --prune-empty  HEAD
+        
         # Run the CI script
         node .
         
@@ -42,5 +45,5 @@ jobs:
         # Authorize with GitHub using the workflow personal access token
         git remote set-url origin https://tomashubelbauer:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}
                 
-        # Push the commit to the workflow repository 
-        git push origin HEAD:main
+        # Push the commit to the workflow repository using force since we rewrote history
+        git push origin HEAD:main --force
