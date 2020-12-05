@@ -23,7 +23,7 @@ jobs:
         git config --global user.name "Tomas Hubelbauer"
         
         # Drop all history of readme.md as it is generated
-        git filter-branch --index-filter "git rm readme.md" --prune-empty  HEAD
+        git filter-branch --index-filter "git rm --ignore-unmatch readme.md" --prune-empty HEAD
         
         # Run the CI script
         node .
