@@ -47,7 +47,7 @@ void async function () {
         markdown += '\n';
       }
 
-      markdown += `<details${_heading === 'Today' ? ' open' : ''}>\n`;
+      markdown += `<details${!heading ? ' open' : ''}>\n`;
       markdown += `<summary>${dates[_heading] || _heading}${_heading === 'Today' ? ` (${time(new Date())})` : ''}</summary>\n`;
       markdown += '\n';
       heading = _heading;
