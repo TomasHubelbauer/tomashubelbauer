@@ -180,7 +180,13 @@ function download(url) {
         buffers.push(buffer);
       }
 
-      resolve(JSON.parse(Buffer.concat(buffers)));
+      const data = JSON.parse(Buffer.concat(buffers));
+      if (Array.isArray(data)) {
+        resolve(data);
+      }
+      else {
+        reject(data);
+      }
     });
   });
 }
