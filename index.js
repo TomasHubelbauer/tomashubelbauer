@@ -123,6 +123,10 @@ void async function () {
             markdown += `opened${issue(event.payload.issue)}\n  in${name(event.repo.name)}`;
             break;
           }
+          case 'opened': {
+            markdown += `opened${issue(event.payload.issue)}\n  in${name(event.repo.name)}`;
+            break;
+          }
           case 'closed': {
             markdown += `closed${issue(event.payload.issue)}\n  in${name(event.repo.name)}`;
             break;
