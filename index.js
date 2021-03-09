@@ -59,9 +59,11 @@ void async function () {
     switch (event.type) {
       // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#commitcommentevent
       case 'CommitCommentEvent': {
-        console.log(event);
         switch (event.payload.action) {
+          // Handle GitHub API not responding as documented (missing payload `action` field)
+          case undefined:
           case 'created': {
+            // TODO: Flesh this out properly
             markdown += `commented on a commit\n  in${name(event.repo.name)}`;
             break;
           }
@@ -158,7 +160,7 @@ void async function () {
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#pullrequestevent
       case 'PullRequestEvent': {
         // TODO: Flesh this out properly
-        markdown += `${event.payload.action} a pull request`;
+        markdown += `${event.payload.action} a pull request\n  in${name(event.repo.name)}`;
         break;
       }
 
