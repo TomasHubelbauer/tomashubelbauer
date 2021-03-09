@@ -59,13 +59,14 @@ void async function () {
     switch (event.type) {
       // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#commitcommentevent
       case 'CommitCommentEvent': {
+        console.log(event);
         switch (event.payload.action) {
           case 'created': {
             markdown += `commented on a commit\n  in${name(event.repo.name)}`;
             break;
           }
           default: {
-            throw new Error(`Unhandled issue comment event ${event.payload.action}.`);
+            throw new Error(`Unhandled commit comment event ${event.payload.action}.`);
           }
         }
         
