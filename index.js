@@ -57,6 +57,21 @@ void async function () {
 
     // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types
     switch (event.type) {
+      // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#commitcommentevent
+      case 'CommitCommentEvent': {
+        switch (event.payload.action) {
+          case 'created': {
+            markdown += `commented on a commit\n  in${name(event.repo.name)}`;
+            break;
+          }
+          default: {
+            throw new Error(`Unhandled issue comment event ${event.payload.action}.`);
+          }
+        }
+        
+        break;
+      }
+        
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#createevent
       case 'CreateEvent': {
         switch (event.payload.ref_type) {
