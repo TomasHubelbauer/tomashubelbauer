@@ -156,6 +156,13 @@ void async function () {
 
         break;
       }
+      
+      // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#memberevent
+      case 'MemberEvent': {
+        // TODO: Flesh this out properly
+        markdown += `${event.payload.action} a member\n  in${name(event.repo.name)}`;
+        break;
+      }
         
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#pullrequestevent
       case 'PullRequestEvent': {
