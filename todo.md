@@ -36,3 +36,15 @@ a fork.
 The most commonly represented types of events can drown out interesting but less
 frequent event types. Adding an emoji per each time at the start of the line
 will help with visual navigation and will make each entry stand out more.
+
+## Detect deleted repos and skip their respective activity entries
+
+We render the activity entries in reverse chronological order, which means that
+if for each repo, we test it for existence on the first item related to it, and
+it comes back negative, we can ignore that entry and any other entry touching
+that repo. We'll probably use it just to prevent links to deleted repos from
+rendering as links, but instead show as normal text.
+
+## Make pull request activity entries proper links to the PR showing the PR #
+
+Right now the PR experience is pretty poor, let's fix that.
