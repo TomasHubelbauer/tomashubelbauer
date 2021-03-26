@@ -99,6 +99,14 @@ void async function () {
     console.log('Cached fresh repositories');
   }
 
+  // Extract tracked attributes of each repository (used for change detection)
+  const repos = repositories.map(repository => {
+    const { name, size, stargazers_count, watchers_count, forks_count, open_issues_count, } = repository;
+    return { name, size, stars: stargazers_count, watches: watchers_count, forks: forks_count, issues: open_issues_count };
+  });
+
+  await fs.promises.writeFile('repositories.json', JSON.stringify(repos, null, 2));
+
   const forks = repositories.filter(repository => repository.fork);
 
   let markdown = `![](banner.svg)

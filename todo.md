@@ -1,24 +1,10 @@
 # To-Do
 
-## For forks of the same name, do not print even the name without account name
+## Display new stars, watches, forks and issues on my repositories
 
-For a fork like `account/repo` into `tomashubelbauer/repo` we already print just
-*Forked account/repo into repo* thanks to the `repo` function. But for forks it
-makes sense to probably go as far as to print just *Forked account/repo*.
-
-Maybe a downside here is the loss of the link that takes you to the fork if we
-use the above wording. But we could turn the *Forked* word into the forked-repo
-link?
-
-This requires additional thought.
-
-## Display new stars and forks on my repositories
-
-This might be too much for the GitHub API, we'll see if the quota can handle it
-(and we can potentially weight the repos by their current number of stars or
-their recency or a mix of both and not check all of them for each run), but it
-could be nice to also show entries for when one of my repos receives a star or
-a fork.
+Use `repositories.json` to detect repos whose stars/watches/forks/issues have
+changed since the last check, maybe fetch the repository for more details and
+create a new virtual fake entry in the activity log for these events.
 
 ## Detect deleted repos and skip their respective activity entries
 
@@ -26,12 +12,13 @@ We render the activity entries in reverse chronological order, which means that
 if for each repo, we test it for existence on the first item related to it, and
 it comes back negative, we can ignore that entry and any other entry touching
 that repo. We'll probably use it just to prevent links to deleted repos from
-rendering as links, but instead show as normal text.
+rendering as links, but instead show as normal text. `repositories.json` should
+be useful to detect deleted (missing) repositories.
 
-## Display a number of forks and a number of useless forks (or throw on 'em?)
+## Throw if there exist any useless forks (no changes against upstream)
 
-I want to keep the number of forks that I have that are not ahead of their
-upstreams at zero. I could check and throw if there are any such forks.
+Search `repositories.json` for forks and check each to see if it has commits
+ahead of upstream and if not, throw to alert me to it so that I can delete it.
 
 ## Switch on action payload field in member and PR events and use correct emoji
 
