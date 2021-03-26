@@ -166,9 +166,7 @@ void async function () {
         
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#pullrequestevent
       case 'PullRequestEvent': {
-        console.log(event);
-        // TODO: Flesh this out properly
-        markdown += `${event.payload.action} a pull request\n  in${name(event.repo.name)}`;
+        markdown += `${event.payload.action}${pr(event.payload.pull_request)}\n  in${name(event.repo.name)}`;
         break;
       }
 
@@ -246,6 +244,10 @@ function branch(repo, payload) {
 
 function issue(issue) {
   return `\n  [#${issue.number} ${issue.title}](${issue.html_url})`;
+}
+
+function pr(pr) {
+  return `\n  [#${pr.number} ${pr.title}](${pr.html_url})`;
 }
 
 let now = new Date();
