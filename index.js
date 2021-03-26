@@ -6,11 +6,12 @@ process.on('unhandledRejection', error => { throw error; });
 
 void async function () {
   /** @type {{ actor: { login: string; }; created_at: string; type: string; payload: unknown; repo: { name: string; }; }[]} */
-  let events;
+  let events = [];
 
   // Use cached events to avoid using up the API rate limit in development
   try {
     events = JSON.parse(await fs.promises.readFile('events.json'));
+    console.log('Pulled stale cached events');
   }
   catch (error) {
     if (error.code !== 'ENOENT') {
@@ -20,19 +21,20 @@ void async function () {
     // Fetch all 300 events GitHub API will provide:
     // https://docs.github.com/en/free-pro-team@latest/rest/reference/activity#events
     // Note that the docs say `per_page` is not supported but it seems to work…
-    events = [
-      ...await download('https://api.github.com/users/tomashubelbauer/events?per_page=100'),
-      ...await download('https://api.github.com/users/tomashubelbauer/events?per_page=100&page=2'),
-      ...await download('https://api.github.com/users/tomashubelbauer/events?per_page=100&page=3'),
-    ];
+    const pages = Number({ ...await query('https://api.github.com/users/tomashubelbauer/events?per_page=100') }.link.match(/(\d+)>; rel="last"$/)[1]);
+    for (let page = 1; page <= pages; page++) {
+      events.push(...await download('https://api.github.com/users/tomashubelbauer/events?per_page=100&page=' + page));
+      console.log('Fetched events page', page);
+    }
 
     await fs.promises.writeFile('events.json', JSON.stringify(events, null, 2));
+    console.log('Cached fresh events');
   }
 
   // Recover remembered followers for later comparison and change detection
-  let stateFollowers;
+  let staleFollowers = [];
   try {
-    stateFollowers = JSON.parse(await fs.promises.readFile('followers.json'));
+    staleFollowers = JSON.parse(await fs.promises.readFile('followers.json'));
   }
   catch (error) {
     if (error.code !== 'ENOENT') {
@@ -41,31 +43,63 @@ void async function () {
   }
 
   // Fetch current followers for later comparison and change detection
-  // TODO: Page this automatically in case I ever reach 300+ followers
-  const followers = [
-    ...await download('https://api.github.com/users/tomashubelbauer/followers?per_page=100'),
-    ...await download('https://api.github.com/users/tomashubelbauer/followers?per_page=100&page=2'),
-    ...await download('https://api.github.com/users/tomashubelbauer/followers?per_page=100&page=3'),
-  ];
+  let followers = [];
+  try {
+    followers = JSON.parse(await fs.promises.readFile('followers.dev.json'));
+    console.log('Pulled stale cached followers');
+  }
+  catch (error) {
+    if (error.code !== 'ENOENT') {
+      throw error;
+    }
+
+    const pages = Number({ ...await query('https://api.github.com/users/tomashubelbauer/followers?per_page=100') }.link.match(/(\d+)>; rel="last"$/)[1]);
+    for (let page = 1; page <= pages; page++) {
+      followers.push(...await download('https://api.github.com/users/tomashubelbauer/followers?per_page=100&page=' + page));
+      console.log('Fetched followers page', page);
+    }
+
+    await fs.promises.writeFile('followers.dev.json', JSON.stringify(followers, null, 2));
+    console.log('Cached fresh followers');
+  }
 
   const freshFollowers = followers.map(follower => follower.login);
   await fs.promises.writeFile('followers.json', JSON.stringify(freshFollowers, null, 2));
 
   // Detect new followers and push virtual events for those
-  const newFollowers = freshFollowers.filter(follower => !stateFollowers.includes(follower));
+  const newFollowers = freshFollowers.filter(follower => !staleFollowers.includes(follower));
   for (const newFollower of newFollowers) {
     events.unshift({ actor: { login: 'TomasHubelbauer' }, created_at: new Date().toISOString().slice(0, 19) + 'Z', type: 'FollowerEvent', payload: { action: 'followed', newFollower } });
   }
 
   // Detect unfollowers and push virtual events for those
-  const unfollowers = stateFollowers.filter(follower => !freshFollowers.includes(follower));
+  const unfollowers = staleFollowers.filter(follower => !freshFollowers.includes(follower));
   for (const unfollower of unfollowers) {
     events.unshift({ actor: { login: 'TomasHubelbauer' }, created_at: new Date().toISOString().slice(0, 19) + 'Z', type: 'FollowerEvent', payload: { action: 'unfollowed', unfollower } });
   }
 
-  const repositories = { ...await query('https://api.github.com/users/tomashubelbauer/repos?per_page=1') }.link.match(/(\d+)>; rel="last"$/)[1];
+  // Fetch repositories for star and fork change detection
+  let repositories = [];
+  try {
+    repositories = JSON.parse(await fs.promises.readFile('repositories.dev.json'));
+    console.log('Pulled stale cached repositories');
+  }
+  catch (error) {
+    if (error.code !== 'ENOENT') {
+      throw error;
+    }
 
-  let markdown = `![](banner.svg)\n\n${followers.length} followers 🤝 ᐧ ${repositories} repositories 📓\n\n`;
+    const pages = Number({ ...await query('https://api.github.com/users/tomashubelbauer/repos?per_page=100') }.link.match(/(\d+)>; rel="last"$/)[1]);
+    for (let page = 1; page <= pages; page++) {
+      repositories.push(...await download('https://api.github.com/users/tomashubelbauer/repos?per_page=100&page=' + page));
+      console.log('Fetched repositories page', page);
+    }
+
+    await fs.promises.writeFile('repositories.dev.json', JSON.stringify(repositories, null, 2));
+    console.log('Cached fresh repositories');
+  }
+
+  let markdown = `![](banner.svg)\n\n<p align="center">\n<img align="center" src="https://github.com/TomasHubelbauer/tomashubelbauer/actions/workflows/main.yml/badge.svg">\n</p>\n<p align="center">${followers.length} followers 🤝 ᐧ ${repositories.length} repositories 📓</p>\n\n`;
   let heading;
 
   for (const event of events) {
