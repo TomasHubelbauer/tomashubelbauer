@@ -99,7 +99,25 @@ void async function () {
     console.log('Cached fresh repositories');
   }
 
-  let markdown = `![](banner.svg)\n\n<p align="center">\n<img align="center" src="https://github.com/TomasHubelbauer/tomashubelbauer/actions/workflows/main.yml/badge.svg">\n</p>\n<p align="center">${followers.length} followers 🤝 ᐧ ${repositories.length} repositories 📓</p>\n\n`;
+  const forks = repositories.filter(repository => repository.fork);
+
+  let markdown = `![](banner.svg)
+
+<div align="center">
+
+<img src="https://github.com/TomasHubelbauer/tomashubelbauer/actions/workflows/main.yml/badge.svg">
+
+</div>
+
+<div align="center">
+
+[${followers.length} followers 🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
+[${repositories.length} repositories 📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
+[${forks.length} forks 🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork)
+
+</div>
+
+`;
   let heading;
 
   for (const event of events) {
