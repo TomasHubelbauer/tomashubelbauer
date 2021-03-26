@@ -63,7 +63,9 @@ void async function () {
     events.unshift({ actor: { login: 'TomasHubelbauer' }, created_at: new Date().toISOString().slice(0, 19) + 'Z', type: 'FollowerEvent', payload: { action: 'unfollowed', unfollower } });
   }
 
-  let markdown = `![](banner.svg)\n\n${followers.length} followers\n\n`;
+  const repositories = { ...await query('https://api.github.com/users/tomashubelbauer/repos?per_page=1') }.link.match(/(\d+)>; rel="last"$/)[1];
+
+  let markdown = `![](banner.svg)\n\n${followers.length} followers ᐧ ${repositories} repositories\n\n`;
   let heading;
 
   for (const event of events) {
@@ -249,6 +251,16 @@ void async function () {
 
   await fs.promises.writeFile('readme.md', markdown);
 }()
+
+function query(url) {
+  return new Promise((resolve, reject) => {
+    const headers = { 'User-Agent': 'TomasHubelbauer' };
+    const request = https.get(url, { headers }, async response => {
+      request.on('error', reject);
+      resolve(response.headers);
+    });
+  });
+}
 
 function download(url) {
   return new Promise((resolve, reject) => {

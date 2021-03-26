@@ -33,7 +33,3 @@ if for each repo, we test it for existence on the first item related to it, and
 it comes back negative, we can ignore that entry and any other entry touching
 that repo. We'll probably use it just to prevent links to deleted repos from
 rendering as links, but instead show as normal text.
-
-## Display the number of my public repos next to the number of my followers
-
-Consider making both numbers a link as well.
