@@ -32,3 +32,9 @@ rendering as links, but instead show as normal text.
 
 I want to keep the number of forks that I have that are not ahead of their
 upstreams at zero. I could check and throw if there are any such forks.
+
+## Switch on action payload field in member and PR events and use correct emoji
+
+Right now the action is interpolated into the string so we don't know what
+happened with the item. This means only a general emoji is shown, not a specific
+emoji, like for example the bin one next to deletion/closure events.
