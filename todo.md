@@ -44,7 +44,3 @@ if for each repo, we test it for existence on the first item related to it, and
 it comes back negative, we can ignore that entry and any other entry touching
 that repo. We'll probably use it just to prevent links to deleted repos from
 rendering as links, but instead show as normal text.
-
-## Make pull request activity entries proper links to the PR showing the PR #
-
-Right now the PR experience is pretty poor, let's fix that.
