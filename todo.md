@@ -20,12 +20,6 @@ their recency or a mix of both and not check all of them for each run), but it
 could be nice to also show entries for when one of my repos receives a star or
 a fork.
 
-## Add emojis representing the even type to aid visual navigation of the list
-
-The most commonly represented types of events can drown out interesting but less
-frequent event types. Adding an emoji per each time at the start of the line
-will help with visual navigation and will make each entry stand out more.
-
 ## Detect deleted repos and skip their respective activity entries
 
 We render the activity entries in reverse chronological order, which means that
@@ -33,3 +27,8 @@ if for each repo, we test it for existence on the first item related to it, and
 it comes back negative, we can ignore that entry and any other entry touching
 that repo. We'll probably use it just to prevent links to deleted repos from
 rendering as links, but instead show as normal text.
+
+## Display a number of forks and a number of useless forks (or throw on 'em?)
+
+I want to keep the number of forks that I have that are not ahead of their
+upstreams at zero. I could check and throw if there are any such forks.

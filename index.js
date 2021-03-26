@@ -65,7 +65,7 @@ void async function () {
 
   const repositories = { ...await query('https://api.github.com/users/tomashubelbauer/repos?per_page=1') }.link.match(/(\d+)>; rel="last"$/)[1];
 
-  let markdown = `![](banner.svg)\n\n${followers.length} followers ᐧ ${repositories} repositories\n\n`;
+  let markdown = `![](banner.svg)\n\n${followers.length} followers 🤝 ᐧ ${repositories} repositories 📓\n\n`;
   let heading;
 
   for (const event of events) {
@@ -100,7 +100,7 @@ void async function () {
           case undefined:
           case 'created': {
             // TODO: Flesh this out properly
-            markdown += `commented on a commit\n  in${name(event.repo.name)}`;
+            markdown += `💬 commented on a commit\n  in${name(event.repo.name)}`;
             break;
           }
           default: {
@@ -115,11 +115,11 @@ void async function () {
       case 'CreateEvent': {
         switch (event.payload.ref_type) {
           case 'branch': {
-            markdown += `created branch ${branch(event.repo, event.payload)}`;
+            markdown += `🌳 created branch ${branch(event.repo, event.payload)}`;
             break;
           }
           case 'repository': {
-            markdown += `created repository${name(event.repo.name)}`;
+            markdown += `📓 created repository${name(event.repo.name)}`;
             break;
           }
           default: {
@@ -134,11 +134,11 @@ void async function () {
       case 'DeleteEvent': {
         switch (event.payload.ref_type) {
           case 'tag': {
-            markdown += `deleted tag \`${event.payload.ref}\` in${name(event.repo.name)}`;
+            markdown += `🗑🏷 deleted tag \`${event.payload.ref}\` in${name(event.repo.name)}`;
             break;
           }
           case 'branch': {
-            markdown += `deleted branch \`${event.payload.ref}\` in${name(event.repo.name)}`;
+            markdown += `🗑🌳 deleted branch \`${event.payload.ref}\` in${name(event.repo.name)}`;
             break;
           }
           default: {
@@ -153,11 +153,11 @@ void async function () {
       case 'FollowerEvent': {
         switch (event.payload.action) {
           case 'followed': {
-            markdown += `gained follower [${event.payload.newFollower}](https://github.com/${event.payload.newFollower})`;
+            markdown += `🤝 gained follower [${event.payload.newFollower}](https://github.com/${event.payload.newFollower})`;
             break;
           }
           case 'unfollowed': {
-            markdown += `lost follower [${event.payload.unfollower}](https://github.com/${event.payload.unfollower})`;
+            markdown += `💔 lost follower [${event.payload.unfollower}](https://github.com/${event.payload.unfollower})`;
             break;
           }
           default: {
@@ -170,7 +170,7 @@ void async function () {
 
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#forkevent
       case 'ForkEvent': {
-        markdown += `forked${name(event.repo.name)}\n  into${name(event.payload.forkee.full_name)}`;
+        markdown += `🍴 forked${name(event.repo.name)}\n  into${name(event.payload.forkee.full_name)}`;
         break;
       }
 
@@ -178,7 +178,7 @@ void async function () {
       case 'IssueCommentEvent': {
         switch (event.payload.action) {
           case 'created': {
-            markdown += `commented on${issue(event.payload.issue)}\n  in${name(event.repo.name)}`;
+            markdown += `💬 commented on${issue(event.payload.issue)}\n  in${name(event.repo.name)}`;
             break;
           }
           default: {
@@ -193,15 +193,15 @@ void async function () {
       case 'IssuesEvent': {
         switch (event.payload.action) {
           case 'created': {
-            markdown += `opened${issue(event.payload.issue)}\n  in${name(event.repo.name)}`;
+            markdown += `🎫 opened${issue(event.payload.issue)}\n  in${name(event.repo.name)}`;
             break;
           }
           case 'opened': {
-            markdown += `opened${issue(event.payload.issue)}\n  in${name(event.repo.name)}`;
+            markdown += `🎫 opened${issue(event.payload.issue)}\n  in${name(event.repo.name)}`;
             break;
           }
           case 'closed': {
-            markdown += `closed${issue(event.payload.issue)}\n  in${name(event.repo.name)}`;
+            markdown += `🗑🎫 closed${issue(event.payload.issue)}\n  in${name(event.repo.name)}`;
             break;
           }
           default: {
@@ -215,26 +215,26 @@ void async function () {
       // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#memberevent
       case 'MemberEvent': {
         // TODO: Flesh this out properly
-        markdown += `${event.payload.action} a member\n  in${name(event.repo.name)}`;
+        markdown += `👷‍♂️ ${event.payload.action} a member\n  in${name(event.repo.name)}`;
         break;
       }
 
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#pullrequestevent
       case 'PullRequestEvent': {
-        markdown += `${event.payload.action}${pr(event.payload.pull_request)}\n  in${name(event.repo.name)}`;
+        markdown += `🎁 ${event.payload.action}${pr(event.payload.pull_request)}\n  in${name(event.repo.name)}`;
         break;
       }
 
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#pushevent
       case 'PushEvent': {
-        markdown += `pushed${commit(event.repo, event.payload)}`;
+        markdown += `📌 pushed${commit(event.repo, event.payload)}`;
         break;
       }
 
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#watchevent
       case 'WatchEvent': {
         // TODO: Handle the `payload.action` once they fix it so it is not always `started`
-        markdown += `starred${name(event.repo.name)}`;
+        markdown += `⭐️ starred${name(event.repo.name)}`;
         break;
       }
 
