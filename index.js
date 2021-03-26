@@ -166,6 +166,7 @@ void async function () {
         
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#pullrequestevent
       case 'PullRequestEvent': {
+        console.log(event);
         // TODO: Flesh this out properly
         markdown += `${event.payload.action} a pull request\n  in${name(event.repo.name)}`;
         break;
