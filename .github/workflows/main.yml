@@ -29,7 +29,7 @@ jobs:
         node .
         
         # Stage the Git index changes resulting from the CI script
-        git add readme.md
+        git add readme.md followers.json
         
         # Reset unstaged changes so that Git commit won't fail (e.g.: package-lock.json, temporary files, …)
         git checkout -- .

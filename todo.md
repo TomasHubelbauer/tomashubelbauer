@@ -12,17 +12,6 @@ link?
 
 This requires additional thought.
 
-## Display new followers and unfollowers as their own entries
-
-We'd need to fetch the activity pages like we already do and then also the
-followers and compare that array to a capture array of known followers, find new
-followers and unfollowers, insert virtual entries into the activities array and
-store the newly fetched followers, updating the stored followers so that the
-diff works out next time.
-
-This should be fairly easy, we just need to remember to sort the new followers
-and unfollowers into the activities array chronologically.
-
 ## Display new stars and forks on my repositories
 
 This might be too much for the GitHub API, we'll see if the quota can handle it
@@ -44,3 +33,7 @@ if for each repo, we test it for existence on the first item related to it, and
 it comes back negative, we can ignore that entry and any other entry touching
 that repo. We'll probably use it just to prevent links to deleted repos from
 rendering as links, but instead show as normal text.
+
+## Display the number of my public repos next to the number of my followers
+
+Consider making both numbers a link as well.

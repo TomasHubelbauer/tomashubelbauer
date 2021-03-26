@@ -28,8 +28,42 @@ void async function () {
 
     await fs.promises.writeFile('events.json', JSON.stringify(events, null, 2));
   }
-  
-  let markdown = `![](banner.svg)\n\n`;
+
+  // Recover remembered followers for later comparison and change detection
+  let stateFollowers;
+  try {
+    stateFollowers = JSON.parse(await fs.promises.readFile('followers.json'));
+  }
+  catch (error) {
+    if (error.code !== 'ENOENT') {
+      throw error;
+    }
+  }
+
+  // Fetch current followers for later comparison and change detection
+  // TODO: Page this automatically in case I ever reach 300+ followers
+  const followers = [
+    ...await download('https://api.github.com/users/tomashubelbauer/followers?per_page=100'),
+    ...await download('https://api.github.com/users/tomashubelbauer/followers?per_page=100&page=2'),
+    ...await download('https://api.github.com/users/tomashubelbauer/followers?per_page=100&page=3'),
+  ];
+
+  const freshFollowers = followers.map(follower => follower.login);
+  await fs.promises.writeFile('followers.json', JSON.stringify(freshFollowers, null, 2));
+
+  // Detect new followers and push virtual events for those
+  const newFollowers = freshFollowers.filter(follower => !stateFollowers.includes(follower));
+  for (const newFollower of newFollowers) {
+    events.unshift({ actor: { login: 'TomasHubelbauer' }, created_at: new Date().toISOString().slice(0, 19) + 'Z', type: 'FollowerEvent', payload: { action: 'followed', newFollower } });
+  }
+
+  // Detect unfollowers and push virtual events for those
+  const unfollowers = stateFollowers.filter(follower => !freshFollowers.includes(follower));
+  for (const unfollower of unfollowers) {
+    events.unshift({ actor: { login: 'TomasHubelbauer' }, created_at: new Date().toISOString().slice(0, 19) + 'Z', type: 'FollowerEvent', payload: { action: 'unfollowed', unfollower } });
+  }
+
+  let markdown = `![](banner.svg)\n\n${followers.length} followers\n\n`;
   let heading;
 
   for (const event of events) {
@@ -71,10 +105,10 @@ void async function () {
             throw new Error(`Unhandled commit comment event ${event.payload.action}.`);
           }
         }
-        
+
         break;
       }
-        
+
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#createevent
       case 'CreateEvent': {
         switch (event.payload.ref_type) {
@@ -107,6 +141,25 @@ void async function () {
           }
           default: {
             throw new Error(`Unhandled ref type ${event.payload.ref_type}.`);
+          }
+        }
+
+        break;
+      }
+
+      // Note that this is a virtual, fake event created above by myself
+      case 'FollowerEvent': {
+        switch (event.payload.action) {
+          case 'followed': {
+            markdown += `gained follower [${event.payload.newFollower}](https://github.com/${event.payload.newFollower})`;
+            break;
+          }
+          case 'unfollowed': {
+            markdown += `lost follower [${event.payload.unfollower}](https://github.com/${event.payload.unfollower})`;
+            break;
+          }
+          default: {
+            throw new Error(`Unhandled follower event action ${event.payload.action}.`);
           }
         }
 
@@ -156,14 +209,14 @@ void async function () {
 
         break;
       }
-      
+
       // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#memberevent
       case 'MemberEvent': {
         // TODO: Flesh this out properly
         markdown += `${event.payload.action} a member\n  in${name(event.repo.name)}`;
         break;
       }
-        
+
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#pullrequestevent
       case 'PullRequestEvent': {
         markdown += `${event.payload.action}${pr(event.payload.pull_request)}\n  in${name(event.repo.name)}`;
