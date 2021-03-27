@@ -25,11 +25,3 @@ ahead of upstream and if not, throw to alert me to it so that I can delete it.
 Right now the action is interpolated into the string so we don't know what
 happened with the item. This means only a general emoji is shown, not a specific
 emoji, like for example the bin one next to deletion/closure events.
-
-## Fix follower information getting lost
-
-The algorithm for new follower and unfollower detection used now works, but it
-isn't idempotent; the next time it runs, it will see the new follower in the
-cached data and not treat it as a new follower anymore. I will probably need to
-add the time stamp of when the follower was first spotted to the cached data and
-work off that.

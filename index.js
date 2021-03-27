@@ -43,9 +43,9 @@ void async function () {
   }
 
   // Fetch current followers for later comparison and change detection
-  let followers = [];
+  let freshFollowers = [];
   try {
-    followers = JSON.parse(await fs.promises.readFile('followers.dev.json'));
+    freshFollowers = JSON.parse(await fs.promises.readFile('followers.dev.json'));
     console.log('Pulled stale cached followers');
   }
   catch (error) {
@@ -55,28 +55,45 @@ void async function () {
 
     const pages = Number({ ...await query('https://api.github.com/users/tomashubelbauer/followers?per_page=100') }.link.match(/(\d+)>; rel="last"$/)[1]);
     for (let page = 1; page <= pages; page++) {
-      followers.push(...await download('https://api.github.com/users/tomashubelbauer/followers?per_page=100&page=' + page));
+      freshFollowers.push(...await download('https://api.github.com/users/tomashubelbauer/followers?per_page=100&page=' + page));
       console.log('Fetched followers page', page);
     }
 
-    await fs.promises.writeFile('followers.dev.json', JSON.stringify(followers, null, 2));
+    await fs.promises.writeFile('followers.dev.json', JSON.stringify(freshFollowers, null, 2));
     console.log('Cached fresh followers');
   }
 
-  const freshFollowers = followers.map(follower => follower.login);
-  await fs.promises.writeFile('followers.json', JSON.stringify(freshFollowers, null, 2));
+  // Get the unique names of both stale and fresh followers to get the whole set
+  const logins = [
+    ...staleFollowers.map(follower => follower.login),
+    ...freshFollowers.map(follower => follower.login),
+  ].filter((login, index, array) => array.indexOf(login) === index);
 
-  // Detect new followers and push virtual events for those
-  const newFollowers = freshFollowers.filter(follower => !staleFollowers.includes(follower));
-  for (const newFollower of newFollowers) {
-    events.unshift({ actor: { login: 'TomasHubelbauer' }, created_at: new Date().toISOString().slice(0, 19) + 'Z', type: 'FollowerEvent', payload: { action: 'followed', newFollower } });
+  const followers = [];
+  const stamp = new Date().toISOString().slice(0, 19) + 'Z';
+  for (const login of logins) {
+    const followed_at = staleFollowers.find(follower => follower.login === login)?.followed_at ?? stamp;
+    const unfollowed_at = freshFollowers.find(follower => follower.login === login) ? undefined : stamp;
+    followers.push({ login, followed_at, unfollowed_at });
   }
 
-  // Detect unfollowers and push virtual events for those
-  const unfollowers = staleFollowers.filter(follower => !freshFollowers.includes(follower));
-  for (const unfollower of unfollowers) {
-    events.unshift({ actor: { login: 'TomasHubelbauer' }, created_at: new Date().toISOString().slice(0, 19) + 'Z', type: 'FollowerEvent', payload: { action: 'unfollowed', unfollower } });
+  await fs.promises.writeFile('followers.json', JSON.stringify(followers, null, 2));
+
+  const cutoff = events[events.length - 1].created_at;
+  for (const follower of followers) {
+    // Generate follower event (followed) if the user followed earlier than the oldest GitHub activity event returned
+    if (follower.followed_at?.localeCompare(cutoff) >= 0) {
+      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: follower.followed_at, type: 'FollowerEvent', payload: { action: 'followed', newFollower: follower.login } });
+    }
+
+    // Generate follower event (unfollowed) if the user unfollowed earlier than the oldest GitHub activity event returned
+    if (follower.unfollowed_at?.localeCompare(cutoff) >= 0) {
+      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: follower.unfollowed_at, type: 'FollowerEvent', payload: { action: 'unfollowed', unfollower: follower.login } });
+    }
   }
+
+  // Sort the events in case virtual events have been weaved in
+  events.sort((a, b) => b.created_at.localeCompare(a.created_at));
 
   // Fetch repositories for star and fork change detection
   let repositories = [];
