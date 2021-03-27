@@ -32,3 +32,16 @@ https://support.github.com/ticket/personal/0/1082581
 
 The readme of this repository renders perfectly well on GitHub, but is broken on
 the associated GitHub Pages site. I've alerted GitHub to this.
+
+## Drop the history of `followers.json` and `repositories.json` without deleting
+
+These files are required by the script to function properly and we want to track
+their content, but we do not need their history. We can't completely dump them
+like we do with `readme.md` thought because then the script wouldn't see them
+and would be unable to use them for change detection.
+
+Either we find a way to drop their history using `filter-branch` without erasing
+the latest version or we copy them over to some temporary directory and then
+back before the script is run. We can't copy them to backup names within the
+directory, because `filter-branch` will not run if the repository has untracked
+changes.
