@@ -25,3 +25,10 @@ ahead of upstream and if not, throw to alert me to it so that I can delete it.
 Right now the action is interpolated into the string so we don't know what
 happened with the item. This means only a general emoji is shown, not a specific
 emoji, like for example the bin one next to deletion/closure events.
+
+## Wait for GitHub to fix the MarkDown rendering in GitHub Pages
+
+https://support.github.com/ticket/personal/0/1082581
+
+The readme of this repository renders perfectly well on GitHub, but is broken on
+the associated GitHub Pages site. I've alerted GitHub to this.
