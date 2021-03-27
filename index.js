@@ -230,11 +230,11 @@ void async function () {
       case 'FollowerEvent': {
         switch (event.payload.action) {
           case 'followed': {
-            markdown += `🤝 gained follower [${event.payload.newFollower}](https://github.com/${event.payload.newFollower})`;
+            markdown += `🤝 followed by [${event.payload.newFollower}](https://github.com/${event.payload.newFollower})`;
             break;
           }
           case 'unfollowed': {
-            markdown += `💔 lost follower [${event.payload.unfollower}](https://github.com/${event.payload.unfollower})`;
+            markdown += `💔 unfollowed by [${event.payload.unfollower}](https://github.com/${event.payload.unfollower})`;
             break;
           }
           default: {
