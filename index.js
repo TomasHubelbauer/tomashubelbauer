@@ -73,7 +73,7 @@ void async function () {
   const stamp = new Date().toISOString().slice(0, 19) + 'Z';
   for (const login of logins) {
     const followed_at = staleFollowers.find(follower => follower.login === login)?.followed_at ?? stamp;
-    const unfollowed_at = freshFollowers.find(follower => follower.login === login) ? undefined : stamp;
+    const unfollowed_at = freshFollowers.find(follower => follower.login === login) ? undefined : (staleFollowers.find(follower => follower.login === login)?.unfollowed_at ?? stamp);
     followers.push({ login, followed_at, unfollowed_at });
   }
 
