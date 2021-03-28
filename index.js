@@ -113,9 +113,6 @@ void async function () {
     }
   }
 
-  // Sort the events in case virtual events have been weaved in
-  events.sort((a, b) => b.created_at.localeCompare(a.created_at));
-
   // Fetch repositories for star and fork change detection
   let repositories = [];
   try {
@@ -137,13 +134,42 @@ void async function () {
     console.log('Cached fresh repositories');
   }
 
+  const staleRepositories = JSON.parse(await fs.promises.readFile('repositories.json'));
+
   // Extract tracked attributes of each repository (used for change detection)
-  const repos = repositories.map(repository => {
+  const freshRepositories = repositories.map(repository => {
     const { name, size, stargazers_count, watchers_count, forks_count, open_issues_count, } = repository;
     return { name, size, stars: stargazers_count, watches: watchers_count, forks: forks_count, issues: open_issues_count };
   });
 
-  await fs.promises.writeFile('repositories.json', JSON.stringify(repos, null, 2));
+  await fs.promises.writeFile('repositories.json', JSON.stringify(freshRepositories, null, 2));
+
+  // Compare changes between repository attributes and generate events for them
+  // Note that this will not detect repo deletions - GitHub Activity API does it
+  for (const freshRepository of freshRepositories) {
+    const staleRepository = staleRepositories.find(stateRepository => stateRepository.name === freshRepository.name);
+
+    // Ignore new repositories - those are handled by the GitHub Activity API
+    if (!staleRepository) {
+      continue;
+    }
+
+    if (freshRepository.stars !== staleRepository.stars) {
+      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'starred', old: staleRepository.stars, new: freshRepository.stars, repo: freshRepository.name } });
+    }
+
+    if (freshRepository.watches !== staleRepository.watches) {
+      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'watched', old: staleRepository.watches, new: freshRepository.watches, repo: freshRepository.name } });
+    }
+
+    if (freshRepository.forks !== staleRepository.forks) {
+      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'forked', old: staleRepository.forks, new: freshRepository.forks, repo: freshRepository.name } });
+    }
+
+    if (freshRepository.issues !== staleRepository.issues) {
+      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'issued', old: staleRepository.issues, new: freshRepository.issues, repo: freshRepository.name } });
+    }
+  }
 
   const forks = repositories.filter(repository => repository.fork);
 
@@ -165,6 +191,9 @@ void async function () {
 
 `;
   let heading;
+
+  // Sort the events so that any added virtual events are sorted in correctly
+  events.sort((a, b) => b.created_at.localeCompare(a.created_at));
 
   for (const event of events) {
     if (event.actor.login !== 'TomasHubelbauer') {
@@ -326,6 +355,34 @@ void async function () {
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#pushevent
       case 'PushEvent': {
         markdown += `📌 pushed${commit(event.repo, event.payload)}`;
+        break;
+      }
+
+      // Note that this is a virtual, fake event created above by myself
+      case 'RepositoryEvent': {
+        // TODO: Display repository name as link as in other events
+        switch (event.payload.action) {
+          case 'starred': {
+            markdown += `⭐️ received stars on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (${event.payload.old} to ${event.payload.new})`;
+            break;
+          }
+          case 'watched': {
+            markdown += `👀 received watches on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (${event.payload.old} to ${event.payload.new})`;
+            break;
+          }
+          case 'forked': {
+            markdown += `🍴 received forks on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (${event.payload.old} to ${event.payload.new})`;
+            break;
+          }
+          case 'issued': {
+            markdown += `🎫 received issues on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (${event.payload.old} to ${event.payload.new})`;
+            break;
+          }
+          default: {
+            throw new Error(`Unhandled follower event action ${event.payload.action}.`);
+          }
+        }
+
         break;
       }
 
