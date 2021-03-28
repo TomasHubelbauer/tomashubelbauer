@@ -38,3 +38,13 @@ the latest version or we copy them over to some temporary directory and then
 back before the script is run. We can't copy them to backup names within the
 directory, because `filter-branch` will not run if the repository has untracked
 changes.
+
+## Display events for peoole I have followed and unfollowed
+
+This will work similarly to how the people following me work, just sourcing the
+event differently (hopefully the API has this info).
+
+## Display events for my sponsors and people I have sponsored and unsponsored
+
+This will work the same way as my followers and people I am following once the
+latter is done.
