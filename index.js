@@ -79,16 +79,37 @@ void async function () {
 
   await fs.promises.writeFile('followers.json', JSON.stringify(followers, null, 2));
 
+  // Keep a list of accounts found to be dead to skip in unfollow-follow events
+  const deadLogins = [];
+
   const cutoff = events[events.length - 1].created_at;
   for (const follower of followers) {
-    // Generate follower event (followed) if the user followed earlier than the oldest GitHub activity event returned
-    if (follower.followed_at?.localeCompare(cutoff) >= 0) {
-      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: follower.followed_at, type: 'FollowerEvent', payload: { action: 'followed', newFollower: follower.login } });
-    }
-
     // Generate follower event (unfollowed) if the user unfollowed earlier than the oldest GitHub activity event returned
     if (follower.unfollowed_at?.localeCompare(cutoff) >= 0) {
+      // Skip accounts known to be dead already
+      if (deadLogins.includes(follower.login)) {
+        continue;
+      }
+
+      // Check if the account is dead and if so, mark it as such and skip
+      // Use the non-API endpoint because the API is not always accurate on this
+      const code = await query('https://github.com/' + follower.login, true);
+      if (code === 404) {
+        deadLogins.push(follower.login);
+        continue;
+      }
+
       events.push({ actor: { login: 'TomasHubelbauer' }, created_at: follower.unfollowed_at, type: 'FollowerEvent', payload: { action: 'unfollowed', unfollower: follower.login } });
+    }
+
+    // Generate follower event (followed) if the user followed earlier than the oldest GitHub activity event returned
+    if (follower.followed_at?.localeCompare(cutoff) >= 0) {
+      // Skip accounts known to be dead (marked as such by unfollow event)
+      if (deadLogins.includes(follower.login)) {
+        continue;
+      }
+
+      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: follower.followed_at, type: 'FollowerEvent', payload: { action: 'followed', newFollower: follower.login } });
     }
   }
 
@@ -329,12 +350,12 @@ void async function () {
   await fs.promises.writeFile('readme.md', markdown);
 }()
 
-function query(url) {
+function query(url, code = false) {
   return new Promise((resolve, reject) => {
     const headers = { 'User-Agent': 'TomasHubelbauer' };
     const request = https.get(url, { headers }, async response => {
       request.on('error', reject);
-      resolve(response.headers);
+      resolve(code ? response.statusCode : response.headers);
     });
   });
 }

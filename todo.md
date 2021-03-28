@@ -38,8 +38,3 @@ the latest version or we copy them over to some temporary directory and then
 back before the script is run. We can't copy them to backup names within the
 directory, because `filter-branch` will not run if the repository has untracked
 changes.
-
-## Detect unfollows which are a result of account ban / deletion
-
-Do not show these as follows and unfollows, just ignore both events for accounts 
-found to have been deleted or banned.
