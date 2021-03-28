@@ -1,10 +1,26 @@
 # To-Do
 
-## Display new stars, watches, forks and issues on my repositories
+## Preserve new stars, watches, forks and issues virtual events on my repos
 
-Use `repositories.json` to detect repos whose stars/watches/forks/issues have
-changed since the last check, maybe fetch the repository for more details and
-create a new virtual fake entry in the activity log for these events.
+I have implemented detection changes in the above attributes from one run to the
+next, but since the `repositories.json` file gets updated with the new values on
+each run, on the next run, this change is lost, so the virtual events only last
+on hour until the next scheduled run.
+
+To make them stick, the structure of `repositories.json` needs to be updated to
+keep the numbers as of any given moment on a timeline going back to the oldest
+date found in the GitHub Activity API entries. That way we can calculate events
+between each snapshot and weave them into the event log at the correct places.
+The same way follower change detection works. But since follower information is
+only two-state and the repository attribute changes can be multiple, we need the
+timeline data store and not just two flag fields with stamps for values.
+
+We should clear entries older than the cutoff date from the Activity API to keep
+the `repositories.json` file size somewhat constant and not ever-growing.
+
+An alternative here would be to use the GitHub API to check detailed statistics
+for each repository, but that would take too long and blow through the API rate
+limit mercilessly. Such level of detail is not required.
 
 ## Detect deleted repos and skip their respective activity entries
 
