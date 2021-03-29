@@ -137,13 +137,13 @@ void async function () {
   // Extract tracked attributes of each repository (used for change detection)
   const _repositories = JSON.parse(await fs.promises.readFile('repositories.json'));
   for (const repository of repositories) {
-    const { name, size, stargazers_count: stars, watchers_count: watches, forks_count: forks, open_issues_count: issues } = repository;
+    const { name, stargazers_count: stars, watchers_count: watches, forks_count: forks, open_issues_count: issues } = repository;
 
     // TODO: Drop entries that are older than the cutoff and no longer contribute
     // Record the changes only if there are any to speak of - ignore non-changes
     const [stat] = _repositories[name].slice(-1);
     if (stars !== stat.stars || stars !== stat.stars || stars !== stat.stars || stars !== stat.stars) {
-      _repositories[name].push({ stamp, size, stars, watches, forks, issues });
+      _repositories[name].push({ stamp, stars, watches, forks, issues });
     }
   }
 
