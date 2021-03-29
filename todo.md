@@ -42,19 +42,6 @@ Right now the action is interpolated into the string so we don't know what
 happened with the item. This means only a general emoji is shown, not a specific
 emoji, like for example the bin one next to deletion/closure events.
 
-## Drop the history of `followers.json` and `repositories.json` without deleting
-
-These files are required by the script to function properly and we want to track
-their content, but we do not need their history. We can't completely dump them
-like we do with `readme.md` thought because then the script wouldn't see them
-and would be unable to use them for change detection.
-
-Either we find a way to drop their history using `filter-branch` without erasing
-the latest version or we copy them over to some temporary directory and then
-back before the script is run. We can't copy them to backup names within the
-directory, because `filter-branch` will not run if the repository has untracked
-changes.
-
 ## Display events for peoole I have followed and unfollowed
 
 This will work similarly to how the people following me work, just sourcing the
@@ -64,3 +51,13 @@ event differently (hopefully the API has this info).
 
 This will work the same way as my followers and people I am following once the
 latter is done.
+
+## Remove dead / old accounts from `followers.json` to keep it uncluttered
+
+People close accounts or get their accounts banned due to spam, no need to keep
+those around. Only keep unfollowers but active accounts in the file so that it
+can generate the followed/unfollowed events.
+
+## Display the active follower count not the number of `followers.json` records
+
+Those records also include followed+unfollowed pairs which inflates the numbers.
