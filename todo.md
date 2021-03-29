@@ -57,7 +57,3 @@ latter is done.
 People close accounts or get their accounts banned due to spam, no need to keep
 those around. Only keep unfollowers but active accounts in the file so that it
 can generate the followed/unfollowed events.
-
-## Display the active follower count not the number of `followers.json` records
-
-Those records also include followed+unfollowed pairs which inflates the numbers.

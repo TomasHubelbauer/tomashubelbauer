@@ -172,6 +172,7 @@ void async function () {
   }
 
   const forks = repositories.filter(repository => repository.fork);
+  const followerCount = followers.filter(follower => follower.followed_at && !follower.unfollowed_at).length;
 
   let markdown = `![](banner.svg)
 
@@ -183,7 +184,7 @@ void async function () {
 
 <div align="center">
 
-[${followers.length} followers 🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
+[${followerCount} followers 🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
 [${repositories.length} repositories 📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
 [${forks.length} forks 🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork)
 
