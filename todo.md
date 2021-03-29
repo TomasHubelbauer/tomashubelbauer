@@ -1,5 +1,11 @@
 # To-Do
 
+## Distinguish repository changes going up and those going down
+
+Display the 📈 and 📉 emojis to indicate the change direction. Also use singular
+or plural depending on the change magnitude and display the change as difference
+and new value instead of old and new value.
+
 ## Detect deleted repos and skip their respective activity entries
 
 We render the activity entries in reverse chronological order, which means that
@@ -20,7 +26,7 @@ Right now the action is interpolated into the string so we don't know what
 happened with the item. This means only a general emoji is shown, not a specific
 emoji, like for example the bin one next to deletion/closure events.
 
-## Display events for peoole I have followed and unfollowed
+## Display events for people I have followed and unfollowed
 
 This will work similarly to how the people following me work, just sourcing the
 event differently (hopefully the API has this info).
