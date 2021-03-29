@@ -134,32 +134,27 @@ void async function () {
     console.log('Cached fresh repositories');
   }
 
-  const staleRepositories = JSON.parse(await fs.promises.readFile('repositories.json'));
-
   // Extract tracked attributes of each repository (used for change detection)
-  const freshRepositories = repositories.map(freshRepository => {
-    const { name, size, stargazers_count: stars, watchers_count: watches, forks_count: forks, open_issues_count: issues } = freshRepository;
-    const stateRepository = staleRepositories.find(staleRepository => staleRepository.name === name);
+  const _repositories = JSON.parse(await fs.promises.readFile('repositories.json'));
+  for (const repository of repositories) {
+    const { name, size, stargazers_count: stars, watchers_count: watches, forks_count: forks, open_issues_count: issues } = repository;
 
     // TODO: Drop entries that are older than the cutoff and no longer contribute
-    const stats = stateRepository.stats;
-
     // Record the changes only if there are any to speak of - ignore non-changes
-    const stat = stats[stats.length - 1];
+    const [stat] = _repositories[name].slice(-1);
     if (stars !== stat.stars || stars !== stat.stars || stars !== stat.stars || stars !== stat.stars) {
-      stats.push({ stamp, size, stars, watches, forks, issues });
+      _repositories[name].push({ stamp, size, stars, watches, forks, issues });
     }
+  }
 
-    return { name, stats };
-  });
-
-  await fs.promises.writeFile('repositories.json', JSON.stringify(freshRepositories, null, 2));
+  await fs.promises.writeFile('repositories.json', JSON.stringify(_repositories, null, 2));
 
   // Compare changes between repository attributes and generate events for them
   // Note that repo creations and deletions are handled by GitHub Activity API
-  for (const repository of freshRepositories) {
+  for (const repository in _repositories) {
     let _stat;
-    for (const stat of repository.stats) {
+    const stats = _repositories[repository];
+    for (const stat of stats) {
       // Set the first stat as the comparison basis and continue
       if (!_stat) {
         _stat = stat;
@@ -167,19 +162,19 @@ void async function () {
       }
 
       if (stat.stars !== _stat.stars) {
-        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stat.stamp, type: 'RepositoryEvent', payload: { action: 'starred', old: _stat.stars, new: stat.stars, repo: repository.name } });
+        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stat.stamp, type: 'RepositoryEvent', payload: { action: 'starred', old: _stat.stars, new: stat.stars, repo: repository } });
       }
 
       if (stat.watches !== _stat.watches) {
-        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stat.stamp, type: 'RepositoryEvent', payload: { action: 'watched', old: _stat.watches, new: stat.watches, repo: repository.name } });
+        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stat.stamp, type: 'RepositoryEvent', payload: { action: 'watched', old: _stat.watches, new: stat.watches, repo: repository } });
       }
 
       if (stat.forks !== _stat.forks) {
-        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stat.stamp, type: 'RepositoryEvent', payload: { action: 'forked', old: _stat.forks, new: stat.forks, repo: repository.name } });
+        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stat.stamp, type: 'RepositoryEvent', payload: { action: 'forked', old: _stat.forks, new: stat.forks, repo: repository } });
       }
 
       if (stat.issues !== _stat.issues) {
-        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stat.stamp, type: 'RepositoryEvent', payload: { action: 'issued', old: _stat.issues, new: stat.issues, repo: repository.name } });
+        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stat.stamp, type: 'RepositoryEvent', payload: { action: 'issued', old: _stat.issues, new: stat.issues, repo: repository } });
       }
 
       _stat = stat;

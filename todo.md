@@ -1,12 +1,5 @@
 # To-Do
 
-## Ensure the algorithm for repository stat change detection works as expected
-
-## Change the `repositories.json` structure to a map of names to stats
-
-Go from `{ name: string; stats: { … }; }[]` to `{ [name: string]: { … } }`. This
-will make the file nicer, smaller and should not complicate anything code-wise.
-
 ## Detect deleted repos and skip their respective activity entries
 
 We render the activity entries in reverse chronological order, which means that
