@@ -1,11 +1,5 @@
 # To-Do
 
-## Distinguish repository changes going up and those going down
-
-Display the 📈 and 📉 emojis to indicate the change direction. Also use singular
-or plural depending on the change magnitude and display the change as difference
-and new value instead of old and new value.
-
 ## Detect deleted repos and skip their respective activity entries
 
 We render the activity entries in reverse chronological order, which means that

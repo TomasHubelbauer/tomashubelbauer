@@ -374,19 +374,31 @@ void async function () {
         // TODO: Display repository name as link as in other events
         switch (event.payload.action) {
           case 'starred': {
-            markdown += `⭐️ received stars on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (${event.payload.old} to ${event.payload.new})`;
+            const delta = event.payload.new - event.payload.old;
+            const change = delta < 0 ? '📉 lost' : '📈 received';
+            const word = delta !== 1 && delta !== -1 ? delta + ' stars' : 'a star';
+            markdown += `⭐️${change} ${word} on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (now ${event.payload.new})`;
             break;
           }
           case 'watched': {
-            markdown += `👀 received watches on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (${event.payload.old} to ${event.payload.new})`;
+            const delta = event.payload.new - event.payload.old;
+            const change = delta < 0 ? '📉 lost' : '📈 received';
+            const word = delta !== 1 && delta !== -1 ? delta + 'watches' : 'a watch';
+            markdown += `👀${change} ${word} on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (now ${event.payload.new})`;
             break;
           }
           case 'forked': {
-            markdown += `🍴 received forks on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (${event.payload.old} to ${event.payload.new})`;
+            const delta = event.payload.new - event.payload.old;
+            const change = delta < 0 ? '📉 lost' : '📈 received';
+            const word = delta !== 1 && delta !== -1 ? delta + 'forks' : 'a fork';
+            markdown += `🍴${change} ${word} on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (now ${event.payload.new})`;
             break;
           }
           case 'issued': {
-            markdown += `🎫 received issues on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (${event.payload.old} to ${event.payload.new})`;
+            const delta = event.payload.new - event.payload.old;
+            const change = delta < 0 ? '📉 lost' : '📈 received';
+            const word = delta !== 1 && delta !== -1 ? delta + 'issues' : 'an issue';
+            markdown += `🎫${change} ${word} on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (now ${event.payload.new})`;
             break;
           }
           default: {
