@@ -26,9 +26,8 @@ jobs:
         git filter-branch --index-filter "git rm --ignore-unmatch readme.md" --prune-empty HEAD
 
         # Drop the history and recover only the latest version of cache files
-        git remote -v
-        #git filter-branch --index-filter "git rm --ignore-unmatch followers.json repositories.json" --prune-empty HEAD
-        #git checkout origin followers.json repositories.json
+        git filter-branch --index-filter "git rm --ignore-unmatch followers.json repositories.json" --prune-empty HEAD
+        git checkout origin/main -- followers.json repositories.json
         
         # Run the CI script
         node .
