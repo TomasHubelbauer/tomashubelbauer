@@ -156,33 +156,33 @@ void async function () {
   await fs.promises.writeFile('repositories.json', JSON.stringify(freshRepositories, null, 2));
 
   // Compare changes between repository attributes and generate events for them
-  // Note that this will not detect repo deletions - GitHub Activity API does it
-  // TODO: Switch to re-entrant change detection based on the `stats` entries
-  for (const freshRepository of freshRepositories) {
-    const staleRepository = staleRepositories.find(stateRepository => stateRepository.name === freshRepository.name);
+  // Note that repo creations and deletions are handled by GitHub Activity API
+  for (const repository of freshRepositories) {
+    let _stat;
+    for (const stat of repository.stats) {
+      // Set the first stat as the comparison basis and continue
+      if (!_stat) {
+        _stat = stat;
+        continue;
+      }
 
-    // Ignore new repositories - those events handled by the GitHub Activity API
-    if (!staleRepository) {
-      continue;
-    }
+      if (stat.stars !== _stat.stars) {
+        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stat.stamp, type: 'RepositoryEvent', payload: { action: 'starred', old: _stat.stars, new: stat.stars, repo: repository.name } });
+      }
 
-    const staleStats = staleRepository.stats[stats.length - 1];
-    const freshStats = freshRepository.stats[stats.length - 1];
+      if (stat.watches !== _stat.watches) {
+        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stat.stamp, type: 'RepositoryEvent', payload: { action: 'watched', old: _stat.watches, new: stat.watches, repo: repository.name } });
+      }
 
-    if (freshStats.stars !== staleStats.stars) {
-      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'starred', old: staleStats.stars, new: freshStats.stars, repo: freshRepository.name } });
-    }
+      if (stat.forks !== _stat.forks) {
+        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stat.stamp, type: 'RepositoryEvent', payload: { action: 'forked', old: _stat.forks, new: stat.forks, repo: repository.name } });
+      }
 
-    if (freshStats.watches !== staleStats.watches) {
-      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'watched', old: staleStats.watches, new: freshStats.watches, repo: freshRepository.name } });
-    }
+      if (stat.issues !== _stat.issues) {
+        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stat.stamp, type: 'RepositoryEvent', payload: { action: 'issued', old: _stat.issues, new: stat.issues, repo: repository.name } });
+      }
 
-    if (freshStats.forks !== staleStats.forks) {
-      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'forked', old: staleStats.forks, new: freshStats.forks, repo: freshRepository.name } });
-    }
-
-    if (freshStats.issues !== staleStats.issues) {
-      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'issued', old: staleStats.issues, new: freshStats.issues, repo: freshRepository.name } });
+      _stat = stat;
     }
   }
 

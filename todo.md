@@ -1,18 +1,6 @@
 # To-Do
 
-## Preserve new stars, watches, forks and issues virtual events on my repos
-
-I have implemented detection changes in the above attributes from one run to the
-next, but since the `repositories.json` file gets updated with the new values on
-each run, on the next run, this change is lost, so the virtual events only last
-on hour until the next scheduled run.
-
-I have also started collecting the history of the attributes in a `stats` field
-in that file, to be used to implement re-entrant change detection later. A few
-optimizations are missing to keep this file in order, documented using `TODO`
-comments in the code.
-
-Replace the current logic with the proposed logic to complete this task.
+## Ensure the algorithm for repository stat change detection works as expected
 
 ## Detect deleted repos and skip their respective activity entries
 
