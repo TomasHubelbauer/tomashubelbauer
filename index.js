@@ -141,15 +141,16 @@ void async function () {
     const { name, size, stargazers_count: stars, watchers_count: watches, forks_count: forks, open_issues_count: issues } = freshRepository;
     const stateRepository = staleRepositories.find(staleRepository => staleRepository.name === name);
 
-    // TODO: Drop the fallback value `?? []` and assume it exists as it now will
     // TODO: Drop entries that are older than the cutoff and no longer contribute
-    const stats = stateRepository.stats ?? [];
+    const stats = stateRepository.stats;
 
-    // TODO: Add new entries only in case the values had changed to save space
-    stats.push({ stamp, size, stars, watches, forks, issues });
+    // Record the changes only if there are any to speak of - ignore non-changes
+    const stat = stats[stats.length - 1];
+    if (stars !== stat.stars || stars !== stat.stars || stars !== stat.stars || stars !== stat.stars) {
+      stats.push({ stamp, size, stars, watches, forks, issues });
+    }
 
-    // TODO: Stop returning the top-level stats and keep only `name` and `stats`
-    return { name, size, stars, watches, forks, issues, stats };
+    return { name, stats };
   });
 
   await fs.promises.writeFile('repositories.json', JSON.stringify(freshRepositories, null, 2));
@@ -160,25 +161,28 @@ void async function () {
   for (const freshRepository of freshRepositories) {
     const staleRepository = staleRepositories.find(stateRepository => stateRepository.name === freshRepository.name);
 
-    // Ignore new repositories - those are handled by the GitHub Activity API
+    // Ignore new repositories - those events handled by the GitHub Activity API
     if (!staleRepository) {
       continue;
     }
 
-    if (freshRepository.stars !== staleRepository.stars) {
-      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'starred', old: staleRepository.stars, new: freshRepository.stars, repo: freshRepository.name } });
+    const staleStats = staleRepository.stats[stats.length - 1];
+    const freshStats = freshRepository.stats[stats.length - 1];
+
+    if (freshStats.stars !== staleStats.stars) {
+      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'starred', old: staleStats.stars, new: freshStats.stars, repo: freshRepository.name } });
     }
 
-    if (freshRepository.watches !== staleRepository.watches) {
-      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'watched', old: staleRepository.watches, new: freshRepository.watches, repo: freshRepository.name } });
+    if (freshStats.watches !== staleStats.watches) {
+      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'watched', old: staleStats.watches, new: freshStats.watches, repo: freshRepository.name } });
     }
 
-    if (freshRepository.forks !== staleRepository.forks) {
-      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'forked', old: staleRepository.forks, new: freshRepository.forks, repo: freshRepository.name } });
+    if (freshStats.forks !== staleStats.forks) {
+      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'forked', old: staleStats.forks, new: freshStats.forks, repo: freshRepository.name } });
     }
 
-    if (freshRepository.issues !== staleRepository.issues) {
-      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'issued', old: staleRepository.issues, new: freshRepository.issues, repo: freshRepository.name } });
+    if (freshStats.issues !== staleStats.issues) {
+      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'issued', old: staleStats.issues, new: freshStats.issues, repo: freshRepository.name } });
     }
   }
 
