@@ -137,15 +137,26 @@ void async function () {
   const staleRepositories = JSON.parse(await fs.promises.readFile('repositories.json'));
 
   // Extract tracked attributes of each repository (used for change detection)
-  const freshRepositories = repositories.map(repository => {
-    const { name, size, stargazers_count, watchers_count, forks_count, open_issues_count, } = repository;
-    return { name, size, stars: stargazers_count, watches: watchers_count, forks: forks_count, issues: open_issues_count };
+  const freshRepositories = repositories.map(freshRepository => {
+    const { name, size, stargazers_count: stars, watchers_count: watches, forks_count: forks, open_issues_count: issues } = freshRepository;
+    const stateRepository = staleRepositories.find(staleRepository => staleRepository.name === name);
+
+    // TODO: Drop the fallback value `?? []` and assume it exists as it now will
+    // TODO: Drop entries that are older than the cutoff and no longer contribute
+    const stats = stateRepository.stats ?? [];
+
+    // TODO: Add new entries only in case the values had changed to save space
+    stats.push({ stamp, size, stars, watches, forks, issues });
+
+    // TODO: Stop returning the top-level stats and keep only `name` and `stats`
+    return { name, size, stars, watches, forks, issues, stats };
   });
 
   await fs.promises.writeFile('repositories.json', JSON.stringify(freshRepositories, null, 2));
 
   // Compare changes between repository attributes and generate events for them
   // Note that this will not detect repo deletions - GitHub Activity API does it
+  // TODO: Switch to re-entrant change detection based on the `stats` entries
   for (const freshRepository of freshRepositories) {
     const staleRepository = staleRepositories.find(stateRepository => stateRepository.name === freshRepository.name);
 

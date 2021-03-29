@@ -7,20 +7,12 @@ next, but since the `repositories.json` file gets updated with the new values on
 each run, on the next run, this change is lost, so the virtual events only last
 on hour until the next scheduled run.
 
-To make them stick, the structure of `repositories.json` needs to be updated to
-keep the numbers as of any given moment on a timeline going back to the oldest
-date found in the GitHub Activity API entries. That way we can calculate events
-between each snapshot and weave them into the event log at the correct places.
-The same way follower change detection works. But since follower information is
-only two-state and the repository attribute changes can be multiple, we need the
-timeline data store and not just two flag fields with stamps for values.
+I have also started collecting the history of the attributes in a `stats` field
+in that file, to be used to implement re-entrant change detection later. A few
+optimizations are missing to keep this file in order, documented using `TODO`
+comments in the code.
 
-We should clear entries older than the cutoff date from the Activity API to keep
-the `repositories.json` file size somewhat constant and not ever-growing.
-
-An alternative here would be to use the GitHub API to check detailed statistics
-for each repository, but that would take too long and blow through the API rate
-limit mercilessly. Such level of detail is not required.
+Replace the current logic with the proposed logic to complete this task.
 
 ## Detect deleted repos and skip their respective activity entries
 
