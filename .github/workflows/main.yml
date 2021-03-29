@@ -22,8 +22,11 @@ jobs:
         git config --global user.email "tomas@hubelbauer.net"
         git config --global user.name "Tomas Hubelbauer"
         
-        # Drop all history of the generated files preserving latest version of cached files
-        git filter-branch --index-filter "git rm --ignore-unmatch readme.md" --prune-empty HEAD
+        # Drop histories of the generated files
+        git filter-branch --index-filter "git rm --ignore-unmatch readme.md followers.json repositories.json" --prune-empty HEAD
+
+        # Recover the latest versions of the cache files
+        git checkout origin followers.json repositories.json
         
         # Run the CI script
         node .
