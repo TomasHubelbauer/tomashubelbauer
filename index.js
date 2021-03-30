@@ -143,12 +143,12 @@ void async function () {
     // Record the changes only if there are any to speak of - ignore non-changes
     let stats = _repositories[name];
     if (!stats) {
-      stats = _repositories[name] = [];
+      stats = _repositories[name] = {};
     }
 
-    const stat = stats[stats.length - 1];
+    const stat = stats[Object.keys(stats).pop()];
     if (!stat || stars !== stat.stars || stars !== stat.stars || stars !== stat.stars || stars !== stat.stars) {
-      stats.push({ stamp, stars, watches, forks, issues });
+      stats[stamp] = { stars, watches, forks, issues };
     }
   }
 
@@ -160,7 +160,8 @@ void async function () {
   for (const repository in _repositories) {
     let _stat;
     const stats = _repositories[repository];
-    for (const stat of stats) {
+    for (const stamp in stats) {
+      const stat = stats[stamp];
       // Set the first stat as the comparison basis and continue
       if (!_stat) {
         _stat = stat;
@@ -168,19 +169,19 @@ void async function () {
       }
 
       if (stat.stars !== _stat.stars) {
-        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stat.stamp, type: 'RepositoryEvent', payload: { action: 'starred', old: _stat.stars, new: stat.stars, repo: repository } });
+        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'starred', old: _stat.stars, new: stat.stars, repo: repository } });
       }
 
       if (stat.watches !== _stat.watches) {
-        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stat.stamp, type: 'RepositoryEvent', payload: { action: 'watched', old: _stat.watches, new: stat.watches, repo: repository } });
+        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'watched', old: _stat.watches, new: stat.watches, repo: repository } });
       }
 
       if (stat.forks !== _stat.forks) {
-        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stat.stamp, type: 'RepositoryEvent', payload: { action: 'forked', old: _stat.forks, new: stat.forks, repo: repository } });
+        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'forked', old: _stat.forks, new: stat.forks, repo: repository } });
       }
 
       if (stat.issues !== _stat.issues) {
-        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stat.stamp, type: 'RepositoryEvent', payload: { action: 'issued', old: _stat.issues, new: stat.issues, repo: repository } });
+        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'issued', old: _stat.issues, new: stat.issues, repo: repository } });
       }
 
       _stat = stat;
