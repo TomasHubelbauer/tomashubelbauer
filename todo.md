@@ -1,5 +1,15 @@
 # To-Do
 
+## Fix watches being pulled from a bad API response field
+
+I thought `watchers_count` was the number next to the Watch button. But, it is
+actually the same value as the Star button number. So, `stargazers_count` =
+`watchers_count`. The actual watch number is in `subscribers_count`.
+
+## Consider including stuff such as has pages/wiki etc. in the repo statistics
+
+Could be cool to have events such as "enabled/disabled GitHub Pages on ${repo}".
+
 ## Consider changing the followers cache file format to be more compact
 
 I've already compacted the repositories cache file structure significantly and I
