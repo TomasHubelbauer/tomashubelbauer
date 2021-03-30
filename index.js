@@ -141,13 +141,19 @@ void async function () {
 
     // TODO: Drop entries that are older than the cutoff and no longer contribute
     // Record the changes only if there are any to speak of - ignore non-changes
-    const [stat] = _repositories[name].slice(-1);
-    if (stars !== stat.stars || stars !== stat.stars || stars !== stat.stars || stars !== stat.stars) {
-      _repositories[name].push({ stamp, stars, watches, forks, issues });
+    let stats = _repositories[name];
+    if (!stats) {
+      stats = _repositories[name] = [];
+    }
+
+    const stat = stats[stats.length - 1];
+    if (!stat || stars !== stat.stars || stars !== stat.stars || stars !== stat.stars || stars !== stat.stars) {
+      stats.push({ stamp, stars, watches, forks, issues });
     }
   }
 
-  await fs.promises.writeFile('repositories.json', JSON.stringify(_repositories, null, 2));
+  // Sort the repositories object by key before persisting it to the change
+  await fs.promises.writeFile('repositories.json', JSON.stringify(Object.fromEntries(Object.entries(_repositories).sort()), null, 2));
 
   // Compare changes between repository attributes and generate events for them
   // Note that repo creations and deletions are handled by GitHub Activity API
