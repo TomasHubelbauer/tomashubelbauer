@@ -1,5 +1,12 @@
 # To-Do
 
+## Consider changing the followers cache file format to be more compact
+
+I've already compacted the repositories cache file structure significantly and I
+think the same could be done for followers: make the top level item an object
+and the follower logins keys to the object with an object for the follow and
+unfollow date fields as their values.
+
 ## Detect deleted repos and skip their respective activity entries
 
 We render the activity entries in reverse chronological order, which means that
@@ -11,8 +18,9 @@ be useful to detect deleted (missing) repositories.
 
 ## Throw if there exist any useless forks (no changes against upstream)
 
-Search `repositories.json` for forks and check each to see if it has commits
-ahead of upstream and if not, throw to alert me to it so that I can delete it.
+Search the repositories API response for forks and check each to see if it has
+commits ahead of upstream and if not, throw to alert me to it so that I can
+delete it.
 
 ## Switch on action payload field in member and PR events and use correct emoji
 
