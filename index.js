@@ -137,7 +137,10 @@ void async function () {
   // Extract tracked attributes of each repository (used for change detection)
   const _repositories = JSON.parse(await fs.promises.readFile('repositories.json'));
   for (const repository of repositories) {
-    const { name, stargazers_count: stars, watchers_count: watches, forks_count: forks, open_issues_count: issues } = repository;
+    // Note that `watchers_count` is the same as `stargazers_count` and the real
+    // value for watches, `subscribers_count`, seems not to be available even
+    // though the API documentation includes it. Maybe auth is required?
+    const { name, stargazers_count: stars, forks_count: forks, open_issues_count: issues } = repository;
 
     // TODO: Drop entries that are older than the cutoff and no longer contribute
     // Record the changes only if there are any to speak of - ignore non-changes
@@ -147,8 +150,8 @@ void async function () {
     }
 
     const stat = stats[Object.keys(stats).pop()];
-    if (!stat || stars !== stat.stars || stars !== stat.stars || stars !== stat.stars || stars !== stat.stars) {
-      stats[stamp] = { stars, watches, forks, issues };
+    if (!stat || stars !== stat.stars || forks !== stat.forks || issues !== stat.issues) {
+      stats[stamp] = { stars, forks, issues };
     }
   }
 
@@ -170,10 +173,6 @@ void async function () {
 
       if (stat.stars !== _stat.stars) {
         events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'starred', old: _stat.stars, new: stat.stars, repo: repository } });
-      }
-
-      if (stat.watches !== _stat.watches) {
-        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'watched', old: _stat.watches, new: stat.watches, repo: repository } });
       }
 
       if (stat.forks !== _stat.forks) {

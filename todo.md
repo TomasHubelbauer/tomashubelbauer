@@ -2,17 +2,9 @@
 
 ## Display latest starer and watcher using Github API
 
-When a repository receives new stars or watches, we can
-talk to the Github API and fetch the first page of star
-and watch entries. These responses should be sorted in
-reverse chronological order so the top N items should be
-the new entries.
-
-## Fix watches being pulled from a bad API response field
-
-I thought `watchers_count` was the number next to the Watch button. But, it is
-actually the same value as the Star button number. So, `stargazers_count` =
-`watchers_count`. The actual watch number is in `subscribers_count`.
+When a repository receives new stars, we can talk to the Github API and fetch
+the first page of star and watch entries. These responses should be sorted in
+reverse chronological order so the top N items should be the new entries.
 
 ## Consider including stuff such as has pages/wiki etc. in the repo statistics
 
