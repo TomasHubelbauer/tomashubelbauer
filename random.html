@@ -22,8 +22,12 @@
 
         const button = document.createElement('button');
         button.textContent = 'Refresh';
-        button.addEventListener('click', () => location.reload());
+        button.addEventListener('click', () => window.location.reload());
         document.body.append(button);
+
+        if (window.location.search === '?now') {
+          a.click();
+        }
 
         setInterval(() => {
           a.dataset.countdown = Number(a.dataset.countdown) - 1;
