@@ -1,10 +1,58 @@
 # To-Do
 
-## Display latest starer and watcher using Github API
+## Display latest starer, forker and issuer based on the Github API repo data
 
 When a repository receives new stars, we can talk to the Github API and fetch
-the first page of star and watch entries. These responses should be sorted in
-reverse chronological order so the top N items should be the new entries.
+the first page of star, fork and issue entries. These responses should be sorted
+in chronological order so the top N items should be the new starrers, forkers or
+issuers. I have a draft of this for starrers:
+
+```diff
+diff --git a/index.js b/index.js
+index 3083bb6..f9248c8 100644
+--- a/index.js
++++ b/index.js
+@@ -160,6 +160,7 @@ void async function () {
+ 
+   // Compare changes between repository attributes and generate events for them
+   // Note that repo creations and deletions are handled by GitHub Activity API
++  const starrers = {};
+   for (const repository in _repositories) {
+     let _stat;
+     const stats = _repositories[repository];
+@@ -172,7 +173,14 @@ void async function () {
+       }
+ 
+       if (stat.stars !== _stat.stars) {
+-        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'starred', old: _stat.stars, new: stat.stars, repo: repository } });
++        if (!starrers[repository]) {
++          starrers[repository] = await download('https://api.github.com/repos/tomasHubelbauer/' + repository + '/stargazers');
++          console.log('Fetched', repository, 'starrers');
++        }
++
++        // Get the latest starrer (this array is in a chronological order)
++        const starrer = starrers[repository].pop().login;
++        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'starred', old: _stat.stars, new: stat.stars, starrer, repo: repository } });
+       }
+ 
+       if (stat.forks !== _stat.forks) {
+@@ -383,7 +391,7 @@ void async function () {
+             const delta = event.payload.new - event.payload.old;
+             const change = delta < 0 ? '📉 lost' : '📈 received';
+             const word = delta !== 1 && delta !== -1 ? delta + ' stars' : 'a star';
+-            markdown += `⭐️${change} ${word} on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (now ${event.payload.new})`;
++            markdown += `⭐️${change} ${word} from ${event.payload.starrer} on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (now ${event.payload.new})`;
+             break;
+           }
+           case 'watched': {
+```
+
+However, this doesn't work well. The part where we fetch the repo data is likely
+not a good spot to do it, because there we don't know if the change is a gain or
+a loss, we'd have to compare the numbers. And in case there are gains and losses
+mixed, we might need to do extra logic to account for the losses, it that is
+even possible to do cleanly. We might reserve this feature for repositories that
+only have gains in the inspected period or scrap it altogether.
 
 ## Consider including stuff such as has pages/wiki etc. in the repo statistics
 
