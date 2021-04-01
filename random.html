@@ -25,7 +25,7 @@
         button.addEventListener('click', location.reload);
 
         setInterval(() => {
-          a.dataset.countdown = Number(a.dataset.countdown)--;
+          a.dataset.countdown = Number(a.dataset.countdown) - 1;
           a.textContent = `${repository} (${a.dataset.countdown})`;
           if (a.dataset.countdown === '0') {
             a.click();
@@ -33,6 +33,13 @@
         }, 1000);
       });
     </script>
+    <style>
+      body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+    </style>
   </head>
   <body>
     Loading…
