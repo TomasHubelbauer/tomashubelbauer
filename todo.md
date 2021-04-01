@@ -102,13 +102,24 @@ People close accounts or get their accounts banned due to spam, no need to keep
 those around. Only keep unfollowers but active accounts in the file so that it
 can generate the followed/unfollowed events.
 
-## Wait for GitHub support to clarify missing `subscribers_count` in repo model
+## Use the GraphQL v4 API to fetch watchers of all repositories in a single call
 
-The get-single-repo API endpoint returns `subscribers_count` which is the value
-of repository watchers. The get-multiple-repos (that I'm using as I can't make
-an API request for each of my hundreds of repositories) does not include this
-field on the models of the individual repositories returned in the response
-array. The docs suggest it should be there, hence my support request for
-clarification:
+```graphql
+query MyQuery {
+  repositoryOwner(login: "TomasHubelbauer") {
+    login repositories(first: 50, affiliations: OWNER) {
+      edges {
+        node {
+          name watchers {
+            totalCount
+          }
+        }
+      }
+    }
+  }
+} 
+```
 
-https://support.github.com/ticket/personal/0/1089120
+The GQL API requires authorization. Perhaps the GitHub Actions token will
+suffice? If not I'd rather drop this feature than implement authorization for
+accessing only public data; that's stupid.
