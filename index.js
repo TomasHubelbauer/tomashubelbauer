@@ -208,7 +208,7 @@ void async function () {
 
 <div align="center">
 
-[(random repo)](https://tomashubelbauer.github.io/tomashubelbauer/random)
+[(random repo)](https://tomashubelbauer.github.io/tomashubelbauer/random?now)
 
 </div>
 
