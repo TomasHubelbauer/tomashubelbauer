@@ -17,14 +17,14 @@ think the same could be done for followers: make the top level item an object
 and the follower logins keys to the object with an object for the follow and
 unfollow date fields as their values.
 
-## Detect deleted repos and skip their respective activity entries
+## Detect deleted repos and do not render their related items as broken links
 
-We render the activity entries in reverse chronological order, which means that
-if for each repo, we test it for existence on the first item related to it, and
-it comes back negative, we can ignore that entry and any other entry touching
-that repo. We'll probably use it just to prevent links to deleted repos from
-rendering as links, but instead show as normal text. `repositories.json` should
-be useful to detect deleted (missing) repositories.
+We render the activity entries in a reverse chronological order and we also know
+when repos have been deleted from the Activity API that gives us the `events`
+array. This means for each repository-related event, we can determine if that
+repository has been since deleted and if yes, render its names, commits and
+other related items as mere text and not links to the respective items as those
+links would be broken links.
 
 ## Throw if there exist any useless forks (no changes against upstream)
 
