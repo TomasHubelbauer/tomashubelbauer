@@ -23,6 +23,7 @@
         const button = document.createElement('button');
         button.textContent = 'Refresh';
         button.addEventListener('click', location.reload);
+        document.body.append(button);
 
         setInterval(() => {
           a.dataset.countdown = Number(a.dataset.countdown) - 1;
@@ -35,9 +36,9 @@
     </script>
     <style>
       body {
+        align-items: center;
         display: flex;
         flex-direction: column;
-        justify-content: center;
       }
     </style>
   </head>
