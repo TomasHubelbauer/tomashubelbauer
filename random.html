@@ -22,7 +22,7 @@
 
         const button = document.createElement('button');
         button.textContent = 'Refresh';
-        button.addEventListener('click', location.reload);
+        button.addEventListener('click', () => location.reload());
         document.body.append(button);
 
         setInterval(() => {
