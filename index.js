@@ -1,5 +1,13 @@
 import fs from 'fs';
-import https from 'https';
+import downloadPagedArray from './downloadPagedArray.js';
+import query from './query.js';
+import name from './name.js';
+import commit from './commit.js';
+import branch from './branch.js';
+import issue from './issue.js';
+import pr from './pr.js';
+import date from './date.js';
+import time from './time.js';
 
 // Crash process and bring down the workflow in case of an unhandled rejection
 process.on('unhandledRejection', error => { throw error; });
@@ -185,7 +193,7 @@ void async function () {
       }
 
       markdown += `<details${!heading ? ' open' : ''}>\n`;
-      markdown += `<summary>${dates[_heading] || _heading}${_heading === 'Today' ? ` (${time(new Date())})` : ''}</summary>\n`;
+      markdown += `<summary>${_heading}${_heading === 'Today' ? ` (${time(new Date())})` : ''}</summary>\n`;
       markdown += '\n';
       heading = _heading;
     }
@@ -380,113 +388,3 @@ void async function () {
 
   await fs.promises.writeFile('readme.md', markdown);
 }()
-
-function query(url, code = false) {
-  return new Promise((resolve, reject) => {
-    const headers = { 'User-Agent': 'TomasHubelbauer' };
-    const request = https.get(url, { headers }, async response => {
-      request.on('error', reject);
-      resolve(code ? response.statusCode : response.headers);
-    });
-  });
-}
-
-async function downloadPagedArray(url, fileName) {
-  try {
-    return JSON.parse(await fs.promises.readFile(fileName));
-  }
-  catch (error) {
-    if (error.code !== 'ENOENT') {
-      throw error;
-    }
-
-    const result = [];
-    const pages = Number({ ...await query(url + '?per_page=100') }.link.match(/(\d+)>; rel="last"$/)[1]);
-    for (let page = 1; page <= pages; page++) {
-      result.push(...await downloadArray(url + '?per_page=100&page=' + page));
-      console.log('Fetched', url, 'page', page);
-    }
-
-    await fs.promises.writeFile(fileName, JSON.stringify(result, null, 2));
-    return result;
-  }
-}
-
-function downloadArray(url) {
-  return new Promise((resolve, reject) => {
-    const headers = { 'User-Agent': 'TomasHubelbauer' };
-    const request = https.get(url, { headers }, async response => {
-      request.on('error', reject);
-
-      const buffers = [];
-      for await (const buffer of response) {
-        buffers.push(buffer);
-      }
-
-      const data = JSON.parse(Buffer.concat(buffers));
-      if (Array.isArray(data)) {
-        resolve(data);
-      }
-      else {
-        reject(data);
-      }
-    });
-  });
-}
-
-function name(name) {
-  const [user, repo] = name.split('/');
-  if (user !== 'TomasHubelbauer') {
-    return `\n  [\`${name}\`](https://github.com/${name})`;
-  }
-
-  return `\n  [\`${repo}\`](https://github.com/${name})`;
-}
-
-function commit(repo, payload) {
-  if (payload.commits.length === 1) {
-    const commit = payload.commits[0];
-    return `\n  [${commit.message.match(/^.*/g)[0]}](https://github.com/${repo.name}/commit/${commit.sha})\n  into${name(repo.name)}`;
-  }
-
-  const commit = payload.commits[payload.commits.length - 1];
-  return `\n  [${commit.message.match(/^.*/g)[0]}](https://github.com/${repo.name}/commit/${commit.sha})\n  and ${payload.commits.length - 1} other${payload.commits.length - 2 ? 's' : ''} into${name(repo.name)}`;
-}
-
-function branch(repo, payload) {
-  return `\n  [\`${payload.ref}\`](https://github.com/${repo.name}/tree/${payload.ref})\n  in${name(repo.name)}`;
-}
-
-function issue(issue) {
-  return `\n  [#${issue.number} ${issue.title}](${issue.html_url})`;
-}
-
-function pr(pr) {
-  return `\n  [#${pr.number} ${pr.title}](${pr.html_url})`;
-}
-
-let now = new Date();
-const dates = {};
-for (let index = 0; index < 7; index++) {
-  const date = now.toISOString().slice(0, 10);
-  if (index === 0) {
-    dates[date] = 'Today';
-  }
-  else if (index === 1) {
-    dates[date] = 'Yesterday';
-  }
-  else {
-    dates[date] = now.toLocaleDateString('en-US', { weekday: 'long' });
-  }
-
-  now = new Date(now.setDate(now.getDate() - 1));
-}
-
-function date(instant) {
-  const date = instant.toISOString().slice(0, 10);
-  return dates[date] || date;
-}
-
-function time(instant) {
-  return instant.toISOString().slice(11, 16);
-}
