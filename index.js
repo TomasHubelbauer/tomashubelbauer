@@ -5,31 +5,11 @@ import https from 'https';
 process.on('unhandledRejection', error => { throw error; });
 
 void async function () {
+  // Fetch all 300 events GitHub API will provide:
+  // https://docs.github.com/en/free-pro-team@latest/rest/reference/activity#events
+  // Note that the docs say `per_page` is not supported but it seems to work…
   /** @type {{ actor: { login: string; }; created_at: string; type: string; payload: unknown; repo: { name: string; }; }[]} */
-  let events = [];
-
-  // Use cached events to avoid using up the API rate limit in development
-  try {
-    events = JSON.parse(await fs.promises.readFile('events.json'));
-    console.log('Pulled stale cached events');
-  }
-  catch (error) {
-    if (error.code !== 'ENOENT') {
-      throw error;
-    }
-
-    // Fetch all 300 events GitHub API will provide:
-    // https://docs.github.com/en/free-pro-team@latest/rest/reference/activity#events
-    // Note that the docs say `per_page` is not supported but it seems to work…
-    const pages = Number({ ...await query('https://api.github.com/users/tomashubelbauer/events?per_page=100') }.link.match(/(\d+)>; rel="last"$/)[1]);
-    for (let page = 1; page <= pages; page++) {
-      events.push(...await download('https://api.github.com/users/tomashubelbauer/events?per_page=100&page=' + page));
-      console.log('Fetched events page', page);
-    }
-
-    await fs.promises.writeFile('events.json', JSON.stringify(events, null, 2));
-    console.log('Cached fresh events');
-  }
+  const events = await downloadPagedArray('https://api.github.com/users/tomashubelbauer/events', 'events.json');
 
   // Recover remembered followers for later comparison and change detection
   let staleFollowers = [];
@@ -43,25 +23,7 @@ void async function () {
   }
 
   // Fetch current followers for later comparison and change detection
-  let freshFollowers = [];
-  try {
-    freshFollowers = JSON.parse(await fs.promises.readFile('followers.dev.json'));
-    console.log('Pulled stale cached followers');
-  }
-  catch (error) {
-    if (error.code !== 'ENOENT') {
-      throw error;
-    }
-
-    const pages = Number({ ...await query('https://api.github.com/users/tomashubelbauer/followers?per_page=100') }.link.match(/(\d+)>; rel="last"$/)[1]);
-    for (let page = 1; page <= pages; page++) {
-      freshFollowers.push(...await download('https://api.github.com/users/tomashubelbauer/followers?per_page=100&page=' + page));
-      console.log('Fetched followers page', page);
-    }
-
-    await fs.promises.writeFile('followers.dev.json', JSON.stringify(freshFollowers, null, 2));
-    console.log('Cached fresh followers');
-  }
+  const freshFollowers = await downloadPagedArray('https://api.github.com/users/tomashubelbauer/followers', 'followers.dev.json');
 
   // Get the unique names of both stale and fresh followers to get the whole set
   const logins = [
@@ -114,25 +76,7 @@ void async function () {
   }
 
   // Fetch repositories for star and fork change detection
-  let repositories = [];
-  try {
-    repositories = JSON.parse(await fs.promises.readFile('repositories.dev.json'));
-    console.log('Pulled stale cached repositories');
-  }
-  catch (error) {
-    if (error.code !== 'ENOENT') {
-      throw error;
-    }
-
-    const pages = Number({ ...await query('https://api.github.com/users/tomashubelbauer/repos?per_page=100') }.link.match(/(\d+)>; rel="last"$/)[1]);
-    for (let page = 1; page <= pages; page++) {
-      repositories.push(...await download('https://api.github.com/users/tomashubelbauer/repos?per_page=100&page=' + page));
-      console.log('Fetched repositories page', page);
-    }
-
-    await fs.promises.writeFile('repositories.dev.json', JSON.stringify(repositories, null, 2));
-    console.log('Cached fresh repositories');
-  }
+  const repositories = await downloadPagedArray('https://api.github.com/users/tomashubelbauer/repos', 'repositories.dev.json');
 
   let issuesAndPrs = 0;
   const stream = fs.createWriteStream('issues-and-prs.log');
@@ -447,7 +391,28 @@ function query(url, code = false) {
   });
 }
 
-function download(url) {
+async function downloadPagedArray(url, fileName) {
+  try {
+    return JSON.parse(await fs.promises.readFile(fileName));
+  }
+  catch (error) {
+    if (error.code !== 'ENOENT') {
+      throw error;
+    }
+
+    const result = [];
+    const pages = Number({ ...await query(url + '?per_page=100') }.link.match(/(\d+)>; rel="last"$/)[1]);
+    for (let page = 1; page <= pages; page++) {
+      result.push(...await downloadArray(url + '?per_page=100&page=' + page));
+      console.log('Fetched', url, 'page', page);
+    }
+
+    await fs.promises.writeFile(fileName, JSON.stringify(result, null, 2));
+    return result;
+  }
+}
+
+function downloadArray(url) {
   return new Promise((resolve, reject) => {
     const headers = { 'User-Agent': 'TomasHubelbauer' };
     const request = https.get(url, { headers }, async response => {
