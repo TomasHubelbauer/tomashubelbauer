@@ -134,6 +134,9 @@ void async function () {
     console.log('Cached fresh repositories');
   }
 
+  let issuesAndPrs = 0;
+  const stream = fs.createWriteStream('issues-and-prs.log');
+
   // Extract tracked attributes of each repository (used for change detection)
   const _repositories = JSON.parse(await fs.promises.readFile('repositories.json'));
   for (const repository of repositories) {
@@ -142,7 +145,11 @@ void async function () {
     // endpoint.
     // Note that `open_issues_count` mixes together issues and pull requests and
     // is not distringuishable without fetching individual repo's details.
-    const { name, stargazers_count: stars, forks_count: forks } = repository;
+    const { name, stargazers_count: stars, forks_count: forks, open_issues_count } = repository;
+    if (open_issues_count > 0) {
+      issuesAndPrs += open_issues_count;
+      stream.write(name + ' ' + open_issues_count + '\n');
+    }
 
     // TODO: Drop entries that are older than the cutoff and no longer contribute
     // Record the changes only if there are any to speak of - ignore non-changes
@@ -159,6 +166,7 @@ void async function () {
 
   // Sort the repositories object by key before persisting it to the change
   await fs.promises.writeFile('repositories.json', JSON.stringify(Object.fromEntries(Object.entries(_repositories).sort()), null, 2));
+  stream.close();
 
   // Compare changes between repository attributes and generate events for them
   // Note that repo creations and deletions are handled by GitHub Activity API
@@ -200,6 +208,7 @@ void async function () {
 
 [${followerCount} followers 🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
 [${repositories.length} repositories 📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
+[${issuesAndPrs} issues 🎫 and PRs 🎁 on my repositories 📓](issues-and-prs.log) ᐧ
 [${forks.length} forks 🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork)
 
 </div>
