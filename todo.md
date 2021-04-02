@@ -69,3 +69,12 @@ query MyQuery {
 The GQL API requires authorization. Perhaps the GitHub Actions token will
 suffice? If not I'd rather drop this feature than implement authorization for
 accessing only public data; that's stupid.
+
+## Save the changed date of each repo and fetch readmes on each change for todos
+
+The get-repos API response should contain a repo-last-changed date. Save it and
+if it changed between runs, download and cache the repos readme and pull todos
+from it using my `todo` tool. Or maybe pull and cache todos from all of the repo
+by fetching the whole repo if it has changed. Display the total number of all
+todos across all repos in the readme and have another log file with all of the
+todos in one place like is already done in `issues-and-prs.md`.
