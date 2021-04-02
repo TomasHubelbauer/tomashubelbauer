@@ -1,20 +1,12 @@
 arduino-nmea-checksum 1
-cra-sourcemap 3
-csfd-digest 2
-fluent-table 1
 garmin-img 1
-github-backuper 1
-github-pages-host 1
-globus 1
 isogit-pull 1
 node-cookie 1
 node-self-signed 1
 puppeteer-bazos-cz-scraper 1
 puppeteer-moje-o2-scraper 1
 rbc-components 3
-rbc-month-view-slot-grouping-by-type 3
 sreality-puppeteer-scraper 1
-stardust-explo 2
 vscode-compound-debug-split-terminal 1
 vscode-email-viewer 2
 vscode-markdown-jira-links 1
@@ -23,5 +15,3 @@ vscode-markdown-table-format 4
 vscode-markdown-todo 8
 vscode-zip-file-system 3
 webpack-sourcemap 1
-webrtc-data-channel-demo 1
-yt-downloader 1
