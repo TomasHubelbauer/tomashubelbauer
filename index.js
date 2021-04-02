@@ -389,28 +389,28 @@ void async function () {
             const delta = event.payload.new - event.payload.old;
             const change = delta < 0 ? '📉 lost' : '📈 received';
             const word = delta !== 1 && delta !== -1 ? delta + ' stars' : 'a star';
-            markdown += `⭐️${change} ${word} on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (now ${event.payload.new})`;
+            markdown += `⭐️${change} ${word} on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (now ${event.payload.new || 'none'})`;
             break;
           }
           case 'watched': {
             const delta = event.payload.new - event.payload.old;
             const change = delta < 0 ? '📉 lost' : '📈 received';
             const word = delta !== 1 && delta !== -1 ? delta + 'watches' : 'a watch';
-            markdown += `👀${change} ${word} on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (now ${event.payload.new})`;
+            markdown += `👀${change} ${word} on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (now ${event.payload.new || 'none'})`;
             break;
           }
           case 'forked': {
             const delta = event.payload.new - event.payload.old;
             const change = delta < 0 ? '📉 lost' : '📈 received';
             const word = delta !== 1 && delta !== -1 ? delta + 'forks' : 'a fork';
-            markdown += `🍴${change} ${word} on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (now ${event.payload.new})`;
+            markdown += `🍴${change} ${word} on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (now ${event.payload.new || 'none'})`;
             break;
           }
           case 'issued': {
             const delta = event.payload.new - event.payload.old;
             const change = delta < 0 ? '📉 lost' : '📈 received';
             const word = delta !== 1 && delta !== -1 ? delta + 'issues' : 'an issue';
-            markdown += `🎫${change} ${word} on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (now ${event.payload.new})`;
+            markdown += `🎫${change} ${word} on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (now ${event.payload.new || 'none'})`;
             break;
           }
           default: {
