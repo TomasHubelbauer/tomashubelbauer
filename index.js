@@ -138,9 +138,11 @@ void async function () {
   const _repositories = JSON.parse(await fs.promises.readFile('repositories.json'));
   for (const repository of repositories) {
     // Note that `watchers_count` is the same as `stargazers_count` and the real
-    // value for watches, `subscribers_count`, seems not to be available even
-    // though the API documentation includes it. Maybe auth is required?
-    const { name, stargazers_count: stars, forks_count: forks, open_issues_count: issues } = repository;
+    // value for watches, `subscribers_count` is not available for the bulk repo
+    // endpoint.
+    // Note that `open_issues_count` mixes together issues and pull requests and
+    // is not distringuishable without fetching individual repo's details.
+    const { name, stargazers_count: stars, forks_count: forks } = repository;
 
     // TODO: Drop entries that are older than the cutoff and no longer contribute
     // Record the changes only if there are any to speak of - ignore non-changes
@@ -150,8 +152,8 @@ void async function () {
     }
 
     const stat = stats[Object.keys(stats).pop()];
-    if (!stat || stars !== stat.stars || forks !== stat.forks || issues !== stat.issues) {
-      stats[stamp] = { stars, forks, issues };
+    if (!stat || stars !== stat.stars || forks !== stat.forks) {
+      stats[stamp] = { stars, forks };
     }
   }
 
@@ -177,10 +179,6 @@ void async function () {
 
       if (stat.forks !== _stat.forks) {
         events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'forked', old: _stat.forks, new: stat.forks, repo: repository } });
-      }
-
-      if (stat.issues !== _stat.issues) {
-        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'issued', old: _stat.issues, new: stat.issues, repo: repository } });
       }
 
       _stat = stat;
@@ -392,13 +390,7 @@ void async function () {
             markdown += `⭐️${change} ${word} on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (now ${event.payload.new || 'none'})`;
             break;
           }
-          case 'watched': {
-            const delta = event.payload.new - event.payload.old;
-            const change = delta < 0 ? '📉 lost' : '📈 received';
-            const word = delta !== 1 && delta !== -1 ? delta + 'watches' : 'a watch';
-            markdown += `👀${change} ${word} on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (now ${event.payload.new || 'none'})`;
-            break;
-          }
+
           case 'forked': {
             const delta = event.payload.new - event.payload.old;
             const change = delta < 0 ? '📉 lost' : '📈 received';
@@ -406,13 +398,7 @@ void async function () {
             markdown += `🍴${change} ${word} on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (now ${event.payload.new || 'none'})`;
             break;
           }
-          case 'issued': {
-            const delta = event.payload.new - event.payload.old;
-            const change = delta < 0 ? '📉 lost' : '📈 received';
-            const word = delta !== 1 && delta !== -1 ? delta + 'issues' : 'an issue';
-            markdown += `🎫${change} ${word} on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (now ${event.payload.new || 'none'})`;
-            break;
-          }
+
           default: {
             throw new Error(`Unhandled follower event action ${event.payload.action}.`);
           }
