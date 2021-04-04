@@ -1,1 +1,283 @@
-{}
+{
+  "acter": {
+    "stamp": "2021-03-27T16:52:16Z",
+    "todos": [
+      "Handle initial roll vs reroll",
+      "Build a prototype ",
+      "Consider using a Babel plugin for this"
+    ]
+  },
+  "ado-dotnet-formatter": {
+    "stamp": "2021-03-16T07:16:20Z",
+    "todos": [
+      "Determine only the files changed in the pull request",
+      "Run the `dotnet-format` tool only for the files changed in the PR",
+      "Commit and push the changes back from the pipeline to the PR branch",
+      "See if for multi-project, we need to find changed projects and limit their"
+    ]
+  },
+  "agendum": {
+    "stamp": "2021-03-27T16:53:33Z",
+    "todos": [
+      "Provide tabs or something for playing around with \"generators\" and flows",
+      "Use file system API when available (Chrome, Firefox, Edge) and local storage when not (Safari)",
+      "Add support for syncing with custom BE instances",
+      "Support attaching audio/video recordings as attachments / inline elements",
+      "Check for attachment size and kick or resize (image, video?) attachments that are too big",
+      "Implement drag & drop on the items",
+      "Implement editing item contents - modal with the editor",
+      "Implement task hierarchy using `net-tree`",
+      "Add support for item tags",
+      "Add support for reminders using desktop notifications for upcoming tasks",
+      "Allow dismissing the editor hints for emoji keyboard and rich editor toggle separately",
+      "Allow editing the title using an inline input with Enter keypress handler and a Save button",
+      "Implement the graft resolution behavior which creates the same task again on the next day (for now)",
+      "Make sure moving works within the groups of the archive tab and jumps between the groups as well",
+      "Implement attaching image or non-image files as attachments, not only inline",
+      "Implement recognizing links anywhere in the description plain text not only whole-line links",
+      "Allow sourcing tasks from other places than storage",
+      "Implement moving the items with Not After into its own tab, something like Expired or Missed",
+      " Hook up the Archive button in the editor when in the Archived tab",
+      "Pull out more data related functions to `data.js` and include `getIds` in it, too",
+      " Add checkboxen alongside the items for bulk operations (archive, delete)",
+      "Remember the expanded archive tab group title and preserve expansion state after item button action (move etc.)",
+      "Display item count on each tab button",
+      "Handle resolution notes with a custom modal:",
+      "Add tests for moving items within tabs when there are items in all tabs to make sure the filtering logic doesn't break",
+      "Query the set of items per tab first and then render the set to make sure up/down disables and even/odd backgrounds work okay",
+      "Implement [Net Tree](https://github.com/TomasHubelbauer/net-tree) for hierarchical items",
+      "Pull in Fragment types using NPM for TypeScript and use it as a ES module after changing it so",
+      "Render inline images and links from backing objects on the item not using `innerHTML`",
+      "Do some sort of a version call and auto-bust the web worker cache if a new version is found",
+      "See if adding Fragment as a Git submodule would allow us to drop the local/remote select logic and dep on JsDelivr",
+      "Consider adding support for import from pasted text for iOS Safari import",
+      "Detect conflicts during import (non-equal) and offer a UI for resolution (keep old, keep new, keep both)",
+      "Hide item buttons on mobile except for Archive, Edit can be done by clicking, move by dragging when it is done",
+      "Create iOS home screen icons: https://stackoverflow.com/a/26369790",
+      "Validate PWA pinning to home screen works on iOS, with icons and standalone window",
+      "Consider [Storing images and files in IndexedDB](https://hacks.mozilla.org/2012/02/storing-images-and-files-in-indexeddb/)",
+      "Create and add a favicon",
+      "Utilize [Progressive Web Apps on iOS are here](https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7)",
+      "Display a button for toggling the rich editor when in portrait mode (can't do shortcuts)",
+      "Rewrite the editor in [Fragment](https://github.com/TomasHubelbauer/fragment) once it supports keys",
+      "Get rid of the `innerHTML = ''` call",
+      "Figure out how to make jUnit produce a HTML report and how to attach Puppeteer screenshots to it",
+      "Create UI tests",
+      "[Fix Ctrl+Enter not working in Puppeteer](https://github.com/TomasHubelbauer/puppeteer-ctrl-enter)",
+      "Fix mobile task label with multiple lines overlapping into the content (by ditching `details` and keeping state in item)",
+      "Fix service worker offline serving not working in Firefox & Safari - web worker says `fetch` timed out",
+      "Fix TypeScript pipeline errors",
+      "Fix Puppeteer not dropping screenshots in CI",
+      "Redo in CRA using GitHub Actions for the CRA CD",
+      "Fix the `agendum.today` domain name misconfiguration breaking GitHub Pages"
+    ]
+  },
+  "akai-apc-mini": {
+    "stamp": "2020-05-21T20:53:02Z",
+    "todos": [
+      "Build a driver to make the launchpad show graphics on the buttons",
+      "Trace OP-1 USB calls to see if they rememble these ones, if so, it is generic MIDI comms",
+      "Compae a mobile USB properties to see if they resemble these ones, if so, RS-232 maybe",
+      "Check BusDog again to see what device ID it was that I was connected to anyway"
+    ]
+  },
+  "albert": {
+    "stamp": "2020-05-01T14:52:13Z",
+    "todos": [
+      "Scrape page viewport and prevent viewport overflow in the HTML replication",
+      "Figure out why some of the images do not show or maybe show elsewhere/covered",
+      "Figure out how to get rid of mask faux-images",
+      "Rank image and text pairs by closeness to bounds not the center"
+    ]
+  },
+  "android-cert-pin": {
+    "stamp": "2020-02-23T10:22:07Z",
+    "todos": [
+      "Look into online resources on the topic of certificate pinning bypass",
+      "Test the Yazio app binary on an Android phone or in an emulator",
+      "Test out various disassemblers to find one which won't fail",
+      "See if the binary is obfuscated and if yes see if there's a deobfuscator",
+      "Try running the app in the emulator and attaching a debugger to the startup",
+      "Patch the source code to make the certificate pinning check routine a no-op",
+      "Reassemble the application and deploy it to the phone for testing",
+      "Proxy the phone's network communication through the laptop for inspection",
+      "Turn on TLS proxying and see if the app accepts the self-signed certificate"
+    ]
+  },
+  "arduino-ide-silent-install": {
+    "stamp": "2019-12-07T07:54:31Z",
+    "todos": [
+      "Add the actual installer installation not just the ZIP",
+      "Link with the NMEA repo and in there add a Windows Builder workflow",
+      "See if there is WSL on the agent and use it to run SimAVR if possible",
+      "Fix the \"/bin/avr-g++\" does not exist error"
+    ]
+  },
+  "arduino-mouse-jiggler": {
+    "stamp": "2021-03-15T21:18:29Z",
+    "todos": []
+  },
+  "arduino-nmea-checksum": {
+    "stamp": "2021-04-02T10:08:11Z",
+    "todos": [
+      "Figure out why using SimAVR through Aptitude results in a crash",
+      "Fix the Builder not being able to find dependencies",
+      "Run SimAVR on both the Arduino CLI and the Arduino Builder builds",
+      "Look into using AVR8JS by Wokwi to simulate the Arduino and check tests",
+      "Fix Arduino CLI looking up incorrect sketch in the GitHub Actions workflow"
+    ]
+  },
+  "asp-conditional-validations": {
+    "stamp": "2020-01-08T08:56:31Z",
+    "todos": [
+      "Make `JobTitle` on `DemoModel` required if `IsEmployed` is true",
+      "Get client side validations to run with the out of the box functionality",
+      "Set up the required attribute on the server to use the validation context",
+      "Generate the client side validations based on the generalized declarative model",
+      "Figure out how to distinguish form components marked by ASP .NET and custom attribute"
+    ]
+  },
+  "asp-pdf": {
+    "stamp": "2020-01-08T08:57:12Z",
+    "todos": [
+      "Figure out how to do repeating header and footer on every page in HTML"
+    ]
+  },
+  "async-await.net": {
+    "stamp": "2021-04-01T20:07:27Z",
+    "todos": []
+  },
+  "aws-elastic-beanstalk": {
+    "stamp": "2019-12-02T13:29:22Z",
+    "todos": [
+      "Add instructions for uploading using the AWS CLI",
+      "Set up a workflow for publishing to EB from GitHub Actions using the AWS CLI",
+      "Add info on using SQLite on the EC2 instance (file based)",
+      "Add info on connecting with RDS (managed)",
+      "Add info on carrying out migrations in EF Core"
+    ]
+  },
+  "azure-function": {
+    "stamp": "2020-01-09T13:07:40Z",
+    "todos": [
+      "Finalize this despite Azure sucking"
+    ]
+  },
+  "azure-pipelines-artifacts-to-repository": {
+    "stamp": "2019-12-02T13:30:33Z",
+    "todos": []
+  },
+  "azure-pipelines-bot": {
+    "stamp": "2019-12-02T13:32:15Z",
+    "todos": []
+  },
+  "azure-pipelines-powershell-core": {
+    "stamp": "2019-12-02T18:39:10Z",
+    "todos": []
+  },
+  "azure-static-website": {
+    "stamp": "2019-12-02T13:36:49Z",
+    "todos": [
+      "Figure out Azure CDN for custom domain name, TLS and rewrite rules for routing"
+    ]
+  },
+  "babel-sourcemap": {
+    "stamp": "2021-03-26T23:32:38Z",
+    "todos": [
+      "Help resolve the Babel issue once they set up contributing on Windows"
+    ]
+  },
+  "batch-wallpaper": {
+    "stamp": "2019-12-06T19:58:55Z",
+    "todos": [
+      "Fix the `user32.dll` doing nothing"
+    ]
+  },
+  "binary-numbers": {
+    "stamp": "2020-01-16T12:18:24Z",
+    "todos": [
+      "Implement a *Formula* section for each view, hex and bin, showing the conversion to dec",
+      "Display a bit summing SVG for LE numbers as well and adapt it as per its comments",
+      "Accept hex and binary strings as input",
+      "Implement the missing 24 and 64 bit conversions by extending the `DataView` prototype",
+      "Consider supporting middle endian with the respective `DataView` prototype extensions",
+      "Fix the part sum for negative numbers",
+      "Change `makeSvg` to accept either an `ArrayBuffer` or a `DataView`"
+    ]
+  },
+  "blender": {
+    "stamp": "2021-04-01T21:19:43Z",
+    "todos": []
+  },
+  "blender-abbitt": {
+    "stamp": "2020-01-15T06:04:09Z",
+    "todos": [
+      "https://www.youtube.com/watch?v=98FkRIbihyQ"
+    ]
+  },
+  "blender-api": {
+    "stamp": "2020-01-07T09:01:23Z",
+    "todos": [
+      "Capture the subcontexts of the context access section",
+      "Demo select API methods practically in auxiliary repos",
+      "Go through all the types in the Types section and learn what they do",
+      "Scrape the API docs automatically and cross-reference with my content"
+    ]
+  },
+  "blender-blend": {
+    "stamp": "2021-04-01T21:14:22Z",
+    "todos": [
+      "Link the repository where I run blender in GitHub Actions",
+      "Document the Blender file format",
+      "Create a web app with a WebGL scene renderer containing basic shapes (sphere, cube, text, maybe 2D shapes)",
+      "Implement persisting the user-defined scene as a Blender `blend` file",
+      "Implement parsing using JavaScript"
+    ]
+  },
+  "blender-donut": {
+    "stamp": "2019-12-02T13:41:27Z",
+    "todos": [
+      "Go through these"
+    ]
+  },
+  "blender-edge-at-face-intersection": {
+    "stamp": "2020-01-13T08:43:34Z",
+    "todos": [
+      "Figure out how to introduce an edge there without the loop cut hack",
+      "Figure out how to handle the same if the planes were different sizes or shifted against one another",
+      "Find out if there is a shortcut for entering and focusing the Properties Panel."
+    ]
+  },
+  "blender-gargantua": {
+    "stamp": "2021-04-01T21:06:51Z",
+    "todos": [
+      "Update the workflow to work with the latest Ubuntu if needed"
+    ]
+  },
+  "blender-ice-cream": {
+    "stamp": "2019-12-02T13:43:45Z",
+    "todos": [
+      "Cross-link with the Blender Guru Donut tutorial repo",
+      "Do it"
+    ]
+  },
+  "blender-light-box": {
+    "stamp": "2021-03-26T23:49:57Z",
+    "todos": [
+      "Discard cards which would put the card chain over the line size",
+      "Assing a correct translucent material to the card plan",
+      "Figure out how to animate the cards",
+      "Render an animation directly to a Gif or to an MP4 and convert using FFMpeg",
+      "Explore the `blf` module for text measurement options"
+    ]
+  },
+  "blender-merge-faces": {
+    "stamp": "2020-01-13T08:44:13Z",
+    "todos": [
+      "Find out if there is a shortcut for moving focus into the first field of the properties panel",
+      "Find out if there is a shortcut for cycling / switching these",
+      "Find out why Dissolve Faces is not it",
+      "Find out how to introduce an edge where the vertical facesoverlap so that the top faces could be removed and a new one connecting the six points added"
+    ]
+  }
+}

@@ -121,7 +121,7 @@ void async function () {
 
     // TODO: Enable this once collected the first show locally to save limit on CI
     // Update the repository readme todos if it was pushed to since the last capture
-    if (false && todos[name]?.stamp !== pushed_at) {
+    if (todos[name]?.stamp !== pushed_at) {
       const readme = todos[name]?.readme ?? 'readme.md';
       let content;
 
@@ -139,7 +139,7 @@ void async function () {
         content = await download(`https://api.github.com/repos/TomasHubelbauer/${name}/contents/${oppositeReadme}`);
       }
 
-      if (content.message.startsWith('API rate limit exceeded')) {
+      if (content.message?.startsWith('API rate limit exceeded')) {
         throw new Error(content.message);
       }
 
@@ -153,9 +153,11 @@ void async function () {
 
       todos[name].stamp = pushed_at;
       todos[name].todos = [];
-      for await (const { text } of todo('todos', name + '.md')) {
+      for await (const { text } of todo('.', name + '.' + readme)) {
         todos[name].todos.push(text);
       }
+
+      await fs.promises.unlink(name + '.' + readme);
 
       // TODO: Move this after the whole loop once finished development and testing
       await fs.promises.writeFile('todos.json', JSON.stringify(todos, null, 2));
