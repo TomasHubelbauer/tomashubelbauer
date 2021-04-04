@@ -1,3 +1,7 @@
 events.json
 followers.dev.json
 repositories.dev.json
+
+# Node
+node_modules
+package-lock.json

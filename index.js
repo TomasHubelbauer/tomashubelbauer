@@ -8,6 +8,8 @@ import issue from './issue.js';
 import pr from './pr.js';
 import date from './date.js';
 import time from './time.js';
+import download from './download.js';
+import todo from 'todo';
 
 // Crash process and bring down the workflow in case of an unhandled rejection
 process.on('unhandledRejection', error => { throw error; });
@@ -89,6 +91,8 @@ void async function () {
   let issuesAndPrs = 0;
   const stream = fs.createWriteStream('issues-and-prs.log');
 
+  const todos = JSON.parse(await fs.promises.readFile('todos.json'));
+
   // Extract tracked attributes of each repository (used for change detection)
   const _repositories = JSON.parse(await fs.promises.readFile('repositories.json'));
   for (const repository of repositories) {
@@ -97,7 +101,7 @@ void async function () {
     // endpoint.
     // Note that `open_issues_count` mixes together issues and pull requests and
     // is not distringuishable without fetching individual repo's details.
-    const { name, stargazers_count: stars, forks_count: forks, open_issues_count } = repository;
+    const { name, stargazers_count: stars, forks_count: forks, open_issues_count, pushed_at } = repository;
     if (open_issues_count > 0) {
       issuesAndPrs += open_issues_count;
       stream.write(name + ' ' + open_issues_count + '\n');
@@ -113,6 +117,45 @@ void async function () {
     const stat = stats[Object.keys(stats).pop()];
     if (!stat || stars !== stat.stars || forks !== stat.forks) {
       stats[stamp] = { stars, forks };
+    }
+
+    // TODO: Enable this once collected the first show locally to save limit on CI
+    // Update the repository readme todos if it was pushed to since the last capture
+    if (false && todos[name]?.stamp !== pushed_at) {
+      const readme = todos[name]?.readme ?? 'readme.md';
+      let content;
+
+      // Download the readme at the remembered or default name
+      try {
+        content = await download(`https://api.github.com/repos/TomasHubelbauer/${name}/contents/${readme}`);
+        if (content.message === 'Not Found') {
+          throw new Error(content);
+        }
+      }
+
+      // Download the readme at the alternate name or fail
+      catch (error) {
+        const oppositeReadme = readme === 'readme.md' ? 'README.md' : 'readme.md';
+        content = await download(`https://api.github.com/repos/TomasHubelbauer/${name}/contents/${oppositeReadme}`);
+      }
+
+      if (content.message.startsWith('API rate limit exceeded')) {
+        throw new Error(content.message);
+      }
+
+      content = Buffer.from(content.content, 'base64');
+      await fs.promises.writeFile(name + '.' + readme, content);
+
+      todos[name] ??= {};
+      todos[name].stamp = pushed_at;
+      todos[name].todos = [];
+      for await (const { text } of todo('todos', name + '.md')) {
+        todos[name].todos.push(text);
+      }
+
+      // TODO: Move this after the whole loop once finished development and testing
+      await fs.promises.writeFile('todos.json', JSON.stringify(todos, null, 2));
+      console.log(name);
     }
   }
 
