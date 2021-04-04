@@ -78,7 +78,8 @@ time, fetches its readme and extracts todos from it. The todos are placed into
 
 To finalize:
 
-- [ ] Delete the readme file after the todos have been collected
+- [ ] Complete the initial fetch of todos locally due to CI rate limit failure
+- [x] Delete the readme file after the todos have been collected
 - [ ] Move the saving of the `todos.json` file after the loop
 - [ ] Sort the `todos.json` object by keys alphabetically
 - [ ] Drop the history of `todos.json` and add it to the stage in the workflow
