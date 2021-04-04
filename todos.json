@@ -1,10 +1,8 @@
 {
   "acter": {
-    "stamp": "2021-03-27T16:52:16Z",
+    "stamp": "2021-04-04T16:45:31Z",
     "todos": [
-      "Handle initial roll vs reroll",
-      "Build a prototype ",
-      "Consider using a Babel plugin for this"
+      "Handle initial roll vs reroll"
     ]
   },
   "ado-dotnet-formatter": {
@@ -82,7 +80,7 @@
     ]
   },
   "albert": {
-    "stamp": "2020-05-01T14:52:13Z",
+    "stamp": "2021-04-04T17:02:46Z",
     "todos": [
       "Scrape page viewport and prevent viewport overflow in the HTML replication",
       "Figure out why some of the images do not show or maybe show elsewhere/covered",
@@ -1363,7 +1361,7 @@
     "todos": []
   },
   "js-features": {
-    "stamp": "2021-04-01T20:39:44Z",
+    "stamp": "2021-04-04T16:48:32Z",
     "todos": []
   },
   "js-for-await-throw": {
@@ -2430,7 +2428,7 @@
     ]
   },
   "tomashubelbauer": {
-    "stamp": "2021-04-04T15:59:07Z",
+    "stamp": "2021-04-04T16:04:52Z",
     "todos": []
   },
   "ts-boolean-confusion": {
