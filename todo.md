@@ -81,7 +81,6 @@ To finalize:
 - [ ] Sort the `todos.json` object by keys alphabetically
 - [ ] Drop the history of `todos.json` and add it to the stage in the workflow
 - [ ] Display the number of total todos across all repos in `readme.md`
-- [ ] Merge `todos.json` into `repositories.json`
 - [ ] Remove entries for since-deleted repositories
 
 ## Detect and warn on unindexed repositories
