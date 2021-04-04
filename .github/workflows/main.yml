@@ -34,6 +34,7 @@ jobs:
         git checkout origin/main -- followers.json repositories.json
         
         # Run the CI script
+        npm install
         node .
         
         # Stage the Git index changes resulting from the CI script
