@@ -345,9 +345,9 @@
     "todos": []
   },
   "chrome-dev-tools": {
-    "stamp": "2020-01-24T13:14:04Z",
+    "stamp": "2021-04-04T17:56:31Z",
     "todos": [
-      "Await support response about using `dotnet tool`",
+      "Fix `dotnet tool install -g dotnet-script` not working due to PATH change",
       "Add personal notes to each feature",
       "Do not commit if there are no updates",
       "Fix the script resulting in an empty MarkDown section"
@@ -2428,7 +2428,7 @@
     ]
   },
   "tomashubelbauer": {
-    "stamp": "2021-04-04T17:48:05Z",
+    "stamp": "2021-04-04T17:48:33Z",
     "todos": []
   },
   "ts-boolean-confusion": {
