@@ -80,11 +80,13 @@
     ]
   },
   "albert": {
-    "stamp": "2021-04-04T17:02:46Z",
+    "stamp": "2021-04-04T17:37:31Z",
     "todos": [
-      "Scrape page viewport and prevent viewport overflow in the HTML replication",
-      "Figure out why some of the images do not show or maybe show elsewhere/covered",
-      "Figure out how to get rid of mask faux-images",
+      "Use `canvas` to render the images and texts instead of pure HTML elements",
+      "Scrape page viewport size and prevent viewport overflow in the viewer app",
+      "Figure out why some of the images do not show or show elsewhere/covered",
+      "Add viewer UI to turn on/off individual images and texts for debugging",
+      "Figure out how to get rid of mask-type faux-images not actually in the PDF",
       "Rank image and text pairs by closeness to bounds not the center"
     ]
   },
@@ -136,10 +138,8 @@
     ]
   },
   "asp-pdf": {
-    "stamp": "2020-01-08T08:57:12Z",
-    "todos": [
-      "Figure out how to do repeating header and footer on every page in HTML"
-    ]
+    "stamp": "2021-04-04T17:44:31Z",
+    "todos": []
   },
   "async-await.net": {
     "stamp": "2021-04-01T20:07:27Z",
@@ -2428,7 +2428,7 @@
     ]
   },
   "tomashubelbauer": {
-    "stamp": "2021-04-04T16:04:52Z",
+    "stamp": "2021-04-04T17:48:05Z",
     "todos": []
   },
   "ts-boolean-confusion": {
@@ -2940,5 +2940,15 @@
   "zsh-nvm": {
     "stamp": "2020-02-04T06:07:44Z",
     "todos": []
+  },
+  "arduino-nmea": {
+    "stamp": "2021-04-02T10:08:11Z",
+    "todos": [
+      "Figure out why using SimAVR through Aptitude results in a crash",
+      "Fix the Builder not being able to find dependencies",
+      "Run SimAVR on both the Arduino CLI and the Arduino Builder builds",
+      "Look into using AVR8JS by Wokwi to simulate the Arduino and check tests",
+      "Fix Arduino CLI looking up incorrect sketch in the GitHub Actions workflow"
+    ]
   }
 }
