@@ -121,7 +121,7 @@ void async function () {
 
     // TODO: Enable this once collected the first show locally to save limit on CI
     // Update the repository readme todos if it was pushed to since the last capture
-    if (todos[name]?.stamp !== pushed_at) {
+    if (false && todos[name]?.stamp !== pushed_at) {
       const readme = todos[name]?.readme ?? 'readme.md';
       let content;
 
