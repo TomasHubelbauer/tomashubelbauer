@@ -102,3 +102,10 @@ also look for GitHub Pages link and report any repos whose GitHub Pages are
 active, but the link is not in the readme, or vice versa. Then build `pages.log`
 or similar where all the Pages sites are listed so that I can at glance see if
 anything needs removing.
+
+## Detect and report repository deletions
+
+I thought the Activity API already returned this, but it doesn't seem to, so I
+will calculate these records based on `repositories.json` and create a virtual
+event for it. This ties into the other task - to not show subsequent (in the
+reverse chronological order) events relating to deleted repositories.
