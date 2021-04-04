@@ -82,3 +82,23 @@ To finalize:
 - [ ] Drop the history of `todos.json` and add it to the stage in the workflow
 - [ ] Display the number of total todos across all repos in `readme.md`
 - [ ] Merge `todos.json` into `repositories.json`
+
+## Detect and warn on unindexed repositories
+
+I want all my repositories to be "indexed" as in being referenced by any other
+of my repositories. This is primarily to make sure I interlink repositories that
+are related, but forcing this rule on all repositories will have a nice side
+effect of forcing me to create an "index" repository of some sort, which will
+link to and categorize all my repositories. (It being the exception from index.)
+
+Do this by when fetching readmes, checking the content for links to other repos
+and building a network of relations. Repositories not included in it should
+cause the GitHub Actions workflow to fail.
+
+## Collect informtion about repos with GitHub Pages and Pages links in them
+
+Related to the repository indexing task above, while reading repository readmes,
+also look for GitHub Pages link and report any repos whose GitHub Pages are
+active, but the link is not in the readme, or vice versa. Then build `pages.log`
+or similar where all the Pages sites are listed so that I can at glance see if
+anything needs removing.
