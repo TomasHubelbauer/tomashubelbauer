@@ -119,9 +119,8 @@ void async function () {
       stats[stamp] = { stars, forks };
     }
 
-    // TODO: Enable this once collected the first show locally to save limit on CI
     // Update the repository readme todos if it was pushed to since the last capture
-    if (false && todos[name]?.stamp !== pushed_at) {
+    if (todos[name]?.stamp !== pushed_at) {
       const readme = todos[name]?.readme ?? 'readme.md';
       let content;
 
@@ -143,6 +142,15 @@ void async function () {
         throw new Error(content.message);
       }
 
+      if (content.message === 'This repository is empty.') {
+        continue;
+      }
+
+      if (content.message?.startsWith('Not Found')) {
+        console.log(name, 'readme not found');
+        continue;
+      }
+
       content = Buffer.from(content.content, 'base64');
       await fs.promises.writeFile(name + '.' + readme, content);
 
@@ -158,12 +166,10 @@ void async function () {
       }
 
       await fs.promises.unlink(name + '.' + readme);
-
-      // TODO: Move this after the whole loop once finished development and testing
-      await fs.promises.writeFile('todos.json', JSON.stringify(todos, null, 2));
-      console.log(name);
     }
   }
+
+  await fs.promises.writeFile('todos.json', JSON.stringify(todos, null, 2));
 
   // Sort the repositories object by key before persisting it to the change
   await fs.promises.writeFile('repositories.json', JSON.stringify(Object.fromEntries(Object.entries(_repositories).sort()), null, 2));

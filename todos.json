@@ -279,5 +279,2668 @@
       "Find out why Dissolve Faces is not it",
       "Find out how to introduce an edge where the vertical facesoverlap so that the top faces could be removed and a new one connecting the six points added"
     ]
+  },
+  "blender-nodes": {
+    "stamp": "2020-01-12T14:00:37Z",
+    "todos": [
+      "Go through this"
+    ]
+  },
+  "blender-op1": {
+    "stamp": "2020-01-07T09:04:07Z",
+    "todos": [
+      "Fix the dimensions to make the keyboard fit right",
+      "Finalize the square and rectangular keys including the curved taper",
+      "Design the knobs"
+    ]
+  },
+  "blender-python-intellisense": {
+    "stamp": "2020-01-08T09:14:48Z",
+    "todos": [
+      "Set up https://github.com/Korchy/blender_autocomplete"
+    ]
+  },
+  "blender-script": {
+    "stamp": "2021-04-01T21:25:18Z",
+    "todos": [
+      "Figure out how to get autocompletion for `bpy`",
+      "Set up a GitHub Actions workflow which installs Blender and runs the script"
+    ]
+  },
+  "blender-vscode": {
+    "stamp": "2020-05-20T21:35:43Z",
+    "todos": [
+      "https://b3d.interplanety.org/en/using-microsoft-visual-studio-code-as-external-ide-for-writing-blender-scripts-add-ons/"
+    ]
+  },
+  "brother-p-touch-d600": {
+    "stamp": "2020-04-01T17:56:02Z",
+    "todos": []
+  },
+  "bt-channel": {
+    "stamp": "2020-01-07T13:30:02Z",
+    "todos": [
+      "Wait for beacons support in Web Bluetooth",
+      "Prototype an iOS application exposing its bundle/group in Files using Web Bluetooth"
+    ]
+  },
+  "cameras": {
+    "stamp": "2020-10-15T22:05:18Z",
+    "todos": [
+      "Consider budging on dummy battery, caputer combined camera and battery price"
+    ]
+  },
+  "cannon-three": {
+    "stamp": "2020-07-11T12:45:54Z",
+    "todos": []
+  },
+  "canvas-chromatic-aberration": {
+    "stamp": "2021-03-26T23:55:31Z",
+    "todos": []
+  },
+  "cf-workers-deploy": {
+    "stamp": "2020-07-01T06:43:49Z",
+    "todos": []
+  },
+  "chrome": {
+    "stamp": "2020-01-13T08:46:20Z",
+    "todos": []
+  },
+  "chrome-dev-tools": {
+    "stamp": "2020-01-24T13:14:04Z",
+    "todos": [
+      "Await support response about using `dotnet tool`",
+      "Add personal notes to each feature",
+      "Do not commit if there are no updates",
+      "Fix the script resulting in an empty MarkDown section"
+    ]
+  },
+  "cinestar": {
+    "stamp": "2020-05-12T13:57:06Z",
+    "todos": [
+      "Remove titles that no longer screen from the file",
+      "Capture specific screening dates and use those to filter the screenings"
+    ]
+  },
+  "cloudflare-worker": {
+    "stamp": "2020-01-13T08:46:36Z",
+    "todos": []
+  },
+  "code-extension-screencast": {
+    "stamp": "2020-12-12T10:58:30Z",
+    "todos": [
+      "Package this as a library for use in VS Code extension building",
+      "Use this in my MarkDown To-Do and MarkDown Link Suggestions extensions",
+      "See if it is possible to pass `--inspect` to the current VS Code version",
+      "Align with https://github.com/TomasHubelbauer/vscode-bare-extension",
+      "Use https://github.com/TomasHubelbauer/svg-screencast instead of APNG for smaller size"
+    ]
+  },
+  "contenteditable": {
+    "stamp": "2020-07-12T17:17:23Z",
+    "todos": [
+      "Prototype highlighting / wrapping some portions with widgets on each edit",
+      "Test out removing the `br`s trailing paragraph `div`s to see if they matter",
+      "Consider not adjusting the `contenteditable` DOM structure only attributes"
+    ]
+  },
+  "contenteditable-focus": {
+    "stamp": "2021-04-01T19:55:33Z",
+    "todos": []
+  },
+  "contenteditable-wrap": {
+    "stamp": "2020-07-07T13:45:39Z",
+    "todos": []
+  },
+  "coq": {
+    "stamp": "2020-01-08T09:18:14Z",
+    "todos": [
+      "Look into Coq",
+      "Look into Lean",
+      "Look into F*"
+    ]
+  },
+  "cosmos-db-exploration": {
+    "stamp": "2020-01-13T08:47:10Z",
+    "todos": []
+  },
+  "cosmos-ef-udf": {
+    "stamp": "2020-01-13T08:47:25Z",
+    "todos": []
+  },
+  "cosmos-net-sdk": {
+    "stamp": "2020-01-13T08:47:46Z",
+    "todos": []
+  },
+  "cra-ast-localize": {
+    "stamp": "2021-03-27T18:46:03Z",
+    "todos": [
+      "Replace string literals with a call to a localizer function (like `localize('')`)",
+      "Warn on localization keys which are not contained within the localization files",
+      "Append the localizer function implementation and the localization resources",
+      "Observe a localized application without the need to clutter the code with resource lookup",
+      "Pull out string literals from the target using TSC",
+      "Validate the remaining sets of literals match in count and order",
+      "Replace the string literals in the target with corresponding resource strings",
+      "Add a non-CRA version hosted on GitHub Pages",
+      "Replace the hardcoded text replacement with a localizer function invocation",
+      "Finalize the alternative solution - `localize2.js`",
+      "Follow up on the problem with WebPack/Babel source map string literal info",
+      "Fix the broken shift trackers in `index.js` and finalize the implementation"
+    ]
+  },
+  "cra-hosts": {
+    "stamp": "2020-03-21T16:23:48Z",
+    "todos": [
+      "Resolve the HSTS issue",
+      "Add CORS `Access-Control-Allow-Origin` value for `local.` so that CORS works"
+    ]
+  },
+  "cra-location-hash-router": {
+    "stamp": "2021-03-26T23:58:31Z",
+    "todos": []
+  },
+  "cra-location-search-router": {
+    "stamp": "2021-03-26T23:57:59Z",
+    "todos": [
+      "Fix the GitHub Security alert",
+      "Set up GitHub Actions for the CRA and use as the GitHub Pages site"
+    ]
+  },
+  "cra-rbc": {
+    "stamp": "2020-01-13T08:59:36Z",
+    "todos": [
+      "Set up a GitHub Actions workflow for deploying GitHub Pages from `docs`"
+    ]
+  },
+  "cra-sample": {
+    "stamp": "2021-03-27T17:14:04Z",
+    "todos": []
+  },
+  "cra-sourcemap": {
+    "stamp": "2021-04-02T10:10:29Z",
+    "todos": [
+      "Help solve the Babel source map issue this ended up being",
+      "Work on cra-ast-localize once the issue is resolved"
+    ]
+  },
+  "cra-ssr-net": {
+    "stamp": "2020-01-13T08:48:04Z",
+    "todos": [
+      "Prototype this"
+    ]
+  },
+  "cra-ssr-node": {
+    "stamp": "2020-01-13T08:51:27Z",
+    "todos": [
+      "Take a look at using SSR in CRA 2 + TS with a Node BE"
+    ]
+  },
+  "cra-test-puppeteer": {
+    "stamp": "2021-03-27T00:08:37Z",
+    "todos": [
+      "Try to figure this out using these resources",
+      "Look into replicating with PlayWright as well"
+    ]
+  },
+  "cra-ts-ssr-net-core-experiment": {
+    "stamp": "2020-01-13T08:49:03Z",
+    "todos": [
+      "Continue building the experiment out",
+      "Remove the views and their assets in the BE application"
+    ]
+  },
+  "cra-ts-weirdness": {
+    "stamp": "2020-01-13T08:49:27Z",
+    "todos": [
+      "Follow up on [GitHub CRA issue](https://github.com/facebook/create-react-app/issues/6788)"
+    ]
+  },
+  "crypto-qr": {
+    "stamp": "2021-03-28T07:24:19Z",
+    "todos": [
+      "Wait for the Shape Detection API to be available in Firefox and prototype"
+    ]
+  },
+  "csfd-digest": {
+    "stamp": "2021-04-02T10:12:15Z",
+    "todos": [
+      "Remove local storage items for movies no longer in the data",
+      "Scrape all cities, not just Prague and add a switcher and geolocation integration",
+      "Order selected cinemas first then unselected to avoid concealing selection with scroll",
+      "Add a timeline kind control to the movie page for screenings",
+      "Use a better cinema picker (all/remembered cinemas by default)",
+      "Add a search & filter strip between cinemas and movies ",
+      "Add a notification when marking movies as watched and deleted",
+      "See if I can link directly to purchase from the time slot",
+      "Remove time slots which are not up to date",
+      "Display production country and original title if available",
+      "Display a date range in the card to see how much time is left to see the movie",
+      "Scrape and display movie ratings in the cards",
+      "Use the history API instead of hashes",
+      "Fix player fullscreen dismissing the popup for some reason",
+      "Hook up Esc to dismiss the modal",
+      "Consider running the pipeline with Puppeteer-Firefox in parallel with Chrome",
+      "Minimize modal top margin on mobile",
+      "Make the YouTube embed 100% modal width on mobile",
+      "Reset modal scroll position when opening new movie on mobile",
+      "See if modal scroll can be made smooth like main scroll in iOS Safari",
+      "Display a note if no screening dates are available in the selected cinemas",
+      "Add in and out transition animation for the popup",
+      "Fix 3D animation perspective for the tile shake on mobile",
+      "Render the movie popup by loading the movie file when opened in both versions",
+      "Fix some movies not getting deleted - not in index but have data files",
+      "Send descriptions in the email with new movies",
+      "Consider rendering the movie gallery statically into the HTML"
+    ]
+  },
+  "css-fading-box-shadow": {
+    "stamp": "2020-01-07T09:19:13Z",
+    "todos": []
+  },
+  "css-gradual-box-shadow": {
+    "stamp": "2020-01-07T09:19:39Z",
+    "todos": [
+      "Code up and document the alternatives as well"
+    ]
+  },
+  "css-merry-go-round": {
+    "stamp": "2020-01-07T09:20:15Z",
+    "todos": [
+      "Lift this to be its own lyrics timing app"
+    ]
+  },
+  "css-message-bubble": {
+    "stamp": "2020-01-07T09:20:29Z",
+    "todos": []
+  },
+  "css-post-grid-design": {
+    "stamp": "2020-01-07T09:20:58Z",
+    "todos": [
+      "Make redesign challenges a thing and create an umbrella for it"
+    ]
+  },
+  "css-scroll-indicator": {
+    "stamp": "2020-06-13T09:34:30Z",
+    "todos": [
+      "Adjust for the horizontal scroll case"
+    ]
+  },
+  "css-shadow-arrow-popup": {
+    "stamp": "2020-01-07T09:21:20Z",
+    "todos": []
+  },
+  "css-wrap": {
+    "stamp": "2020-09-05T17:16:42Z",
+    "todos": [
+      "Fix the short-first-bug"
+    ]
+  },
+  "csv": {
+    "stamp": "2020-02-10T06:10:07Z",
+    "todos": []
+  },
+  "dapper-sqlite": {
+    "stamp": "2020-01-13T08:50:21Z",
+    "todos": [
+      "Finalize this"
+    ]
+  },
+  "data-uri": {
+    "stamp": "2021-03-27T00:10:47Z",
+    "todos": [
+      "Add an option to generate a JavaScript template string literal with breaks"
+    ]
+  },
+  "day": {
+    "stamp": "2020-01-13T08:50:05Z",
+    "todos": [
+      "Extract the Files snippet to its own repo and drop this app"
+    ]
+  },
+  "deno-deploy": {
+    "stamp": "2021-03-30T12:13:49Z",
+    "todos": [
+      "Check this out"
+    ]
+  },
+  "dom-custom-event-capture": {
+    "stamp": "2021-02-24T09:36:56Z",
+    "todos": [
+      "Figure out the correct way of placing children to a custom element"
+    ]
+  },
+  "dom-local-storage-perf": {
+    "stamp": "2021-03-27T00:11:49Z",
+    "todos": [
+      "Describe what the two tests do and present the results in the readme"
+    ]
+  },
+  "dotnet-scripts": {
+    "stamp": "2020-01-13T08:51:42Z",
+    "todos": []
+  },
+  "dotnet-unhandled-exception": {
+    "stamp": "2020-01-13T08:52:03Z",
+    "todos": []
+  },
+  "edge": {
+    "stamp": "2021-03-31T09:46:43Z",
+    "todos": [
+      "Test out the hack to disabled Restore Pages"
+    ]
+  },
+  "edge-repro": {
+    "stamp": "2021-03-26T22:12:38Z",
+    "todos": []
+  },
+  "ef-array-column": {
+    "stamp": "2019-12-08T20:27:48Z",
+    "todos": [
+      "Prototype with the converter",
+      "See how SQLite/SQL Server JSON support could be used (maybe a stored procedure directly or in the converter)"
+    ]
+  },
+  "ef-clear": {
+    "stamp": "2020-01-13T09:01:32Z",
+    "todos": []
+  },
+  "ef-cosmos-embedded-inheritance": {
+    "stamp": "2019-12-08T20:40:30Z",
+    "todos": [
+      "Demonstrate `OwnsOne` and `OwnsMany` with a non-inheriting entity",
+      "Embed `Admin` into something else to prolong the embedance chain to see if that causes an error",
+      "Try to use `OwnsMany` and introduce multiple favorites"
+    ]
+  },
+  "ef-cosmos-embedded-null": {
+    "stamp": "2020-01-13T09:01:58Z",
+    "todos": []
+  },
+  "ef-cosmos-union-type": {
+    "stamp": "2019-12-08T20:39:15Z",
+    "todos": [
+      "Try to see if this will work with SQL Server"
+    ]
+  },
+  "ef-ephemeral-localdb": {
+    "stamp": "2019-12-09T21:41:17Z",
+    "todos": [
+      "Redo to be an extension to the options builder (`UseLocalDb(scope)`)",
+      "Consider removing the idea of the scope entirely and provide user just with the methods",
+      "Find out if SQL Server LocalDB is installed in GitHub Actions Windows agent"
+    ]
+  },
+  "ef-fk": {
+    "stamp": "2020-01-13T09:02:20Z",
+    "todos": []
+  },
+  "ef-implicit-transaction": {
+    "stamp": "2019-12-08T20:44:56Z",
+    "todos": [
+      "Find a way to use ILoggingBuilder in a console application",
+      "Find out if Dapper bulk delete works"
+    ]
+  },
+  "ef-include-clear": {
+    "stamp": "2020-01-13T09:02:36Z",
+    "todos": [
+      "Add the DbSet properties here"
+    ]
+  },
+  "ef-json-provider": {
+    "stamp": "2019-12-08T19:00:20Z",
+    "todos": [
+      "Trace out more of the calls to the Pomelo provider EF Core makes",
+      "Replicate the Pomelo provider in my own codebase and use JSON files instead",
+      "Figure out how to build and link EF Core from the submodule",
+      "Instrument the source-built EF Core dependency as well as Pomelo"
+    ]
+  },
+  "ef-logging": {
+    "stamp": "2020-01-07T09:21:59Z",
+    "todos": [
+      "Update to include the alternative"
+    ]
+  },
+  "ef-relationship": {
+    "stamp": "2019-12-08T20:43:27Z",
+    "todos": [
+      "Do the above",
+      "Fix the misspelling of \"dependant\" in the repo name and the source code"
+    ]
+  },
+  "ef-seed-ids": {
+    "stamp": "2020-01-13T09:02:50Z",
+    "todos": []
+  },
+  "ef-sql": {
+    "stamp": "2019-12-08T20:42:19Z",
+    "todos": [
+      "Turn this into a hosted app (Azure Function?) and offer it as a tool for the dev community",
+      "https://github.com/aspnet/EntityFrameworkCore/wiki/Getting-and-Building-the-Code and debug passing a `First` expression",
+      "Mention the detailed logging option which shows the executed SQL statements"
+    ]
+  },
+  "ef-sqlite": {
+    "stamp": "2021-04-04T14:39:35Z",
+    "todos": [
+      "Retest now that SQLite table rebuilds have landed"
+    ]
+  },
+  "eink": {
+    "stamp": "2020-01-16T09:49:30Z",
+    "todos": [
+      "Buy a dev kit and play around with these"
+    ]
+  },
+  "electron-inspect-require": {
+    "stamp": "2020-01-13T09:03:12Z",
+    "todos": []
+  },
+  "electron-self-screenshot": {
+    "stamp": "2020-01-13T09:03:25Z",
+    "todos": []
+  },
+  "electron-xvfb": {
+    "stamp": "2021-03-27T00:13:41Z",
+    "todos": [
+      "See if this is still up to date with latest Electron and VS Code"
+    ]
+  },
+  "eml": {
+    "stamp": "2020-03-03T19:05:54Z",
+    "todos": [
+      "Split long HTML lines contextually in order not to break semantics",
+      "Split long plain text lines",
+      "Split long header values",
+      "Allow multiple senders and recipients",
+      "Add more range and format checks throughout",
+      "Add a helper for attachments",
+      "Include the plain text variant even with HTML-only emails with no multiparts",
+      "Add encoding to the plain and HTML variants to support Unicode"
+    ]
+  },
+  "eml-attachments": {
+    "stamp": "2020-05-31T00:01:12Z",
+    "todos": []
+  },
+  "eml-html": {
+    "stamp": "2020-05-30T23:59:14Z",
+    "todos": []
+  },
+  "esm-dataview-getvarint": {
+    "stamp": "2021-03-27T16:00:49Z",
+    "todos": []
+  },
+  "esm-defer": {
+    "stamp": "2021-03-18T07:15:40Z",
+    "todos": []
+  },
+  "esm-delay": {
+    "stamp": "2021-03-18T07:09:59Z",
+    "todos": []
+  },
+  "esm-dynamic-module": {
+    "stamp": "2020-09-04T21:07:46Z",
+    "todos": []
+  },
+  "esm-list-zip": {
+    "stamp": "2020-08-27T17:26:54Z",
+    "todos": [
+      "Fix several spots in the code assuming full response where only a portion might be available",
+      "Add instructions for installing a ranged HTTP server (`npx serve`?)",
+      "Extract and render image entries to allow preview as they scroll into view",
+      "Find out if the HTTP range header is supported by PHP so we can use a built-in server"
+    ]
+  },
+  "esm-matrix": {
+    "stamp": "2020-03-28T16:02:46Z",
+    "todos": [
+      "Finalize the mutable versions",
+      "Add more invariant checks",
+      "Avoid running the tests on each `import`, pull them out for running ad-hoc"
+    ]
+  },
+  "esm-module-scope": {
+    "stamp": "2021-03-07T19:00:41Z",
+    "todos": []
+  },
+  "esm-obj": {
+    "stamp": "2020-03-28T16:16:21Z",
+    "todos": [
+      "Add the promised support for edge parsing",
+      "Add a test comprising of various OBJ files and their JSON representations",
+      "Consider adding support for more advanced OBJ shapes",
+      "Consider adding support for textures"
+    ]
+  },
+  "esm-svg-timeseries": {
+    "stamp": "2020-03-28T18:04:56Z",
+    "todos": [
+      "Do a better reconciliation than clearing `innerHTML` and appending a fragment",
+      "Handle empty data either by rendering nothing or empty axes with no offsets",
+      "Implement rendering axis markets with intelligent increment on both axes",
+      "Use correct stamp representation automatically"
+    ]
+  },
+  "esm-uzip-js": {
+    "stamp": "2021-03-27T00:18:17Z",
+    "todos": [
+      "Purge the timestamp-only commits from the history"
+    ]
+  },
+  "esm2cjs": {
+    "stamp": "2020-11-22T19:06:47Z",
+    "todos": [
+      "Address code to-do comments",
+      "Support all `export` and `import` variants"
+    ]
+  },
+  "fatcow-icons": {
+    "stamp": "2020-08-15T12:54:00Z",
+    "todos": [
+      "Consider allowing to associate custom aliases with the icons which",
+      "Consider aliasing icons with common synonyms",
+      "Add a screenshot and a script to generate one",
+      "Extract the `inflareRaw` logic from UZIP and tailor it to this application",
+      "Enable ICO downloads by loading also the ICO ZIP and extracting from it",
+      "Consider adding tabs for the `grey` and `colors` variants of the icons",
+      "Add custom icons made in this same style for the things I'm missing",
+      "Check the dimension and type exists before creating a button for it",
+      "Consider also adding Silk and Fugue icons or creating spin-off apps for them",
+      "Prepare an empty array buffer of the HEAD response size and a download map",
+      "Figure out why scrolling up causes the lines to jump in Firefox (not mobile)",
+      "Indicate the image is loading by settings its `src` to loader first"
+    ]
+  },
+  "fetch-download-progress": {
+    "stamp": "2020-01-08T09:29:31Z",
+    "todos": []
+  },
+  "fetch-range-request": {
+    "stamp": "2020-01-09T19:12:23Z",
+    "todos": []
+  },
+  "ffmpeg-crop-image": {
+    "stamp": "2020-01-08T09:29:49Z",
+    "todos": []
+  },
+  "ffmpeg-iphone-screen-record": {
+    "stamp": "2020-02-11T11:56:41Z",
+    "todos": [
+      "Use the .NET bindings for ilibmobiledevice to make this work on Windows"
+    ]
+  },
+  "ffmpeg-resize-image": {
+    "stamp": "2021-04-01T21:11:06Z",
+    "todos": []
+  },
+  "ffmpeg-stream-input-image-set": {
+    "stamp": "2020-01-08T09:31:09Z",
+    "todos": []
+  },
+  "firefox": {
+    "stamp": "2021-04-04T14:59:49Z",
+    "todos": []
+  },
+  "firefox-cors": {
+    "stamp": "2020-02-27T18:13:22Z",
+    "todos": []
+  },
+  "flex-equidistant-children": {
+    "stamp": "2020-01-13T09:09:06Z",
+    "todos": []
+  },
+  "flip-fluids": {
+    "stamp": "2020-01-25T06:07:06Z",
+    "todos": [
+      "Try this out"
+    ]
+  },
+  "fluent-table": {
+    "stamp": "2021-04-02T10:12:38Z",
+    "todos": [
+      "Implement theming",
+      "Fix the CI/CD"
+    ]
+  },
+  "fragment": {
+    "stamp": "2020-01-07T09:29:37Z",
+    "todos": [
+      "Set up an `.npmignore` for `publish` to use",
+      "Create releases using GitHub Actions replacing Azure Pipelines",
+      "Fix the remaining TypeScript errors in the pipeline",
+      "Await to see if either `fragment` or `fragmentjs` package name will be donated and migrate to it if either",
+      "Change to \"partial VDOM\"",
+      "When we've exhausted target node count and still have fragment nodes, add all in bulk",
+      "Add support for keys",
+      "See if there is a good way to recognize binary attributes and allow setting them using booleans (`setAttribute`?)",
+      "Use a mutation observer to be able to tell the DOM has changed while reconciling",
+      "Create a demo comparing Fragment with React and Vue",
+      "Add a mechanism for rendering raw HTML",
+      "Document performance monitoring approaches used to determine the performance characteristics of Fragments",
+      "Add a license file"
+    ]
+  },
+  "fuck-you-stale-bot": {
+    "stamp": "2020-04-10T14:36:58Z",
+    "todos": [
+      "Set up CI which updates the readme with Stale bot's damaging actions"
+    ]
+  },
+  "garmin-img": {
+    "stamp": "2020-01-07T09:30:19Z",
+    "todos": []
+  },
+  "gfm-fenced-code-block-diff-lang": {
+    "stamp": "2020-10-26T13:57:02Z",
+    "todos": []
+  },
+  "git": {
+    "stamp": "2021-04-04T14:51:56Z",
+    "todos": []
+  },
+  "git-config": {
+    "stamp": "2020-01-03T16:25:04Z",
+    "todos": []
+  },
+  "git-erase": {
+    "stamp": "2020-01-08T09:33:56Z",
+    "todos": [
+      "Fix the workflow not deleting the history"
+    ]
+  },
+  "git-filter-branch": {
+    "stamp": "2020-12-06T12:34:05Z",
+    "todos": []
+  },
+  "git-submodule": {
+    "stamp": "2019-12-10T20:48:09Z",
+    "todos": []
+  },
+  "github": {
+    "stamp": "2021-04-02T09:52:09Z",
+    "todos": []
+  },
+  "github-80-120-characters": {
+    "stamp": "2021-03-27T00:23:29Z",
+    "todos": [
+      "Run the Puppeteer script in GitHub Actions and push `screenshot.png` from it",
+      "Set up GitHub Pages with links to the extension stores to use as a repo URL",
+      "Cut GitHub Releases after each version change with links to the stores",
+      "Rename the repository and the extensions to GitHub Rulers",
+      "Generate the store and readme images using Puppeteer in GitHub Actions"
+    ]
+  },
+  "github-actions": {
+    "stamp": "2020-08-27T16:04:08Z",
+    "todos": [
+      "Learn about artifacts and demonstrate them",
+      "Go through the docs and document interesting features",
+      "See if the workflow files can be simplifed like with Azure Pipelines"
+    ]
+  },
+  "github-actions-badge": {
+    "stamp": "2021-03-27T00:24:04Z",
+    "todos": []
+  },
+  "github-actions-bash": {
+    "stamp": "2019-12-31T06:04:50Z",
+    "todos": [
+      "Check out Bash version and other discrepancies to find the source of the difference"
+    ]
+  },
+  "arduino-qr": {
+    "stamp": "2021-04-03T20:15:44Z",
+    "todos": [
+      "Receive the matrices and try to hook them up together and to an Arduino"
+    ]
+  },
+  "github-actions-snap": {
+    "stamp": "2019-12-08T06:03:41Z",
+    "todos": [
+      "Figure out how to use Snap-installed software in GitHub Actions"
+    ]
+  },
+  "github-actions-wsl": {
+    "stamp": "2020-08-19T12:05:58Z",
+    "todos": [
+      "Try WSL2 out as it seems to be a part of the Windows image used now"
+    ]
+  },
+  "github-api": {
+    "stamp": "2020-05-20T15:57:24Z",
+    "todos": []
+  },
+  "github-backuper": {
+    "stamp": "2021-04-02T10:14:55Z",
+    "todos": [
+      "Backup self only when ran in \"production\" mode not in development",
+      "Use a credential manager",
+      "Detect empty repositories in a better/faster way"
+    ]
+  },
+  "github-codespace": {
+    "stamp": "2020-08-06T20:04:13Z",
+    "todos": []
+  },
+  "github-comments": {
+    "stamp": "2020-05-06T15:30:27Z",
+    "todos": []
+  },
+  "github-followers": {
+    "stamp": "2020-05-13T05:56:00Z",
+    "todos": []
+  },
+  "github-linguist": {
+    "stamp": "2021-04-01T21:10:07Z",
+    "todos": []
+  },
+  "github-pages": {
+    "stamp": "2020-05-03T20:13:19Z",
+    "todos": []
+  },
+  "github-pages-custom-domain": {
+    "stamp": "2019-12-08T20:01:57Z",
+    "todos": [
+      "See if both WWW and APEX domain setup is possible"
+    ]
+  },
+  "github-pages-osm-pbf": {
+    "stamp": "2021-03-27T16:49:37Z",
+    "todos": [
+      "Consider possible approaches usable to bring the PBFs below the repo limits",
+      "Develop a web app for rendering the vectors",
+      "Develop the PBF viewer to build the map rendered upon",
+      "Set up updating the PBF to latest daily using GitHub Actions and no history",
+      "Detect inability to download the PBF using ranged requests",
+      "Figure out the structure of the PBF stream and the compression used in data"
+    ]
+  },
+  "github-pages-status": {
+    "stamp": "2020-02-14T16:35:42Z",
+    "todos": [
+      "Collect the Pages using `github-api`",
+      "Digest the list in the readme",
+      "Add a health check for each of the Pages",
+      "Add other own sites I wish the health checks for"
+    ]
+  },
+  "github-pages-theme": {
+    "stamp": "2020-04-15T15:11:09Z",
+    "todos": [
+      "Create and try out a custom theme"
+    ]
+  },
+  "github-releases": {
+    "stamp": "2020-05-11T13:42:42Z",
+    "todos": [
+      "Consider scraping my repos watched for releases off GitHub until API'd",
+      "Encode the email properly so that emoji shows up correctly",
+      "Convert shortcodes in the repository descriptions to emoji",
+      "Update the email copy to say the checked period",
+      "Parallelize the network calls",
+      "Consider limit-saving strategies"
+    ]
+  },
+  "github-serverless-app": {
+    "stamp": "2019-12-08T20:05:19Z",
+    "todos": [
+      "Figure out next steps"
+    ]
+  },
+  "github-tarball": {
+    "stamp": "2020-08-04T21:05:24Z",
+    "todos": [
+      "Decide how to handle files which do not contain their relative directory",
+      "Fix padding NUL byte detection at the end of the archive"
+    ]
+  },
+  "globe-design": {
+    "stamp": "2020-05-20T10:48:57Z",
+    "todos": []
+  },
+  "globe-perf": {
+    "stamp": "2020-05-11T14:45:40Z",
+    "todos": [
+      "Profile Intl and Globe and determine the bottle-neck in Globe"
+    ]
+  },
+  "globus": {
+    "stamp": "2021-04-02T10:15:37Z",
+    "todos": [
+      "Use Playwright Firefox to scrape the PDF instead",
+      "Use text and image coordinates to group them into clusters by proximity",
+      "Generate an HTML page for visualizing what the script associated in clustering",
+      "Set up Github Actions and run the extractor in one using a scheduled trigger"
+    ]
+  },
+  "hn-comments": {
+    "stamp": "2020-02-24T18:57:53Z",
+    "todos": [
+      "Monitor the Hacker News \"Threads\" page and email on replies"
+    ]
+  },
+  "hn-karma": {
+    "stamp": "2020-05-12T13:56:14Z",
+    "todos": []
+  },
+  "html-data-view-box": {
+    "stamp": "2020-01-09T19:32:12Z",
+    "todos": [
+      "Add proper support for grouping by color (probably extend `labels` to be objects)",
+      "Change layout to be columns side by side to allow automatic widths and global styling of all column cells",
+      "Add an attribute for the number of cells (default based on viewport)",
+      "Adjust the number of rows automatically if dimensions change (add/remove)",
+      "Recycle rows that go out of view and generally shift and reuse rows in group",
+      "See if flex on the line might be faster than `display: inline-block` on the spans",
+      "Consider introducing a toggle for the stick-line behavior",
+      "Fix performance issues now that the view contains all of hex, dec and ASCII",
+      "Refactor the web component to use class fields more intelligently",
+      "Wrap everything currently in the shadow DOM in one more `div` to apply the `padding`",
+      "Export using ESM to make the web component usable in other projects"
+    ]
+  },
+  "html-details-hash": {
+    "stamp": "2021-04-03T17:35:27Z",
+    "todos": []
+  },
+  "html-input-joystick": {
+    "stamp": "2020-03-27T22:12:51Z",
+    "todos": []
+  },
+  "html-live-text": {
+    "stamp": "2019-12-09T02:47:51Z",
+    "todos": [
+      "Fix the broken animation on the time element"
+    ]
+  },
+  "html-responsive-table": {
+    "stamp": "2020-01-09T19:33:37Z",
+    "todos": [
+      "Clean the entire document to remove historical bits",
+      "Package the final version as an ESM module and host using GitHub Pages"
+    ]
+  },
+  "html-video": {
+    "stamp": "2021-03-18T22:17:05Z",
+    "todos": [
+      "See if there is an alternative to `createWriter` to use instead of memory cache",
+      "Research the ability to upload the data to an endpoint in chunks",
+      "Revoke URL after download or on unload",
+      "Add a `svg-screencast` backend to generate animated SVGs over the WebMs"
+    ]
+  },
+  "html-video-frame-extractor": {
+    "stamp": "2021-03-19T07:56:46Z",
+    "todos": [
+      "Add an ETA display for remaining time estimation",
+      "Display only the `canvas` element and hide the `video` element",
+      "Fix blank video and canvas on iOS",
+      "Provide a user friendly way of showing and testing bulk download"
+    ]
+  },
+  "html-video-scrubber": {
+    "stamp": "2020-05-23T19:02:15Z",
+    "todos": [
+      "Add a WebM version to support Safari which currently lacks VP9 support",
+      "Finalize the seeking filling version and add one for playing, too"
+    ]
+  },
+  "hyperv": {
+    "stamp": "2020-04-10T16:14:28Z",
+    "todos": [
+      "Await activity on the SO question",
+      "Check out https://github.com/smourier/VIM2VHD",
+      "Try next steps:",
+      "Finalize creating and destroying Hyper-V Windows machines using PowerShell",
+      "Install Windows 10 from the ISO in an unattended mode",
+      "Configure the VM (copy/mount data and script, run script)",
+      "Take out data from the VM",
+      "Close and destroy the VM",
+      "Measure how long all this takes",
+      "Check this out"
+    ]
+  },
+  "icons": {
+    "stamp": "2020-08-27T17:12:14Z",
+    "todos": [
+      "Implement client-side search and unarchival like https://tomashubelbauer.github.io/fatcow-icons/",
+      "Add information on what HTTP server to use locally to test range request support"
+    ]
+  },
+  "infosec": {
+    "stamp": "2020-12-13T22:11:24Z",
+    "todos": []
+  },
+  "insta360": {
+    "stamp": "2019-12-12T06:03:36Z",
+    "todos": [
+      "Capture the Wi-Fi log"
+    ]
+  },
+  "instagram": {
+    "stamp": "2020-05-09T21:12:31Z",
+    "todos": [
+      "Create a direcctory instead of a single JSON",
+      "Download the posts to back them up"
+    ]
+  },
+  "ios-app-web-control": {
+    "stamp": "2019-12-09T03:39:55Z",
+    "todos": [
+      "Implement the QR channel",
+      "Introduce and audio log view"
+    ]
+  },
+  "ios-keyboard-padding": {
+    "stamp": "2020-03-15T11:26:12Z",
+    "todos": []
+  },
+  "ios-photos-metadata": {
+    "stamp": "2020-01-07T09:44:11Z",
+    "todos": [
+      "Generate a JPG with EXIF metadata and see if WhatsApp will preserve the EXIF",
+      "Use `a[download]`",
+      "See if using a non-standard keyword will be treated differently",
+      "Document that in iOS 13 generalized file downloading solves this issue"
+    ]
+  },
+  "is4a-leaderboard": {
+    "stamp": "2021-04-04T00:14:25Z",
+    "todos": [
+      "Generate the HTML output directly and use it for both email and web",
+      "Generate a MarkDown readme section in addition to the email and web",
+      "Calculate the milestones all the way back to the beginning using the GitHub Stars API",
+      "Display the duration between milestones in a human-friendly relative format",
+      "Split the position column into two",
+      "Add rules atop Milestones and Contenders headings",
+      "Delete all releases"
+    ]
+  },
+  "isds-backup": {
+    "stamp": "2020-08-29T08:55:31Z",
+    "todos": [
+      "Replace the attachment download timeout with a check for no `.crdownload`",
+      "Alert on new messages by pointing them out in the console",
+      "Run headless and have a different UI to present the QR code and progress in"
+    ]
+  },
+  "isogit-pull": {
+    "stamp": "2021-04-02T10:33:54Z",
+    "todos": []
+  },
+  "isogit-pull-repo": {
+    "stamp": "2020-02-14T19:30:44Z",
+    "todos": []
+  },
+  "iwr-cookie": {
+    "stamp": "2020-01-31T20:41:11Z",
+    "todos": []
+  },
+  "javascript": {
+    "stamp": "2019-12-20T06:05:24Z",
+    "todos": [
+      "Check out Reason",
+      "Check out Elm",
+      "Check out Svelte",
+      "Check out Scala",
+      "Build a demo app in Kotlin",
+      "Build a pure Babel reference project for myself",
+      "Check out Ember",
+      "Check out Stencil",
+      "Check out Polymer",
+      "Check out Meteor",
+      "Check out Next",
+      "Check out Cycle",
+      "Check out Apollo",
+      "Build something public with GraphQL",
+      "Check out Relay",
+      "Check out Capacitor",
+      "Check out Koa",
+      "Check out Sails",
+      "Check out Feathers",
+      "Build something public with Jest",
+      "Build something public with Mocha",
+      "Showcase Storybook",
+      "Check out Cypress",
+      "Showcase Enzyme",
+      "Check out Ava",
+      "Check out Jasmine",
+      "Put together a showcase for Puppeteer",
+      "Check out the React Testing Library",
+      "Check out Tape",
+      "Check out Sinon",
+      "Research Cordova, Ionic, Capacitor and how it all relates today",
+      "Check out Expo",
+      "Check out Flutter I guess",
+      "Check out Dart begrudgingly",
+      "Check out Parcel and Rollup progress",
+      "Check on FuseBox again"
+    ]
+  },
+  "jira-annotate": {
+    "stamp": "2020-01-13T09:05:20Z",
+    "todos": []
+  },
+  "js-array-groups": {
+    "stamp": "2020-03-23T19:26:02Z",
+    "todos": []
+  },
+  "js-deferred": {
+    "stamp": "2020-07-04T06:55:40Z",
+    "todos": []
+  },
+  "js-ecosystem-review": {
+    "stamp": "2020-01-13T09:05:45Z",
+    "todos": [
+      "Automate managing the sections (add for risen, remove for fallen, order)",
+      "Collect historical data and generate a chart of lib leaderboards",
+      "Look into Semantic",
+      "Look into Chart",
+      "Learn about Materialize",
+      "Compare with Express",
+      "Explore this",
+      "Find out how this differs from Lodash actually",
+      "Check out Mermaid",
+      "Check out Quill",
+      "Compare React, Preact and Inferno",
+      "Find how this compares to MobX",
+      "Learn about Ember",
+      "Learn about Sequalize",
+      "Compare Moment, Luxon, Day and DateFns",
+      "Compare Saga, Thunk and manual",
+      "Give an ernest try to Jest and Mocha and Enzyme",
+      "Also compare",
+      "Compare with Parcel",
+      "Check out Howler",
+      "Do the rest"
+    ]
+  },
+  "js-esm": {
+    "stamp": "2020-01-13T09:06:29Z",
+    "todos": []
+  },
+  "js-features": {
+    "stamp": "2021-04-01T20:39:44Z",
+    "todos": []
+  },
+  "js-for-await-throw": {
+    "stamp": "2020-02-13T20:20:06Z",
+    "todos": []
+  },
+  "js-generators": {
+    "stamp": "2021-02-24T19:36:47Z",
+    "todos": []
+  },
+  "js-headset-button": {
+    "stamp": "2020-01-09T19:41:38Z",
+    "todos": [
+      "Log into the Google account on the Android phone and update Chrome",
+      "Try this out and document results"
+    ]
+  },
+  "js-infinite-scroll": {
+    "stamp": "2021-04-01T20:45:49Z",
+    "todos": [
+      "Achieve smooth scroll on the horizontal axis as well",
+      "Fix behavior on Windows Firefox where scrolling to the causes oscilation",
+      "Try to preserve the scroll momentum when using the touchpad",
+      "Package up as an ESM library and add depending instructions to the readme"
+    ]
+  },
+  "js-keyboard-event-init-which": {
+    "stamp": "2020-07-12T06:06:40Z",
+    "todos": []
+  },
+  "js-markdown": {
+    "stamp": "2020-01-10T13:52:29Z",
+    "todos": [
+      "Implement continuing quote blocks without the subsequent block markers",
+      "Implement parsing fenced code blocks",
+      "Store cursor position on the block and span objects",
+      "Select the block/span region in the text area when hovered over in the list",
+      "Implement parsing italic nested in bold and bold nested in italic",
+      "Fix empty italics parsing as bold",
+      "Fix empty code span not appearing at all in the output"
+    ]
+  },
+  "js-markdown-parser": {
+    "stamp": "2019-07-24T14:20:33Z",
+    "todos": []
+  },
+  "js-milestone": {
+    "stamp": "2020-01-08T09:39:49Z",
+    "todos": [
+      "Set up deployments to NPM and GPR with GitHub Actions"
+    ]
+  },
+  "js-parser": {
+    "stamp": "2019-06-24T14:51:51Z",
+    "todos": []
+  },
+  "js-protobuf": {
+    "stamp": "2021-03-27T16:01:39Z",
+    "todos": [
+      "Recognize strings whose embedded content is just the same string",
+      "Extend the library to cover both scenarios without and with a schema",
+      "Compare my implementation with NNN.js",
+      "Use `getVarint` from my ESM varint library"
+    ]
+  },
+  "js-qr-scanner-library-comparison": {
+    "stamp": "2019-11-28T21:26:36Z",
+    "todos": [
+      "Hook up Instascan in some way which allows scanning `video` element"
+    ]
+  },
+  "js-spread-args": {
+    "stamp": "2020-01-13T09:07:35Z",
+    "todos": []
+  },
+  "js-time-zone-research": {
+    "stamp": "2020-01-13T09:07:51Z",
+    "todos": []
+  },
+  "k40": {
+    "stamp": "2021-03-01T18:52:28Z",
+    "todos": [
+      "Get this on Scihub"
+    ]
+  },
+  "kali": {
+    "stamp": "2020-02-13T21:40:01Z",
+    "todos": []
+  },
+  "keytar-vscode-extension": {
+    "stamp": "2019-11-28T21:27:17Z",
+    "todos": [
+      "Finalize patching the generated extension's `package.json`"
+    ]
+  },
+  "linode-nginx": {
+    "stamp": "2020-01-13T09:08:06Z",
+    "todos": []
+  },
+  "local-dev": {
+    "stamp": "2020-03-04T17:50:11Z",
+    "todos": []
+  },
+  "lsp-plugin": {
+    "stamp": "2021-03-07T18:47:42Z",
+    "todos": []
+  },
+  "mac-os-qemu": {
+    "stamp": "2020-01-13T09:08:29Z",
+    "todos": []
+  },
+  "macos-date-time": {
+    "stamp": "2020-05-12T17:12:46Z",
+    "todos": []
+  },
+  "mapsforge": {
+    "stamp": "2020-01-08T09:42:31Z",
+    "todos": [
+      "Parse the tile index entries and the tiles themselves"
+    ]
+  },
+  "markdown-lsp": {
+    "stamp": "2019-12-09T03:51:26Z",
+    "todos": [
+      "Create this based on the existing extensions",
+      "Switch the MarkDown To-Do extensions and the MarkDown Link Suggestions extension to use this LSP under the hood",
+      "Base the MarkDown parsing and interpretation work on the MarkDown DOM / mdom experiments"
+    ]
+  },
+  "markdown-webp": {
+    "stamp": "2020-03-29T07:54:25Z",
+    "todos": [
+      "Ensure the MP4 claim is correct",
+      "Test out APNG and MNG in GitHub and VS Code MarkDown previews"
+    ]
+  },
+  "markright": {
+    "stamp": "2021-03-27T00:22:14Z",
+    "todos": [
+      "Address code to-do comments",
+      "Cache the unchanged layers",
+      "Think about VS Code Intellisense support",
+      "Use a more concise syntax for shell code block info string options",
+      "Consider allowing regex pre-processing in standard I/O checks",
+      "Support mixed `+` and `-` in patch and support unchanged lines in patch",
+      "Add support for taking in changes and turning them to MarkRight instructions",
+      "Fix the `Pkg: Error reading from file.` error using `rcedit` on the binary",
+      "Fix changes in the document picked out by the watcher resulting in empty run",
+      "Consider enabling printing stdout/stderr of a long running script out",
+      "Allow using a regex for `stdout` check to be able to capture optional lines",
+      "Allow marking scripts by the platform they should run on",
+      "Fix fenced code block with just `powershell` for language creating a file",
+      "Develop a VS Code extension which bundles MarkRight and runs it on `*.md`",
+      "Allow titling shell code blocks",
+      "Add a command line option to erase the directory prior to the run",
+      "Offer an option to run in Windows Sandbox by using a shared directory",
+      "Add a `node` shell script type which runs Node and tell the version used",
+      "Fix the issue with binaries not being found in `%PATH%` when they are there",
+      "Allow running the whole MarkRight document execution in Windows Sandbox",
+      "Allow inspecting the standard output of any script using `markright stdout`",
+      "Check that the language tag is a-z0-9 and pull impl from `lang/${tag}`",
+      "Allow a script to be both executed and output to a file at once",
+      "Make ESM2CJS ignore (or select) given files to avoid changes in submodules",
+      "Polish VS Code screencast and use for programmatic animated screenshot",
+      "Replace previous output line with the current one and show step counter",
+      "Use Caxa for ESM-compatible executable packaging and drop ESM2CJS"
+    ]
+  },
+  "markright-blender": {
+    "stamp": "2020-11-08T19:54:09Z",
+    "todos": []
+  },
+  "markright-vscode": {
+    "stamp": "2020-11-26T11:15:59Z",
+    "todos": [
+      "Use `npm list --global yo` to check Yeoman installation and version",
+      "Use `npm list generator-code` to check `generator-code` local installation",
+      "Consider feeding `generator-code` stdin instead of the CLI arguments",
+      "Add CodeLens lines for each MarkRight code block with actions and notes",
+      "Switch to `vscode-barebones-extension` once it supports `npm test`"
+    ]
+  },
+  "mime-multipart": {
+    "stamp": "2020-03-13T10:50:50Z",
+    "todos": []
+  },
+  "mma": {
+    "stamp": "2020-04-01T13:28:03Z",
+    "todos": []
+  },
+  "modern-office-git-diff": {
+    "stamp": "2020-08-06T20:17:46Z",
+    "todos": [
+      "Document how GitHub Codespaces change the game for running this script even when editing online",
+      "Configure Git to shut up about line endings in CI",
+      "Upgrade Node to latest and drop MJS in favor of ESM",
+      "See if VS Code SCM UI could be made to run the hook in PowerShell"
+    ]
+  },
+  "moment-tz-conversion": {
+    "stamp": "2020-01-13T09:08:43Z",
+    "todos": []
+  },
+  "mx": {
+    "stamp": "2020-05-30T23:51:43Z",
+    "todos": []
+  },
+  "navit": {
+    "stamp": "2020-01-07T09:49:58Z",
+    "todos": [
+      "See if the files contain enough vector information to be worth it"
+    ]
+  },
+  "net-core-linode": {
+    "stamp": "2019-11-28T11:38:55Z",
+    "todos": []
+  },
+  "net-core-pinvoke": {
+    "stamp": "2020-01-22T19:31:56Z",
+    "todos": []
+  },
+  "net-core-web-socket-server": {
+    "stamp": "2019-05-18T06:24:13Z",
+    "todos": []
+  },
+  "net-ecosystem-review": {
+    "stamp": "2021-04-04T00:13:44Z",
+    "todos": [
+      "Provide another view with a chart showing stars of each project on a line chart",
+      "Load notes for each item from README.md",
+      "Display another chart which is not total but a change record-to-record",
+      "Fix clearing the search field not resetting the results back",
+      "Delete old data and make the item link mandatory in the CSV afterwards",
+      "Switch to commas only as a separator and delete the semicolon fallback",
+      "Make permalink URL fragments work in all browsers"
+    ]
+  },
+  "net-http-listener-mjpeg-stream": {
+    "stamp": "2020-01-08T09:43:44Z",
+    "todos": [
+      "See if `canvas` would be faster"
+    ]
+  },
+  "net-tree": {
+    "stamp": "2019-12-09T03:59:06Z",
+    "todos": [
+      "Allow an item to be explicitly collapsed by using `undefined` or `null` hyper ID",
+      "Think about how to handle self-containing items reporting their status",
+      "Handle items having an order number within their superitem",
+      "Set up a GitHub and an NPM release pipeline through YAML",
+      "Split into a Node library and a test application"
+    ]
+  },
+  "netsh": {
+    "stamp": "2020-03-10T09:41:05Z",
+    "todos": [
+      "https://stackoverflow.com/q/60614877/2715716"
+    ]
+  },
+  "nginx-lets-encrypt": {
+    "stamp": "2020-01-08T09:45:12Z",
+    "todos": []
+  },
+  "nginx-multiple-domains": {
+    "stamp": "2020-01-08T09:45:39Z",
+    "todos": []
+  },
+  "nginx-sites-available": {
+    "stamp": "2020-01-08T09:46:12Z",
+    "todos": []
+  },
+  "nim-media-manager": {
+    "stamp": "2020-11-08T00:45:45Z",
+    "todos": [
+      "Continue with the menu loop"
+    ]
+  },
+  "node-apng": {
+    "stamp": "2020-05-21T15:47:31Z",
+    "todos": [
+      "Add a GitHub Action for tests",
+      "Refactor as per the code comment",
+      "Add support for \"skip first frame\" to allow \"warning this is animated\" frame"
+    ]
+  },
+  "node-args": {
+    "stamp": "2020-02-12T20:30:11Z",
+    "todos": []
+  },
+  "node-async-exit": {
+    "stamp": "2020-05-08T08:00:20Z",
+    "todos": [
+      "Try blocking on a long-running `fetch` instead of a timeout and see if it helps"
+    ]
+  },
+  "node-cdp-ws": {
+    "stamp": "2020-12-10T17:55:12Z",
+    "todos": [
+      "Test out with CDP methods which return large results, like Electron screenshot",
+      "Use `node-win-pid` and pass `electron` instead of the PID and look it up"
+    ]
+  },
+  "node-console": {
+    "stamp": "2020-02-12T19:46:11Z",
+    "todos": []
+  },
+  "node-cookie": {
+    "stamp": "2021-04-02T10:34:12Z",
+    "todos": [
+      "Demonstrate with a different server origin (CloudFlare Workers)"
+    ]
+  },
+  "node-debug-loop": {
+    "stamp": "2020-12-12T11:49:15Z",
+    "todos": [
+      "Find out how to end the current debugging session and attach a new session"
+    ]
+  },
+  "node-esm-url": {
+    "stamp": "2021-04-03T16:40:18Z",
+    "todos": [
+      "Add support for fetching dependencies of the downloaded modules",
+      "Take inspiration from the example loader in Node documentation"
+    ]
+  },
+  "node-forever": {
+    "stamp": "2021-04-04T09:04:35Z",
+    "todos": [
+      "Improve detection of the prior process not yet having released the port",
+      "Explore whether `truncate` has any benefit over `writeFile` with no content"
+    ]
+  },
+  "node-fs-watch": {
+    "stamp": "2021-04-04T07:20:26Z",
+    "todos": []
+  },
+  "node-http2": {
+    "stamp": "2020-09-13T17:45:23Z",
+    "todos": [
+      "Figure out why it breaks when the `img`s also refer to `favicon.ico`"
+    ]
+  },
+  "node-keychain": {
+    "stamp": "2021-03-21T16:57:31Z",
+    "todos": []
+  },
+  "node-localhost-https": {
+    "stamp": "2021-04-03T10:28:56Z",
+    "todos": []
+  },
+  "node-phoenix": {
+    "stamp": "2021-04-04T09:14:22Z",
+    "todos": [
+      "Monitor child process crash and restart child process upon one",
+      "Start off with a child process from the get-go",
+      "Combine this proof of concept with `node-forever` into another PoC"
+    ]
+  },
+  "node-puppeteer-apng": {
+    "stamp": "2020-09-28T06:04:53Z",
+    "todos": [
+      "Set up GitHub Actions for the test",
+      "Rename cuts to timestampts everywhere",
+      "Fix the timestamps in the trace method",
+      "Fix the flaky custom setup test failing on the play button",
+      "Figure out why the `startScreencast` method has layers shifted",
+      "Resize the window to match the viewport for the screencast one",
+      "Deploy to NPM",
+      "Consider if the image could be quantized and paletted programatically"
+    ]
+  },
+  "node-redirect-to-javascript": {
+    "stamp": "2019-03-19T10:32:26Z",
+    "todos": []
+  },
+  "node-require": {
+    "stamp": "2020-05-11T17:50:02Z",
+    "todos": []
+  },
+  "node-scheduled-tasks": {
+    "stamp": "2020-03-22T10:24:09Z",
+    "todos": [
+      "Creating a scheduled task - see *To-Do*",
+      "Deleting a scheduled task",
+      "Figure out why `spawn` logs the error but `exec` works",
+      "Implement creation and deletion in a way which works with the confirm prompts"
+    ]
+  },
+  "node-self-signed": {
+    "stamp": "2021-04-02T10:34:30Z",
+    "todos": [
+      "Find a way to convert the public and private key into a self-signed certificate",
+      "Check out https://git.coolaj86.com/coolaj86/nodejs-self-signed-certificate-example.git"
+    ]
+  },
+  "node-stdio": {
+    "stamp": "2020-11-14T11:22:33Z",
+    "todos": []
+  },
+  "node-vm": {
+    "stamp": "2020-02-12T20:57:27Z",
+    "todos": []
+  },
+  "node-win-pid": {
+    "stamp": "2020-11-14T19:35:56Z",
+    "todos": []
+  },
+  "node-worker": {
+    "stamp": "2021-03-18T07:06:30Z",
+    "todos": [
+      "Prototype using this for SVG Screencast to off-load patching and optimizing"
+    ]
+  },
+  "node-wsb": {
+    "stamp": "2020-11-17T17:31:31Z",
+    "todos": [
+      "Address code to-do comments",
+      "Finalize the `wait` argument logic - wait or bail based on its value",
+      "Add a \"simulation\" mode option which falls back to PowerShell direct",
+      "Consider adding a Docker backend for non-Windows and CI environments maybe",
+      "Look into using PowerShell remoting for communicating with the sandbox"
+    ]
+  },
+  "npm-ecosystem-review": {
+    "stamp": "2019-08-15T12:41:32Z",
+    "todos": []
+  },
+  "npm-install-private": {
+    "stamp": "2020-02-13T19:57:01Z",
+    "todos": []
+  },
+  "npm-not-recognized": {
+    "stamp": "2019-11-28T11:39:18Z",
+    "todos": []
+  },
+  "npm-preinstall": {
+    "stamp": "2020-02-18T11:59:54Z",
+    "todos": []
+  },
+  "ntlite-unattended": {
+    "stamp": "2020-02-14T22:09:22Z",
+    "todos": []
+  },
+  "o2": {
+    "stamp": "2020-05-14T19:56:58Z",
+    "todos": []
+  },
+  "objc-ui": {
+    "stamp": "2020-01-08T09:51:43Z",
+    "todos": [
+      "Add an example"
+    ]
+  },
+  "obs": {
+    "stamp": "2021-04-04T15:10:01Z",
+    "todos": [
+      "Try using an iPhone as a source",
+      "Try to make a plugin for masking out constant background"
+    ]
+  },
+  "ocr": {
+    "stamp": "2021-04-03T15:46:12Z",
+    "todos": []
+  },
+  "onewheel": {
+    "stamp": "2020-02-29T08:50:48Z",
+    "todos": []
+  },
+  "onewheel-battery": {
+    "stamp": "2020-05-19T22:39:31Z",
+    "todos": []
+  },
+  "onewheel-charger": {
+    "stamp": "2021-04-04T15:10:52Z",
+    "todos": []
+  },
+  "onewheel-radimklaska": {
+    "stamp": "2021-03-10T08:44:18Z",
+    "todos": []
+  },
+  "onewheel-web-bluetooth": {
+    "stamp": "2019-12-09T04:03:01Z",
+    "todos": [
+      "Try connecting to Pint"
+    ]
+  },
+  "op1-svg": {
+    "stamp": "2020-05-23T21:48:30Z",
+    "todos": []
+  },
+  "osm-3d-earth": {
+    "stamp": "2019-11-28T11:39:30Z",
+    "todos": []
+  },
+  "osm-raster-map": {
+    "stamp": "2019-12-09T04:07:16Z",
+    "todos": [
+      "Make double click to zoom in and out zoom so that the point stays under the cursor not in the center",
+      "Seed location and zoom from storage but replace with live values when available",
+      "Implement fractional zoom",
+      "Export tracks as SVG for saving to Files on iOS",
+      "Update locator POI in track mode",
+      "Use `canvas` clipping to confine repainted POIs and strokes within the currently updated tile",
+      "Hook up touch events for zoom in / out on double tap",
+      "Add support for rotating the map (by UI buttons as well as `heading` from geo loc) - use `canvas` transforms",
+      "Link server and tile size together so the HD one (512) and the others (256) work correctly",
+      "Persist pins & strokes in the local storage",
+      "Put back drawing strokes on the map (canvas clip to tile being rerendered)",
+      "Persist map configuration (longitude, latitude, zoom) after each change to restore where left off",
+      "Implement pinch to zoom",
+      "Refactor the map logic to a `Map` class with events for tile load (checker board) and tile render and provide multiple renderers:",
+      "Benchmark the performance of the `canvas` and `img` based solutions somehow",
+      "Use `OffscreenCanvas` in the tile cache if supported (right now only Chrome)",
+      "Consider redrawing the whole canvas on each new tile load so that strokes and pins could be drawn once without getting clipped",
+      "Check out http://tile.poloha.net/overlay/{zoom}/{x}/{y}.png"
+    ]
+  },
+  "osm-vector-map": {
+    "stamp": "2019-12-09T04:08:42Z",
+    "todos": [
+      "Implement custom protobuf wire format parser",
+      "Check out Qwant maps, they have a public vector tile server",
+      "Check out the Mapy.cz vector tile server (might be just labels?)"
+    ]
+  },
+  "p2p-idea": {
+    "stamp": "2019-05-15T15:22:16Z",
+    "todos": []
+  },
+  "paper": {
+    "stamp": "2021-04-03T10:29:10Z",
+    "todos": []
+  },
+  "pdf": {
+    "stamp": "2020-01-16T08:51:31Z",
+    "todos": [
+      "Find entry object and parse the ops and args from the text stream",
+      "Rip PDF.js for the subset of the rendering logic needed",
+      "Rewrite in Node / complement by a Node version later on",
+      "Figure out parsing pages and their objects",
+      "Improve parsing values",
+      "Fix XRef table second number to be count and not generation",
+      "Parse dictionaries where keys are immediately followed by values",
+      "Parse arrays recursively or replace with new value parsing completely"
+    ]
+  },
+  "pdf-scrape": {
+    "stamp": "2020-05-01T14:23:33Z",
+    "todos": []
+  },
+  "play-test": {
+    "stamp": "2020-01-14T07:43:59Z",
+    "todos": [
+      "Test cloning private repos with a PAT",
+      "Test running a script in a loop"
+    ]
+  },
+  "playwright-github-actions": {
+    "stamp": "2020-04-30T20:48:14Z",
+    "todos": []
+  },
+  "playwright-pdf": {
+    "stamp": "2020-05-01T07:15:40Z",
+    "todos": []
+  },
+  "pointer-events": {
+    "stamp": "2020-07-26T16:19:25Z",
+    "todos": []
+  },
+  "pomodoro": {
+    "stamp": "2021-04-01T21:18:15Z",
+    "todos": [
+      "Convert to plain HTML with custom elements and host using GitHub Pages",
+      "Display a 3D pomodoro kitchen timer model",
+      "Display a circular loading indicator around the favicon",
+      "Fix the broken start button icon placement in mobile Safari",
+      "Use SVGs instead of Unicode for the buttons",
+      "Align the buttons side by side in mobile Safari",
+      "Display remaining pomodoro time",
+      "Display the stop button even if not started if the pomodoro number > 0",
+      "Host this again"
+    ]
+  },
+  "powershell-explorer-file-extensions": {
+    "stamp": "2019-11-28T11:39:47Z",
+    "todos": []
+  },
+  "powershell-scheduled-tasks": {
+    "stamp": "2020-01-02T19:48:41Z",
+    "todos": [
+      "https://community.spiceworks.com/how_to/17736-run-powershell-scripts-from-task-scheduler",
+      "https://devblogs.microsoft.com/scripting/weekend-scripter-use-the-windows-task-scheduler-to-run-a-windows-powershell-script/",
+      "Await Stack Overflow help on scheduling the task"
+    ]
+  },
+  "powershell-wallpaper": {
+    "stamp": "2019-12-03T06:05:16Z",
+    "todos": [
+      "Hook into an event indicating `UpdatePerUserSystemParameters` completion",
+      "Add working scripts for setting the desktop background color"
+    ]
+  },
+  "ps-7zip": {
+    "stamp": "2020-02-15T09:31:31Z",
+    "todos": []
+  },
+  "ps-inno": {
+    "stamp": "2020-02-15T09:44:25Z",
+    "todos": []
+  },
+  "ps-ntlite": {
+    "stamp": "2020-02-15T09:56:07Z",
+    "todos": []
+  },
+  "ps-remote": {
+    "stamp": "2020-01-03T21:37:28Z",
+    "todos": [
+      "Configure this on the personal computer and the home server",
+      "Look into using specific computer names in `TrustedHosts`"
+    ]
+  },
+  "ps-remoting": {
+    "stamp": "2020-11-17T20:42:48Z",
+    "todos": [
+      "Figure out the problem and capture the solution"
+    ]
+  },
+  "pulumi": {
+    "stamp": "2019-12-30T06:05:33Z",
+    "todos": [
+      "Try deploying functions to AWS and Azure using it"
+    ]
+  },
+  "puppeteer-bazos-cz-scraper": {
+    "stamp": "2021-04-02T10:34:50Z",
+    "todos": [
+      "Open detail for each post and fetch full description from it.",
+      "Implement diff to report updates/inserts in a separate file.",
+      "Run this in Github Actions using a scheduled trigger",
+      "Consider having the pipeline send out an email with a diff",
+      "Consider going directly to the search URL instead of filling in the form",
+      "Use my library node-puppeteer-apng for the screencast"
+    ]
+  },
+  "puppeteer-deterministic-pdf": {
+    "stamp": "2020-04-29T19:51:13Z",
+    "todos": []
+  },
+  "puppeteer-deterministic-screenshot": {
+    "stamp": "2020-04-29T19:07:33Z",
+    "todos": [
+      "Consider looking into the software rendering angle described above",
+      "Fix the GitHub Actions Git push failing due to concurency issues (probably)"
+    ]
+  },
+  "puppeteer-img": {
+    "stamp": "2020-05-01T21:19:11Z",
+    "todos": []
+  },
+  "puppeteer-moje-o2-scraper": {
+    "stamp": "2021-04-02T10:35:08Z",
+    "todos": []
+  },
+  "puppeteer-recorder": {
+    "stamp": "2021-04-02T06:45:00Z",
+    "todos": [
+      "Demonstrate usage of both Puppeteer and Playwright recorders",
+      "Verify whether Experiments are not behind a flag anymore"
+    ]
+  },
+  "puppeteer-thumbs": {
+    "stamp": "2020-05-07T19:05:15Z",
+    "todos": []
+  },
+  "qemu": {
+    "stamp": "2019-12-09T10:11:49Z",
+    "todos": [
+      "Expand todos for trying these combinations out"
+    ]
+  },
+  "qr-channel": {
+    "stamp": "2019-12-09T04:17:53Z",
+    "todos": [
+      "Finalize `reply.js` using [the test rig](https://github.com/TomasHubelbauer/qr-channel/src/test/replying)",
+      "Test that the candidate `melt` function works in the coding test laying ground for the ICE compression/decompression",
+      "Compress and decompress ICE in `encode` & `melt`, fit multiple into a QR code (limit to type number 5)",
+      "Figure out [this problem](https://stackoverflow.com/q/53958469/2715716) and fix `jsQR` not being seen by TypeScript",
+      "See if jsQR maintainers [find a way](https://github.com/cozmo/jsQR/issues/108)",
+      "See if it could be possible to pull the dependencies as ES native modules"
+    ]
+  },
+  "raspi-mouse-jiggler": {
+    "stamp": "2021-04-01T21:04:28Z",
+    "todos": [
+      "Figure out a way to solve the macOS issue",
+      "Build adapters from the microUSB port on the Pi Pico to USB A and USB C"
+    ]
+  },
+  "rbc-components": {
+    "stamp": "2021-04-02T10:35:47Z",
+    "todos": []
+  },
+  "rbc-dnd-auto-select": {
+    "stamp": "2019-12-09T04:18:45Z",
+    "todos": []
+  },
+  "rbc-month-view-slot-grouping-by-type": {
+    "stamp": "2021-04-02T10:16:37Z",
+    "todos": [
+      "Create a PR for `components`"
+    ]
+  },
+  "rbc-range-change": {
+    "stamp": "2019-04-10T09:55:13Z",
+    "todos": []
+  },
+  "rbc-resizable-event-wrapper": {
+    "stamp": "2019-02-21T15:16:09Z",
+    "todos": [
+      "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/33225"
+    ]
+  },
+  "rbc-timezone-gutter": {
+    "stamp": "2019-09-12T10:47:38Z",
+    "todos": []
+  },
+  "rbc-week-am-pm": {
+    "stamp": "2019-02-21T15:05:49Z",
+    "todos": []
+  },
+  "rbc-week-empty-area": {
+    "stamp": "2019-03-04T12:46:16Z",
+    "todos": [
+      "Check the source code for where it is used",
+      "Check the source code to see where this is used"
+    ]
+  },
+  "re": {
+    "stamp": "2020-01-16T09:50:27Z",
+    "todos": []
+  },
+  "react": {
+    "stamp": "2019-11-28T11:40:38Z",
+    "todos": []
+  },
+  "react-icon-component-idea": {
+    "stamp": "2019-03-19T09:53:15Z",
+    "todos": []
+  },
+  "react-redux-typescript-connect-decorator-demo": {
+    "stamp": "2019-07-13T09:03:14Z",
+    "todos": []
+  },
+  "react-types-set-state-partial-vs-pick": {
+    "stamp": "2019-03-14T11:32:27Z",
+    "todos": []
+  },
+  "react-week-calendar": {
+    "stamp": "2019-02-19T16:08:27Z",
+    "todos": [
+      "Show some code",
+      "Virtualized when overflowing",
+      "Start with a div per slot or collapse neighboring divs of the same time?"
+    ]
+  },
+  "regex": {
+    "stamp": "2020-05-20T19:15:19Z",
+    "todos": [
+      "Sync cursor between pattern and code so that it is always on the same char",
+      "Implement text area \"background\" highlights - the text language highlighting",
+      "Use a 1x4 layout on mobile as compared to 2x2 on desktop",
+      "Ignore named groups when constructing the pattern for the in-browser check",
+      "Test both the single line regex and the multiple lines regexen for validity",
+      "Fix the site not loading on iOS Safari and editors not being focusable/visible",
+      "Fix div and text area scroll height differing when the editor is scrollable",
+      "Make panes collapsible on the mobile layout"
+    ]
+  },
+  "regex-card-statement": {
+    "stamp": "2020-01-03T06:05:45Z",
+    "todos": []
+  },
+  "remarkable": {
+    "stamp": "2021-04-03T17:49:07Z",
+    "todos": [
+      "Update reMarkable to 2.6"
+    ]
+  },
+  "rgb-to-rgba": {
+    "stamp": "2020-05-01T12:31:14Z",
+    "todos": []
+  },
+  "roslyn-log-keyword": {
+    "stamp": "2019-12-29T23:10:21Z",
+    "todos": [
+      "Try it"
+    ]
+  },
+  "rust-azure-web-app": {
+    "stamp": "2019-11-28T11:40:49Z",
+    "todos": []
+  },
+  "rust-wasm": {
+    "stamp": "2019-07-18T12:10:13Z",
+    "todos": []
+  },
+  "rust-wasm-canvas": {
+    "stamp": "2019-12-01T09:14:35Z",
+    "todos": [
+      "Figure out how to use with Cargo and how to depend on crates"
+    ]
+  },
+  "safari-offline": {
+    "stamp": "2019-12-09T04:21:20Z",
+    "todos": [
+      "Try to use the `sync` API to have the service worker run continuously",
+      "Try to demonstrate the use of the iOS Safari proprietary notifications",
+      "Finalize the export experiments to find a format which offers being saved to the Files app",
+      "Try to get the generated file to download in Safari"
+    ]
+  },
+  "safari-pointer-events": {
+    "stamp": "2019-11-30T17:09:59Z",
+    "todos": [
+      "Figure out why the touch events are not firing in Safari"
+    ]
+  },
+  "satier.net": {
+    "stamp": "2020-01-07T13:30:58Z",
+    "todos": [
+      "Upgrade TypeScript and use the Elvis operator where applicable",
+      "Set up CD for the BE and configure NGinx to serve `/api` from it",
+      "Configure the 404 page in the NGinx configuration",
+      "Fix the `react-snap` warning about 404 page title missing `404`",
+      "Import/connect food database values",
+      "Use React Helmet"
+    ]
+  },
+  "scrape-github-invoices": {
+    "stamp": "2019-12-09T04:23:13Z",
+    "todos": [
+      "Follow along with headless download issue and then implement custom download directory",
+      "Require all credentials in headless mode, allow manual entry in non-headless mode",
+      "Document how to set this script up as a cron job",
+      "Integrate KeyChain Access on Mac to be able to avoid having the `secrets.mjs` file",
+      "Integrate Windows DP API to be able to avoid having the `secrets.mjs` file"
+    ]
+  },
+  "screenshot-shortcuts": {
+    "stamp": "2021-03-18T11:13:23Z",
+    "todos": []
+  },
+  "shapefile": {
+    "stamp": "2019-11-28T11:41:04Z",
+    "todos": []
+  },
+  "shoot": {
+    "stamp": "2020-05-20T16:18:22Z",
+    "todos": [
+      "Add an option to capture full page screenshots",
+      "Add an option to wait for a selector or a timeout",
+      "If `index.html` exists and there is no argument, assume `index.html`",
+      "Add a help switch",
+      "Add a switch to disable web security to allow `fetch` on `file://` protocol"
+    ]
+  },
+  "siko-sink-cap": {
+    "stamp": "2020-01-04T15:08:29Z",
+    "todos": [
+      "Print the part in Prusalab",
+      "Buy the printer",
+      "Switch the workflow to Aptitude when Ubuntu 19.04 is available in runners",
+      "Consider generating the STL in the GitHub Actions workflow as well",
+      "Await ProtoFinal response"
+    ]
+  },
+  "speedtest": {
+    "stamp": "2020-05-26T18:01:05Z",
+    "todos": [
+      "Add https://librespeed.org",
+      "Add https://speed.cloudflare.com"
+    ]
+  },
+  "spotify-api": {
+    "stamp": "2020-09-18T20:14:49Z",
+    "todos": []
+  },
+  "spotify-artists": {
+    "stamp": "2020-05-14T18:38:52Z",
+    "todos": []
+  },
+  "sqlite-javascript": {
+    "stamp": "2021-03-27T16:02:16Z",
+    "todos": [
+      "Convert boolean serial type values to numbers in case of numeric column type",
+      "Link to the GitHub repository from the demo site",
+      "Allow table names with uppercase characters such as the ones generated by EF Core",
+      "Fix the `PlaylistTrack` table not opening due to an invalid data view range",
+      "Fix varint where I had to cap it to 8 bytes to not spill over to other values",
+      "Parse varint negative values correctly - right now hardcoded -1",
+      "Load full payload items when they overflow (allow the page to fetch the overflow page chain)",
+      "Handle overflow pages in page view - check `constructGraph` to see if is one",
+      "Finalize SQL parser to support the missing features of Chinook and the Prague database",
+      "Corce a sole integer primary key column with no value to the value of row ID",
+      "Debug this with the Prague `mbtiles` database:",
+      "Add `getIndices` (5 master page columns) and `getViews` (4 master page columns) and `getTriggers`",
+      "Fix the case when the record misses some cells",
+      "Load information about a column being a key to a different table",
+      "Coerce the ID column (identifier by a constraint) into the row ID fallback value",
+      "Finalize `constructGraph` for all page types (overflow page indices, 0x5 & 0x2 child pointers)",
+      "Make clicking on page in database view or node in graph view navigate to it in page view",
+      "Figure out the problem on pages 37, 43, 948 with cell pointer being zero - overflow?",
+      "Figure out the problem on pages 39, 42, 948 with cell pointer being > page count - overflow?",
+      "Finalize page types 2 and 10 and run all pages through `parsePage` for errors",
+      "Finalize the `TODO`s in `parsePage` in the serial type prints",
+      "Consider returning the flow of requesting pages using an `EventTarget` event",
+      "Introduce a new class `Record` which is fed a `DataView` and reads the serial types and the payload into an API",
+      "Replace `FileReader.readAsArrayBuffer` with `Blob.arrayBuffer` when supported",
+      "Load overflow page indices from the overflowing cells in 0xd, 0xa, 0x2 in `constructGraph`",
+      "Load left child pointers in cells in 0x5, 0x2",
+      "Use `getVarint` from my ESM Varint library"
+    ]
+  },
+  "sreality": {
+    "stamp": "2019-12-22T10:01:36Z",
+    "todos": [
+      "Implement paging the search results"
+    ]
+  },
+  "sreality-puppeteer-scraper": {
+    "stamp": "2021-04-02T10:36:03Z",
+    "todos": []
+  },
+  "ssr-research": {
+    "stamp": "2019-11-28T11:41:11Z",
+    "todos": []
+  },
+  "sus-downloader": {
+    "stamp": "2019-05-24T23:48:48Z",
+    "todos": []
+  },
+  "svg-3d": {
+    "stamp": "2020-11-30T10:34:34Z",
+    "todos": [
+      "Ponder on the options for interactivity",
+      "Measure performance using Playwirght to record SVG DOM state at each point",
+      "Attach rotation and translation to a transform array on the mesh",
+      "Pull out the `rotate` transformation and implement other transformations",
+      "Prototype depth-sensitive strokes in another project",
+      "Implement object tesselation functions and consider pulling them out",
+      "Add an example OBJ which uses the line shape and update box and prism to it",
+      "Consider implementing the hierarchy transformation model: world-scene-mesh",
+      "Experiment with shape culling solutions using stroke and fill gradient/mask",
+      "Support ellipses if their perspective representation can be approximated",
+      "Introduce mutating methods for matrix and point manipulationin `esm-matrix`",
+      "Implement cutting out the lines parts which cross the camera plane",
+      "Implement hiding lines by curling them up to a point outside of the canvas"
+    ]
+  },
+  "svg-5-minutes": {
+    "stamp": "2020-05-19T15:22:31Z",
+    "todos": [
+      "Display an empty box (outline / parallel lines) where there is not record"
+    ]
+  },
+  "svg-arc-angle": {
+    "stamp": "2019-11-30T17:20:55Z",
+    "todos": [
+      "Add an alternative where the animation is done using CSS `animation`",
+      "Blend the colors instead of switching at the boundary points"
+    ]
+  },
+  "svg-editor": {
+    "stamp": "2020-03-24T19:57:46Z",
+    "todos": [
+      "Add handles for control points of the various shapes",
+      "Reconcile SVG DOM changes with the control elements instead of rerendering",
+      "Add labels to the control elements",
+      "Use tailored editors for special attributes (such as `fill` and `stroke`)",
+      "Have proper limits on scalar attributes (numbers, string enums)",
+      "Add viewport panning and scaling",
+      "Add a checkerboard pattern to the viewport background",
+      "Add a source edit mode",
+      "Hook up the meta section for SVG meta controls (width, height, viewport)",
+      "Add syntax highlighting to the SVG source code editor",
+      "Sync source code back to the editor without messing up focus and syntax",
+      "Implement import and export",
+      "Remember the last project in local storage to restore on load"
+    ]
+  },
+  "svg-net": {
+    "stamp": "2020-04-10T17:28:56Z",
+    "todos": [
+      "Finalize the network rendering functionality",
+      "Add support for collapsible nodes",
+      "Add support for named bounding boxes of groups of nodes",
+      "Render timeline axis markers to anchor nodes tied to an instant",
+      "Add support for inexact node placement (between instanted source and target)",
+      "Fix the `scale` function to account for the origin"
+    ]
+  },
+  "svg-screencast": {
+    "stamp": "2021-03-20T12:49:15Z",
+    "todos": []
+  },
+  "svg-timeseries": {
+    "stamp": "2020-02-29T09:16:27Z",
+    "todos": []
+  },
+  "sw-js-to-ts-transpiler": {
+    "stamp": "2019-07-10T09:58:07Z",
+    "todos": []
+  },
+  "sw-js-to-ts-transpiler-demo": {
+    "stamp": "2019-11-30T17:22:16Z",
+    "todos": [
+      "Find out how to get rid of the *'React/ReactDOM' refers to a UMD global, but the current file is a module. Consider adding an import instead* hints in VS Code",
+      "Fix the first visit not working still"
+    ]
+  },
+  "swift-headphones-button": {
+    "stamp": "2019-07-13T06:59:00Z",
+    "todos": []
+  },
+  "swift-save-to-files": {
+    "stamp": "2018-08-19T10:17:41Z",
+    "todos": []
+  },
+  "swift-ui": {
+    "stamp": "2020-01-06T09:56:11Z",
+    "todos": [
+      "Progress according to the current plan",
+      "Remove top space above the cover image",
+      "Calculate the height based on view width to preserve aspect ratio",
+      "Add a transparent button to make the X clickable",
+      "Dismiss the modla on clicking the X button",
+      "Create a GitHub Action workflow for capturing a screencast"
+    ]
+  },
+  "swiftui-text-view": {
+    "stamp": "2020-03-15T11:55:28Z",
+    "todos": []
+  },
+  "three-op-1": {
+    "stamp": "2019-07-04T06:35:20Z",
+    "todos": []
+  },
+  "til": {
+    "stamp": "2020-11-07T12:02:59Z",
+    "todos": [
+      "Set up a TIL scanner and digest maker"
+    ]
+  },
+  "timestamper": {
+    "stamp": "2019-11-30T17:27:05Z",
+    "todos": []
+  },
+  "todo": {
+    "stamp": "2021-04-04T11:57:52Z",
+    "todos": [
+      "Allow ignoring specific lines",
+      "Warn on unused ignore rules (maybe opt-in)",
+      "Reserve the MarkDown checkbox detection only for MarkDown files"
+    ]
+  },
+  "tomashubelbauer": {
+    "stamp": "2021-04-04T15:03:24Z",
+    "todos": []
+  },
+  "ts-boolean-confusion": {
+    "stamp": "2019-03-21T09:51:43Z",
+    "todos": []
+  },
+  "ts-comment-types": {
+    "stamp": "2019-01-12T12:21:37Z",
+    "todos": [
+      "Use the TypeScript compiler API to find the comments and replace them with their contents"
+    ]
+  },
+  "ts-ecosystem-review": {
+    "stamp": "2019-11-30T10:49:07Z",
+    "todos": [
+      "Make this after the examples for JS ecosystem review and .NET ecosystem review"
+    ]
+  },
+  "ts-esm-search": {
+    "stamp": "2021-03-07T18:58:30Z",
+    "todos": [
+      "Figure out how to make it so that this doesn't break the `\\\\?\\` paths https://docs.microsoft.com/en-us/windows/win32/fileio/naming-a-file",
+      "Find out if this is needed to upstream to the TypeScript project or not",
+      "Figure out if we need to worry about macOS paths which allow `?`",
+      "Decide if the way to tackle this and maybe `\\\\?\\` is to strip and just check if the file exists",
+      "Take a look at the diff between stock TS and this change and see if a patch could be used",
+      "Rejoyce at the thought that I can now use my hacky pattern without breaking JS/TS type interference"
+    ]
+  },
+  "ts-skip-lib-check": {
+    "stamp": "2019-12-11T00:15:05Z",
+    "todos": []
+  },
+  "tsserver-esm-url": {
+    "stamp": "2021-03-07T18:36:03Z",
+    "todos": []
+  },
+  "tsx-xaml-render-props": {
+    "stamp": "2019-12-09T04:25:23Z",
+    "todos": [
+      "Fix Firefox by not using `::after` on an `input` in `Toggle` but on the label instead"
+    ]
+  },
+  "ttypescript-esm": {
+    "stamp": "2021-03-07T18:51:06Z",
+    "todos": []
+  },
+  "typescript-api-proxy": {
+    "stamp": "2019-11-28T11:41:46Z",
+    "todos": []
+  },
+  "typescript-discriminated-class-union": {
+    "stamp": "2018-04-23T19:17:58Z",
+    "todos": []
+  },
+  "typescript-in-browser": {
+    "stamp": "2019-12-09T21:59:13Z",
+    "todos": [
+      "Make TSX work in the Monaco editor",
+      "Add TS compiler options controls: types, target etc."
+    ]
+  },
+  "ux-experiment-locking-suggestion-list": {
+    "stamp": "2019-11-28T11:41:54Z",
+    "todos": []
+  },
+  "ux-median-bar-graph": {
+    "stamp": "2019-07-18T11:15:36Z",
+    "todos": []
+  },
+  "vs-code-xvfb": {
+    "stamp": "2019-12-29T23:00:19Z",
+    "todos": [
+      "Figure out why the result of the expression evaluation is falsy and trips the `assert`"
+    ]
+  },
+  "vscode": {
+    "stamp": "2021-03-31T09:56:52Z",
+    "todos": []
+  },
+  "vscode-bare-extension": {
+    "stamp": "2020-12-12T10:31:36Z",
+    "todos": [
+      "Figure out why the `index.log` file is empty in CI - extension not working",
+      "Replicate `npm test` so this can be used to migrate other extensions to"
+    ]
+  },
+  "vscode-box-drawing": {
+    "stamp": "2018-07-08T16:21:30Z",
+    "todos": []
+  },
+  "vscode-compound-debug-split-terminal": {
+    "stamp": "2019-02-28T21:42:09Z",
+    "todos": []
+  },
+  "vscode-email-viewer": {
+    "stamp": "2020-07-23T17:03:54Z",
+    "todos": [
+      "Wait for the FileSystemProvider issue resolution",
+      "Add an option of using the custom editor API instead of the webview API",
+      "Make opening the email as a virtual folder in the workspace a config option",
+      "Figure out why the file system provider displays the yellow warning the 1st time",
+      "Fix attachment links in the email preview not working",
+      "Add a MSG file test case",
+      "Add tests",
+      "Consider rendering MSG file content as MarkDown HTML"
+    ]
+  },
+  "vscode-esm-url": {
+    "stamp": "2021-03-07T19:11:08Z",
+    "todos": [
+      "Add a GitHub Actions workflow to package the VSIX and release it to GitHub Releases"
+    ]
+  },
+  "vscode-extension-api-repl": {
+    "stamp": "2019-11-28T11:42:02Z",
+    "todos": [
+      "How to start a fake debug session?",
+      "Is the expression text a default and will it prompt for user input?"
+    ]
+  },
+  "vscode-extensions": {
+    "stamp": "2020-05-31T23:22:24Z",
+    "todos": [
+      "Replace telemetry with a local bug reporter",
+      "Create a template for automated deployment and integrate it in the extensions"
+    ]
+  },
+  "vscode-kb": {
+    "stamp": "2019-12-29T22:59:21Z",
+    "todos": [
+      "Add the VS Code GitHub issue link here"
+    ]
+  },
+  "vscode-markdown-email-link": {
+    "stamp": "2018-05-15T19:06:37Z",
+    "todos": []
+  },
+  "vscode-markdown-formatter": {
+    "stamp": "2021-03-23T11:39:04Z",
+    "todos": []
+  },
+  "vscode-markdown-jira-links": {
+    "stamp": "2018-05-27T16:35:47Z",
+    "todos": []
+  },
+  "vscode-markdown-link-suggestions": {
+    "stamp": "2019-04-24T15:00:55Z",
+    "todos": [
+      "Fix tests after changing the document symbol provider and the diagnostics provider function"
+    ]
+  },
+  "vscode-markdown-table-format": {
+    "stamp": "2019-01-28T08:19:55Z",
+    "todos": []
+  },
+  "vscode-markdown-table-of-contents": {
+    "stamp": "2018-08-24T17:01:48Z",
+    "todos": []
+  },
+  "vscode-markdown-todo": {
+    "stamp": "2020-07-20T18:04:55Z",
+    "todos": [
+      "Figure out and fix whatever `TodoCodeLens` was meant to be",
+      "Ditch Travis for CI now that we have GitHub Actions",
+      "Introduce local opt-in telemetry reporter (to this and other extensions)",
+      "Write up some tests"
+    ]
+  },
+  "vscode-nested-git": {
+    "stamp": "2020-09-17T08:47:32Z",
+    "todos": [
+      "Study the VS Code extension API to see if this could be enabled without the VS Code team",
+      "Fall back onto the VS Code GitHub issues to request this feature to be added if it cannot be done using an extension"
+    ]
+  },
+  "vscode-organize-imports-on-save": {
+    "stamp": "2021-03-03T19:43:11Z",
+    "todos": []
+  },
+  "vscode-settings": {
+    "stamp": "2019-12-29T22:57:36Z",
+    "todos": [
+      "Create a GitHub Pages site which fetches the readme and makes the JSON"
+    ]
+  },
+  "vscode-test": {
+    "stamp": "2020-02-07T06:08:17Z",
+    "todos": [
+      "Recover access to the PAT used for publishing my extensions"
+    ]
+  },
+  "vscode-video": {
+    "stamp": "2020-05-31T23:21:32Z",
+    "todos": [
+      "Try using the screencast API for a better performance (but what about quality?)",
+      "Add playback controls which use `vscode.postMessage` to the editor provider",
+      "Turn the `progress` element into a scrubbar which also uses `postMessage`",
+      "Load the JS and the CSS from bundled extension resources like example shows",
+      "Figure out how to make the video have its native dimensions in Puppeteer",
+      "Handle the user not having Chrome installed using an error message",
+      "See if it would be possible to use the `Uint8Array` for better perf",
+      "See if a custom MediaSource could be devised for `video` element to be used",
+      "Fall back to Microsoft Edge in case Chrome and Chromium are not installed",
+      "Consider adding audio support (mainly in the UI, Chrome plays the audio)",
+      "Publish the extension once the proposed custom editor API hits stable",
+      "Install Chrome or Chromium in the GitHub Actions workflow to make it go"
+    ]
+  },
+  "vscode-week-number": {
+    "stamp": "2018-05-15T19:07:24Z",
+    "todos": []
+  },
+  "vscode-wpf": {
+    "stamp": "2019-12-30T06:06:21Z",
+    "todos": []
+  },
+  "vscode-zip-file-system": {
+    "stamp": "2020-05-31T19:52:04Z",
+    "todos": [
+      "Add tests",
+      "Implement write actions"
+    ]
+  },
+  "vso-shortlink": {
+    "stamp": "2019-12-29T22:55:10Z",
+    "todos": [
+      "Add support for issues open in the backlog page"
+    ]
+  },
+  "wc-base": {
+    "stamp": "2020-07-12T15:03:36Z",
+    "todos": []
+  },
+  "wc-editor": {
+    "stamp": "2020-05-20T19:41:34Z",
+    "todos": [
+      "Compare the performance of using the background div vs. a background SVG",
+      "Flesh out the rest of the temporary experiemnt in `tmp`",
+      "Add tests for the keyboard and mouse handling",
+      "Handle pressing and releasing a character alone",
+      "Handle pressing and releasing the shift key alone",
+      "Handle the shift down, letter down, letter up, shift up sequence",
+      "Handle the shift down, letter down, shift up, letter up sequence",
+      "Implement an auto-size mode: the height of the div stretches the text area",
+      "Introduce a wrapper element to set the relative position on",
+      "Consider virtualizing the adornment spans outside of the scrolled view area",
+      "Address the `basic` editor to-dos",
+      "Implement the experiment ideas"
+    ]
+  },
+  "web-certificates": {
+    "stamp": "2020-06-07T08:47:31Z",
+    "todos": []
+  },
+  "web-crypto-net": {
+    "stamp": "2019-12-29T22:54:43Z",
+    "todos": [
+      "Finish the demo"
+    ]
+  },
+  "web-design": {
+    "stamp": "2019-11-28T11:42:26Z",
+    "todos": []
+  },
+  "web-gps-tracker": {
+    "stamp": "2020-01-16T16:42:39Z",
+    "todos": []
+  },
+  "web-midi": {
+    "stamp": "2020-05-25T20:36:59Z",
+    "todos": [
+      "Implement an OP-1 device and another for the keyboard",
+      "Figure out how to query the initial values of the faders",
+      "Model the launchpad in 3D and use my SVG 3D projector to render it",
+      "Implement Snake or Etch-a-sketch or something silly like that",
+      "Implement a spectrum visualizer using the grid and Web Audio API",
+      "Add tests by mocking the devices"
+    ]
+  },
+  "web-remember-credentials": {
+    "stamp": "2020-03-21T14:34:30Z",
+    "todos": []
+  },
+  "webdev-intro": {
+    "stamp": "2020-05-26T17:49:59Z",
+    "todos": []
+  },
+  "webgl-api-exploration": {
+    "stamp": "2020-01-16T16:44:10Z",
+    "todos": [
+      "Add GitHub Pages URL",
+      "Find out what a stencil buffer is",
+      "Make a demo of drawing single points and polylines",
+      "Find out how `LINES` and `LINE_STRIP` differ",
+      "Find out how the triangle variations differ",
+      "Make a demo of `blendFunc` and `blendFuncSeparate` and the equations methods",
+      "Find out what `ARRAY_BUFFER_BINDING` does",
+      "Find out what the default face culling is and make a demo for it",
+      "See if `VIEWPORT` changes if the `canvas` dimensions change"
+    ]
+  },
+  "webgl-exploration": {
+    "stamp": "2020-01-16T16:44:58Z",
+    "todos": [
+      "Turn this demo into a GitHub Pages hosted static site",
+      "Continue with https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Using_textures_in_WebGL",
+      "Check out skybox approaches: https://webglfundamentals.org/webgl/lessons/webgl-skybox.html",
+      "Check out materials on this HDR sample: http://webglsamples.org/hdr/hdr.html",
+      "Check WebGLSamples and WebGLFundamentals in general",
+      "Figure out why the bad performance with relatively few meshes and shapes",
+      "Demo reusing a single buffer for multiple meshes/shapes by using `offet`",
+      "Prototype a balloon flying up https://threejs.org/examples/webgl_physics_rope.html",
+      "Prototype a cloth sliding off a box https://codepen.io/thomcc/pen/NGQpxv",
+      "Prototype rendering 2D and 3D text https://webglfundamentals.org/webgl/lessons/webgl-text-html.html",
+      "Prototype hijacking a shader to tesselate a cube/sphere and read the data back from a texture",
+      "Make todos parsable"
+    ]
+  },
+  "webgl-modeling-idea": {
+    "stamp": "2020-01-16T16:45:43Z",
+    "todos": [
+      "Prototype this"
+    ]
+  },
+  "webgl-op-1": {
+    "stamp": "2019-09-13T19:18:53Z",
+    "todos": []
+  },
+  "webgpu": {
+    "stamp": "2020-01-16T09:50:57Z",
+    "todos": []
+  },
+  "webpack-sourcemap": {
+    "stamp": "2021-04-02T10:39:20Z",
+    "todos": [
+      "Help resolve the Babel sourcemap issue"
+    ]
+  },
+  "webrtc-bridge": {
+    "stamp": "2020-02-19T12:28:43Z",
+    "todos": [
+      "Update ICE instead of polling only for the first SDP instance in the signal",
+      "Make compatible with Node using `wrtc` to not have to run in Puppeteer",
+      "Track the worker code here and use `cf-worker-deploy` to deploy its changes.",
+      "Implement a `DELETE` method on the worker",
+      "Lock the worker CORS origin to the final address of the frame site",
+      "Handle disconnects by reconnecting on the signaling server using the TOTP",
+      "Run the offerer peer on the NUC and add health checks to the script runner"
+    ]
+  },
+  "webrtc-data-channel-demo": {
+    "stamp": "2021-04-02T10:17:21Z",
+    "todos": [
+      "Fix nvm: command not found in cmd/chrome-screenshot/cmd.sh and cmd/firefox-screenshot/cmd.sh",
+      "Finalize Firefox headless automation for generating screenshots and console logs using Selenium WebDriver",
+      "Contribute a demo where peer connections are keyed by peer name and one peer can hold multiple ones or a group chat",
+      "Extend the/contribute a new example to cover media session establishment on top of the data one",
+      "Consider adding another demo where the signaling channel is a service worker connecting two tabs"
+    ]
+  },
+  "webrtc-qr-flow": {
+    "stamp": "2020-05-26T06:37:28Z",
+    "todos": []
+  },
+  "webrtc-qr-signaling-channel": {
+    "stamp": "2019-12-29T22:51:12Z",
+    "todos": [
+      "Handle more states: user media handlers, peer connection handlers…",
+      "Figure out why *ICE failed, add a TURN server and see about:webrtc for more details* happens",
+      "Add UI which shows the states of the peer connection and the data channel",
+      "Demonstrate the functionality by implementing a local storage syncing mechanism",
+      "Parse out important bits from the SDP either way and display only that",
+      "Add a UI button for joining without using the phone QR scanner flow",
+      "Add a read-receipt style message to acknowledge reception of a message on the other side",
+      "Research options of keeping the application alive while the device gets locked",
+      "Research fountation codes for more efficient message transfer"
+    ]
+  },
+  "github-actions-commit": {
+    "stamp": "2020-05-02T11:24:59Z",
+    "todos": []
+  },
+  "webusb-op-1": {
+    "stamp": "2019-12-29T22:41:01Z",
+    "todos": [
+      "Try with more MIDI (and not) USB devices and figure out why it didn't work with the OP-1",
+      "Build another demo using WebMIDI (as opposed to the more general WebUSB)"
+    ]
+  },
+  "win-iso-url": {
+    "stamp": "2020-01-20T09:24:03Z",
+    "todos": [
+      "Make sure this still works",
+      "Find out the approximate expiration of the GUID in the ISO URL"
+    ]
+  },
+  "windows-binary-compare": {
+    "stamp": "2020-04-29T19:00:41Z",
+    "todos": []
+  },
+  "windows-compare-directories": {
+    "stamp": "2020-08-11T16:16:21Z",
+    "todos": []
+  },
+  "windows-safari": {
+    "stamp": "2019-12-14T12:33:20Z",
+    "todos": [
+      "Wait for the Windows binary release I guess?"
+    ]
+  },
+  "windows-sandbox-script": {
+    "stamp": "2019-12-29T22:36:40Z",
+    "todos": [
+      "Figure out how to auto-hide taskbar",
+      "Figure out how to pin to the taskbar",
+      "Figure out how to show file name extensions",
+      "Figure out how to install SQLite"
+    ]
+  },
+  "windows-startup-path": {
+    "stamp": "2021-03-16T07:34:00Z",
+    "todos": []
+  },
+  "wokwi-nmea-checksum": {
+    "stamp": "2021-03-30T19:53:30Z",
+    "todos": [
+      "Figure out why the USART is not being called at all"
+    ]
+  },
+  "workers-cookie": {
+    "stamp": "2020-03-09T10:50:12Z",
+    "todos": []
+  },
+  "workers-cron": {
+    "stamp": "2020-03-12T11:32:57Z",
+    "todos": []
+  },
+  "workers-formdata": {
+    "stamp": "2021-01-05T10:30:12Z",
+    "todos": []
+  },
+  "wsb-busdog": {
+    "stamp": "2019-12-29T22:34:35Z",
+    "todos": [
+      "See if it will be possible to from a VM if not WSB"
+    ]
+  },
+  "wsb-kb": {
+    "stamp": "2020-01-16T16:48:36Z",
+    "todos": []
+  },
+  "xcode-format": {
+    "stamp": "2020-03-14T08:20:21Z",
+    "todos": []
+  },
+  "xcode-version": {
+    "stamp": "2020-03-14T08:29:19Z",
+    "todos": []
+  },
+  "yarn-frozen-lockfile": {
+    "stamp": "2020-04-02T12:57:05Z",
+    "todos": []
+  },
+  "yarn-justify": {
+    "stamp": "2019-12-29T21:14:12Z",
+    "todos": [
+      "See if there is a way good to contribute a `yarn run justify` script in `postinstall`",
+      "Support NPM lock file",
+      "Use `git blame` when reporting which packages miss justification",
+      "Fix warning with empty lock file",
+      "Support versions granually and think through new version defaults",
+      "Fix `echo \"yarn-justify\" >> .git/hooks/pre-commit` not working after installation",
+      "Think about local versus global installation and how it affects hook installation",
+      "Introduce tests",
+      "Utilize GitHub releases"
+    ]
+  },
+  "youtube-comment-watcher": {
+    "stamp": "2020-07-22T16:09:40Z",
+    "todos": [
+      "Fix not all comments being scraped (seems random across runs)",
+      "Find a way to sort by new and do it for better diffing and notifications"
+    ]
+  },
+  "youtube-dl-kb": {
+    "stamp": "2020-01-16T16:49:41Z",
+    "todos": []
+  },
+  "yt-comments": {
+    "stamp": "2020-01-27T21:20:09Z",
+    "todos": [
+      "Switch to *Newest First* before scraping the comments",
+      "Consider scraping replies to top level comments"
+    ]
+  },
+  "yt-downloader": {
+    "stamp": "2021-04-02T10:17:42Z",
+    "todos": [
+      "Scrape subscriptions from https://www.youtube.com/channel/$id/channels if public (auto-check?)",
+      "See if it is possible to find the local Chrome installation (if any) with Puppeteer",
+      "Scrape comments (Puppeteer screenshots)",
+      "Use AFC with https://github.com/mceSystems/libijs to sync videos",
+      "Recognize watched videos by knowing they were synced but have been since deleted",
+      "Download subtitles",
+      "Point Puppeteer to an instance of the Electron self if possible to stop bundling extra Chrome"
+    ]
+  },
+  "zsh-nvm": {
+    "stamp": "2020-02-04T06:07:44Z",
+    "todos": []
   }
 }

@@ -35,7 +35,7 @@ jobs:
         
         # Run the CI script
         npm install
-        node .
+        node . ${{secrets.GITHUB_TOKEN}}
         
         # Stage the Git index changes resulting from the CI script
         git add readme.md followers.json repositories.json issues-and-prs.log
