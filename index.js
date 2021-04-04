@@ -146,7 +146,11 @@ void async function () {
       content = Buffer.from(content.content, 'base64');
       await fs.promises.writeFile(name + '.' + readme, content);
 
-      todos[name] ??= {};
+      // Do not use `??=` because the GitHub Actions Node version is too old
+      if (!todos[name]) {
+        todos[name] = {};
+      }
+
       todos[name].stamp = pushed_at;
       todos[name].todos = [];
       for await (const { text } of todo('todos', name + '.md')) {
