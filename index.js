@@ -169,6 +169,13 @@ void async function () {
     }
   }
 
+  for (const name in todos) {
+    if (!repositories.find(repository => repository.name === name)) {
+      console.log(name, 'to be deleted');
+      //delete todos[name];
+    }
+  }
+
   await fs.promises.writeFile('todos.json', JSON.stringify(todos, null, 2));
 
   // Sort the repositories object by key before persisting it to the change
