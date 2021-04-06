@@ -171,8 +171,7 @@ void async function () {
 
   for (const name in todos) {
     if (!repositories.find(repository => repository.name === name)) {
-      console.log(name, 'to be deleted');
-      //delete todos[name];
+      delete todos[name];
     }
   }
 
@@ -223,6 +222,7 @@ void async function () {
 [${followerCount} followers 🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
 [${repositories.length} repositories 📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
 [${issuesAndPrs} issues 🎫 and PRs 🎁 on my repositories 📓](issues-and-prs.log) ᐧ
+[${Object.keys(todos).length} todos 💪 on my repositories 📓](todos.json) ᐧ
 [${forks.length} forks 🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork)
 
 </div>
