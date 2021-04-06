@@ -76,10 +76,7 @@ I've drafted up code which for each repository, if it has changed since the last
 time, fetches its readme and extracts todos from it. The todos are placed into
 `todos.json` under the key of the repository name.
 
-To finalize:
-
-- [ ] Sort the `todos.json` object by keys alphabetically
-- [ ] Drop the history of `todos.json` and add it to the stage in the workflow
+To finalize, drop the history of `todos.json` and add it to the stage in the CI
 
 ## Detect and warn on unindexed repositories
 

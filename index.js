@@ -175,7 +175,7 @@ void async function () {
     }
   }
 
-  await fs.promises.writeFile('todos.json', JSON.stringify(todos, null, 2));
+  await fs.promises.writeFile('todos.json', JSON.stringify(Object.fromEntries(Object.entries(todos).sort()), null, 2));
 
   // Sort the repositories object by key before persisting it to the change
   await fs.promises.writeFile('repositories.json', JSON.stringify(Object.fromEntries(Object.entries(_repositories).sort()), null, 2));
