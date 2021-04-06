@@ -102,6 +102,22 @@
     "stamp": "2021-03-15T21:18:29Z",
     "todos": []
   },
+  "arduino-nmea": {
+    "stamp": "2021-04-02T10:08:11Z",
+    "todos": [
+      "Figure out why using SimAVR through Aptitude results in a crash",
+      "Fix the Builder not being able to find dependencies",
+      "Run SimAVR on both the Arduino CLI and the Arduino Builder builds",
+      "Look into using AVR8JS by Wokwi to simulate the Arduino and check tests",
+      "Fix Arduino CLI looking up incorrect sketch in the GitHub Actions workflow"
+    ]
+  },
+  "arduino-qr": {
+    "stamp": "2021-04-03T20:15:44Z",
+    "todos": [
+      "Receive the matrices and try to hook them up together and to an Arduino"
+    ]
+  },
   "asp-conditional-validations": {
     "stamp": "2020-01-08T08:56:31Z",
     "todos": [
@@ -916,11 +932,9 @@
       "Check out Bash version and other discrepancies to find the source of the difference"
     ]
   },
-  "arduino-qr": {
-    "stamp": "2021-04-03T20:15:44Z",
-    "todos": [
-      "Receive the matrices and try to hook them up together and to an Arduino"
-    ]
+  "github-actions-commit": {
+    "stamp": "2021-04-04T15:25:08Z",
+    "todos": []
   },
   "github-actions-snap": {
     "stamp": "2019-12-08T06:03:41Z",
@@ -2717,10 +2731,6 @@
       "Research fountation codes for more efficient message transfer"
     ]
   },
-  "github-actions-commit": {
-    "stamp": "2021-04-04T15:25:08Z",
-    "todos": []
-  },
   "webusb-op-1": {
     "stamp": "2019-12-29T22:41:01Z",
     "todos": [
@@ -2849,15 +2859,5 @@
   "zsh-nvm": {
     "stamp": "2020-02-04T06:07:44Z",
     "todos": []
-  },
-  "arduino-nmea": {
-    "stamp": "2021-04-02T10:08:11Z",
-    "todos": [
-      "Figure out why using SimAVR through Aptitude results in a crash",
-      "Fix the Builder not being able to find dependencies",
-      "Run SimAVR on both the Arduino CLI and the Arduino Builder builds",
-      "Look into using AVR8JS by Wokwi to simulate the Arduino and check tests",
-      "Fix Arduino CLI looking up incorrect sketch in the GitHub Actions workflow"
-    ]
   }
 }
