@@ -89,20 +89,6 @@
       "Add a checkbox for only displaying images not covered by other images"
     ]
   },
-  "android-cert-pin": {
-    "stamp": "2020-02-23T10:22:07Z",
-    "todos": [
-      "Look into online resources on the topic of certificate pinning bypass",
-      "Test the Yazio app binary on an Android phone or in an emulator",
-      "Test out various disassemblers to find one which won't fail",
-      "See if the binary is obfuscated and if yes see if there's a deobfuscator",
-      "Try running the app in the emulator and attaching a debugger to the startup",
-      "Patch the source code to make the certificate pinning check routine a no-op",
-      "Reassemble the application and deploy it to the phone for testing",
-      "Proxy the phone's network communication through the laptop for inspection",
-      "Turn on TLS proxying and see if the app accepts the self-signed certificate"
-    ]
-  },
   "arduino-ide-silent-install": {
     "stamp": "2019-12-07T07:54:31Z",
     "todos": [
@@ -115,16 +101,6 @@
   "arduino-mouse-jiggler": {
     "stamp": "2021-03-15T21:18:29Z",
     "todos": []
-  },
-  "arduino-nmea-checksum": {
-    "stamp": "2021-04-02T10:08:11Z",
-    "todos": [
-      "Figure out why using SimAVR through Aptitude results in a crash",
-      "Fix the Builder not being able to find dependencies",
-      "Run SimAVR on both the Arduino CLI and the Arduino Builder builds",
-      "Look into using AVR8JS by Wokwi to simulate the Arduino and check tests",
-      "Fix Arduino CLI looking up incorrect sketch in the GitHub Actions workflow"
-    ]
   },
   "asp-conditional-validations": {
     "stamp": "2020-01-08T08:56:31Z",
@@ -144,39 +120,9 @@
     "stamp": "2021-04-01T20:07:27Z",
     "todos": []
   },
-  "aws-elastic-beanstalk": {
-    "stamp": "2019-12-02T13:29:22Z",
-    "todos": [
-      "Add instructions for uploading using the AWS CLI",
-      "Set up a workflow for publishing to EB from GitHub Actions using the AWS CLI",
-      "Add info on using SQLite on the EC2 instance (file based)",
-      "Add info on connecting with RDS (managed)",
-      "Add info on carrying out migrations in EF Core"
-    ]
-  },
-  "azure-function": {
-    "stamp": "2020-01-09T13:07:40Z",
-    "todos": [
-      "Finalize this despite Azure sucking"
-    ]
-  },
-  "azure-pipelines-artifacts-to-repository": {
-    "stamp": "2019-12-02T13:30:33Z",
-    "todos": []
-  },
-  "azure-pipelines-bot": {
-    "stamp": "2019-12-02T13:32:15Z",
-    "todos": []
-  },
   "azure-pipelines-powershell-core": {
     "stamp": "2019-12-02T18:39:10Z",
     "todos": []
-  },
-  "azure-static-website": {
-    "stamp": "2019-12-02T13:36:49Z",
-    "todos": [
-      "Figure out Azure CDN for custom domain name, TLS and rewrite rules for routing"
-    ]
   },
   "babel-sourcemap": {
     "stamp": "2021-03-26T23:32:38Z",
@@ -389,14 +335,6 @@
     "stamp": "2020-07-07T13:45:39Z",
     "todos": []
   },
-  "coq": {
-    "stamp": "2020-01-08T09:18:14Z",
-    "todos": [
-      "Look into Coq",
-      "Look into Lean",
-      "Look into F*"
-    ]
-  },
   "cosmos-db-exploration": {
     "stamp": "2020-01-13T08:47:10Z",
     "todos": []
@@ -485,12 +423,6 @@
     "todos": [
       "Continue building the experiment out",
       "Remove the views and their assets in the BE application"
-    ]
-  },
-  "cra-ts-weirdness": {
-    "stamp": "2020-01-13T08:49:27Z",
-    "todos": [
-      "Follow up on [GitHub CRA issue](https://github.com/facebook/create-react-app/issues/6788)"
     ]
   },
   "crypto-qr": {
@@ -626,10 +558,6 @@
     "todos": [
       "Test out the hack to disabled Restore Pages"
     ]
-  },
-  "edge-repro": {
-    "stamp": "2021-03-26T22:12:38Z",
-    "todos": []
   },
   "ef-array-column": {
     "stamp": "2019-12-08T20:27:48Z",
@@ -1024,10 +952,6 @@
   },
   "github-comments": {
     "stamp": "2020-05-06T15:30:27Z",
-    "todos": []
-  },
-  "github-followers": {
-    "stamp": "2020-05-13T05:56:00Z",
     "todos": []
   },
   "github-linguist": {
@@ -1792,10 +1716,6 @@
     "stamp": "2020-02-13T19:57:01Z",
     "todos": []
   },
-  "npm-not-recognized": {
-    "stamp": "2019-11-28T11:39:18Z",
-    "todos": []
-  },
   "npm-preinstall": {
     "stamp": "2020-02-18T11:59:54Z",
     "todos": []
@@ -2429,12 +2349,6 @@
   "ts-boolean-confusion": {
     "stamp": "2019-03-21T09:51:43Z",
     "todos": []
-  },
-  "ts-comment-types": {
-    "stamp": "2019-01-12T12:21:37Z",
-    "todos": [
-      "Use the TypeScript compiler API to find the comments and replace them with their contents"
-    ]
   },
   "ts-ecosystem-review": {
     "stamp": "2019-11-30T10:49:07Z",
