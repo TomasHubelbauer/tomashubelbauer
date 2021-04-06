@@ -1202,14 +1202,6 @@
       "Run headless and have a different UI to present the QR code and progress in"
     ]
   },
-  "isogit-pull": {
-    "stamp": "2021-04-02T10:33:54Z",
-    "todos": []
-  },
-  "isogit-pull-repo": {
-    "stamp": "2020-02-14T19:30:44Z",
-    "todos": []
-  },
   "iwr-cookie": {
     "stamp": "2020-01-31T20:41:11Z",
     "todos": []
@@ -1512,10 +1504,6 @@
       "See if the files contain enough vector information to be worth it"
     ]
   },
-  "net-core-linode": {
-    "stamp": "2019-11-28T11:38:55Z",
-    "todos": []
-  },
   "net-core-pinvoke": {
     "stamp": "2020-01-22T19:31:56Z",
     "todos": []
@@ -1589,9 +1577,10 @@
     "todos": []
   },
   "node-async-exit": {
-    "stamp": "2020-05-08T08:00:20Z",
+    "stamp": "2021-04-06T21:16:17Z",
     "todos": [
-      "Try blocking on a long-running `fetch` instead of a timeout and see if it helps"
+      "Try blocking on a long-running `fetch` instead of a timeout and see if it helps",
+      "Try using the hack with synchronous process invocation"
     ]
   },
   "node-cdp-ws": {
@@ -1671,7 +1660,7 @@
     ]
   },
   "node-redirect-to-javascript": {
-    "stamp": "2019-03-19T10:32:26Z",
+    "stamp": "2021-04-06T21:18:14Z",
     "todos": []
   },
   "node-require": {
@@ -1845,13 +1834,6 @@
     "stamp": "2020-05-01T14:23:33Z",
     "todos": []
   },
-  "play-test": {
-    "stamp": "2020-01-14T07:43:59Z",
-    "todos": [
-      "Test cloning private repos with a PAT",
-      "Test running a script in a loop"
-    ]
-  },
   "playwright-github-actions": {
     "stamp": "2020-04-30T20:48:14Z",
     "todos": []
@@ -1863,20 +1845,6 @@
   "pointer-events": {
     "stamp": "2020-07-26T16:19:25Z",
     "todos": []
-  },
-  "pomodoro": {
-    "stamp": "2021-04-01T21:18:15Z",
-    "todos": [
-      "Convert to plain HTML with custom elements and host using GitHub Pages",
-      "Display a 3D pomodoro kitchen timer model",
-      "Display a circular loading indicator around the favicon",
-      "Fix the broken start button icon placement in mobile Safari",
-      "Use SVGs instead of Unicode for the buttons",
-      "Align the buttons side by side in mobile Safari",
-      "Display remaining pomodoro time",
-      "Display the stop button even if not started if the pomodoro number > 0",
-      "Host this again"
-    ]
   },
   "powershell-explorer-file-extensions": {
     "stamp": "2019-11-28T11:39:47Z",
@@ -1920,12 +1888,6 @@
     "stamp": "2020-11-17T20:42:48Z",
     "todos": [
       "Figure out the problem and capture the solution"
-    ]
-  },
-  "pulumi": {
-    "stamp": "2019-12-30T06:05:33Z",
-    "todos": [
-      "Try deploying functions to AWS and Azure using it"
     ]
   },
   "puppeteer-bazos-cz-scraper": {
@@ -1987,9 +1949,9 @@
     ]
   },
   "raspi-mouse-jiggler": {
-    "stamp": "2021-04-01T21:04:28Z",
+    "stamp": "2021-04-06T21:23:48Z",
     "todos": [
-      "Figure out a way to solve the macOS issue",
+      "Verify the code now works on macOS out of the box after the issue fix",
       "Build adapters from the microUSB port on the Pi Pico to USB A and USB C"
     ]
   },
@@ -2093,10 +2055,6 @@
       "Try it"
     ]
   },
-  "rust-azure-web-app": {
-    "stamp": "2019-11-28T11:40:49Z",
-    "todos": []
-  },
   "rust-wasm": {
     "stamp": "2019-07-18T12:10:13Z",
     "todos": []
@@ -2161,16 +2119,6 @@
       "Add a switch to disable web security to allow `fetch` on `file://` protocol"
     ]
   },
-  "siko-sink-cap": {
-    "stamp": "2020-01-04T15:08:29Z",
-    "todos": [
-      "Print the part in Prusalab",
-      "Buy the printer",
-      "Switch the workflow to Aptitude when Ubuntu 19.04 is available in runners",
-      "Consider generating the STL in the GitHub Actions workflow as well",
-      "Await ProtoFinal response"
-    ]
-  },
   "speedtest": {
     "stamp": "2020-05-26T18:01:05Z",
     "todos": [
@@ -2228,10 +2176,6 @@
     "stamp": "2021-04-02T10:36:03Z",
     "todos": []
   },
-  "ssr-research": {
-    "stamp": "2019-11-28T11:41:11Z",
-    "todos": []
-  },
   "sus-downloader": {
     "stamp": "2019-05-24T23:48:48Z",
     "todos": []
@@ -2252,12 +2196,6 @@
       "Introduce mutating methods for matrix and point manipulationin `esm-matrix`",
       "Implement cutting out the lines parts which cross the camera plane",
       "Implement hiding lines by curling them up to a point outside of the canvas"
-    ]
-  },
-  "svg-5-minutes": {
-    "stamp": "2020-05-19T15:22:31Z",
-    "todos": [
-      "Display an empty box (outline / parallel lines) where there is not record"
     ]
   },
   "svg-arc-angle": {
@@ -2359,10 +2297,6 @@
       "Warn on unused ignore rules (maybe opt-in)",
       "Reserve the MarkDown checkbox detection only for MarkDown files"
     ]
-  },
-  "ts-boolean-confusion": {
-    "stamp": "2019-03-21T09:51:43Z",
-    "todos": []
   },
   "ts-ecosystem-review": {
     "stamp": "2019-11-30T10:49:07Z",
@@ -2466,13 +2400,6 @@
       "Add a GitHub Actions workflow to package the VSIX and release it to GitHub Releases"
     ]
   },
-  "vscode-extension-api-repl": {
-    "stamp": "2019-11-28T11:42:02Z",
-    "todos": [
-      "How to start a fake debug session?",
-      "Is the expression text a default and will it prompt for user input?"
-    ]
-  },
   "vscode-extensions": {
     "stamp": "2020-05-31T23:22:24Z",
     "todos": [
@@ -2521,13 +2448,6 @@
       "Write up some tests"
     ]
   },
-  "vscode-nested-git": {
-    "stamp": "2020-09-17T08:47:32Z",
-    "todos": [
-      "Study the VS Code extension API to see if this could be enabled without the VS Code team",
-      "Fall back onto the VS Code GitHub issues to request this feature to be added if it cannot be done using an extension"
-    ]
-  },
   "vscode-organize-imports-on-save": {
     "stamp": "2021-03-03T19:43:11Z",
     "todos": []
@@ -2536,12 +2456,6 @@
     "stamp": "2019-12-29T22:57:36Z",
     "todos": [
       "Create a GitHub Pages site which fetches the readme and makes the JSON"
-    ]
-  },
-  "vscode-test": {
-    "stamp": "2020-02-07T06:08:17Z",
-    "todos": [
-      "Recover access to the PAT used for publishing my extensions"
     ]
   },
   "vscode-video": {
