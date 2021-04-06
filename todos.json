@@ -80,14 +80,13 @@
     ]
   },
   "albert": {
-    "stamp": "2021-04-04T17:37:31Z",
+    "stamp": "2021-04-06T20:43:22Z",
     "todos": [
-      "Use `canvas` to render the images and texts instead of pure HTML elements",
-      "Scrape page viewport size and prevent viewport overflow in the viewer app",
-      "Figure out why some of the images do not show or show elsewhere/covered",
-      "Add viewer UI to turn on/off individual images and texts for debugging",
+      "Scrape page viewport size and set the `canvas` size to the scraped size",
       "Figure out how to get rid of mask-type faux-images not actually in the PDF",
-      "Rank image and text pairs by closeness to bounds not the center"
+      "Rank image and text pairs by closeness to bounds not the center",
+      "Display a locator glow around an image / a text on hover in the tool UI",
+      "Add a checkbox for only displaying images not covered by other images"
     ]
   },
   "android-cert-pin": {
@@ -2426,10 +2425,6 @@
       "Warn on unused ignore rules (maybe opt-in)",
       "Reserve the MarkDown checkbox detection only for MarkDown files"
     ]
-  },
-  "tomashubelbauer": {
-    "stamp": "2021-04-06T19:10:57Z",
-    "todos": []
   },
   "ts-boolean-confusion": {
     "stamp": "2019-03-21T09:51:43Z",
