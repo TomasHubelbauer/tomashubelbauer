@@ -1398,10 +1398,6 @@
     "stamp": "2021-03-07T18:47:42Z",
     "todos": []
   },
-  "mac-os-qemu": {
-    "stamp": "2020-01-13T09:08:29Z",
-    "todos": []
-  },
   "macos-date-time": {
     "stamp": "2020-05-12T17:12:46Z",
     "todos": []
@@ -1930,12 +1926,6 @@
   "puppeteer-thumbs": {
     "stamp": "2020-05-07T19:05:15Z",
     "todos": []
-  },
-  "qemu": {
-    "stamp": "2019-12-09T10:11:49Z",
-    "todos": [
-      "Expand todos for trying these combinations out"
-    ]
   },
   "qr-channel": {
     "stamp": "2019-12-09T04:17:53Z",
