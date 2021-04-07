@@ -1,8 +1,9 @@
 {
   "acter": {
-    "stamp": "2021-04-04T16:45:31Z",
+    "stamp": "2021-04-07T19:53:51Z",
     "todos": [
-      "Handle initial roll vs reroll"
+      "Handle initial roll vs reroll",
+      "Demonstrate the ideas captured here in Paper test cases / demos and retire"
     ]
   },
   "ado-dotnet-formatter": {
@@ -847,7 +848,7 @@
     ]
   },
   "fragment": {
-    "stamp": "2020-01-07T09:29:37Z",
+    "stamp": "2021-04-07T19:57:09Z",
     "todos": [
       "Set up an `.npmignore` for `publish` to use",
       "Create releases using GitHub Actions replacing Azure Pipelines",
@@ -861,7 +862,8 @@
       "Create a demo comparing Fragment with React and Vue",
       "Add a mechanism for rendering raw HTML",
       "Document performance monitoring approaches used to determine the performance characteristics of Fragments",
-      "Add a license file"
+      "Add a license file",
+      "Realize in the Paper repository and delete the Fragment repository"
     ]
   },
   "fuck-you-stale-bot": {
@@ -1810,8 +1812,10 @@
     "todos": []
   },
   "paper": {
-    "stamp": "2021-04-03T10:29:10Z",
-    "todos": []
+    "stamp": "2021-04-07T19:51:51Z",
+    "todos": [
+      "Split off `Component.js` into a new `paper-wc` repository"
+    ]
   },
   "pdf": {
     "stamp": "2020-01-16T08:51:31Z",
