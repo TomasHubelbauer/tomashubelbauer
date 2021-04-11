@@ -1709,10 +1709,6 @@
       "Look into using PowerShell remoting for communicating with the sandbox"
     ]
   },
-  "npm-ecosystem-review": {
-    "stamp": "2019-08-15T12:41:32Z",
-    "todos": []
-  },
   "npm-install-private": {
     "stamp": "2020-02-13T19:57:01Z",
     "todos": []
