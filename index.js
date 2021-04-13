@@ -221,9 +221,9 @@ void async function () {
 
 [${followerCount} followers 🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
 [${repositories.length} repositories 📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
-[${issuesAndPrs} issues 🎫 and PRs 🎁](issues-and-prs.log) ᐧ
+[${issuesAndPrs} issues/PRs 🎫🎁](issues-and-prs.log) ᐧ
 [${Object.keys(todos).length} todos 💪](todos.json) ᐧ
-[${forks.length} forks 🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork)
+[${forks.length ?? 'No'} forks 🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork)
 
 </div>
 
