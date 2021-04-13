@@ -223,7 +223,7 @@ void async function () {
 [${repositories.length} repositories 📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
 [${issuesAndPrs} issues/PRs 🎫🎁](issues-and-prs.log) ᐧ
 [${Object.keys(todos).length} todos 💪](todos.json) ᐧ
-[${forks.length ?? 'No'} forks 🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork)
+[${forks.length || 'No'} forks 🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork)
 
 </div>
 
