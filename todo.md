@@ -98,3 +98,7 @@ I thought the Activity API already returned this, but it doesn't seem to, so I
 will calculate these records based on `repositories.json` and create a virtual
 event for it. This ties into the other task - to not show subsequent (in the
 reverse chronological order) events relating to deleted repositories.
+
+## Delete `useless-forks.json` if there aren't any
+
+## Display a singular in the item counters in readme when there is only one
