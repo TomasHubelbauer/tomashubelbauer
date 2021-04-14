@@ -20,12 +20,6 @@ repository has been since deleted and if yes, render its names, commits and
 other related items as mere text and not links to the respective items as those
 links would be broken links.
 
-## Throw if there exist any useless forks (no changes against upstream)
-
-Search the repositories API response for forks and check each to see if it has
-commits ahead of upstream and if not, throw to alert me to it so that I can
-delete it.
-
 ## Switch on action payload field in member and PR events and use correct emoji
 
 Right now the action is interpolated into the string so we don't know what

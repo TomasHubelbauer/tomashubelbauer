@@ -234,7 +234,20 @@ void async function () {
     ;
   await fs.promises.writeFile('prs.md', prsMarkDown);
 
+  const forkPrs = await downloadPagedArray('https://api.github.com/search/issues?q=is:pr+is:open+author:tomashubelbauer+-org:tomashubelbauer', 'fork-prs.json');
+  const forkPrRepos = forkPrs.map(pr => pr.html_url.split('/').slice(3, 5).join('/'));
   const forks = repositories.filter(repository => repository.fork);
+  const uselessForks = [];
+  for (const fork of forks) {
+    const { parent } = await download(fork.url);
+    if (!forkPrRepos.includes(parent.full_name)) {
+      console.log('Marked', fork.name, 'as useless');
+      uselessForks.push(fork.name);
+    }
+  }
+
+  await fs.promises.writeFile('useless-forks.json', JSON.stringify(uselessForks, null, 2));
+
   const followerCount = followers.filter(follower => follower.followed_at && !follower.unfollowed_at).length;
 
   let markdown = `![](banner.svg)
@@ -253,6 +266,7 @@ void async function () {
 [${prs.length} PRs 🎁](prs.md) ᐧ
 [${Object.keys(todos).length} todos 💪](todos.json) ᐧ
 [${forks.length || 'No'} forks 🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork)
+${uselessForks.length > 0 ? `[${uselessForks.length} useless forks 🍴⚠️](useless-forks.json)` : ''}
 
 </div>
 
