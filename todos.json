@@ -1185,7 +1185,7 @@
     ]
   },
   "is4a-leaderboard": {
-    "stamp": "2021-04-13T00:15:38Z",
+    "stamp": "2021-04-14T00:13:24Z",
     "todos": [
       "Generate the HTML output directly and use it for both email and web",
       "Generate a MarkDown readme section in addition to the email and web",
@@ -1511,7 +1511,7 @@
     "todos": []
   },
   "net-ecosystem-review": {
-    "stamp": "2021-04-13T00:14:28Z",
+    "stamp": "2021-04-14T00:12:02Z",
     "todos": [
       "Provide another view with a chart showing stars of each project on a line chart",
       "Load notes for each item from README.md",
