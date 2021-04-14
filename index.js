@@ -208,7 +208,7 @@ void async function () {
     url: issue.html_url,
   }));
 
-  const issueGroups = issues.reduce((groups, issue) => { groups[issue.repo] ??= []; groups[issue.repo].push(issue); return groups; }, {});
+  const issueGroups = issues.reduce((groups, issue) => { groups[issue.repo] = groups[issue.repo] ?? []; groups[issue.repo].push(issue); return groups; }, {});
   const issuesMarkDown = '# Issues\n\n' + Object
     .keys(issueGroups)
     .sort()
@@ -224,7 +224,7 @@ void async function () {
     url: pr.html_url,
   }));
 
-  const prGroups = prs.reduce((groups, pr) => { groups[pr.repo] ??= []; groups[pr.repo].push(pr); return groups; }, {});
+  const prGroups = prs.reduce((groups, pr) => { groups[pr.repo] = groups[pr.repo] ?? []; groups[pr.repo].push(pr); return groups; }, {});
   const prsMarkDown = '# Pull Requests\n\n' + Object
     .keys(prGroups)
     .sort()
