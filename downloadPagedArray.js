@@ -12,9 +12,10 @@ export default async function downloadPagedArray(/** @type {string} */ url, /** 
     }
 
     const result = [];
-    const pages = Number({ ...await query(url + '?per_page=100') }.link.match(/(\d+)>; rel="last"$/)[1]);
+    const symbol = url.includes('?') ? '&' : '?';
+    const pages = Number({ ...await query(url + symbol + 'per_page=100') }.link?.match(/(\d+)>; rel="last"$/)[1] ?? 1);
     for (let page = 1; page <= pages; page++) {
-      result.push(...await downloadArray(url + '?per_page=100&page=' + page));
+      result.push(...await downloadArray(url + symbol + 'per_page=100&page=' + page));
       console.log('Fetched', url, 'page', page);
     }
 

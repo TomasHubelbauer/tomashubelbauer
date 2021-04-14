@@ -6,5 +6,9 @@ export default async function downloadArray(/** @type {string} */ url) {
     return data;
   }
 
+  if (Array.isArray(data.items)) {
+    return data.items;
+  }
+
   throw new Error(data);
 }
