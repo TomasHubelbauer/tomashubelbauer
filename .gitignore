@@ -1,6 +1,7 @@
 events.json
 followers.dev.json
 repositories.dev.json
+issues-and-prs.json
 
 # Node
 node_modules

@@ -58,6 +58,8 @@ void async function () {
   for (const follower of followers) {
     // Generate follower event (unfollowed) if the user unfollowed earlier than the oldest GitHub activity event returned
     if (follower.unfollowed_at?.localeCompare(cutoff) >= 0) {
+      console.log('Skipped unfollower', follower.login, '(dead login)');
+
       // Skip accounts known to be dead already
       if (deadLogins.includes(follower.login)) {
         continue;
@@ -88,9 +90,6 @@ void async function () {
   // Fetch repositories for star and fork change detection
   const repositories = await downloadPagedArray('https://api.github.com/users/tomashubelbauer/repos', 'repositories.dev.json');
 
-  let issuesAndPrs = 0;
-  const stream = fs.createWriteStream('issues-and-prs.log');
-
   const todos = JSON.parse(await fs.promises.readFile('todos.json'));
 
   // Extract tracked attributes of each repository (used for change detection)
@@ -101,11 +100,7 @@ void async function () {
     // endpoint.
     // Note that `open_issues_count` mixes together issues and pull requests and
     // is not distringuishable without fetching individual repo's details.
-    const { name, stargazers_count: stars, forks_count: forks, open_issues_count, pushed_at } = repository;
-    if (open_issues_count > 0) {
-      issuesAndPrs += open_issues_count;
-      stream.write(name + ' ' + open_issues_count + '\n');
-    }
+    const { name, stargazers_count: stars, forks_count: forks, pushed_at } = repository;
 
     // TODO: Drop entries that are older than the cutoff and no longer contribute
     // Record the changes only if there are any to speak of - ignore non-changes
@@ -179,7 +174,6 @@ void async function () {
 
   // Sort the repositories object by key before persisting it to the change
   await fs.promises.writeFile('repositories.json', JSON.stringify(Object.fromEntries(Object.entries(_repositories).sort()), null, 2));
-  stream.close();
 
   // Compare changes between repository attributes and generate events for them
   // Note that repo creations and deletions are handled by GitHub Activity API
@@ -206,6 +200,40 @@ void async function () {
     }
   }
 
+  const issuesAndPrs = await downloadPagedArray('https://api.github.com/search/issues?q=org:tomashubelbauer+is:open', 'issues-and-prs.json');
+
+  const issues = issuesAndPrs.filter(issueOrPr => !issueOrPr.pull_request).map(issue => ({
+    repo: issue.html_url.split('/')[4],
+    title: issue.title,
+    url: issue.html_url,
+  }));
+
+  const issueGroups = issues.reduce((groups, issue) => { groups[issue.repo] ??= []; groups[issue.repo].push(issue); return groups; }, {});
+  const issuesMarkDown = '# Issues\n\n' + Object
+    .keys(issueGroups)
+    .sort()
+    .map(group => issueGroups[group])
+    .map(group => `## ${group[0].repo}\n\n${group.map(issue => `- [${issue.title}](${issue.url})`).join('\n')}`)
+    .join('\n\n') + '\n'
+    ;
+  await fs.promises.writeFile('issues.md', issuesMarkDown);
+
+  const prs = issuesAndPrs.filter(issueOrPr => issueOrPr.pull_request).map(pr => ({
+    repo: pr.html_url.split('/')[4],
+    title: pr.title,
+    url: pr.html_url,
+  }));
+
+  const prGroups = prs.reduce((groups, pr) => { groups[pr.repo] ??= []; groups[pr.repo].push(pr); return groups; }, {});
+  const prsMarkDown = '# Pull Requests\n\n' + Object
+    .keys(prGroups)
+    .sort()
+    .map(group => prGroups[group])
+    .map(group => `## ${group[0].repo}\n\n${group.map(pr => `- [${pr.title}](${pr.url})`).join('\n')}`)
+    .join('\n\n') + '\n'
+    ;
+  await fs.promises.writeFile('prs.md', prsMarkDown);
+
   const forks = repositories.filter(repository => repository.fork);
   const followerCount = followers.filter(follower => follower.followed_at && !follower.unfollowed_at).length;
 
@@ -221,7 +249,8 @@ void async function () {
 
 [${followerCount} followers 🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
 [${repositories.length} repositories 📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
-[${issuesAndPrs} issues/PRs 🎫🎁](issues-and-prs.log) ᐧ
+[${issues.length} issues 🎫](issues.md) ᐧ
+[${prs.length} PRs 🎁](prs.md) ᐧ
 [${Object.keys(todos).length} todos 💪](todos.json) ᐧ
 [${forks.length || 'No'} forks 🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork)
 
