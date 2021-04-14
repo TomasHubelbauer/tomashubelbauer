@@ -102,3 +102,7 @@ reverse chronological order) events relating to deleted repositories.
 ## Delete `useless-forks.json` if there aren't any
 
 ## Display a singular in the item counters in readme when there is only one
+
+## Consider using a non breaking space between the counter number and name
+
+This should improve the display on mobile, if supported by GitHub.
