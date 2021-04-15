@@ -958,14 +958,6 @@
     "stamp": "2020-05-20T15:57:24Z",
     "todos": []
   },
-  "github-backuper": {
-    "stamp": "2021-04-02T10:14:55Z",
-    "todos": [
-      "Backup self only when ran in \"production\" mode not in development",
-      "Use a credential manager",
-      "Detect empty repositories in a better/faster way"
-    ]
-  },
   "github-codespace": {
     "stamp": "2020-08-06T20:04:13Z",
     "todos": []
