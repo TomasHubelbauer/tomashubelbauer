@@ -250,8 +250,8 @@ void async function () {
     uselessForks.length === 0
       ? ''
       : uselessForks.length === 1
-        ? `[One&nbsp;useless&nbsp;fork](https://github.com/tomashubelbauer/${uselessForks[0]})\n`
-        : `[${uselessForks.length}&nbsp;useless&nbsp;forks&nbsp;🍴⚠️](useless-forks.json)\n`
+        ? `[One&nbsp;useless&nbsp;fork](https://github.com/tomashubelbauer/${uselessForks[0]})`
+        : `[${uselessForks.length}&nbsp;useless&nbsp;forks&nbsp;🍴⚠️](useless-forks.json)`
     ;
 
   await fs.promises.writeFile('useless-forks.json', JSON.stringify(uselessForks, null, 2));
