@@ -499,7 +499,7 @@ ${forksMarkDown}${uselessForksMarkDown}
 
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#watchevent
       case 'WatchEvent': {
-        // TODO: Handle the `payload.action` once they fix it so it is not always `started`
+        // TODO: Handle the `payload.action` once they fix it so it is not always `started` (sic)
         markdown += `⭐️ starred${name(event.repo.name)}`;
         break;
       }
