@@ -300,12 +300,6 @@ ${forksMarkDown}${uselessForksMarkDown}
 
 </div>
 
-<div align="center">
-
-[(random repo)](https://tomashubelbauer.github.io/tomashubelbauer/random?now)
-
-</div>
-
 `;
   let heading;
 
