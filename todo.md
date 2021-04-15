@@ -84,9 +84,14 @@ anything needs removing.
 
 ## Detect and report repository deletions and skip other events for those repos
 
-I thought the Activity API already returned this, but it doesn't seem to, so I
-will calculate these records based on `repositories.json` and create a virtual
-event for it. Also, do not show subsequent (in the reverse chronological order)
-events relating to deleted repositories.
+Right now, the code can detect a deleted repository, but it can't remove it,
+because on the next run, it would not be found as deleted anymore.
+
+Instead, we need to mark the repository as deleted until the cutoff date is met
+and only then remove it from the cache file for good, so that the repository-
+deleted event is generated for as long as needed.
+
+- [ ] Mark repository as deleted either in `repositories.json` or elsewhere
+- [ ] Create virtual events for deleted repositories until cutoff date is met
 
 ## Address `TODO` comments in the source code

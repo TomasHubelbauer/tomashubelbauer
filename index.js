@@ -14,6 +14,8 @@ import todo from 'todo';
 // Crash process and bring down the workflow in case of an unhandled rejection
 process.on('unhandledRejection', error => { throw error; });
 
+const login = 'TomasHubelbauer';
+
 void async function () {
   // Fetch all 300 events GitHub API will provide:
   // https://docs.github.com/en/free-pro-team@latest/rest/reference/activity#events
@@ -73,7 +75,7 @@ void async function () {
         continue;
       }
 
-      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: follower.unfollowed_at, type: 'FollowerEvent', payload: { action: 'unfollowed', unfollower: follower.login } });
+      events.push({ actor: { login }, created_at: follower.unfollowed_at, type: 'FollowerEvent', payload: { action: 'unfollowed', unfollower: follower.login } });
     }
 
     // Generate follower event (followed) if the user followed earlier than the oldest GitHub activity event returned
@@ -83,7 +85,7 @@ void async function () {
         continue;
       }
 
-      events.push({ actor: { login: 'TomasHubelbauer' }, created_at: follower.followed_at, type: 'FollowerEvent', payload: { action: 'followed', newFollower: follower.login } });
+      events.push({ actor: { login }, created_at: follower.followed_at, type: 'FollowerEvent', payload: { action: 'followed', newFollower: follower.login } });
     }
   }
 
@@ -94,6 +96,14 @@ void async function () {
 
   // Extract tracked attributes of each repository (used for change detection)
   const _repositories = JSON.parse(await fs.promises.readFile('repositories.json'));
+  const deletedRepositories = Object.keys(_repositories).filter(name => !repositories.find(repository => repository.name === name));
+  for (const deletedRepository of deletedRepositories) {
+    console.log('Deleted', deletedRepository);
+
+    // TODO: Mark the repository as deleted until cutoff so we can generate repository-deleted event
+    //delete _repositories[deletedRepository];
+  }
+
   for (const repository of repositories) {
     // Note that `watchers_count` is the same as `stargazers_count` and the real
     // value for watches, `subscribers_count` is not available for the bulk repo
@@ -189,11 +199,11 @@ void async function () {
       }
 
       if (stat.stars !== _stat.stars) {
-        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'starred', old: _stat.stars, new: stat.stars, repo: repository } });
+        events.push({ actor: { login }, created_at: stamp, type: 'RepositoryEvent', repo: { name: 'TomasHubelbauer/' + repository }, payload: { action: 'starred', old: _stat.stars, new: stat.stars } });
       }
 
       if (stat.forks !== _stat.forks) {
-        events.push({ actor: { login: 'TomasHubelbauer' }, created_at: stamp, type: 'RepositoryEvent', payload: { action: 'forked', old: _stat.forks, new: stat.forks, repo: repository } });
+        events.push({ actor: { login }, created_at: stamp, type: 'RepositoryEvent', repo: { name: 'TomasHubelbauer/' + repository }, payload: { action: 'forked', old: _stat.forks, new: stat.forks } });
       }
 
       _stat = stat;
@@ -303,8 +313,13 @@ ${forksMarkDown}${uselessForksMarkDown}
   events.sort((a, b) => b.created_at.localeCompare(a.created_at));
 
   for (const event of events) {
-    if (event.actor.login !== 'TomasHubelbauer') {
+    if (event.actor.login !== login) {
       throw new Error('A non-me event has happened.');
+    }
+
+    if (event.repo?.name?.startsWith(login) && !repositories.find(repository => repository.name === event.repo.name.slice(login.length + '/'.length))) {
+      console.log('Skipped', event.type, 'of deleted repository', event.repo?.name || event);
+      continue;
     }
 
     const _date = new Date(event.created_at);
@@ -365,6 +380,7 @@ ${forksMarkDown}${uselessForksMarkDown}
       }
 
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#deleteevent
+      // Note that this event does not include repository deletions
       case 'DeleteEvent': {
         switch (event.payload.ref_type) {
           case 'tag': {
@@ -472,12 +488,13 @@ ${forksMarkDown}${uselessForksMarkDown}
 
       // Note that this is a virtual, fake event created above by myself
       case 'RepositoryEvent': {
+        const name = event.repo.name.slice(login.length + '/'.length);
         switch (event.payload.action) {
           case 'starred': {
             const delta = event.payload.new - event.payload.old;
             const change = delta < 0 ? '📉 lost' : '📈 received';
             const word = delta !== 1 && delta !== -1 ? delta + ' stars' : 'a star';
-            markdown += `⭐️${change} ${word} on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (now ${event.payload.new || 'none'})`;
+            markdown += `⭐️${change} ${word} on [${name}](https://github.com/tomashubelbauer/${name}) (now ${event.payload.new || 'none'})`;
             break;
           }
 
@@ -485,7 +502,7 @@ ${forksMarkDown}${uselessForksMarkDown}
             const delta = event.payload.new - event.payload.old;
             const change = delta < 0 ? '📉 lost' : '📈 received';
             const word = delta !== 1 && delta !== -1 ? delta + 'forks' : 'a fork';
-            markdown += `🍴${change} ${word} on [${event.payload.repo}](https://github.com/tomashubelbauer/${event.payload.repo}) (now ${event.payload.new || 'none'})`;
+            markdown += `🍴${change} ${word} on [${name}](https://github.com/tomashubelbauer/${name}) (now ${event.payload.new || 'none'})`;
             break;
           }
 
