@@ -260,13 +260,13 @@ void async function () {
 
 <div align="center">
 
-[${followerCount} followers 🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
-[${repositories.length} repositories 📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
-[${issues.length} issues 🎫](issues.md) ᐧ
-[${prs.length} PRs 🎁](prs.md) ᐧ
-[${Object.keys(todos).length} todos 💪](todos.json) ᐧ
-[${forks.length || 'No'} forks 🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork)
-${uselessForks.length > 0 ? `[${uselessForks.length} useless forks 🍴⚠️](useless-forks.json)` : ''}
+[${followerCount}&nbsp;followers&nbsp;🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
+[${repositories.length}&nbsp;repositories&nbsp;📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
+[${issues.length}&nbsp;issues&nbsp;🎫](issues.md) ᐧ
+[${prs.length}&nbsp;PRs&nbsp;🎁](prs.md) ᐧ
+[${Object.keys(todos).length}&nbsp;todos&nbsp;💪](todos.json) ᐧ
+[${forks.length || 'No'}&nbsp;forks&nbsp;🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork)
+${uselessForks.length > 0 ? `[${uselessForks.length}&nbsp;useless&nbsp;forks&nbsp;🍴⚠️](useless-forks.json)` : ''}
 
 </div>
 
