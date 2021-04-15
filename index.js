@@ -251,8 +251,13 @@ void async function () {
       ? ''
       : uselessForks.length === 1
         ? `[One&nbsp;useless&nbsp;fork](https://github.com/tomashubelbauer/${uselessForks[0]})\n`
-        : `[${uselessForks.length}&nbsp;useless&nbsp;forks&nbsp;🍴⚠️](useless-forks.json)\n`;
+        : `[${uselessForks.length}&nbsp;useless&nbsp;forks&nbsp;🍴⚠️](useless-forks.json)\n`
+    ;
+
   await fs.promises.writeFile('useless-forks.json', JSON.stringify(uselessForks, null, 2));
+  if (uselessForks.length === 0) {
+    await fs.promises.unlink('useless-forks.json');
+  }
 
   const followerCount = followers.filter(follower => follower.followed_at && !follower.unfollowed_at).length;
 
