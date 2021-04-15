@@ -83,7 +83,7 @@ Do this by when fetching readmes, checking the content for links to other repos
 and building a network of relations. Repositories not included in it should
 cause the GitHub Actions workflow to fail.
 
-## Collect informtion about repos with GitHub Pages and Pages links in them
+## Collect information about repos with GitHub Pages and Pages links in them
 
 Related to the repository indexing task above, while reading repository readmes,
 also look for GitHub Pages link and report any repos whose GitHub Pages are
