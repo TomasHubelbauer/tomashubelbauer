@@ -55,7 +55,7 @@ The GQL API requires authorization. Perhaps the GitHub Actions token will
 suffice? If not I'd rather drop this feature than implement authorization for
 accessing only public data; that's stupid.
 
-## Drop repository of `todos.json` in the GitHub Actions workflow
+## Drop history of `todos.json` in the GitHub Actions workflow
 
 I don't remember if this should work like it does with the other files or if
 something extra needs to be done in regards to the stamps used to determine
