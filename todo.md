@@ -11,15 +11,6 @@ think the same could be done for followers: make the top level item an object
 and the follower logins keys to the object with an object for the follow and
 unfollow date fields as their values.
 
-## Detect deleted repos and do not render their related items as broken links
-
-We render the activity entries in a reverse chronological order and we also know
-when repos have been deleted from the Activity API that gives us the `events`
-array. This means for each repository-related event, we can determine if that
-repository has been since deleted and if yes, render its names, commits and
-other related items as mere text and not links to the respective items as those
-links would be broken links.
-
 ## Switch on action payload field in member and PR events and use correct emoji
 
 Right now the action is interpolated into the string so we don't know what
