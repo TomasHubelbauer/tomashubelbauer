@@ -246,12 +246,22 @@ void async function () {
     }
   }
 
+  const nbsp = '&nbsp;';
+
+  const forksMarkDown =
+    forks.length === 0
+      ? `No${nbsp}forks${nbsp}🍴`
+      : forks.length === 1
+        ? `[One${nbsp}fork:${nbsp}\`${forks[0].name}\`${nbsp}🍴](${forks[0].html_url})${uselessForks.length > 0 ? ' ᐧ ' : ''}`
+        : `[${forks.length}${nbsp}forks${nbsp}🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork)${uselessForks.length > 0 ? ' ᐧ ' : ''}`
+    ;
+
   const uselessForksMarkDown =
     uselessForks.length === 0
       ? ''
       : uselessForks.length === 1
-        ? `[One&nbsp;useless&nbsp;fork](https://github.com/tomashubelbauer/${uselessForks[0]})`
-        : `[${uselessForks.length}&nbsp;useless&nbsp;forks&nbsp;🍴⚠️](useless-forks.json)`
+        ? `\n[One${nbsp}useless${nbsp}fork:${nbsp}\`${uselessForks[0]}\`${nbsp}🍴⚠️](https://github.com/tomashubelbauer/${uselessForks[0]})`
+        : `\n[${uselessForks.length}${nbsp}useless${nbsp}forks${nbsp}🍴⚠️](useless-forks.json)`
     ;
 
   await fs.promises.writeFile('useless-forks.json', JSON.stringify(uselessForks, null, 2));
@@ -276,8 +286,7 @@ void async function () {
 [${issues.length}&nbsp;issues&nbsp;🎫](issues.md) ᐧ
 [${prs.length}&nbsp;PRs&nbsp;🎁](prs.md) ᐧ
 [${Object.keys(todos).length}&nbsp;todos&nbsp;💪](todos.json) ᐧ
-[${forks.length || 'No'}&nbsp;forks&nbsp;🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork)
-${uselessForksMarkDown}
+${forksMarkDown}${uselessForksMarkDown}
 
 </div>
 
