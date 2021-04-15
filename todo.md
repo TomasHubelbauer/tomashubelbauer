@@ -64,13 +64,12 @@ The GQL API requires authorization. Perhaps the GitHub Actions token will
 suffice? If not I'd rather drop this feature than implement authorization for
 accessing only public data; that's stupid.
 
-## Finalize collecting todos of repos on change to `todos.json`
+## Drop repository of `todos.json` in the GitHub Actions workflow
 
-I've drafted up code which for each repository, if it has changed since the last
-time, fetches its readme and extracts todos from it. The todos are placed into
-`todos.json` under the key of the repository name.
-
-To finalize, drop the history of `todos.json` and add it to the stage in the CI
+I don't remember if this should work like it does with the other files or if
+something extra needs to be done in regards to the stamps used to determine
+changes etc. I _think_ it should work just by using `filter-branch` like with
+the other file.
 
 ## Detect and warn on unindexed repositories
 
