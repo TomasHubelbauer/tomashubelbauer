@@ -462,6 +462,11 @@ ${forksMarkDown}${uselessForksMarkDown}
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#pushevent
       case 'PushEvent': {
         markdown += `📌 pushed${commit(event.repo, event.payload)}`;
+        for (let index = 1; index < event.payload.commits.length; index++) {
+          markdown += `- \`${time(_date)}\`\n  `;
+          markdown += `📌 pushed${commit(event.repo, event.payload, index)}`;
+        }
+
         break;
       }
 
