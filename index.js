@@ -472,7 +472,6 @@ ${forksMarkDown}${uselessForksMarkDown}
 
       // Note that this is a virtual, fake event created above by myself
       case 'RepositoryEvent': {
-        // TODO: Display repository name as link as in other events
         switch (event.payload.action) {
           case 'starred': {
             const delta = event.payload.new - event.payload.old;
