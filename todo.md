@@ -98,3 +98,5 @@ I thought the Activity API already returned this, but it doesn't seem to, so I
 will calculate these records based on `repositories.json` and create a virtual
 event for it. This ties into the other task - to not show subsequent (in the
 reverse chronological order) events relating to deleted repositories.
+
+## Address `TODO` comments in the source code
