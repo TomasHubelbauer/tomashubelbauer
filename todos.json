@@ -1604,7 +1604,7 @@
     ]
   },
   "node-forever": {
-    "stamp": "2021-04-04T09:04:35Z",
+    "stamp": "2021-04-16T17:02:33Z",
     "todos": [
       "Improve detection of the prior process not yet having released the port",
       "Explore whether `truncate` has any benefit over `writeFile` with no content"
@@ -1620,6 +1620,12 @@
       "Figure out why it breaks when the `img`s also refer to `favicon.ico`"
     ]
   },
+  "node-immortal": {
+    "stamp": "2021-04-16T17:00:33Z",
+    "todos": [
+      "Implement the proof of concept"
+    ]
+  },
   "node-keychain": {
     "stamp": "2021-03-21T16:57:31Z",
     "todos": []
@@ -1629,11 +1635,10 @@
     "todos": []
   },
   "node-phoenix": {
-    "stamp": "2021-04-04T09:14:22Z",
+    "stamp": "2021-04-16T17:02:02Z",
     "todos": [
       "Monitor child process crash and restart child process upon one",
-      "Start off with a child process from the get-go",
-      "Combine this proof of concept with `node-forever` into another PoC"
+      "Start off with a child process from the get-go"
     ]
   },
   "node-puppeteer-apng": {
