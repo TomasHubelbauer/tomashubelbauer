@@ -95,3 +95,10 @@ deleted event is generated for as long as needed.
 - [ ] Create virtual events for deleted repositories until cutoff date is met
 
 ## Address `TODO` comments in the source code
+
+## Generate the first commit event in case of branch creation
+
+It looks like branch creation encapsulates the first token too. But it might be
+possible to create a branch without creating an initial token? Not sure. In any
+case, I should generate an event for the first commit of a branch for each
+branch creation event.
