@@ -15,6 +15,10 @@
       "See if for multi-project, we need to find changed projects and limit their"
     ]
   },
+  "ado-triggers": {
+    "stamp": "2021-04-18T11:29:12Z",
+    "todos": []
+  },
   "agendum": {
     "stamp": "2021-03-27T16:53:33Z",
     "todos": [
