@@ -417,6 +417,13 @@ ${forksMarkDown}${uselessForksMarkDown}
         markdown += `🍴 forked${name(event.repo.name)}\n  into${name(event.payload.forkee.full_name)}`;
         break;
       }
+      
+      // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#gollumevent
+      case 'GollumEvent': {
+        // TODO: Flesh this message out further
+        markdown += `📃 updated${name(event.repo.name)}\n  wiki page`;
+        break;
+      }
 
       // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#issuecommentevent
       case 'IssueCommentEvent': {
