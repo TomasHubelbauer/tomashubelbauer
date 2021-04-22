@@ -13,6 +13,12 @@ jobs:
     steps:
     - name: Check out the source code
       uses: actions/checkout@v1
+    - name: Configure Node to latest
+      uses: actions/setup-node@v2
+      # Note that leaving out `with` defaults to the default agent Node version
+      with:
+        # Note that `latest` is not supported yet: https://github.com/actions/setup-node/issues/257
+        node-version: 16
     - name: Run the workflow
       run: |
         set -e
