@@ -15,10 +15,6 @@
       "See if for multi-project, we need to find changed projects and limit their"
     ]
   },
-  "ado-triggers": {
-    "stamp": "2021-04-18T11:29:12Z",
-    "todos": []
-  },
   "agendum": {
     "stamp": "2021-03-27T16:53:33Z",
     "todos": [
@@ -138,7 +134,7 @@
     "todos": []
   },
   "async-await.net": {
-    "stamp": "2021-04-01T20:07:27Z",
+    "stamp": "2021-04-22T20:13:25Z",
     "todos": []
   },
   "azure-pipelines-powershell-core": {
@@ -724,7 +720,7 @@
     "todos": []
   },
   "esm-delay": {
-    "stamp": "2021-03-18T07:09:59Z",
+    "stamp": "2021-04-22T20:21:50Z",
     "todos": []
   },
   "esm-dynamic-module": {
@@ -1058,10 +1054,6 @@
     "todos": [
       "Monitor the Hacker News \"Threads\" page and email on replies"
     ]
-  },
-  "hn-karma": {
-    "stamp": "2020-05-12T13:56:14Z",
-    "todos": []
   },
   "html-data-view-box": {
     "stamp": "2020-01-09T19:32:12Z",
