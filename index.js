@@ -488,13 +488,12 @@ for (const event of events) {
 
     // Note that this is a virtual, fake event created above by myself
     case 'RepositoryEvent': {
-      const name = event.repo.name.slice(login.length + '/'.length);
       switch (event.payload.action) {
         case 'starred': {
           const delta = event.payload.new - event.payload.old;
           const change = delta < 0 ? '📉 lost' : '📈 received';
           const word = delta !== 1 && delta !== -1 ? delta + ' stars' : 'a star';
-          markdown += `⭐️${change} ${word} on [${name}](https://github.com/tomashubelbauer/${name}) (now ${event.payload.new || 'none'})`;
+          markdown += `⭐️${change} ${word} on ${name(event.repo.name)} (now ${event.payload.new || 'none'})`;
           break;
         }
 
@@ -502,7 +501,7 @@ for (const event of events) {
           const delta = event.payload.new - event.payload.old;
           const change = delta < 0 ? '📉 lost' : '📈 received';
           const word = delta !== 1 && delta !== -1 ? delta + 'forks' : 'a fork';
-          markdown += `🍴${change} ${word} on [${name}](https://github.com/tomashubelbauer/${name}) (now ${event.payload.new || 'none'})`;
+          markdown += `🍴${change} ${word} on ${name(event.repo.name)} (now ${event.payload.new || 'none'})`;
           break;
         }
 
