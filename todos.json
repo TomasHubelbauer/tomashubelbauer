@@ -114,13 +114,14 @@
     ]
   },
   "arduino-qr": {
-    "stamp": "2021-04-27T19:57:55Z",
+    "stamp": "2021-04-27T20:49:17Z",
     "todos": [
       "Try to hook them up together and to an Arduino",
       "See if I can remove this here and just keep it in the loop/interrupt",
       "See if I can move shutdown leave after data set to keep it in it longer",
       "Replace this with an interrupt handler for a button press",
-      "Build an enclosure to hold the 4×4 matrix of the displays together and chain"
+      "Build an enclosure to hold the 4×4 matrix of the displays together and chain",
+      "Generate and display a QR code"
     ]
   },
   "asp-conditional-validations": {
