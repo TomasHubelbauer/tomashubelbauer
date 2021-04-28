@@ -114,7 +114,7 @@
     ]
   },
   "arduino-qr": {
-    "stamp": "2021-04-27T20:49:17Z",
+    "stamp": "2021-04-28T20:39:52Z",
     "todos": [
       "Try to hook them up together and to an Arduino",
       "See if I can remove this here and just keep it in the loop/interrupt",
