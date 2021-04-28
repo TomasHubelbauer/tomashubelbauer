@@ -2693,7 +2693,7 @@
     "todos": []
   },
   "wokwi-nmea-checksum": {
-    "stamp": "2021-03-30T19:53:30Z",
+    "stamp": "2021-04-28T21:03:48Z",
     "todos": [
       "Figure out why the USART is not being called at all"
     ]
