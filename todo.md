@@ -106,3 +106,9 @@ branch creation event.
 ## Consider integrating reporting events for new releases of my watched repos
 
 https://github.com/tomashubelbauer/github-releases
+
+## Derive fork stamp from its creation date not discovery date
+
+This will make the stamp more precise.
+
+## Detect new PRs and add a received pull request event
