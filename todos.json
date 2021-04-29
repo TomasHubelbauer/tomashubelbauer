@@ -114,7 +114,7 @@
     ]
   },
   "arduino-qr": {
-    "stamp": "2021-04-29T07:33:03Z",
+    "stamp": "2021-04-29T08:16:18Z",
     "todos": [
       "Replace this with ArduinoLowPower.h and its power-down mode:",
       "Adjust the code for this to work and center the QR code",
