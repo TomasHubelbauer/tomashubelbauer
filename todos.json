@@ -104,12 +104,8 @@
     "todos": []
   },
   "arduino-nmea": {
-    "stamp": "2021-04-29T13:09:59Z",
-    "todos": [
-      "Fix the Builder not being able to find dependencies",
-      "Replace SimAVR with AVR8JS by Wokwi to simulate the Arduino and check tests",
-      "Fix Arduino CLI looking up incorrect sketch in the GitHub Actions workflow"
-    ]
+    "stamp": "2021-04-29T13:23:20Z",
+    "todos": []
   },
   "arduino-qr": {
     "stamp": "2021-04-29T11:36:58Z",
@@ -1871,6 +1867,12 @@
       "Add working scripts for setting the desktop background color"
     ]
   },
+  "proser": {
+    "stamp": "2021-04-29T13:34:08Z",
+    "todos": [
+      "Implement this extension idea"
+    ]
+  },
   "ps-7zip": {
     "stamp": "2020-02-15T09:31:31Z",
     "todos": []
@@ -2693,12 +2695,8 @@
     "todos": []
   },
   "wokwi-nmea-checksum": {
-    "stamp": "2021-04-29T12:54:06Z",
-    "todos": [
-      "Use this in my repository `arduino-nmean-checksum` instead of SimAVR",
-      "Use a `git diff` in the GitHub Actions workflow to assert expected match",
-      "Try to use Arduino Builder to compile the sketch to HEX in the CI"
-    ]
+    "stamp": "2021-04-29T13:20:04Z",
+    "todos": []
   },
   "workers-cookie": {
     "stamp": "2020-03-09T10:50:12Z",
