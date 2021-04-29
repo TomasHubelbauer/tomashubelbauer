@@ -104,12 +104,10 @@
     "todos": []
   },
   "arduino-nmea": {
-    "stamp": "2021-04-02T10:08:11Z",
+    "stamp": "2021-04-29T13:09:59Z",
     "todos": [
-      "Figure out why using SimAVR through Aptitude results in a crash",
       "Fix the Builder not being able to find dependencies",
-      "Run SimAVR on both the Arduino CLI and the Arduino Builder builds",
-      "Look into using AVR8JS by Wokwi to simulate the Arduino and check tests",
+      "Replace SimAVR with AVR8JS by Wokwi to simulate the Arduino and check tests",
       "Fix Arduino CLI looking up incorrect sketch in the GitHub Actions workflow"
     ]
   },
@@ -2695,9 +2693,11 @@
     "todos": []
   },
   "wokwi-nmea-checksum": {
-    "stamp": "2021-04-29T11:43:39Z",
+    "stamp": "2021-04-29T12:54:06Z",
     "todos": [
-      "Figure out why the USART is not being called at all"
+      "Use this in my repository `arduino-nmean-checksum` instead of SimAVR",
+      "Use a `git diff` in the GitHub Actions workflow to assert expected match",
+      "Try to use Arduino Builder to compile the sketch to HEX in the CI"
     ]
   },
   "workers-cookie": {
