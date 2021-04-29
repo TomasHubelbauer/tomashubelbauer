@@ -114,14 +114,13 @@
     ]
   },
   "arduino-qr": {
-    "stamp": "2021-04-28T20:39:52Z",
+    "stamp": "2021-04-29T07:33:03Z",
     "todos": [
-      "Try to hook them up together and to an Arduino",
-      "See if I can remove this here and just keep it in the loop/interrupt",
-      "See if I can move shutdown leave after data set to keep it in it longer",
-      "Replace this with an interrupt handler for a button press",
-      "Build an enclosure to hold the 4×4 matrix of the displays together and chain",
-      "Generate and display a QR code"
+      "Replace this with ArduinoLowPower.h and its power-down mode:",
+      "Adjust the code for this to work and center the QR code",
+      "Figure out how to make `LedControl ledControl = index == 0 ? ledControl0 : ledControl1` work",
+      "Wire up the Wokwi simulation using a real Arduino and MAX7219 display grid",
+      "3D-print an enclosure to hold the 4×4 matrix of the displays together"
     ]
   },
   "asp-conditional-validations": {
