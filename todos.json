@@ -114,13 +114,16 @@
     ]
   },
   "arduino-qr": {
-    "stamp": "2021-04-29T08:16:18Z",
+    "stamp": "2021-04-29T11:36:58Z",
     "todos": [
       "Replace this with ArduinoLowPower.h and its power-down mode:",
       "Adjust the code for this to work and center the QR code",
-      "Figure out how to make `LedControl ledControl = index == 0 ? ledControl0 : ledControl1` work",
       "Wire up the Wokwi simulation using a real Arduino and MAX7219 display grid",
-      "3D-print an enclosure to hold the 4×4 matrix of the displays together"
+      "3D-print an enclosure to hold the 4×4 matrix of the displays together",
+      "Experiment with normal and inverted QR display to see what reads better",
+      "Order and try white dot-matrix displays to see if they scan better than red",
+      "Add a push button / SD reader / HTTP server or something to update the code",
+      "See if I can make this work on the Raspberry Pi Pico using Wokwi Pico sim"
     ]
   },
   "asp-conditional-validations": {
@@ -2692,7 +2695,7 @@
     "todos": []
   },
   "wokwi-nmea-checksum": {
-    "stamp": "2021-04-28T21:03:48Z",
+    "stamp": "2021-04-29T11:43:39Z",
     "todos": [
       "Figure out why the USART is not being called at all"
     ]
