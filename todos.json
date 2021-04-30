@@ -138,7 +138,7 @@
     "todos": []
   },
   "babel-sourcemap": {
-    "stamp": "2021-04-30T00:20:40Z",
+    "stamp": "2021-04-30T06:27:39Z",
     "todos": [
       "Attempt to contribute a fix for the source map JSX string literal issue"
     ]
