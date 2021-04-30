@@ -138,9 +138,9 @@
     "todos": []
   },
   "babel-sourcemap": {
-    "stamp": "2021-03-26T23:32:38Z",
+    "stamp": "2021-04-30T00:20:40Z",
     "todos": [
-      "Help resolve the Babel issue once they set up contributing on Windows"
+      "Attempt to contribute a fix for the source map JSX string literal issue"
     ]
   },
   "batch-wallpaper": {
@@ -165,12 +165,6 @@
     "stamp": "2021-04-01T21:19:43Z",
     "todos": []
   },
-  "blender-abbitt": {
-    "stamp": "2020-01-15T06:04:09Z",
-    "todos": [
-      "https://www.youtube.com/watch?v=98FkRIbihyQ"
-    ]
-  },
   "blender-api": {
     "stamp": "2020-01-07T09:01:23Z",
     "todos": [
@@ -178,22 +172,6 @@
       "Demo select API methods practically in auxiliary repos",
       "Go through all the types in the Types section and learn what they do",
       "Scrape the API docs automatically and cross-reference with my content"
-    ]
-  },
-  "blender-blend": {
-    "stamp": "2021-04-01T21:14:22Z",
-    "todos": [
-      "Link the repository where I run blender in GitHub Actions",
-      "Document the Blender file format",
-      "Create a web app with a WebGL scene renderer containing basic shapes (sphere, cube, text, maybe 2D shapes)",
-      "Implement persisting the user-defined scene as a Blender `blend` file",
-      "Implement parsing using JavaScript"
-    ]
-  },
-  "blender-donut": {
-    "stamp": "2019-12-02T13:41:27Z",
-    "todos": [
-      "Go through these"
     ]
   },
   "blender-edge-at-face-intersection": {
@@ -208,13 +186,6 @@
     "stamp": "2021-04-01T21:06:51Z",
     "todos": [
       "Update the workflow to work with the latest Ubuntu if needed"
-    ]
-  },
-  "blender-ice-cream": {
-    "stamp": "2019-12-02T13:43:45Z",
-    "todos": [
-      "Cross-link with the Blender Guru Donut tutorial repo",
-      "Do it"
     ]
   },
   "blender-light-box": {
@@ -234,12 +205,6 @@
       "Find out if there is a shortcut for cycling / switching these",
       "Find out why Dissolve Faces is not it",
       "Find out how to introduce an edge where the vertical facesoverlap so that the top faces could be removed and a new one connecting the six points added"
-    ]
-  },
-  "blender-nodes": {
-    "stamp": "2020-01-12T14:00:37Z",
-    "todos": [
-      "Go through this"
     ]
   },
   "blender-op1": {
@@ -406,7 +371,7 @@
     "todos": []
   },
   "cra-sourcemap": {
-    "stamp": "2021-04-02T10:10:29Z",
+    "stamp": "2021-04-30T00:26:23Z",
     "todos": [
       "Help solve the Babel source map issue this ended up being",
       "Work on cra-ast-localize once the issue is resolved"
@@ -1173,7 +1138,7 @@
     ]
   },
   "is4a-leaderboard": {
-    "stamp": "2021-04-29T00:13:38Z",
+    "stamp": "2021-04-30T00:07:05Z",
     "todos": [
       "Generate the HTML output directly and use it for both email and web",
       "Generate a MarkDown readme section in addition to the email and web",
@@ -1499,7 +1464,7 @@
     "todos": []
   },
   "net-ecosystem-review": {
-    "stamp": "2021-04-29T00:13:20Z",
+    "stamp": "2021-04-30T00:07:20Z",
     "todos": [
       "Provide another view with a chart showing stars of each project on a line chart",
       "Load notes for each item from README.md",
