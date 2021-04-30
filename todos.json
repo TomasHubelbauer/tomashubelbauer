@@ -90,21 +90,12 @@
       "Add a checkbox for only displaying images not covered by other images"
     ]
   },
-  "arduino-ide-silent-install": {
-    "stamp": "2019-12-07T07:54:31Z",
-    "todos": [
-      "Add the actual installer installation not just the ZIP",
-      "Link with the NMEA repo and in there add a Windows Builder workflow",
-      "See if there is WSL on the agent and use it to run SimAVR if possible",
-      "Fix the \"/bin/avr-g++\" does not exist error"
-    ]
-  },
   "arduino-mouse-jiggler": {
     "stamp": "2021-03-15T21:18:29Z",
     "todos": []
   },
   "arduino-nmea": {
-    "stamp": "2021-04-29T13:23:20Z",
+    "stamp": "2021-04-29T23:42:15Z",
     "todos": []
   },
   "arduino-qr": {
@@ -140,6 +131,10 @@
   },
   "azure-pipelines-powershell-core": {
     "stamp": "2019-12-02T18:39:10Z",
+    "todos": []
+  },
+  "babel": {
+    "stamp": "2021-04-29T22:17:46Z",
     "todos": []
   },
   "babel-sourcemap": {
