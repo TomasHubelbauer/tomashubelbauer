@@ -377,30 +377,11 @@
       "Work on cra-ast-localize once the issue is resolved"
     ]
   },
-  "cra-ssr-net": {
-    "stamp": "2020-01-13T08:48:04Z",
-    "todos": [
-      "Prototype this"
-    ]
-  },
-  "cra-ssr-node": {
-    "stamp": "2020-01-13T08:51:27Z",
-    "todos": [
-      "Take a look at using SSR in CRA 2 + TS with a Node BE"
-    ]
-  },
   "cra-test-puppeteer": {
     "stamp": "2021-03-27T00:08:37Z",
     "todos": [
       "Try to figure this out using these resources",
       "Look into replicating with PlayWright as well"
-    ]
-  },
-  "cra-ts-ssr-net-core-experiment": {
-    "stamp": "2020-01-13T08:49:03Z",
-    "todos": [
-      "Continue building the experiment out",
-      "Remove the views and their assets in the BE application"
     ]
   },
   "crypto-qr": {
