@@ -99,7 +99,7 @@
     "todos": []
   },
   "arduino-qr": {
-    "stamp": "2021-05-01T17:46:37Z",
+    "stamp": "2021-05-01T19:01:47Z",
     "todos": [
       "Wire up the Wokwi simulation using a real Arduino and MAX7219 display grid",
       "3D-print an enclosure to hold the 4×4 matrix of the displays together",
