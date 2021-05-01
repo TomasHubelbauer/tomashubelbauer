@@ -613,7 +613,7 @@
     ]
   },
   "eink": {
-    "stamp": "2020-01-16T09:49:30Z",
+    "stamp": "2021-05-01T08:07:00Z",
     "todos": [
       "Buy a dev kit and play around with these"
     ]
@@ -1142,47 +1142,6 @@
     "stamp": "2020-01-31T20:41:11Z",
     "todos": []
   },
-  "javascript": {
-    "stamp": "2019-12-20T06:05:24Z",
-    "todos": [
-      "Check out Reason",
-      "Check out Elm",
-      "Check out Svelte",
-      "Check out Scala",
-      "Build a demo app in Kotlin",
-      "Build a pure Babel reference project for myself",
-      "Check out Ember",
-      "Check out Stencil",
-      "Check out Polymer",
-      "Check out Meteor",
-      "Check out Next",
-      "Check out Cycle",
-      "Check out Apollo",
-      "Build something public with GraphQL",
-      "Check out Relay",
-      "Check out Capacitor",
-      "Check out Koa",
-      "Check out Sails",
-      "Check out Feathers",
-      "Build something public with Jest",
-      "Build something public with Mocha",
-      "Showcase Storybook",
-      "Check out Cypress",
-      "Showcase Enzyme",
-      "Check out Ava",
-      "Check out Jasmine",
-      "Put together a showcase for Puppeteer",
-      "Check out the React Testing Library",
-      "Check out Tape",
-      "Check out Sinon",
-      "Research Cordova, Ionic, Capacitor and how it all relates today",
-      "Check out Expo",
-      "Check out Flutter I guess",
-      "Check out Dart begrudgingly",
-      "Check out Parcel and Rollup progress",
-      "Check on FuseBox again"
-    ]
-  },
   "jira-annotate": {
     "stamp": "2020-01-13T09:05:20Z",
     "todos": []
@@ -1195,46 +1154,8 @@
     "stamp": "2020-07-04T06:55:40Z",
     "todos": []
   },
-  "js-ecosystem-review": {
-    "stamp": "2020-01-13T09:05:45Z",
-    "todos": [
-      "Automate managing the sections (add for risen, remove for fallen, order)",
-      "Collect historical data and generate a chart of lib leaderboards",
-      "Look into Semantic",
-      "Look into Chart",
-      "Learn about Materialize",
-      "Compare with Express",
-      "Explore this",
-      "Find out how this differs from Lodash actually",
-      "Check out Mermaid",
-      "Check out Quill",
-      "Compare React, Preact and Inferno",
-      "Find how this compares to MobX",
-      "Learn about Ember",
-      "Learn about Sequalize",
-      "Compare Moment, Luxon, Day and DateFns",
-      "Compare Saga, Thunk and manual",
-      "Give an ernest try to Jest and Mocha and Enzyme",
-      "Also compare",
-      "Compare with Parcel",
-      "Check out Howler",
-      "Do the rest"
-    ]
-  },
-  "js-esm": {
-    "stamp": "2020-01-13T09:06:29Z",
-    "todos": []
-  },
   "js-features": {
     "stamp": "2021-04-04T16:48:32Z",
-    "todos": []
-  },
-  "js-for-await-throw": {
-    "stamp": "2020-02-13T20:20:06Z",
-    "todos": []
-  },
-  "js-generators": {
-    "stamp": "2021-02-24T19:36:47Z",
     "todos": []
   },
   "js-headset-button": {
@@ -1311,10 +1232,6 @@
     "todos": [
       "Get this on Scihub"
     ]
-  },
-  "kali": {
-    "stamp": "2020-02-13T21:40:01Z",
-    "todos": []
   },
   "keytar-vscode-extension": {
     "stamp": "2019-11-28T21:27:17Z",
@@ -1407,10 +1324,6 @@
   },
   "mime-multipart": {
     "stamp": "2020-03-13T10:50:50Z",
-    "todos": []
-  },
-  "mma": {
-    "stamp": "2020-04-01T13:28:03Z",
     "todos": []
   },
   "modern-office-git-diff": {
@@ -1656,10 +1569,6 @@
     "stamp": "2020-02-18T11:59:54Z",
     "todos": []
   },
-  "nrc-token": {
-    "stamp": "2021-04-15T16:36:07Z",
-    "todos": []
-  },
   "ntlite-unattended": {
     "stamp": "2020-02-14T22:09:22Z",
     "todos": []
@@ -1709,10 +1618,6 @@
   },
   "op1-svg": {
     "stamp": "2020-05-23T21:48:30Z",
-    "todos": []
-  },
-  "osm-3d-earth": {
-    "stamp": "2019-11-28T11:39:30Z",
     "todos": []
   },
   "osm-raster-map": {
@@ -1937,17 +1842,16 @@
       "Check the source code to see where this is used"
     ]
   },
-  "re": {
-    "stamp": "2020-01-16T09:50:27Z",
-    "todos": []
-  },
   "react": {
     "stamp": "2019-11-28T11:40:38Z",
     "todos": []
   },
-  "react-icon-component-idea": {
-    "stamp": "2019-03-19T09:53:15Z",
-    "todos": []
+  "react-icon": {
+    "stamp": "2021-05-01T08:48:21Z",
+    "todos": [
+      "Turn this into a library for FatCow icons",
+      "Use `switch (true)` if possible to avoid the array of `if`s"
+    ]
   },
   "react-redux-typescript-connect-decorator-demo": {
     "stamp": "2019-07-13T09:03:14Z",
@@ -2241,12 +2145,6 @@
       "Reserve the MarkDown checkbox detection only for MarkDown files"
     ]
   },
-  "ts-ecosystem-review": {
-    "stamp": "2019-11-30T10:49:07Z",
-    "todos": [
-      "Make this after the examples for JS ecosystem review and .NET ecosystem review"
-    ]
-  },
   "ts-esm-search": {
     "stamp": "2021-03-07T18:58:30Z",
     "todos": [
@@ -2277,7 +2175,7 @@
     "todos": []
   },
   "typescript-api-proxy": {
-    "stamp": "2019-11-28T11:41:46Z",
+    "stamp": "2021-05-01T08:56:00Z",
     "todos": []
   },
   "typescript-discriminated-class-union": {
