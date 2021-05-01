@@ -1417,11 +1417,12 @@
     ]
   },
   "node-apng": {
-    "stamp": "2021-05-01T20:01:37Z",
+    "stamp": "2021-05-01T20:11:38Z",
     "todos": [
       "Add a GitHub Action for tests",
       "Refactor as per the code comment",
-      "Add support for \"skip first frame\" to allow \"warning this is animated\" frame"
+      "Add support for \"skip first frame\" to allow \"warning this is animated\" frame",
+      "Implement dispose op and blend op to be able to do differential frames"
     ]
   },
   "node-args": {
