@@ -99,16 +99,17 @@
     "todos": []
   },
   "arduino-qr": {
-    "stamp": "2021-04-29T11:36:58Z",
+    "stamp": "2021-05-01T17:46:37Z",
     "todos": [
-      "Replace this with ArduinoLowPower.h and its power-down mode:",
-      "Adjust the code for this to work and center the QR code",
       "Wire up the Wokwi simulation using a real Arduino and MAX7219 display grid",
       "3D-print an enclosure to hold the 4×4 matrix of the displays together",
       "Experiment with normal and inverted QR display to see what reads better",
       "Order and try white dot-matrix displays to see if they scan better than red",
       "Add a push button / SD reader / HTTP server or something to update the code",
-      "See if I can make this work on the Raspberry Pi Pico using Wokwi Pico sim"
+      "See if I can make this work on the Raspberry Pi Pico using Wokwi Pico sim",
+      "Verify LEDControl can truly only drive 8 dot matrix displays in a chain",
+      "Test the method of using analog pins as digital on a real Arduino",
+      "Look into using a shift register shield to extend the amount of usable pins"
     ]
   },
   "asp-conditional-validations": {
@@ -1283,7 +1284,7 @@
     ]
   },
   "markright": {
-    "stamp": "2021-03-27T00:22:14Z",
+    "stamp": "2021-05-01T15:50:47Z",
     "todos": [
       "Address code to-do comments",
       "Cache the unchanged layers",
