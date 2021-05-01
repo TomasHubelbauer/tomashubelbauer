@@ -333,7 +333,7 @@ for (const event of events) {
 
   markdown += `- \`${time(_date)}\`\n  `;
 
-  // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types
+  // https://docs.github.com/en/developers/webhooks-and-events/github-event-types
   switch (event.type) {
     // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#commitcommentevent
     case 'CommitCommentEvent': {
@@ -353,7 +353,7 @@ for (const event of events) {
       break;
     }
 
-    // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#createevent
+    // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#createevent
     case 'CreateEvent': {
       switch (event.payload.ref_type) {
         case 'branch': {
@@ -372,7 +372,7 @@ for (const event of events) {
       break;
     }
 
-    // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#deleteevent
+    // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#deleteevent
     // Note that this event does not include repository deletions
     case 'DeleteEvent': {
       switch (event.payload.ref_type) {
@@ -411,7 +411,7 @@ for (const event of events) {
       break;
     }
 
-    // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#forkevent
+    // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#forkevent
     case 'ForkEvent': {
       markdown += `🍴 forked${name(event.repo.name)}\n  into${name(event.payload.forkee.full_name)}`;
       break;
@@ -424,7 +424,7 @@ for (const event of events) {
       break;
     }
 
-    // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#issuecommentevent
+    // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#issuecommentevent
     case 'IssueCommentEvent': {
       switch (event.payload.action) {
         case 'created': {
@@ -439,7 +439,7 @@ for (const event of events) {
       break;
     }
 
-    // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#issuesevent
+    // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#issuesevent
     case 'IssuesEvent': {
       switch (event.payload.action) {
         case 'created': {
@@ -469,13 +469,19 @@ for (const event of events) {
       break;
     }
 
-    // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#pullrequestevent
+    // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#publicevent
+    case 'PublicEvent': {
+      markdown += `📨 published ${name(event.repo.name)}`;
+      break;
+    }
+
+    // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#pullrequestevent
     case 'PullRequestEvent': {
       markdown += `🎁 ${event.payload.action}${pr(event.payload.pull_request)}\n  in${name(event.repo.name)}`;
       break;
     }
 
-    // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#pushevent
+    // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#pushevent
     case 'PushEvent': {
       markdown += `📌 pushed${commit(event.repo, event.payload)}`;
       for (let index = 1; index < event.payload.commits.length; index++) {
@@ -513,7 +519,7 @@ for (const event of events) {
       break;
     }
 
-    // https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#watchevent
+    // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#watchevent
     case 'WatchEvent': {
       // TODO: Handle the `payload.action` once they fix it so it is not always `started` (sic)
       markdown += `⭐️ starred${name(event.repo.name)}`;
