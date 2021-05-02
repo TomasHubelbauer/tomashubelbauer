@@ -246,12 +246,12 @@ await fs.promises.writeFile('prs.md', prsMarkDown);
 const forkPrs = await downloadPagedArray('https://api.github.com/search/issues?q=is:pr+is:open+author:tomashubelbauer+-org:tomashubelbauer', 'fork-prs.json');
 const forkPrRepos = forkPrs.map(pr => pr.html_url.split('/').slice(3, 5).join('/'));
 const forks = repositories.filter(repository => repository.fork);
-const uselessForks = [];
+const identicalForks = [];
 for (const fork of forks) {
   const { parent } = await download(fork.url);
   if (!forkPrRepos.includes(parent.full_name)) {
-    console.log('Marked', fork.name, 'as useless');
-    uselessForks.push(fork.name);
+    console.log('Marked', fork.name, 'as identical');
+    identicalForks.push(fork.name);
   }
 }
 
@@ -261,21 +261,21 @@ const forksMarkDown =
   forks.length === 0
     ? `No${nbsp}forks${nbsp}🍴`
     : forks.length === 1
-      ? `[One${nbsp}fork:${nbsp}\`${forks[0].name}\`${nbsp}🍴](${forks[0].html_url})${uselessForks.length > 0 ? ' ᐧ ' : ''}`
-      : `[${forks.length}${nbsp}forks${nbsp}🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork)${uselessForks.length > 0 ? ' ᐧ ' : ''}`
+      ? `[One${nbsp}fork:${nbsp}\`${forks[0].name}\`${nbsp}🍴](${forks[0].html_url})${identicalForks.length > 0 ? ' ᐧ ' : ''}`
+      : `[${forks.length}${nbsp}forks${nbsp}🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork)${identicalForks.length > 0 ? ' ᐧ ' : ''}`
   ;
 
-const uselessForksMarkDown =
-  uselessForks.length === 0
+const identicalForksMarkDown =
+  identicalForks.length === 0
     ? ''
-    : uselessForks.length === 1
-      ? `\n[One${nbsp}useless${nbsp}fork:${nbsp}\`${uselessForks[0]}\`${nbsp}🍴⚠️](https://github.com/tomashubelbauer/${uselessForks[0]})`
-      : `\n[${uselessForks.length}${nbsp}useless${nbsp}forks${nbsp}🍴⚠️](useless-forks.json)`
+    : identicalForks.length === 1
+      ? `\n[One${nbsp}identical${nbsp}fork:${nbsp}\`${identicalForks[0]}\`${nbsp}🍴⚠️](https://github.com/tomashubelbauer/${identicalForks[0]})`
+      : `\n[${identicalForks.length}${nbsp}identical${nbsp}forks${nbsp}🍴⚠️](identical-forks.json)`
   ;
 
-await fs.promises.writeFile('useless-forks.json', JSON.stringify(uselessForks, null, 2));
-if (uselessForks.length === 0) {
-  await fs.promises.unlink('useless-forks.json');
+await fs.promises.writeFile('identical-forks.json', JSON.stringify(identicalForks, null, 2));
+if (identicalForks.length === 0) {
+  await fs.promises.unlink('identical-forks.json');
 }
 
 const followerCount = followers.filter(follower => follower.followed_at && !follower.unfollowed_at).length;
@@ -295,7 +295,7 @@ let markdown = `![](banner.svg)
 [${issues.length}&nbsp;issues&nbsp;🎫](issues.md) ᐧ
 [${prs.length}&nbsp;PRs&nbsp;🎁](prs.md) ᐧ
 [${Object.keys(todos).length}&nbsp;todos&nbsp;💪](todos.json) ᐧ
-${forksMarkDown}${uselessForksMarkDown}
+${forksMarkDown}${identicalForksMarkDown}
 
 </div>
 
