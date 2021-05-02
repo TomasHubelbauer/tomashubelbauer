@@ -99,7 +99,7 @@
     "todos": []
   },
   "arduino-qr": {
-    "stamp": "2021-05-01T19:08:36Z",
+    "stamp": "2021-05-02T08:49:12Z",
     "todos": [
       "Wire up the Wokwi simulation using a real Arduino and MAX7219 display grid",
       "3D-print an enclosure to hold the 4×4 matrix of the displays together",
@@ -109,7 +109,7 @@
       "See if I can make this work on the Raspberry Pi Pico using Wokwi Pico sim",
       "Verify LEDControl can truly only drive 8 dot matrix displays in a chain",
       "Test the method of using analog pins as digital on a real Arduino",
-      "Look into using a shift register shield to extend the amount of usable pins"
+      "Await EZ Expander delivery and try out layouts with more chains than 6"
     ]
   },
   "asp-conditional-validations": {
