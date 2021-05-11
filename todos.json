@@ -99,12 +99,15 @@
     "todos": []
   },
   "arduino-qr": {
-    "stamp": "2021-05-11T17:28:29Z",
+    "stamp": "2021-05-11T18:56:12Z",
     "todos": [
       "Document my build of the 3×3 display grid",
       "Include the real hardware wiring diagram",
       "Add photos+videos of the QR code in action including scanning screencast",
-      "Document however much of the HC-06 Bluetooth build I'll be able to figure",
+      "Document the HC-06 based Bluetooth control of the QR code text (not BLE)",
+      "Document https://www.arduino.cc/en/Reference/SoftwareSerial serial bridge",
+      "Document [pins](https://forum.arduino.cc/t/hc-06-and-serial-available-always-0/237404/2)",
+      "Await HC-10 BLE module arrival and try iOS BT control apps with it",
       "3D-print an enclosure to hold the 4×4 matrix of the displays together",
       "Experiment with normal and inverted QR display to see what reads better",
       "Order and try white dot-matrix displays to see if they scan better than red",
