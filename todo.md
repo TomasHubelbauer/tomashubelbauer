@@ -112,3 +112,5 @@ https://github.com/tomashubelbauer/github-releases
 This will make the stamp more precise.
 
 ## Detect new PRs and add a received pull request event
+
+## Show people I followed
