@@ -99,7 +99,7 @@
     "todos": []
   },
   "arduino-qr": {
-    "stamp": "2021-05-13T16:37:20Z",
+    "stamp": "2021-05-13T17:55:46Z",
     "todos": [
       "Document my build of the 3×3 display grid",
       "Include the real hardware wiring diagram",
@@ -113,7 +113,10 @@
       "See if I can make this work on the Raspberry Pi Pico using Wokwi Pico sim",
       "Verify LEDControl can truly only drive 8 dot matrix displays in a chain",
       "Test the method of using analog pins as digital on a real Arduino",
-      "Await EZ Expander delivery and try out layouts with more chains than 6"
+      "Await EZ Expander delivery and try out layouts with more chains than 6",
+      "Address code `TODO` comments",
+      "Build a PCB to mount the LED dot matrix display grid and the Arduino on",
+      "Calculate approximate expected runtime on a battery"
     ]
   },
   "asp-conditional-validations": {
