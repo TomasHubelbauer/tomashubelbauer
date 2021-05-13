@@ -99,19 +99,17 @@
     "todos": []
   },
   "arduino-qr": {
-    "stamp": "2021-05-11T18:56:12Z",
+    "stamp": "2021-05-13T16:37:20Z",
     "todos": [
       "Document my build of the 3×3 display grid",
       "Include the real hardware wiring diagram",
       "Add photos+videos of the QR code in action including scanning screencast",
-      "Document the HC-06 based Bluetooth control of the QR code text (not BLE)",
+      "Document the HC-06 and HM-10 (MLT-BT05) difference (not BLE versus BLE)",
       "Document https://www.arduino.cc/en/Reference/SoftwareSerial serial bridge",
       "Document [pins](https://forum.arduino.cc/t/hc-06-and-serial-available-always-0/237404/2)",
-      "Await HC-10 BLE module arrival and try iOS BT control apps with it",
       "3D-print an enclosure to hold the 4×4 matrix of the displays together",
       "Experiment with normal and inverted QR display to see what reads better",
-      "Order and try white dot-matrix displays to see if they scan better than red",
-      "Add a push button / SD reader / HTTP server or something to update the code",
+      "Await and try white dot-matrix displays to see if they scan better than red",
       "See if I can make this work on the Raspberry Pi Pico using Wokwi Pico sim",
       "Verify LEDControl can truly only drive 8 dot matrix displays in a chain",
       "Test the method of using analog pins as digital on a real Arduino",
