@@ -99,7 +99,7 @@
     "todos": []
   },
   "arduino-qr": {
-    "stamp": "2021-05-13T21:40:42Z",
+    "stamp": "2021-05-14T06:48:59Z",
     "todos": [
       "Document my build of the 3×3 display grid",
       "Include the real hardware wiring diagram",
@@ -118,7 +118,8 @@
       "Build a PCB to mount the LED dot matrix display grid and the Arduino on",
       "Calculate approximate expected runtime on a battery",
       "Trim the received message and further validate it if needed",
-      "Print the processed message back into the Bluetooth serial console"
+      "Print the processed message back into the Bluetooth serial console",
+      "Figure out why the mismatch with QR generator library (libraries?)"
     ]
   },
   "asp-conditional-validations": {
