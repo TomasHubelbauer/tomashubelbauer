@@ -1973,11 +1973,14 @@
     "todos": []
   },
   "selfie": {
-    "stamp": "2021-05-14T18:11:11Z",
+    "stamp": "2021-05-14T18:28:27Z",
     "todos": [
-      "Test this out on iOS Safari and add a mobile breakpoint for the guides",
+      "Add a guide for macOS Safari interaction",
+      "Add a mobile breakpoint for the guides (display them in a column)",
       "Add crop rectangle values as options to the `selfie` call and open in a tab",
-      "Consider implementing automatic crop by accepting a color of crop outline"
+      "Consider implementing automatic crop by accepting a color of crop outline",
+      "Add favicon as an icon to the main title",
+      "Add a link to the GitHub repository to the page"
     ]
   },
   "shapefile": {
