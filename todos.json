@@ -1972,6 +1972,14 @@
     "stamp": "2021-03-18T11:13:23Z",
     "todos": []
   },
+  "selfie": {
+    "stamp": "2021-05-14T18:11:11Z",
+    "todos": [
+      "Test this out on iOS Safari and add a mobile breakpoint for the guides",
+      "Add crop rectangle values as options to the `selfie` call and open in a tab",
+      "Consider implementing automatic crop by accepting a color of crop outline"
+    ]
+  },
   "shapefile": {
     "stamp": "2019-11-28T11:41:04Z",
     "todos": []
