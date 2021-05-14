@@ -99,7 +99,7 @@
     "todos": []
   },
   "arduino-qr": {
-    "stamp": "2021-05-14T06:48:59Z",
+    "stamp": "2021-05-14T08:02:24Z",
     "todos": [
       "Document my build of the 3×3 display grid",
       "Include the real hardware wiring diagram",
@@ -119,7 +119,9 @@
       "Calculate approximate expected runtime on a battery",
       "Trim the received message and further validate it if needed",
       "Print the processed message back into the Bluetooth serial console",
-      "Figure out why the mismatch with QR generator library (libraries?)"
+      "Figure out why the mismatch with QR generator library (libraries?)",
+      "Play around with the `wokwi-logic-analyzer` part to see the display driving",
+      "Test whether using `setRow`/`setColumn` would be faster than `setLed`"
     ]
   },
   "asp-conditional-validations": {
