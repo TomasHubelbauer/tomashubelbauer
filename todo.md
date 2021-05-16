@@ -113,8 +113,6 @@ This will make the stamp more precise.
 
 ## Detect new PRs and add a received pull request event
 
-## Show people I followed
-
 ## Recognize a situation where a repo is first seen already with stars
 
 If a repo is both created and starred in a window before it is seen by this
