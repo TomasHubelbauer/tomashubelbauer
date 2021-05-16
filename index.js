@@ -59,8 +59,6 @@ const cutoff = events[events.length - 1].created_at;
 for (const follower of followers) {
   // Generate follower event (unfollowed) if the user unfollowed earlier than the oldest GitHub activity event returned
   if (follower.unfollowed_at?.localeCompare(cutoff) >= 0) {
-    console.log('Skipped unfollower', follower.login, '(dead login)');
-
     // Skip accounts known to be dead already
     if (deadLogins.includes(follower.login)) {
       continue;
