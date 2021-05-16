@@ -41,6 +41,7 @@ jobs:
         
         # Run the CI script
         npm install
+        node test
         node . ${{secrets.GITHUB_TOKEN}}
         
         # Stage the Git index changes resulting from the CI script
