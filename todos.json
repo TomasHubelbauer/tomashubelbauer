@@ -1973,9 +1973,10 @@
     "todos": []
   },
   "selfie": {
-    "stamp": "2021-05-16T21:58:57Z",
+    "stamp": "2021-05-16T22:47:45Z",
     "todos": [
-      "Extend the API to accept either a crop region or enable region detection"
+      "Extend the API to accept either a crop region or enable region detection",
+      "Fix `detect.js` to work with `detect2.png` and `detect3.png`"
     ]
   },
   "shapefile": {
