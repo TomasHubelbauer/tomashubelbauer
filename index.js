@@ -195,11 +195,11 @@ for (const repository in _repositories) {
       continue;
     }
 
-    if (stat.stars !== _stat.stars) {
+    if (stat.stars !== _stat.stars && stamp?.localeCompare(cutoff) >= 0) {
       events.push({ actor: { login }, created_at: stamp, type: 'RepositoryEvent', repo: { name: 'TomasHubelbauer/' + repository }, payload: { action: 'starred', old: _stat.stars, new: stat.stars } });
     }
 
-    if (stat.forks !== _stat.forks) {
+    if (stat.forks !== _stat.forks && stamp?.localeCompare(cutoff) >= 0) {
       events.push({ actor: { login }, created_at: stamp, type: 'RepositoryEvent', repo: { name: 'TomasHubelbauer/' + repository }, payload: { action: 'forked', old: _stat.forks, new: stat.forks } });
     }
 
