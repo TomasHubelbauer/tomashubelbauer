@@ -1138,7 +1138,7 @@
     ]
   },
   "is4a-leaderboard": {
-    "stamp": "2021-05-16T00:08:28Z",
+    "stamp": "2021-05-17T00:08:02Z",
     "todos": [
       "Generate the HTML output directly and use it for both email and web",
       "Generate a MarkDown readme section in addition to the email and web",
@@ -1377,7 +1377,7 @@
     "todos": []
   },
   "net-ecosystem-review": {
-    "stamp": "2021-05-16T00:08:53Z",
+    "stamp": "2021-05-17T00:07:58Z",
     "todos": [
       "Provide another view with a chart showing stars of each project on a line chart",
       "Load notes for each item from README.md",
@@ -1973,10 +1973,13 @@
     "todos": []
   },
   "selfie": {
-    "stamp": "2021-05-16T22:47:45Z",
+    "stamp": "2021-05-17T00:09:18Z",
     "todos": [
       "Extend the API to accept either a crop region or enable region detection",
-      "Fix `detect.js` to work with `detect2.png` and `detect3.png`"
+      "Fix `detect.js` to work with `detect2.png` and `detect3.png`",
+      "Replace and simplify the detection algorithm",
+      "Implement the option to specify a size range instead of size value",
+      "Implement this algorithm in Selfie replacing the current awkward one"
     ]
   },
   "shapefile": {
