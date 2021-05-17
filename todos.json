@@ -1973,15 +1973,14 @@
     "todos": []
   },
   "selfie": {
-    "stamp": "2021-05-17T17:28:38Z",
+    "stamp": "2021-05-17T20:27:11Z",
     "todos": [
       "Improve the detection algorithm to be more flexible",
       "Implement the option to specify a size range instead of size value",
       "Fix Chrome not scanning with marker < 3 or scale 2, 1 instead of 1, 2 order",
       "Configure the media stream constraints better once they are well supported",
       "Fix the artifact tool color indicator label displaying bad color when panned",
-      "Keep the media delay only in Chrome not in Firefox or Safari",
-      "Fix mobile Safari showing the guide despite no support"
+      "Keep the media delay only in Chrome not in Firefox or Safari"
     ]
   },
   "shapefile": {
