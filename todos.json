@@ -1973,19 +1973,18 @@
     "todos": []
   },
   "selfie": {
-    "stamp": "2021-05-17T08:54:45Z",
+    "stamp": "2021-05-17T10:02:04Z",
     "todos": [
-      "Extend the API to accept either a crop region or enable region detection",
       "Improve the detection algorithm to be more flexible",
       "Implement the option to specify a size range instead of size value",
-      "Display the guides only once having pressed the button floating and focused",
+      "Default the size range to the marker size if not provided explicitly",
       "Check for the marker colors as well as known browser artifacted colors",
-      "See if there is a way to get uncompressed stream from the constraints",
-      "Do this for marker sizes 1-5 in Firefox, Chrome and Safari to find pool of",
+      "Change this away from the Color Meter app as it antialiases - make the",
+      "Populate the rest of this list for marker size 1-5 and pool the colors",
+      "Document how static the color artifacting is and if it will be usable",
+      "Update the algorithm to be able to work with a pool of color candidates",
       "Use `window.devicePixelRatio` as the first scale to try in the scale array",
-      "Configure the media stream constraints better",
-      "Merge the home page buttons into one with implicit auto-crop",
-      "Merge the main buttons with the guide buttons and have a fallback guide"
+      "Configure the media stream constraints better once they are well supported"
     ]
   },
   "shapefile": {
