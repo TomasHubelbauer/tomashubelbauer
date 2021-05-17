@@ -1973,18 +1973,13 @@
     "todos": []
   },
   "selfie": {
-    "stamp": "2021-05-17T13:55:37Z",
+    "stamp": "2021-05-17T14:57:53Z",
     "todos": [
       "Improve the detection algorithm to be more flexible",
       "Implement the option to specify a size range instead of size value",
-      "Default the size range to the marker size if not provided explicitly",
-      "Check for the marker colors as well as known browser artifacted colors",
-      "Pool the main color from each of the collected artifact samples/browser",
-      "Document how static the color artifacting is and if it will be usable",
-      "Update the algorithm to be able to work with a pool of color candidates",
-      "Use `window.devicePixelRatio` as the first scale to try in the scale array",
+      "Fix Chrome not scanning with marker < 3 or scale 2, 1 instead of 1, 2 order",
       "Configure the media stream constraints better once they are well supported",
-      "Fix the artifact tool color indicator label displaying nonsense when panned"
+      "Fix the artifact tool color indicator label displaying bad color when panned"
     ]
   },
   "shapefile": {
