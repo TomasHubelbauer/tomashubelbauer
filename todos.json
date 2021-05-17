@@ -1973,7 +1973,7 @@
     "todos": []
   },
   "selfie": {
-    "stamp": "2021-05-17T02:21:13Z",
+    "stamp": "2021-05-17T03:03:03Z",
     "todos": [
       "Extend the API to accept either a crop region or enable region detection",
       "Improve the detection algorithm to be more flexible",
@@ -1982,7 +1982,8 @@
       "Check for the marker colors as well as known browser artifacted colors",
       "See if there is a way to get uncompressed stream from the constraints",
       "Do this for marker sizes 1-5 in Firefox, Chrome and Safari to find pool of",
-      "See if there is a way to get unscaled getDisplayMedia stream as an option"
+      "Use `window.devicePixelRatio` as the first scale to try in the scale array",
+      "Configure the media stream constraints better"
     ]
   },
   "shapefile": {
