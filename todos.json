@@ -1973,13 +1973,16 @@
     "todos": []
   },
   "selfie": {
-    "stamp": "2021-05-17T00:09:18Z",
+    "stamp": "2021-05-17T02:21:13Z",
     "todos": [
       "Extend the API to accept either a crop region or enable region detection",
-      "Fix `detect.js` to work with `detect2.png` and `detect3.png`",
-      "Replace and simplify the detection algorithm",
+      "Improve the detection algorithm to be more flexible",
       "Implement the option to specify a size range instead of size value",
-      "Implement this algorithm in Selfie replacing the current awkward one"
+      "Display the guides only once having pressed the button floating and focused",
+      "Check for the marker colors as well as known browser artifacted colors",
+      "See if there is a way to get uncompressed stream from the constraints",
+      "Do this for marker sizes 1-5 in Firefox, Chrome and Safari to find pool of",
+      "See if there is a way to get unscaled getDisplayMedia stream as an option"
     ]
   },
   "shapefile": {
