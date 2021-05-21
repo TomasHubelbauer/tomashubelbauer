@@ -1973,11 +1973,10 @@
     "todos": []
   },
   "selfie": {
-    "stamp": "2021-05-18T06:46:57Z",
+    "stamp": "2021-05-21T20:52:41Z",
     "todos": [
+      "Consider adjusting the algorithm for looking for corners separately",
       "Improve the detection algorithm to be more flexible",
-      "Implement the option to specify a size range instead of size value",
-      "Fix Chrome not scanning with marker < 3 or scale 2, 1 instead of 1, 2 order",
       "Configure the media stream constraints better once they are well supported",
       "Fix the artifact tool color indicator label displaying bad color when panned"
     ]
