@@ -1973,10 +1973,8 @@
     "todos": []
   },
   "selfie": {
-    "stamp": "2021-05-22T07:57:50Z",
+    "stamp": "2021-05-22T19:01:39Z",
     "todos": [
-      "Fix the `selfie.js` sample code not working in Chrome (at 1x)",
-      "Improve the detection algorithm to be more flexible",
       "Configure the media stream constraints better once they are well supported",
       "Fix the artifact tool color indicator label displaying bad color when panned"
     ]
