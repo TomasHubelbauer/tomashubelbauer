@@ -1973,7 +1973,7 @@
     "todos": []
   },
   "selfie": {
-    "stamp": "2021-05-22T19:01:39Z",
+    "stamp": "2021-05-22T23:52:16Z",
     "todos": [
       "Configure the media stream constraints better once they are well supported",
       "Fix the artifact tool color indicator label displaying bad color when panned"
