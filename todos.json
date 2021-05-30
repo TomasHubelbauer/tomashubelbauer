@@ -482,9 +482,10 @@
     "todos": []
   },
   "dagre": {
-    "stamp": "2021-05-30T21:13:47Z",
+    "stamp": "2021-05-30T21:59:50Z",
     "todos": [
-      "Add SVG `foreignObject` controls for adding nodes and edges"
+      "Adjust code `TODO` comments",
+      "Implement a UI control for removing nodes and edges (right-click?)"
     ]
   },
   "dapper-sqlite": {
