@@ -482,9 +482,11 @@
     "todos": []
   },
   "dagre": {
-    "stamp": "2021-05-31T10:13:24Z",
+    "stamp": "2021-05-31T10:23:07Z",
     "todos": [
-      "Implement a UI control for removing nodes and edges (right-click?)"
+      "Implement a UI control for removing nodes and edges (right-click?)",
+      "Animate motion when adding and removing nodes and edges piece-wise",
+      "Display edge split as round button and node branch-out as a part of the text"
     ]
   },
   "dapper-sqlite": {
