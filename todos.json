@@ -486,11 +486,8 @@
     "todos": []
   },
   "dagre": {
-    "stamp": "2021-06-02T19:35:38Z",
-    "todos": [
-      "Implement a UI control for removing nodes and edges",
-      "Animate motion when adding and removing nodes and edges piece-wise"
-    ]
+    "stamp": "2021-06-04T20:21:02Z",
+    "todos": []
   },
   "dapper-sqlite": {
     "stamp": "2020-01-13T08:50:21Z",
