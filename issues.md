@@ -30,6 +30,7 @@
 
 ## vscode-markdown-table-format
 
+- [Open VSX](https://github.com/TomasHubelbauer/vscode-markdown-table-format/issues/6)
 - [Respect Existing Column Alignments](https://github.com/TomasHubelbauer/vscode-markdown-table-format/issues/5)
 - [Table generator](https://github.com/TomasHubelbauer/vscode-markdown-table-format/issues/4)
 - [Whether to consider supporting escape characters？](https://github.com/TomasHubelbauer/vscode-markdown-table-format/issues/3)
