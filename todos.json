@@ -1146,7 +1146,7 @@
     ]
   },
   "is4a-leaderboard": {
-    "stamp": "2021-06-19T00:05:41Z",
+    "stamp": "2021-06-20T00:06:30Z",
     "todos": [
       "Generate the HTML output directly and use it for both email and web",
       "Generate a MarkDown readme section in addition to the email and web",
