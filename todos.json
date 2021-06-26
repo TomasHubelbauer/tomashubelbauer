@@ -2631,6 +2631,13 @@
     "stamp": "2020-01-16T16:49:41Z",
     "todos": []
   },
+  "youtube-subs": {
+    "stamp": "2021-06-26T16:44:47Z",
+    "todos": [
+      "Figure out the Service Account stuff and download the list of subscriptions",
+      "See if using Google Takeout instead of the OPML on cron would be usable"
+    ]
+  },
   "yt-comments": {
     "stamp": "2020-01-27T21:20:09Z",
     "todos": [
