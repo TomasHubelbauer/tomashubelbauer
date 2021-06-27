@@ -2181,8 +2181,10 @@
     ]
   },
   "tomashubelbauer.today": {
-    "stamp": "2021-06-27T09:49:38Z",
-    "todos": []
+    "stamp": "2021-06-27T11:02:14Z",
+    "todos": [
+      "Wait for \"Enforce HTTPS\" to start working or re-create `CNAME` to make it"
+    ]
   },
   "ts-esm-search": {
     "stamp": "2021-03-07T18:58:30Z",
