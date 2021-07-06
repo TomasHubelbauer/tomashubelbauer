@@ -4,6 +4,10 @@
 
 - [Any plans to develop it further?](https://github.com/TomasHubelbauer/garmin-img/issues/1)
 
+## node-apng
+
+- [SyntaxError: Cannot use import statement outside a module](https://github.com/TomasHubelbauer/node-apng/issues/2)
+
 ## vscode-email-viewer
 
 - [Doesn't work with special character in filename](https://github.com/TomasHubelbauer/vscode-email-viewer/issues/2)
