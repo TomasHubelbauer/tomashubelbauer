@@ -594,12 +594,13 @@
     ]
   },
   "ef-json-provider": {
-    "stamp": "2019-12-08T19:00:20Z",
+    "stamp": "2021-07-17T08:34:55Z",
     "todos": [
       "Trace out more of the calls to the Pomelo provider EF Core makes",
       "Replicate the Pomelo provider in my own codebase and use JSON files instead",
       "Figure out how to build and link EF Core from the submodule",
-      "Instrument the source-built EF Core dependency as well as Pomelo"
+      "Instrument the source-built EF Core dependency as well as Pomelo",
+      "Look at https://github.com/GibraltarSoftware/VistaDB.EFCore for inspiration"
     ]
   },
   "ef-logging": {
@@ -2587,8 +2588,10 @@
     "todos": []
   },
   "workers-formdata": {
-    "stamp": "2021-01-05T10:30:12Z",
-    "todos": []
+    "stamp": "2021-07-17T08:30:34Z",
+    "todos": [
+      "See if with Durable Objects and ESM this script could be a dependency"
+    ]
   },
   "wsb-busdog": {
     "stamp": "2019-12-29T22:34:35Z",
