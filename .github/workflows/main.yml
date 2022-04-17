@@ -1,0 +1,55 @@
+name: main
+on:
+  push:
+  schedule:
+    # Run hourly
+    - cron:  '0 * * * *'
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out the source code
+      uses: actions/checkout@v3
+      with:
+        ref: main
+    - name: Run the workflow
+      run: |
+        set -e
+        set -x
+        
+        # Configure Git for the push from the workflow to the repository
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+
+        # Configure `git filter-branch` to not complain and just do the job
+        export FILTER_BRANCH_SQUELCH_WARNING=1
+        
+        # Drop history of `readme.md` as it will be regenerated
+        git filter-branch --index-filter "git rm --ignore-unmatch readme.md" --prune-empty HEAD
+
+        # Drop the history and recover only the latest version of cache files
+        # Use `--force` to disregard the error about overwriting a backup
+        git filter-branch --force --index-filter "git rm --ignore-unmatch followers.json repositories.json" --prune-empty HEAD
+        git checkout origin/main -- followers.json repositories.json
+        
+        # Run the CI script
+        npm install
+        node test
+        node . ${{github.token}}
+        
+        # Stage the Git index changes resulting from the CI script
+        git add .
+        
+        # Reset unstaged changes so that Git commit won't fail (e.g.: package-lock.json, temporary files, …)
+        git checkout -- .
+        
+        # Bail if there are no changes to commit and hence no GitHub Pages to build
+        if git diff-index --quiet HEAD --; then
+          exit
+        fi
+        
+        # Commit the staged changes to the workflow repository
+        git commit -m "Generate readme.md based on the API script"
+        
+        # Push the commit to the workflow repository using force since we rewrote history
+        git push origin HEAD:main --force
