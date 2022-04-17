@@ -28,7 +28,7 @@ jobs:
         git filter-branch --force --index-filter "git rm --ignore-unmatch followers.json repositories.json" --prune-empty HEAD
         git checkout origin/main -- followers.json repositories.json
     
-    - name: Run the workflow script (inddex.js)
+    - name: Run the workflow script (index.js)
       run: |
         npm install
         node test
