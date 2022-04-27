@@ -14,7 +14,12 @@ export default function download(/** @type {string} */ url) {
 
       const buffer = Buffer.concat(buffers);
       try {
-        resolve(JSON.parse(buffer));
+        const data = JSON.parse(buffer);
+        if (data.message && data.documentation_url) {
+          data.headers = response.headers;
+        }
+        
+        resolve(data);
       }
       catch (error) {
         reject(new Error(`Failed to parse the JSON: ${buffer}`, { cause: error }));
