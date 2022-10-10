@@ -18,6 +18,10 @@ const login = 'TomasHubelbauer';
 /** @type {{ actor: { login: string; }; created_at: string; type: string; payload: unknown; repo: { name: string; }; }[]} */
 const events = await downloadPagedArray('https://api.github.com/users/tomashubelbauer/events', 'events.json');
 
+// Fetch all repository artifacts used to carry cached data between runs
+// https://docs.github.com/en/rest/actions/artifacts#list-artifacts-for-a-repository
+const artifacts = await downloadPagedArray('https://api.github.com/repos/tomashubelbauer/tomashubelbauer/actions/artifacts', 'artifacts.json');
+
 // Recover remembered followers for later comparison and change detection
 const staleFollowers = await fs.promises.readFile('followers.json')
   .then(buffer => JSON.parse(buffer))
