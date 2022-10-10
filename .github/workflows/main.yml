@@ -42,12 +42,6 @@ jobs:
         name: todos.json
         path: todos.json
 
-    - name: Remove the cache files from the index
-      run: |
-        rm followers.json
-        rm repositories.json
-        rm todos.json
-
     - name: Commit and force push Git changes back to the workflow repository
       run: |
         set -e
@@ -58,7 +52,7 @@ jobs:
         git config --global user.name "github-actions[bot]"
 
         # Stage the Git index change of the auto-generated readme.md file
-        git add readme.me prs.md issues.md
+        git add readme.md prs.md issues.md
         
         # Bail if there are no changes to commit and hence no GitHub Pages to build
         if git diff-index --quiet HEAD --; then
