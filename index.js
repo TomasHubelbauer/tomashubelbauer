@@ -20,7 +20,7 @@ const events = await downloadPagedArray('https://api.github.com/users/tomashubel
 
 // Fetch all repository artifacts used to carry cached data between runs
 // https://docs.github.com/en/rest/actions/artifacts#list-artifacts-for-a-repository
-const artifacts = await downloadPagedArray('https://api.github.com/repos/tomashubelbauer/tomashubelbauer/actions/artifacts', 'artifacts.json');
+const artifacts = await download('https://api.github.com/repos/tomashubelbauer/tomashubelbauer/actions/artifacts');
 
 // Recover remembered followers for later comparison and change detection
 const staleFollowers = await fs.promises.readFile('followers.json')
