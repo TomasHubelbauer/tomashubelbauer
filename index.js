@@ -19,15 +19,16 @@ const login = 'TomasHubelbauer';
 const events = await downloadPagedArray('https://api.github.com/users/tomashubelbauer/events', 'events.json');
 
 // Recover remembered followers for later comparison and change detection
-let staleFollowers = [];
-try {
-  staleFollowers = JSON.parse(await fs.promises.readFile('followers.json'));
-}
-catch (error) {
-  if (error.code !== 'ENOENT') {
+const staleFollowers = await fs.promises.readFile('followers.json')
+  .then(buffer => JSON.parse(buffer))
+  .catch(error => {
+    if (error.code === 'ENOENT') {
+      return [];
+    }
+
     throw error;
-  }
-}
+  })
+  ;
 
 // Fetch current followers for later comparison and change detection
 const freshFollowers = await downloadPagedArray('https://api.github.com/users/tomashubelbauer/followers', 'followers.dev.json');
@@ -90,10 +91,29 @@ for (const follower of followers) {
 // Fetch repositories for star and fork change detection
 const repositories = await downloadPagedArray('https://api.github.com/users/tomashubelbauer/repos', 'repositories.dev.json');
 
-const todos = JSON.parse(await fs.promises.readFile('todos.json'));
+const todos = await fs.promises.readFile('todos.json')
+  .then(buffer => JSON.parse(buffer))
+  .catch(error => {
+    if (error.code === 'ENOENT') {
+      return {};
+    }
+
+    throw error;
+  })
+  ;
 
 // Extract tracked attributes of each repository (used for change detection)
-const _repositories = JSON.parse(await fs.promises.readFile('repositories.json'));
+const _repositories = await fs.promises.readFile('repositories.json')
+  .then(buffer => JSON.parse(buffer))
+  .catch(error => {
+    if (error.code === 'ENOENT') {
+      return {};
+    }
+
+    throw error;
+  })
+  ;
+
 const deletedRepositories = Object.keys(_repositories).filter(name => !repositories.find(repository => repository.name === name));
 for (const deletedRepository of deletedRepositories) {
   console.log('Deleted', deletedRepository);

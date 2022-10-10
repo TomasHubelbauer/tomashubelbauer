@@ -1,5 +1,14 @@
 # To-Do
 
+# Use workflow artifacts for followers, repositories and todos
+
+https://docs.github.com/en/rest/actions/artifacts#list-artifacts-for-a-repository
+
+Fetch the artifacts from there so they are independent from the repository
+history.
+Store them there and link to them there from the readme instead of the JSON
+files in the repository as they currently are.
+
 ## Escape HTML in the commit message title line
 
 I just commited with a message that named the HTML `<details>` element and it
