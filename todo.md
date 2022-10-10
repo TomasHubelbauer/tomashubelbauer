@@ -19,13 +19,6 @@ account and stop inflating my user profile contribution chart.
 
 https://github.com/TomasHubelbauer/github-actions-push-api#modification
 
-## See if `todos.json` history can be dropped or not
-
-It generates commits for repos updated daily using automation. That's not an
-issue necessarily, but it doesn't look nice. I've privated those repos to avoid
-that for now, but it would be even better if the history of this file did not
-need to be kept.
-
 ## Consider including stuff such as has pages/wiki etc. in the repo statistics
 
 Could be cool to have events such as "enabled/disabled GitHub Pages on ${repo}".
@@ -80,13 +73,6 @@ query MyQuery {
 The GQL API requires authorization. Perhaps the GitHub Actions token will
 suffice? If not I'd rather drop this feature than implement authorization for
 accessing only public data; that's stupid.
-
-## Drop history of `todos.json` in the GitHub Actions workflow
-
-I don't remember if this should work like it does with the other files or if
-something extra needs to be done in regards to the stamps used to determine
-changes etc. I _think_ it should work just by using `filter-branch` like with
-the other file.
 
 ## Detect and warn on unindexed repositories
 
