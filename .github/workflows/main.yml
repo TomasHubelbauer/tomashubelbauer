@@ -25,7 +25,7 @@ jobs:
     - name: Drop the history and recover only the latest version of cache files
       run: |
         # Use `--force` to disregard the error about overwriting a backup
-        git filter-branch --force --index-filter "git rm --ignore-unmatch followers.json repositories.json todos.json" --prune-empty HEAD
+        git filter-branch --force --index-filter "git rm --ignore-unmatch followers.json repositories.json todos.json prs.md issues.md" --prune-empty HEAD
         git checkout origin/main -- followers.json repositories.json todos.json
     
     - name: Run the workflow script (index.js)
