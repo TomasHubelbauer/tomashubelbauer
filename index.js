@@ -1,21 +1,20 @@
 import fs from 'fs';
-import downloadPagedArray from './downloadPagedArray.js';
-import query from './query.js';
-import name from './name.js';
-import commit from './commit.js';
-import branch from './branch.js';
-import issue from './issue.js';
-import pr from './pr.js';
-import date from './date.js';
-import time from './time.js';
-import download from './download.js';
 import todo from 'todo';
+import branch from './branch.js';
+import commit from './commit.js';
+import date from './date.js';
+import download from './download.js';
+import downloadPagedArray from './downloadPagedArray.js';
+import issue from './issue.js';
+import name from './name.js';
+import pr from './pr.js';
+import query from './query.js';
+import time from './time.js';
 
 const login = 'TomasHubelbauer';
 
 // Fetch all 300 events GitHub API will provide:
-// https://docs.github.com/en/free-pro-team@latest/rest/reference/activity#events
-// Note that the docs say `per_page` is not supported but it seems to work…
+// https://docs.github.com/en/rest/activity/events#list-public-events
 /** @type {{ actor: { login: string; }; created_at: string; type: string; payload: unknown; repo: { name: string; }; }[]} */
 const events = await downloadPagedArray('https://api.github.com/users/tomashubelbauer/events', 'events.json');
 
@@ -495,7 +494,7 @@ for (const event of events) {
       markdown += `🎁 ${event.payload.action}${pr(event.payload.pull_request)}\n  in${name(event.repo.name)}`;
       break;
     }
-    
+
     // https://docs.github.com/en/developers/webhooks-and-events/events/github-event-types#pullrequestreviewcommentevent
     case 'PullRequestReviewCommentEvent': {
       markdown += `💬 ${event.payload.action}${pr(event.payload.pull_request)}\n  in${name(event.repo.name)}`;
