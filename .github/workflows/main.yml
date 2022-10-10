@@ -14,21 +14,40 @@ jobs:
         ref: main
         fetch-depth: 0
     
-    - name: Drop history of readme.md - will be generated
+    - name: Drop history of auto-generated files (readme.md, prs.md issues.md)
       run: |
-        FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch --force --index-filter "git rm --ignore-unmatch readme.md" --prune-empty HEAD
-    
-    - name: Drop the history and recover only the latest versions of cache files
-      run: |
-        FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch --force --index-filter "git rm --ignore-unmatch followers.json repositories.json todos.json prs.md issues.md" --prune-empty HEAD
-        git checkout origin/main -- followers.json repositories.json todos.json
-    
+        FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch --force --index-filter "git rm --ignore-unmatch readme.md prs.md issues.md" --prune-empty HEAD
+
     - name: Run the workflow script using the integration personal access token
       run: |
         npm install
         node test
         node . ${{github.token}}
     
+    - name: Upload the followers.json cache file as an artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: followers.json
+        path: followers.json
+
+    - name: Upload the repositories.json cache file as an artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: repositories.json
+        path: repositories.json
+
+    - name: Upload the todos.json cache file as an artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: todos.json
+        path: todos.json
+
+    - name: Remove the cache files from the index
+      run: |
+        rm followers.json
+        rm repositories.json
+        rm todos.json
+
     - name: Commit and force push Git changes back to the workflow repository
       run: |
         set -e
@@ -38,11 +57,8 @@ jobs:
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --global user.name "github-actions[bot]"
 
-        # Stage the Git index changes resulting from the CI script
-        git add .
-        
-        # Reset unstaged changes so that Git commit won't fail (e.g.: package-lock.json, temporary files, …)
-        git checkout -- .
+        # Stage the Git index change of the auto-generated readme.md file
+        git add readme.me prs.md issues.md
         
         # Bail if there are no changes to commit and hence no GitHub Pages to build
         if git diff-index --quiet HEAD --; then
