@@ -27,18 +27,21 @@ const { artifacts } = await download('https://api.github.com/repos/tomashubelbau
 const followersJsonArtifact = artifacts.find(artifact => artifact.name === 'followers.json');
 console.log(followersJsonArtifact.archive_download_url);
 const followersJsonZip = await downloadRaw(followersJsonArtifact.archive_download_url);
+console.log(followersJsonZip);
 const followersJson = JSON.parse(await extract(followersJsonZip));
 console.log(followersJson);
 
 const repositoriesJsonArtifact = artifacts.find(artifact => artifact.name === 'repositories.json');
 console.log(repositoriesJsonArtifact.archive_download_url);
 const repositoriesJsonZip = await downloadRaw(repositoriesJsonArtifact.archive_download_url);
+console.log(repositoriesJsonZip);
 const repositoriesJson = JSON.parse(await extract(repositoriesJsonZip));
 console.log(repositoriesJson);
 
 const todosJsonArtifact = artifacts.find(artifact => artifact.name === 'todos.json');
 console.log(todosJsonArtifact.archive_download_url);
 const todosJsonZip = await downloadRaw(todosJsonArtifact.archive_download_url);
+console.log(todosJsonZip);
 const todosJson = JSON.parse(await extract(todosJsonZip));
 console.log(todosJson);
 
