@@ -5,6 +5,8 @@ import commit from './commit.js';
 import date from './date.js';
 import download from './download.js';
 import downloadPagedArray from './downloadPagedArray.js';
+import downloadRaw from './downloadRaw.js';
+import extract from './extract.js';
 import issue from './issue.js';
 import name from './name.js';
 import pr from './pr.js';
@@ -20,8 +22,25 @@ const events = await downloadPagedArray('https://api.github.com/users/tomashubel
 
 // Fetch all repository artifacts used to carry cached data between runs
 // https://docs.github.com/en/rest/actions/artifacts#list-artifacts-for-a-repository
-const artifacts = await download('https://api.github.com/repos/tomashubelbauer/tomashubelbauer/actions/artifacts');
-console.log(artifacts);
+const { artifacts } = await download('https://api.github.com/repos/tomashubelbauer/tomashubelbauer/actions/artifacts');
+
+const followersJsonArtifact = artifacts.find(artifact => artifact.name === 'followers.json');
+console.log(followersJsonArtifact.archive_download_url);
+const followersJsonZip = await downloadRaw(followersJsonArtifact.archive_download_url);
+const followersJson = JSON.parse(await extract(followersJsonZip));
+console.log(followersJson);
+
+const repositoriesJsonArtifact = artifacts.find(artifact => artifact.name === 'repositories.json');
+console.log(repositoriesJsonArtifact.archive_download_url);
+const repositoriesJsonZip = await downloadRaw(repositoriesJsonArtifact.archive_download_url);
+const repositoriesJson = JSON.parse(await extract(repositoriesJsonZip));
+console.log(repositoriesJson);
+
+const todosJsonArtifact = artifacts.find(artifact => artifact.name === 'todos.json');
+console.log(todosJsonArtifact.archive_download_url);
+const todosJsonZip = await downloadRaw(todosJsonArtifact.archive_download_url);
+const todosJson = JSON.parse(await extract(todosJsonZip));
+console.log(todosJson);
 
 // Recover remembered followers for later comparison and change detection
 const staleFollowers = await fs.promises.readFile('followers.json')
