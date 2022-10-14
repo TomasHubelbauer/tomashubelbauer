@@ -18,6 +18,11 @@ jobs:
       run: |
         FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch --force --index-filter "git rm --ignore-unmatch readme.md prs.md issues.md" --prune-empty HEAD
 
+    - name: Use latest Node version to get access to modern features
+      uses: actions/setup-node@v3
+      with:
+        node-version: latest
+
     - name: Run the workflow script using the integration personal access token
       run: |
         npm install
