@@ -26,37 +26,15 @@ console.log('Downloaded', events.length, 'events');
 const { artifacts } = await fetch('https://api.github.com/repos/tomashubelbauer/tomashubelbauer/actions/artifacts', { headers }).then(response => response.json());
 console.log('Downloaded', artifacts.length, 'artifacts');
 
-const arrayBuffer = await fetch(artifacts.find(artifact => artifact.name === 'followers.json').archive_download_url, { headers }).then(response => response.arrayBuffer());
-console.log(await extract(Buffer.from(arrayBuffer)).then(buffer => JSON.parse(buffer)));
-
-// const repositoriesJsonArtifact = artifacts.find(artifact => artifact.name === 'repositories.json');
-// console.log(repositoriesJsonArtifact.archive_download_url);
-// const repositoriesJsonZip = await downloadRaw(repositoriesJsonArtifact.archive_download_url);
-// console.log(repositoriesJsonZip);
-// const repositoriesJson = JSON.parse(await extract(repositoriesJsonZip));
-// console.log(repositoriesJson);
-
-// const todosJsonArtifact = artifacts.find(artifact => artifact.name === 'todos.json');
-// console.log(todosJsonArtifact.archive_download_url);
-// const todosJsonZip = await downloadRaw(todosJsonArtifact.archive_download_url);
-// console.log(todosJsonZip);
-// const todosJson = JSON.parse(await extract(todosJsonZip));
-// console.log(todosJson);
-
 // Recover remembered followers for later comparison and change detection
-const staleFollowers = await fs.promises.readFile('followers.json')
+const staleFollowers = await fetch(artifacts.find(artifact => artifact.name === 'followers.json').archive_download_url, { headers })
+  .then(response => response.arrayBuffer())
+  .then(arrayBuffer => extract(Buffer.from(arrayBuffer)))
   .then(buffer => JSON.parse(buffer))
-  .catch(error => {
-    if (error.code === 'ENOENT') {
-      return [];
-    }
-
-    throw error;
-  })
   ;
 
 // Fetch current followers for later comparison and change detection
-const freshFollowers = await downloadPagedArray('https://api.github.com/users/tomashubelbauer/followers', 'followers.dev.json');
+const freshFollowers = await downloadPages('https://api.github.com/users/tomashubelbauer/followers?page_page=100');
 
 // Get the unique names of both stale and fresh followers to get the whole set
 const logins = [
@@ -114,29 +92,19 @@ for (const follower of followers) {
 }
 
 // Fetch repositories for star and fork change detection
-const repositories = await downloadPagedArray('https://api.github.com/users/tomashubelbauer/repos', 'repositories.dev.json');
+const repositories = await downloadPages('https://api.github.com/users/tomashubelbauer/repos?per_page=100');
 
-const todos = await fs.promises.readFile('todos.json')
+const todos = await fetch(artifacts.find(artifact => artifact.name === 'todos.json').archive_download_url, { headers })
+  .then(response => response.arrayBuffer())
+  .then(arrayBuffer => extract(Buffer.from(arrayBuffer)))
   .then(buffer => JSON.parse(buffer))
-  .catch(error => {
-    if (error.code === 'ENOENT') {
-      return {};
-    }
-
-    throw error;
-  })
   ;
 
 // Extract tracked attributes of each repository (used for change detection)
-const _repositories = await fs.promises.readFile('repositories.json')
+const _repositories = await fetch(artifacts.find(artifact => artifact.name === 'repositories.json').archive_download_url, { headers })
+  .then(response => response.arrayBuffer())
+  .then(arrayBuffer => extract(Buffer.from(arrayBuffer)))
   .then(buffer => JSON.parse(buffer))
-  .catch(error => {
-    if (error.code === 'ENOENT') {
-      return {};
-    }
-
-    throw error;
-  })
   ;
 
 const deletedRepositories = Object.keys(_repositories).filter(name => !repositories.find(repository => repository.name === name));
