@@ -144,7 +144,7 @@ for (const repository of repositories) {
 
     // Download the readme at the remembered or default name
     try {
-      content = await fetch(`https://api.github.com/repos/TomasHubelbauer/${name}/contents/${readme}`, { headers });
+      content = await fetch(`https://api.github.com/repos/TomasHubelbauer/${name}/contents/${readme}`, { headers }).then(response => response.json());
       if (content.message === 'Not Found') {
         throw new Error(content);
       }
@@ -153,7 +153,7 @@ for (const repository of repositories) {
     // Download the readme at the alternate name or fail
     catch (error) {
       const oppositeReadme = readme === 'readme.md' ? 'README.md' : 'readme.md';
-      content = await fetch(`https://api.github.com/repos/TomasHubelbauer/${name}/contents/${oppositeReadme}`, { headers });
+      content = await fetch(`https://api.github.com/repos/TomasHubelbauer/${name}/contents/${oppositeReadme}`, { headers }).then(response => response.json());
     }
 
     if (content.message?.startsWith('API rate limit exceeded')) {
@@ -172,9 +172,8 @@ for (const repository of repositories) {
     content = Buffer.from(content.content, 'base64');
     await fs.promises.writeFile(name + '.' + readme, content);
 
-    // Do not use `??=` because the GitHub Actions Node version is too old
     if (!todos[name]) {
-      todos[name] = {};
+      todos[name] ??= {};
     }
 
     todos[name].stamp = pushed_at;
