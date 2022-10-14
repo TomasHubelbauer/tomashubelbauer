@@ -27,7 +27,7 @@ const { artifacts } = await fetch('https://api.github.com/repos/tomashubelbauer/
 console.log('Downloaded', artifacts.length, 'artifacts');
 
 const arrayBuffer = await fetch(artifacts.find(artifact => artifact.name === 'followers.json').archive_download_url, { headers }).then(response => response.arrayBuffer());
-console.log(await extract(Buffer.from(arrayBuffer)));
+console.log(await extract(Buffer.from(arrayBuffer)).then(buffer => JSON.parse(buffer)));
 
 // const repositoriesJsonArtifact = artifacts.find(artifact => artifact.name === 'repositories.json');
 // console.log(repositoriesJsonArtifact.archive_download_url);
