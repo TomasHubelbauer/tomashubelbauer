@@ -223,7 +223,6 @@ for (const repository in _repositories) {
 }
 
 const issuesAndPrs = [...await downloadPages('https://api.github.com/search/issues?q=org:tomashubelbauer+is:open&per_page=100')].reduce((issuesAndPrs, page) => [...issuesAndPrs, ...page.items], []);
-console.log(issuesAndPrs);
 
 const issues = issuesAndPrs.filter(issueOrPr => !issueOrPr.pull_request).map(issue => ({
   repo: issue.html_url.split('/')[4],
@@ -257,7 +256,7 @@ const prsMarkDown = '# Pull Requests\n\n' + Object
   ;
 await fs.promises.writeFile('prs.md', prsMarkDown);
 
-const forkPrs = await downloadPages('https://api.github.com/search/issues?q=is:pr+is:open+author:tomashubelbauer+-org:tomashubelbauer&per_page=100');
+const forkPrs = [...await downloadPages('https://api.github.com/search/issues?q=is:pr+is:open+author:tomashubelbauer+-org:tomashubelbauer&per_page=100')].reduce((forkPrs, page) => [...forkPrs, ...page.items], []);
 const forkPrRepos = forkPrs.map(pr => pr.html_url.split('/').slice(3, 5).join('/'));
 const forks = repositories.filter(repository => repository.fork);
 const identicalForks = [];
