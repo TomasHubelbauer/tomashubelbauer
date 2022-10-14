@@ -223,6 +223,7 @@ for (const repository in _repositories) {
 }
 
 const issuesAndPrs = await downloadPages('https://api.github.com/search/issues?q=org:tomashubelbauer+is:open&per_page=100');
+console.log(issuesAndPrs.filter(issueOrPr => !issueOrPr.pull_request))[0];
 
 const issues = issuesAndPrs.filter(issueOrPr => !issueOrPr.pull_request).map(issue => ({
   repo: issue.html_url.split('/')[4],
