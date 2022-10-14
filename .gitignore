@@ -1,12 +1,6 @@
-events.json
-artifacts.json
 followers.json
-followers.dev.json
 repositories.json
-repositories.dev.json
 todos.json
-issues-and-prs.json
-fork-prs.json
 
 # Node
 node_modules
