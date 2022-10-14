@@ -26,6 +26,9 @@ const { artifacts } = await fetch('https://api.github.com/repos/tomashubelbauer/
   .then(response => response.json())
   ;
 
+console.log(artifacts);
+console.log(artifacts.find(artifact => artifact.name === 'followers.json'));
+
 const followersJsonArtifact = artifacts.find(artifact => artifact.name === 'followers.json');
 const followersJsonArtifactRedirectResponse = await fetch(followersJsonArtifact.archive_download_url);
 console.log(followersJsonArtifactRedirectResponse.headers.get('location'));
