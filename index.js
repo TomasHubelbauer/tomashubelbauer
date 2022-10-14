@@ -12,7 +12,7 @@ import pr from './pr.js';
 import time from './time.js';
 
 // Get the annoying `ExperimentalWarning` about `fetch` out of the way…
-fetch('https://example.com');
+await fetch('https://example.com');
 
 // Fetch all 300 events GitHub API will provide:
 // https://docs.github.com/en/rest/activity/events#list-public-events
