@@ -6,6 +6,8 @@ export default function downloadRaw(/** @type {string} */ url) {
     const request = https.get(url, { headers }, async response => {
       console.log(`${response.headers['x-ratelimit-remaining']}/${response.headers['x-ratelimit-limit']}: ${url}`);
       console.log(url, 'response');
+      console.log(response.statusCode, response.statusMessage);
+      console.log(response.headers);
 
       /** @type {Buffer[]} */
       const buffers = [];
