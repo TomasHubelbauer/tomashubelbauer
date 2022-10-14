@@ -14,6 +14,7 @@ import query from './query.js';
 import time from './time.js';
 
 const login = 'TomasHubelbauer';
+const headers = { 'User-Agent': login, Authorization: process.argv[2] ? 'token ' + process.argv[2] : '' };
 
 // Fetch all 300 events GitHub API will provide:
 // https://docs.github.com/en/rest/activity/events#list-public-events
@@ -23,6 +24,10 @@ const events = await downloadPagedArray('https://api.github.com/users/tomashubel
 // Fetch all repository artifacts used to carry cached data between runs
 // https://docs.github.com/en/rest/actions/artifacts#list-artifacts-for-a-repository
 const { artifacts } = await download('https://api.github.com/repos/tomashubelbauer/tomashubelbauer/actions/artifacts');
+
+const testResponse = await fetch('https://api.github.com/repos/tomashubelbauer/tomashubelbauer/actions/artifacts', { headers });
+const testData = await testResponse.json();
+console.log(testData);
 
 const followersJsonArtifact = artifacts.find(artifact => artifact.name === 'followers.json');
 console.log(followersJsonArtifact.archive_download_url);
