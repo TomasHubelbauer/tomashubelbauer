@@ -3,23 +3,21 @@ import todo from 'todo';
 import branch from './branch.js';
 import commit from './commit.js';
 import date from './date.js';
-import downloadPagedArray from './downloadPagedArray.js';
+import downloadPages from './downloadPages.js';
+import headers from './headers.js';
 import issue from './issue.js';
+import login from './login.js';
 import name from './name.js';
 import pr from './pr.js';
-import query from './query.js';
 import time from './time.js';
 
-// Get the `ExperimentalWarning` about `fetch` out of the way…
+// Get the annoying `ExperimentalWarning` about `fetch` out of the way…
 fetch('https://example.com');
-
-const login = 'TomasHubelbauer';
-const headers = { 'User-Agent': login, Authorization: process.argv[2] ? 'token ' + process.argv[2] : '' };
 
 // Fetch all 300 events GitHub API will provide:
 // https://docs.github.com/en/rest/activity/events#list-public-events
 /** @type {{ actor: { login: string; }; created_at: string; type: string; payload: unknown; repo: { name: string; }; }[]} */
-const events = await downloadPagedArray('https://api.github.com/users/tomashubelbauer/events', 'events.json');
+const events = await downloadPages('https://api.github.com/users/tomashubelbauer/events?per_page=1000');
 
 // Fetch all repository artifacts used to carry cached data between runs
 // https://docs.github.com/en/rest/actions/artifacts#list-artifacts-for-a-repository
@@ -88,8 +86,8 @@ for (const follower of followers) {
 
     // Check if the account is dead and if so, mark it as such and skip
     // Use the non-API endpoint because the API is not always accurate on this
-    const code = await query('https://github.com/' + follower.login, true);
-    if (code === 404) {
+    const { status } = await fetch('https://github.com/' + follower.login, true);
+    if (status === 404) {
       deadLogins.push(follower.login);
       continue;
     }
