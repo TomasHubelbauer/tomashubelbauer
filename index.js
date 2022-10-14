@@ -18,6 +18,7 @@ await fetch('https://example.com');
 // https://docs.github.com/en/rest/activity/events#list-public-events
 /** @type {{ actor: { login: string; }; created_at: string; type: string; payload: unknown; repo: { name: string; }; }[]} */
 const events = await downloadPages('https://api.github.com/users/tomashubelbauer/events?per_page=1000');
+console.log('Downloaded', events.length, 'events');
 
 // Fetch all repository artifacts used to carry cached data between runs
 // https://docs.github.com/en/rest/actions/artifacts#list-artifacts-for-a-repository
