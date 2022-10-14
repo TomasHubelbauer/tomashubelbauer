@@ -14,7 +14,8 @@ export default async function downloadPages(url) {
 
     const link = response.headers.get('link');
     if (!link) {
-      console.log(response.headers);
+      console.log(response.status, response.statusText, response.headers);
+      console.log(await response.json());
     }
 
     const regex = /<(?<url>[^>]+)>; rel="(?<rel>first|prev|next|last)"/g;
