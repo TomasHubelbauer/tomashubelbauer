@@ -12,12 +12,8 @@ export default async function downloadPages(url) {
     const response = await fetch(url, { headers });
     reportRateLimit(response.headers);
 
-    const link = response.headers.get('link');
-    if (!link) {
-      console.log(response.status, response.statusText, response.headers);
-      console.log(await response.json());
-    }
-
+    // Note that `Link` is not always there with single-page responses
+    const link = response.headers.get('link') ?? '';
     const regex = /<(?<url>[^>]+)>; rel="(?<rel>first|prev|next|last)"/g;
     const links = [...link.matchAll(regex)].reduce(
       (links, match) => {
