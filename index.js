@@ -4,6 +4,7 @@ import branch from './branch.js';
 import commit from './commit.js';
 import date from './date.js';
 import downloadPages from './downloadPages.js';
+import extract from './extract.js';
 import headers from './headers.js';
 import issue from './issue.js';
 import login from './login.js';
@@ -25,8 +26,8 @@ console.log('Downloaded', events.length, 'events');
 const { artifacts } = await fetch('https://api.github.com/repos/tomashubelbauer/tomashubelbauer/actions/artifacts', { headers }).then(response => response.json());
 console.log('Downloaded', artifacts.length, 'artifacts');
 
-const response = await fetch(artifacts.find(artifact => artifact.name === 'followers.json').archive_download_url, { headers });
-console.log(response.headers, response.status, response.statusText);
+const response = await fetch(artifacts.find(artifact => artifact.name === 'followers.json').archive_download_url, { headers }).then(response => response.blob());
+console.log(await extract(response));
 
 // const repositoriesJsonArtifact = artifacts.find(artifact => artifact.name === 'repositories.json');
 // console.log(repositoriesJsonArtifact.archive_download_url);
