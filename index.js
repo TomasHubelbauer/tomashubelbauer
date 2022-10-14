@@ -22,7 +22,9 @@ console.log('Downloaded', events.length, 'events');
 
 // Fetch all repository artifacts used to carry cached data between runs
 // https://docs.github.com/en/rest/actions/artifacts#list-artifacts-for-a-repository
-const { artifacts } = await fetch('https://api.github.com/repos/tomashubelbauer/tomashubelbauer/actions/artifacts', { headers });
+const { artifacts } = await fetch('https://api.github.com/repos/tomashubelbauer/tomashubelbauer/actions/artifacts', { headers })
+  .then(response => response.json())
+  ;
 
 const followersJsonArtifact = artifacts.find(artifact => artifact.name === 'followers.json');
 const followersJsonArtifactRedirectResponse = await fetch(followersJsonArtifact.archive_download_url);
