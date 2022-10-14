@@ -144,7 +144,7 @@ for (const repository of repositories) {
 
     // Download the readme at the remembered or default name
     try {
-      content = await download(`https://api.github.com/repos/TomasHubelbauer/${name}/contents/${readme}`);
+      content = await fetch(`https://api.github.com/repos/TomasHubelbauer/${name}/contents/${readme}`, { headers });
       if (content.message === 'Not Found') {
         throw new Error(content);
       }
@@ -153,7 +153,7 @@ for (const repository of repositories) {
     // Download the readme at the alternate name or fail
     catch (error) {
       const oppositeReadme = readme === 'readme.md' ? 'README.md' : 'readme.md';
-      content = await download(`https://api.github.com/repos/TomasHubelbauer/${name}/contents/${oppositeReadme}`);
+      content = await fetch(`https://api.github.com/repos/TomasHubelbauer/${name}/contents/${oppositeReadme}`, { headers });
     }
 
     if (content.message?.startsWith('API rate limit exceeded')) {
@@ -223,7 +223,7 @@ for (const repository in _repositories) {
   }
 }
 
-const issuesAndPrs = await downloadPagedArray('https://api.github.com/search/issues?q=org:tomashubelbauer+is:open', 'issues-and-prs.json');
+const issuesAndPrs = await downloadPages('https://api.github.com/search/issues?q=org:tomashubelbauer+is:open&per_page=100');
 
 const issues = issuesAndPrs.filter(issueOrPr => !issueOrPr.pull_request).map(issue => ({
   repo: issue.html_url.split('/')[4],
@@ -257,7 +257,7 @@ const prsMarkDown = '# Pull Requests\n\n' + Object
   ;
 await fs.promises.writeFile('prs.md', prsMarkDown);
 
-const forkPrs = await downloadPagedArray('https://api.github.com/search/issues?q=is:pr+is:open+author:tomashubelbauer+-org:tomashubelbauer', 'fork-prs.json');
+const forkPrs = await downloadPages('https://api.github.com/search/issues?q=is:pr+is:open+author:tomashubelbauer+-org:tomashubelbauer&per_page=100');
 const forkPrRepos = forkPrs.map(pr => pr.html_url.split('/').slice(3, 5).join('/'));
 const forks = repositories.filter(repository => repository.fork);
 const identicalForks = [];
