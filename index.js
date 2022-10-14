@@ -222,7 +222,7 @@ for (const repository in _repositories) {
   }
 }
 
-const issuesAndPrs = [...await downloadPages('https://api.github.com/search/issues?q=org:tomashubelbauer+is:open&per_page=100')].reduce((issuesAndPrs, page) => [...issuesAndPrs, page.items], []);
+const issuesAndPrs = [...await downloadPages('https://api.github.com/search/issues?q=org:tomashubelbauer+is:open&per_page=100')].reduce((issuesAndPrs, page) => [...issuesAndPrs, ...page.items], []);
 console.log(issuesAndPrs);
 
 const issues = issuesAndPrs.filter(issueOrPr => !issueOrPr.pull_request).map(issue => ({
