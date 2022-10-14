@@ -26,8 +26,8 @@ console.log('Downloaded', events.length, 'events');
 const { artifacts } = await fetch('https://api.github.com/repos/tomashubelbauer/tomashubelbauer/actions/artifacts', { headers }).then(response => response.json());
 console.log('Downloaded', artifacts.length, 'artifacts');
 
-const response = await fetch(artifacts.find(artifact => artifact.name === 'followers.json').archive_download_url, { headers }).then(response => response.blob());
-console.log(await extract(response));
+const blob = await fetch(artifacts.find(artifact => artifact.name === 'followers.json').archive_download_url, { headers }).then(response => response.blob());
+console.log(await extract(Buffer.from(blob)));
 
 // const repositoriesJsonArtifact = artifacts.find(artifact => artifact.name === 'repositories.json');
 // console.log(repositoriesJsonArtifact.archive_download_url);
