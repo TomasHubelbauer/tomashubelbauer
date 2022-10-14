@@ -344,10 +344,10 @@ for (const event of events) {
 
   // https://docs.github.com/en/developers/webhooks-and-events/github-event-types
   if (!/\w+/.test(event.type)) {
-    throw new Error('Misformatted event ' + event.type + '.js');
+    throw new Error('Misformatted event ' + event.type);
   }
 
-  markdown += (await import('./write' + event.type)).default(event);
+  markdown += (await import('./write' + event.type + '.js')).default(event);
   markdown += '\n';
 }
 
