@@ -1,13 +1,17 @@
 # To-Do
 
-# Use workflow artifacts for followers, repositories and todos
+## Collect and generate view for repository tags shared across multiple repos
 
-https://docs.github.com/en/rest/actions/artifacts#list-artifacts-for-a-repository
+There is a big number of unique tags across all repositories.
+It would be impractical to generate a file for each of these with the list of
+repositories that sport this tag.
 
-Fetch the artifacts from there so they are independent from the repository
-history.
-Store them there and link to them there from the readme instead of the JSON
-files in the repository as they currently are.
+But for tags which are shared across multiple repos (2 or maybe an ever higher
+threshold), it might be okay.
+
+## Add a new item in the line with links and status for repos with broken rules
+
+Missing description, missing tags, broken pages, broken workflows etc.
 
 ## Escape HTML in the commit message title line
 
