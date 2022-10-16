@@ -30,7 +30,7 @@ query MyQuery {
 // TODO: Paginate using https://github.com/JefferyHus/graphql-pagination
 // Note that there is no `Link` response header to be able to use
 const response = await fetch(process.env.GITHUB_GRAPHQL_URL, { body: JSON.stringify({ query }), method: 'POST', headers });
-console.log(await response.json());
+console.log(JSON.stringify(await response.json(), null, 2));
 
 // Fetch all 300 events GitHub API will provide:
 // https://docs.github.com/en/rest/activity/events#list-public-events
