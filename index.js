@@ -10,6 +10,27 @@ import time from './time.js';
 // Get the annoying `ExperimentalWarning` about `fetch` out of the way…
 await fetch('https://example.com');
 
+// Run an experiment with GQL which might make some actions consume less limit
+const query = `
+query MyQuery {
+  repositoryOwner(login: "TomasHubelbauer") {
+    login repositories(first: 50, affiliations: OWNER) {
+      edges {
+        node {
+          name watchers {
+            totalCount
+          }
+        }
+      }
+    }
+  }
+}
+`;
+
+const response = await fetch(process.env.GRAPHQL_URL, { body: JSON.stringify({ query }), headers });
+const text = await response.text();
+console.log({ query, text });
+
 // Fetch all 300 events GitHub API will provide:
 // https://docs.github.com/en/rest/activity/events#list-public-events
 /** @type {{ actor: { login: string; }; created_at: string; type: string; payload: unknown; repo: { name: string; }; }[]} */

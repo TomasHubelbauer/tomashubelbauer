@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2022-10-16T17:09:33.177Z
+2022-10-16T17:23:56.918Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3050,14 +3050,6 @@
 
 📒 A pure Node function for extracting single-file ZIP archives
 
-## [solar](https://github.com/TomasHubelbauer/solar)
-
-⚖️ 2022-10-14T16:49:27Z
-
-🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
-
-📒 Notes about my solar experiments
-
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
 ⚖️ 2022-10-15T10:30:14Z
@@ -3074,9 +3066,17 @@
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
+## [solar](https://github.com/TomasHubelbauer/solar)
+
+⚖️ 2022-10-16T17:14:06Z
+
+🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
+
+📒 Notes about my solar experiments
+
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-10-16T16:08:45Z
+⚖️ 2022-10-16T17:23:33Z
 
 🏷 tomashubelbauer
 
