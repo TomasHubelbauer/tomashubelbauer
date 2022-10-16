@@ -14,7 +14,7 @@ await fetch('https://example.com');
 const query = `
 query MyQuery {
   repositoryOwner(login: "${login}") {
-    login repositories(first: 50, affiliations: OWNER) {
+    login repositories(first: 1000, affiliations: OWNER) {
       edges {
         node {
           name watchers {
