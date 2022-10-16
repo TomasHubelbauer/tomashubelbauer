@@ -1,6 +1,8 @@
+import login from './login.js';
+
 export default function name(name) {
   const [user, repo] = name.split('/');
-  if (user !== 'TomasHubelbauer') {
+  if (user !== login) {
     return `\n  [\`${name}\`](https://github.com/${name})`;
   }
 
