@@ -14,7 +14,7 @@ await fetch('https://example.com');
 const query = `
 query MyQuery {
   repositoryOwner(login: "${login}") {
-    login repositories(first: 1000, affiliations: OWNER) {
+    login repositories(first: 100, affiliations: OWNER) {
       edges {
         node {
           name watchers {
@@ -28,8 +28,7 @@ query MyQuery {
 `;
 
 const response = await fetch(process.env.GITHUB_GRAPHQL_URL, { body: JSON.stringify({ query }), method: 'POST', headers });
-const text = await response.text();
-console.log({ query, text });
+console.log({ query, data: await response.json(), headers: response.headers });
 
 // Fetch all 300 events GitHub API will provide:
 // https://docs.github.com/en/rest/activity/events#list-public-events
