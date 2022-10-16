@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-10-16T18:03:59.453Z
+2022-10-16T19:05:16.046Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -290,6 +290,14 @@
 
 📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 1456
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [vscode-markdown-link-suggestions](https://github.com/TomasHubelbauer/vscode-markdown-link-suggestions)
 
 ⚖️ 1433
@@ -324,7 +332,7 @@
 
 ## [solar](https://github.com/TomasHubelbauer/solar)
 
-⚖️ 1104
+⚖️ 1113
 
 🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
 
@@ -633,14 +641,6 @@
 🏷 canvas, chromatic-abberation, html
 
 📒 The chromatic abberation effect implemented in HTML canvas
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 165
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [indexed-db](https://github.com/TomasHubelbauer/indexed-db)
 
