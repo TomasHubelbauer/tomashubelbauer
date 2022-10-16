@@ -13,7 +13,7 @@ await fetch('https://example.com');
 // Run an experiment with GQL which might make some actions consume less limit
 const query = `
 query MyQuery {
-  repositoryOwner(login: "TomasHubelbauer") {
+  repositoryOwner(login: "${login}") {
     login repositories(first: 50, affiliations: OWNER) {
       edges {
         node {
@@ -27,19 +27,19 @@ query MyQuery {
 }
 `;
 
-const response = await fetch(process.env.GITHUB_GRAPHQL_URL, { body: JSON.stringify({ query }), headers });
+const response = await fetch(process.env.GITHUB_GRAPHQL_URL, { body: JSON.stringify({ query }), method: 'POST', headers });
 const text = await response.text();
 console.log({ query, text });
 
 // Fetch all 300 events GitHub API will provide:
 // https://docs.github.com/en/rest/activity/events#list-public-events
 /** @type {{ actor: { login: string; }; created_at: string; type: string; payload: unknown; repo: { name: string; }; }[]} */
-const events = await downloadPages('https://api.github.com/users/tomashubelbauer/events?per_page=1000');
+const events = await downloadPages(`${process.env.GITHUB_API_URL}/users/${login}/events?per_page=1000`);
 console.log('Downloaded', events.length, 'events');
 
 // Fetch all repository artifacts used to carry cached data between runs
 // https://docs.github.com/en/rest/actions/artifacts#list-artifacts-for-a-repository
-const { artifacts } = await fetch('https://api.github.com/repos/tomashubelbauer/tomashubelbauer/actions/artifacts', { headers }).then(response => response.json());
+const { artifacts } = await fetch(`${process.env.GITHUB_API_URL}/repos/${process.env.GITHUB_REPOSITORY}/actions/artifacts`, { headers }).then(response => response.json());
 console.log('Downloaded', artifacts.length, 'artifacts');
 
 // Recover remembered followers for later comparison and change detection
@@ -50,7 +50,7 @@ const staleFollowers = await fetch(artifacts.find(artifact => artifact.name === 
   ;
 
 // Fetch current followers for later comparison and change detection
-const freshFollowers = await downloadPages('https://api.github.com/users/tomashubelbauer/followers?page_page=100');
+const freshFollowers = await downloadPages(`${process.env.GITHUB_API_URL}/users/${login}/followers?page_page=100`);
 
 // Get the unique names of both stale and fresh followers to get the whole set
 const logins = [
@@ -82,7 +82,7 @@ for (const follower of followers) {
 
     // Check if the account is dead and if so, mark it as such and skip
     // Use the non-API endpoint because the API is not always accurate on this
-    const { status } = await fetch('https://github.com/' + follower.login, true);
+    const { status } = await fetch(process.env.GITHUB_SERVER_URL + '/' + follower.login, true);
     if (status === 404) {
       deadLogins.push(follower.login);
       continue;
@@ -108,7 +108,7 @@ for (const follower of followers) {
 }
 
 // Fetch repositories for star and fork change detection
-const repositories = await downloadPages('https://api.github.com/users/tomashubelbauer/repos?per_page=100');
+const repositories = await downloadPages(`${process.env.GITHUB_API_URL}/users/${login}/repos?per_page=100`);
 
 for (const [field, order] of [['name', 'asc'], ['name', 'desc'], ['updated_at', 'asc'], ['updated_at', 'desc'], ['pushed_at', 'asc'], ['pushed_at', 'desc'], ['size', 'asc'], ['size', 'desc']]) {
   console.group(`Generating list by ${field} ${order}…`);
@@ -167,7 +167,7 @@ for (const repository of repositories) {
   // endpoint.
   // Note that `open_issues_count` mixes together issues and pull requests and
   // is not distringuishable without fetching individual repo's details.
-  const { name, stargazers_count: stars, forks_count: forks, pushed_at } = repository;
+  const { name, full_name, stargazers_count: stars, forks_count: forks, pushed_at } = repository;
   _stars += stars;
 
   // TODO: Drop entries that are older than the cutoff and no longer contribute
@@ -183,13 +183,13 @@ for (const repository of repositories) {
   }
 
   // Update the repository readme todos if it was pushed to since the last capture
-  if (name !== 'tomashubelbauer' && todos[name]?.stamp !== pushed_at) {
+  if (full_name !== process.env.GITHUB_REPOSITORY && todos[name]?.stamp !== pushed_at) {
     const readme = todos[name]?.readme ?? 'readme.md';
     let content;
 
     // Download the readme at the remembered or default name
     try {
-      content = await fetch(`https://api.github.com/repos/TomasHubelbauer/${name}/contents/${readme}`, { headers }).then(response => response.json());
+      content = await fetch(`${process.env.GITHUB_API_URL}/repos/${login}/${name}/contents/${readme}`, { headers }).then(response => response.json());
       if (content.message === 'Not Found') {
         throw new Error(content);
       }
@@ -198,7 +198,7 @@ for (const repository of repositories) {
     // Download the readme at the alternate name or fail
     catch (error) {
       const oppositeReadme = readme === 'readme.md' ? 'README.md' : 'readme.md';
-      content = await fetch(`https://api.github.com/repos/TomasHubelbauer/${name}/contents/${oppositeReadme}`, { headers }).then(response => response.json());
+      content = await fetch(`${process.env.GITHUB_API_URL}/repos/${login}/${name}/contents/${oppositeReadme}`, { headers }).then(response => response.json());
     }
 
     if (content.message?.startsWith('API rate limit exceeded')) {
@@ -256,18 +256,18 @@ for (const repository in _repositories) {
     }
 
     if (stat.stars !== _stat.stars && stamp?.localeCompare(cutoff) >= 0) {
-      events.push({ actor: { login }, created_at: stamp, type: 'RepositoryEvent', repo: { name: 'TomasHubelbauer/' + repository }, payload: { action: 'starred', old: _stat.stars, new: stat.stars } });
+      events.push({ actor: { login }, created_at: stamp, type: 'RepositoryEvent', repo: { name: `${login}/${repository}` }, payload: { action: 'starred', old: _stat.stars, new: stat.stars } });
     }
 
     if (stat.forks !== _stat.forks && stamp?.localeCompare(cutoff) >= 0) {
-      events.push({ actor: { login }, created_at: stamp, type: 'RepositoryEvent', repo: { name: 'TomasHubelbauer/' + repository }, payload: { action: 'forked', old: _stat.forks, new: stat.forks } });
+      events.push({ actor: { login }, created_at: stamp, type: 'RepositoryEvent', repo: { name: `${login}/${repository}` }, payload: { action: 'forked', old: _stat.forks, new: stat.forks } });
     }
 
     _stat = stat;
   }
 }
 
-const issuesAndPrs = [...await downloadPages('https://api.github.com/search/issues?q=org:tomashubelbauer+is:open&per_page=100')].reduce((issuesAndPrs, page) => [...issuesAndPrs, ...page.items], []);
+const issuesAndPrs = [...await downloadPages(`${process.env.GITHUB_API_URL}/search/issues?q=org:${login}+is:open&per_page=100`)].reduce((issuesAndPrs, page) => [...issuesAndPrs, ...page.items], []);
 
 const issues = issuesAndPrs.filter(issueOrPr => !issueOrPr.pull_request).map(issue => ({
   repo: issue.html_url.split('/')[4],
@@ -301,7 +301,7 @@ const prsMarkDown = '# Pull Requests\n\n' + Object
   ;
 await fs.promises.writeFile('prs.md', prsMarkDown);
 
-const forkPrs = [...await downloadPages('https://api.github.com/search/issues?q=is:pr+is:open+author:tomashubelbauer+-org:tomashubelbauer&per_page=100')].reduce((forkPrs, page) => [...forkPrs, ...page.items], []);
+const forkPrs = [...await downloadPages(`${process.env.GITHUB_API_URL}/search/issues?q=is:pr+is:open+author:${login}+-org:${login}&per_page=100`)].reduce((forkPrs, page) => [...forkPrs, ...page.items], []);
 const forkPrRepos = forkPrs.map(pr => pr.html_url.split('/').slice(3, 5).join('/'));
 const forks = repositories.filter(repository => repository.fork);
 const identicalForks = [];
@@ -320,14 +320,14 @@ const forksMarkDown =
     ? `No${nbsp}forks${nbsp}🍴`
     : forks.length === 1
       ? `[One${nbsp}fork:${nbsp}\`${forks[0].name}\`${nbsp}🍴](${forks[0].html_url})${identicalForks.length > 0 ? ' ᐧ ' : ''}`
-      : `[${forks.length}${nbsp}forks${nbsp}🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork)${identicalForks.length > 0 ? ' ᐧ ' : ''}`
+      : `[${forks.length}${nbsp}forks${nbsp}🍴](${process.env.GITHUB_SERVER_URL}/${login}?tab=repositories&q=&type=fork)${identicalForks.length > 0 ? ' ᐧ ' : ''}`
   ;
 
 const identicalForksMarkDown =
   identicalForks.length === 0
     ? ''
     : identicalForks.length === 1
-      ? `\n[One${nbsp}identical${nbsp}fork:${nbsp}\`${identicalForks[0]}\`${nbsp}🍴⚠️](https://github.com/tomashubelbauer/${identicalForks[0]})`
+      ? `\n[One${nbsp}identical${nbsp}fork:${nbsp}\`${identicalForks[0]}\`${nbsp}🍴⚠️](${process.env.GITHUB_SERVER_URL}/${login}/${identicalForks[0]})`
       : `\n[${identicalForks.length}${nbsp}identical${nbsp}forks${nbsp}🍴⚠️](identical-forks.json)`
   ;
 
@@ -342,15 +342,15 @@ let markdown = `![](banner.svg)
 
 <div align="center">
 
-<img src="https://github.com/TomasHubelbauer/tomashubelbauer/actions/workflows/main.yml/badge.svg">
+<img src="${process.env.GITHUB_SERVER_URL}/${process.env.GITHUB_REPOSITORY}/actions/workflows/main.yml/badge.svg">
 
 </div>
 
 <div align="center">
 
-[${followerCount}&nbsp;follower${followerCount === 1 ? '' : 's'}&nbsp;🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
+[${followerCount}&nbsp;follower${followerCount === 1 ? '' : 's'}&nbsp;🤝](${process.env.GITHUB_SERVER_URL}/${login}?tab=followers) ᐧ
 ${_stars}&nbsp;star${_stars === 1 ? '' : 's'}&nbsp;⭐️  ᐧ
-[${repositories.length}&nbsp;repositorie${repositories.length === 1 ? '' : 's'}&nbsp;📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
+[${repositories.length}&nbsp;repositorie${repositories.length === 1 ? '' : 's'}&nbsp;📓](${process.env.GITHUB_SERVER_URL}/${login}?tab=repositories) ᐧ
 [${issues.length}&nbsp;issue${issues.length === 1 ? '' : 's'}&nbsp;🎫](issues.md) ᐧ
 [${prs.length}&nbsp;PR${prs.length === 1 ? '' : 's'}&nbsp;🎁](prs.md) ᐧ
 [${Object.keys(todos).length}&nbsp;todo${Object.keys(todos).length === 1 ? '' : 's'}&nbsp;💪](todos.json) ᐧ
