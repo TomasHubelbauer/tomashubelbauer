@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-10-16T16:08:42.185Z
+2022-10-16T17:09:33.186Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -634,6 +634,14 @@
 
 📒 The chromatic abberation effect implemented in HTML canvas
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 165
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [indexed-db](https://github.com/TomasHubelbauer/indexed-db)
 
 ⚖️ 162
@@ -745,14 +753,6 @@
 🏷 github, github-api
 
 📒 GitHub API Node library featuring streamed items of paged responses and awaited rate limit resets
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 122
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [github-actions](https://github.com/TomasHubelbauer/github-actions)
 
