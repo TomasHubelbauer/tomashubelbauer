@@ -89,6 +89,35 @@ for (const follower of followers) {
 // Fetch repositories for star and fork change detection
 const repositories = await downloadPages('https://api.github.com/users/tomashubelbauer/repos?per_page=100');
 
+for (const [field, order] of [['name', 'asc'], ['name', 'desc'], ['updated_at', 'asc'], ['updated_at', 'desc'], ['pushed_at', 'asc'], ['pushed_at', 'desc'], ['size', 'asc'], ['size', 'desc']]) {
+  console.group(`Generating list by ${field} ${order}…`);
+
+  repositories.sort((a, b) => {
+    const aField = a[field];
+    const bField = b[field];
+    switch (`${typeof aField}-${typeof bField}-${order}`) {
+      case 'string-string-asc': return aField.localeCompare(bField);
+      case 'string-string-desc': return bField.localeCompare(aField);
+      case 'number-number-asc': return aField - bField;
+      case 'number-number-desc': return bField - aField;
+      default: throw new Error('No sort order was specified. Pass sortOrder!');
+    }
+  });
+
+  let markdown = `# By \`${field}\` (${order})\n\n`;
+  markdown += new Date().toISOString() + '\n\n';
+
+  for (const repository of repositories) {
+    markdown += `## [${repository.name}](${repository.html_url})\n\n`;
+    markdown += `⚖️ ${repository[field]}\n\n`;
+    markdown += `🏷 ${repository.topics.join(', ')}\n\n`;
+    markdown += `📒 ${repository.description}\n\n`;
+  }
+
+  await fs.promises.writeFile(`by-${field}-${order}.md`, markdown);
+  console.groupEnd();
+}
+
 const todos = await fetch(artifacts.find(artifact => artifact.name === 'todos.json').archive_download_url, { headers })
   .then(response => response.arrayBuffer())
   .then(arrayBuffer => extract(Buffer.from(arrayBuffer)))
