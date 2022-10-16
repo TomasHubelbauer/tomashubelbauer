@@ -27,7 +27,7 @@ query MyQuery {
 }
 `;
 
-const response = await fetch(process.env.GRAPHQL_URL, { body: JSON.stringify({ query }), headers });
+const response = await fetch(process.env.GITHUB_GRAPHQL_URL, { body: JSON.stringify({ query }), headers });
 const text = await response.text();
 console.log({ query, text });
 
