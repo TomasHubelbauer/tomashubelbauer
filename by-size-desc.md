@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-10-17T15:05:07.257Z
+2022-10-17T16:08:05.466Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -362,6 +362,14 @@
 
 📒 Demonstrates using Playwright to control Firefox to take a screenshot of Hacker News in GitHub Actions
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 766
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [mic-holder](https://github.com/TomasHubelbauer/mic-holder)
 
 ⚖️ 715
@@ -385,14 +393,6 @@
 🏷 rbc, react-big-calendar
 
 📒 An experiment in making RBC event slots auto-select on hover
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 582
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [rbc-month-view-slot-grouping-by-type](https://github.com/TomasHubelbauer/rbc-month-view-slot-grouping-by-type)
 
