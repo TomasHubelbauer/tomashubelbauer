@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2022-10-19T14:15:31.458Z
+2022-10-19T15:05:43.500Z
 
 ## [corebluetooth-peripheral-webbluetooth-central](https://github.com/TomasHubelbauer/corebluetooth-peripheral-webbluetooth-central)
 
@@ -2522,6 +2522,14 @@
 
 📒 VS Code extension for MarkDown table of contents
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 253
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
 
 ⚖️ 262
@@ -2881,14 +2889,6 @@
 🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
 
 📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 4686
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
