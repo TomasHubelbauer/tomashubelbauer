@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-10-19T16:06:38.294Z
+2022-10-19T17:18:13.058Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -458,6 +458,14 @@
 
 📒 Performance measurements of the Globe library compared to Intl and Moment
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 440
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [electron-xvfb](https://github.com/TomasHubelbauer/electron-xvfb)
 
 ⚖️ 394
@@ -553,14 +561,6 @@
 🏷 akai, apc-mini, launchpad, midi, usb
 
 📒 Akai APCmini launchpad USB/MIDI communication protocol
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 255
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
 
