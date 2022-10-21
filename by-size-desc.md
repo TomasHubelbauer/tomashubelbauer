@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-10-21T20:03:36.924Z
+2022-10-21T21:03:30.561Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -193,14 +193,6 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 4750
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
 
@@ -489,6 +481,14 @@
 🏷 week-planner
 
 📒 A one-off utility for graphical week planning
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 368
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [agendum](https://github.com/TomasHubelbauer/agendum)
 
