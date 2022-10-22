@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-10-22T03:43:23.745Z
+2022-10-22T04:28:07.833Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -346,6 +346,14 @@
 
 📒 A VS Code extension for simplifying box drawing with Unicode and ASCII
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 927
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
 
 ⚖️ 921
@@ -361,14 +369,6 @@
 🏷 github-actions, playwright, puppeteer
 
 📒 Demonstrates using Playwright to control Firefox to take a screenshot of Hacker News in GitHub Actions
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 741
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [mic-holder](https://github.com/TomasHubelbauer/mic-holder)
 
