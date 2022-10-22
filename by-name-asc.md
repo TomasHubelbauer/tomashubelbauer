@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2022-10-22T17:10:06.598Z
+2022-10-22T18:04:05.591Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -2942,9 +2942,9 @@
 
 ⚖️ webrtc-share-sheet-custom-scheme
 
-🏷 
+🏷 ice, idea, ios-16, macos-ventura, sdp, sharelink, swift, swiftui, webrtc
 
-📒 null
+📒 An idea for using ShareLink and Share Sheet with AirDrop to facilitate WebRTC connection
 
 ## [webusb-op-1](https://github.com/TomasHubelbauer/webusb-op-1)
 

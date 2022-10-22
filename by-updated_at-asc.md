@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2022-10-22T17:10:06.602Z
+2022-10-22T18:04:05.597Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3084,9 +3084,9 @@
 
 ## [webrtc-share-sheet-custom-scheme](https://github.com/TomasHubelbauer/webrtc-share-sheet-custom-scheme)
 
-⚖️ 2022-10-22T17:03:47Z
+⚖️ 2022-10-22T17:23:44Z
 
-🏷 
+🏷 ice, idea, ios-16, macos-ventura, sdp, sharelink, swift, swiftui, webrtc
 
-📒 null
+📒 An idea for using ShareLink and Share Sheet with AirDrop to facilitate WebRTC connection
 

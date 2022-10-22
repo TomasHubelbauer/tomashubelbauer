@@ -1,14 +1,14 @@
 # By `size` (asc)
 
-2022-10-22T17:10:06.612Z
+2022-10-22T18:04:05.605Z
 
 ## [webrtc-share-sheet-custom-scheme](https://github.com/TomasHubelbauer/webrtc-share-sheet-custom-scheme)
 
 ⚖️ 0
 
-🏷 
+🏷 ice, idea, ios-16, macos-ventura, sdp, sharelink, swift, swiftui, webrtc
 
-📒 null
+📒 An idea for using ShareLink and Share Sheet with AirDrop to facilitate WebRTC connection
 
 ## [corebluetooth-peripheral-webbluetooth-central](https://github.com/TomasHubelbauer/corebluetooth-peripheral-webbluetooth-central)
 

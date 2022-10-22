@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2022-10-22T17:10:06.599Z
+2022-10-22T18:04:05.593Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -150,9 +150,9 @@
 
 ⚖️ webrtc-share-sheet-custom-scheme
 
-🏷 
+🏷 ice, idea, ios-16, macos-ventura, sdp, sharelink, swift, swiftui, webrtc
 
-📒 null
+📒 An idea for using ShareLink and Share Sheet with AirDrop to facilitate WebRTC connection
 
 ## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
 

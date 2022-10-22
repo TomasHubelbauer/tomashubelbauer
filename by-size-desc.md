@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-10-22T17:10:06.613Z
+2022-10-22T18:04:05.608Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -3070,9 +3070,9 @@
 
 ⚖️ 0
 
-🏷 
+🏷 ice, idea, ios-16, macos-ventura, sdp, sharelink, swift, swiftui, webrtc
 
-📒 null
+📒 An idea for using ShareLink and Share Sheet with AirDrop to facilitate WebRTC connection
 
 ## [corebluetooth-peripheral-webbluetooth-central](https://github.com/TomasHubelbauer/corebluetooth-peripheral-webbluetooth-central)
 
