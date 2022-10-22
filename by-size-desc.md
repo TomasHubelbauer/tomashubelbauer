@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-10-22T05:21:17.802Z
+2022-10-22T06:08:36.721Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -330,6 +330,14 @@
 
 📒 Notes about my solar experiments
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 1114
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [rbc-resizable-event-wrapper](https://github.com/TomasHubelbauer/rbc-resizable-event-wrapper)
 
 ⚖️ 1030
@@ -345,14 +353,6 @@
 🏷 ascii, ascii-art, box-drawing, markdown, unicode, vscode, vscode-extension, vscode-plugin
 
 📒 A VS Code extension for simplifying box drawing with Unicode and ASCII
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 927
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
 
