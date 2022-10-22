@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-10-21T22:03:35.590Z
+2022-10-22T00:19:03.265Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -402,6 +402,14 @@
 
 📒 A demonstration of how to make RBC time gutter labels formatted in either 12 or 24 hour format
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 554
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [esm-uzip-js](https://github.com/TomasHubelbauer/esm-uzip-js)
 
 ⚖️ 551
@@ -481,14 +489,6 @@
 🏷 week-planner
 
 📒 A one-off utility for graphical week planning
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 368
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [agendum](https://github.com/TomasHubelbauer/agendum)
 
