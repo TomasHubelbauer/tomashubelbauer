@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2022-10-23T00:19:52.580Z
+2022-10-23T01:31:53.286Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2022-10-23T00:25:02Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-10-22T23:03:26Z
+⚖️ 2022-10-23T00:19:56Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 ice, idea, ios-16, macos-ventura, sdp, sharelink, swift, swiftui, webrtc
 
 📒 An idea for using ShareLink and Share Sheet with AirDrop to facilitate WebRTC connection
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2022-10-22T00:22:55Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [solar](https://github.com/TomasHubelbauer/solar)
 
