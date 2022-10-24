@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-10-23T23:03:38.365Z
+2022-10-24T00:19:37.605Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -185,14 +185,6 @@
 🏷 onewheel
 
 📒 A collection of links relating to the Onewheel
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 4859
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
@@ -465,6 +457,14 @@
 🏷 g11n, globalization, globe, i18n, internalization, l10n, localization
 
 📒 Performance measurements of the Globe library compared to Intl and Moment
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 400
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [electron-xvfb](https://github.com/TomasHubelbauer/electron-xvfb)
 
