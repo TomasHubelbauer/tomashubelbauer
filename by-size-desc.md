@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-10-24T03:00:49.068Z
+2022-10-24T04:43:10.285Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -386,6 +386,14 @@
 
 📒 An experiment in making RBC event slots auto-select on hover
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 606
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [rbc-month-view-slot-grouping-by-type](https://github.com/TomasHubelbauer/rbc-month-view-slot-grouping-by-type)
 
 ⚖️ 582
@@ -457,14 +465,6 @@
 🏷 g11n, globalization, globe, i18n, internalization, l10n, localization
 
 📒 Performance measurements of the Globe library compared to Intl and Moment
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 421
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [electron-xvfb](https://github.com/TomasHubelbauer/electron-xvfb)
 
