@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-10-24T11:07:06.779Z
+2022-10-24T12:05:22.826Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
