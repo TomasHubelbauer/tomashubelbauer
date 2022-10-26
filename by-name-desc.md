@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2022-10-16T17:49:51.947Z
+2022-10-24T16:06:47.249Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -145,6 +145,14 @@
 🏷 midi, op-1, op1, webusb
 
 📒 Seeing if WebUSB can be used to control the OP-1
+
+## [webrtc-share-sheet-custom-scheme](https://github.com/TomasHubelbauer/webrtc-share-sheet-custom-scheme)
+
+⚖️ webrtc-share-sheet-custom-scheme
+
+🏷 ice, idea, ios-16, macos-ventura, sdp, sharelink, swift, swiftui, webrtc
+
+📒 An idea for using ShareLink and Share Sheet with AirDrop to facilitate WebRTC connection
 
 ## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
 

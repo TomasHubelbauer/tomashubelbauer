@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2022-10-16T17:49:51.943Z
+2022-10-24T16:06:47.248Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -2937,6 +2937,14 @@
 🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
 
 📒 A WebRTC data channel establishment with QR codes used for signaling channel.
+
+## [webrtc-share-sheet-custom-scheme](https://github.com/TomasHubelbauer/webrtc-share-sheet-custom-scheme)
+
+⚖️ webrtc-share-sheet-custom-scheme
+
+🏷 ice, idea, ios-16, macos-ventura, sdp, sharelink, swift, swiftui, webrtc
+
+📒 An idea for using ShareLink and Share Sheet with AirDrop to facilitate WebRTC connection
 
 ## [webusb-op-1](https://github.com/TomasHubelbauer/webusb-op-1)
 

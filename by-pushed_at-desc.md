@@ -1,30 +1,38 @@
 # By `pushed_at` (desc)
 
-2022-10-16T17:49:51.958Z
+2022-10-24T16:06:47.259Z
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-10-16T17:49:24Z
+⚖️ 2022-10-24T15:06:40Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
 
-## [solar](https://github.com/TomasHubelbauer/solar)
-
-⚖️ 2022-10-16T17:14:06Z
-
-🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
-
-📒 Notes about my solar experiments
-
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
-⚖️ 2022-10-16T00:24:02Z
+⚖️ 2022-10-24T00:25:14Z
 
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
+## [webrtc-share-sheet-custom-scheme](https://github.com/TomasHubelbauer/webrtc-share-sheet-custom-scheme)
+
+⚖️ 2022-10-22T17:22:59Z
+
+🏷 ice, idea, ios-16, macos-ventura, sdp, sharelink, swift, swiftui, webrtc
+
+📒 An idea for using ShareLink and Share Sheet with AirDrop to facilitate WebRTC connection
+
+## [solar](https://github.com/TomasHubelbauer/solar)
+
+⚖️ 2022-10-18T07:50:33Z
+
+🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
+
+📒 Notes about my solar experiments
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
