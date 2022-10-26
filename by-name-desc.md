@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2022-10-24T16:06:47.249Z
+2022-10-26T13:05:55.791Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -9,6 +9,14 @@
 🏷 youtube, youtube-dl, youtube-dl-gui, youtube-downloader
 
 📒 Youtube subscription downloader for offline viewing
+
+## [youtube-dl-macos](https://github.com/TomasHubelbauer/youtube-dl-macos)
+
+⚖️ youtube-dl-macos
+
+🏷 
+
+📒 null
 
 ## [youtube-dl-kb](https://github.com/TomasHubelbauer/youtube-dl-kb)
 

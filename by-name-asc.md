@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2022-10-24T16:06:47.248Z
+2022-10-26T13:05:55.787Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -3081,6 +3081,14 @@
 🏷 cheatsheet, knowledge-base, youtube-dl
 
 📒 My cheatsheet for YouTube-DL
+
+## [youtube-dl-macos](https://github.com/TomasHubelbauer/youtube-dl-macos)
+
+⚖️ youtube-dl-macos
+
+🏷 
+
+📒 null
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
