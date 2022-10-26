@@ -83,7 +83,9 @@ for (const follower of followers) {
 
     // Check if the account is dead and if so, mark it as such and skip
     // Use the non-API endpoint because the API is not always accurate on this
+    console.log(process.env.GITHUB_SERVER_URL + '/' + follower.login);
     const { status } = await fetch(process.env.GITHUB_SERVER_URL + '/' + follower.login, true);
+    console.log(status);
     if (status === 404) {
       deadLogins.push(follower.login);
       continue;
