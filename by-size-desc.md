@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-10-27T00:14:31.394Z
+2022-10-27T01:32:34.596Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -188,7 +188,7 @@
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
-⚖️ 4814
+⚖️ 4815
 
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
@@ -244,7 +244,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 3044
+⚖️ 3045
 
 🏷 tomashubelbauer
 
