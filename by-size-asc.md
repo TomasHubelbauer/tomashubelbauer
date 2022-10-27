@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2022-10-27T09:03:51.606Z
+2022-10-27T10:03:43.785Z
 
 ## [corebluetooth-peripheral-webbluetooth-central](https://github.com/TomasHubelbauer/corebluetooth-peripheral-webbluetooth-central)
 
@@ -1690,14 +1690,6 @@
 
 📒 Scrapes Spotify for Artists and sends an email digest
 
-## [html-video](https://github.com/TomasHubelbauer/html-video)
-
-⚖️ 15
-
-🏷 html, video
-
-📒 An application for generating videos from HTML+JS scenes
-
 ## [asp-pdf](https://github.com/TomasHubelbauer/asp-pdf)
 
 ⚖️ 15
@@ -1801,6 +1793,14 @@
 🏷 camera
 
 📒 My notes on a choice of camera to buy.
+
+## [html-video](https://github.com/TomasHubelbauer/html-video)
+
+⚖️ 18
+
+🏷 html, video
+
+📒 An application for generating videos from HTML+JS scenes
 
 ## [html-video-frame-extractor](https://github.com/TomasHubelbauer/html-video-frame-extractor)
 
@@ -2890,14 +2890,6 @@
 
 📒 A Pi Pico script for collecting CPU temperature reading in Supabase using a Deno function
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 3794
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
 
 ⚖️ 3869
@@ -2905,6 +2897,14 @@
 🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
 
 📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 3982
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 

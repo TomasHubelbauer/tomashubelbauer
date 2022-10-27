@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-10-27T09:03:51.609Z
+2022-10-27T10:03:43.789Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -194,6 +194,14 @@
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 3982
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
 
 ⚖️ 3869
@@ -201,14 +209,6 @@
 🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
 
 📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 3794
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [pi-pico-rest-cpu-temp](https://github.com/TomasHubelbauer/pi-pico-rest-cpu-temp)
 
@@ -1282,6 +1282,14 @@
 
 📒 A milestone calculation JavaScript algorithm
 
+## [html-video](https://github.com/TomasHubelbauer/html-video)
+
+⚖️ 18
+
+🏷 html, video
+
+📒 An application for generating videos from HTML+JS scenes
+
 ## [html-video-frame-extractor](https://github.com/TomasHubelbauer/html-video-frame-extractor)
 
 ⚖️ 18
@@ -1369,14 +1377,6 @@
 🏷 editor, web-components
 
 📒 An editor web component which reports the specific changes of its value
-
-## [html-video](https://github.com/TomasHubelbauer/html-video)
-
-⚖️ 15
-
-🏷 html, video
-
-📒 An application for generating videos from HTML+JS scenes
 
 ## [asp-pdf](https://github.com/TomasHubelbauer/asp-pdf)
 
