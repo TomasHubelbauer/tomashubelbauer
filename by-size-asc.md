@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2022-10-27T10:03:43.785Z
+2022-10-27T11:03:37.905Z
 
 ## [corebluetooth-peripheral-webbluetooth-central](https://github.com/TomasHubelbauer/corebluetooth-peripheral-webbluetooth-central)
 
