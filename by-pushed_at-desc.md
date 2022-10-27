@@ -1,10 +1,26 @@
 # By `pushed_at` (desc)
 
-2022-10-27T17:08:58.730Z
+2022-10-27T18:04:04.505Z
+
+## [on-vanilla-stack](https://github.com/TomasHubelbauer/on-vanilla-stack)
+
+⚖️ 2022-10-27T18:00:14Z
+
+🏷 
+
+📒 null
+
+## [webrtc-share-sheet-custom-scheme](https://github.com/TomasHubelbauer/webrtc-share-sheet-custom-scheme)
+
+⚖️ 2022-10-27T17:37:04Z
+
+🏷 ice, idea, ios-16, macos-ventura, sdp, sharelink, swift, swiftui, webrtc
+
+📒 An idea for using ShareLink and Share Sheet with AirDrop to facilitate WebRTC connection
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-10-27T16:03:48Z
+⚖️ 2022-10-27T17:09:04Z
 
 🏷 tomashubelbauer
 
@@ -33,14 +49,6 @@
 🏷 
 
 📒 null
-
-## [webrtc-share-sheet-custom-scheme](https://github.com/TomasHubelbauer/webrtc-share-sheet-custom-scheme)
-
-⚖️ 2022-10-22T17:22:59Z
-
-🏷 ice, idea, ios-16, macos-ventura, sdp, sharelink, swift, swiftui, webrtc
-
-📒 An idea for using ShareLink and Share Sheet with AirDrop to facilitate WebRTC connection
 
 ## [solar](https://github.com/TomasHubelbauer/solar)
 
