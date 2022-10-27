@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2022-10-27T18:04:04.498Z
+2022-10-27T19:04:45.419Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3093,14 +3093,6 @@
 ## [youtube-dl-macos](https://github.com/TomasHubelbauer/youtube-dl-macos)
 
 ⚖️ 2022-10-25T20:38:50Z
-
-🏷 
-
-📒 null
-
-## [on-vanilla-stack](https://github.com/TomasHubelbauer/on-vanilla-stack)
-
-⚖️ 2022-10-27T18:00:13Z
 
 🏷 
 

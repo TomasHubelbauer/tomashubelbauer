@@ -1,14 +1,6 @@
 # By `updated_at` (desc)
 
-2022-10-27T18:04:04.500Z
-
-## [on-vanilla-stack](https://github.com/TomasHubelbauer/on-vanilla-stack)
-
-⚖️ 2022-10-27T18:00:13Z
-
-🏷 
-
-📒 null
+2022-10-27T19:04:45.421Z
 
 ## [youtube-dl-macos](https://github.com/TomasHubelbauer/youtube-dl-macos)
 

@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2022-10-27T18:04:04.494Z
+2022-10-27T19:04:45.416Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1193,14 +1193,6 @@
 🏷 onewheel
 
 📒 A collection of links relating to the Onewheel
-
-## [on-vanilla-stack](https://github.com/TomasHubelbauer/on-vanilla-stack)
-
-⚖️ on-vanilla-stack
-
-🏷 
-
-📒 null
 
 ## [ocr](https://github.com/TomasHubelbauer/ocr)
 

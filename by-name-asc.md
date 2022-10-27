@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2022-10-27T18:04:04.492Z
+2022-10-27T19:04:45.413Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -1905,14 +1905,6 @@
 🏷 ocr, sharp, tesseract
 
 📒 2:43 @ 05:58 (Prague) / 20:58 (Ludwig)
-
-## [on-vanilla-stack](https://github.com/TomasHubelbauer/on-vanilla-stack)
-
-⚖️ on-vanilla-stack
-
-🏷 
-
-📒 null
 
 ## [onewheel](https://github.com/TomasHubelbauer/onewheel)
 

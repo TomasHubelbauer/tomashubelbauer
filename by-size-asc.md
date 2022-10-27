@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2022-10-27T18:04:04.508Z
-
-## [on-vanilla-stack](https://github.com/TomasHubelbauer/on-vanilla-stack)
-
-⚖️ 0
-
-🏷 
-
-📒 null
+2022-10-27T19:04:45.430Z
 
 ## [corebluetooth-peripheral-webbluetooth-central](https://github.com/TomasHubelbauer/corebluetooth-peripheral-webbluetooth-central)
 
@@ -25,14 +17,6 @@
 🏷 console, node
 
 📒 Overriding console.log in Node
-
-## [webrtc-share-sheet-custom-scheme](https://github.com/TomasHubelbauer/webrtc-share-sheet-custom-scheme)
-
-⚖️ 1
-
-🏷 ice, idea, ios-16, macos-ventura, sdp, sharelink, swift, swiftui, webrtc
-
-📒 An idea for using ShareLink and Share Sheet with AirDrop to facilitate WebRTC connection
 
 ## [youtube-dl-macos](https://github.com/TomasHubelbauer/youtube-dl-macos)
 
@@ -1009,6 +993,14 @@
 🏷 3d, 3d-modeling, 3d-modelling, blender, merge-faces
 
 📒 My research into merging faces in Blender
+
+## [webrtc-share-sheet-custom-scheme](https://github.com/TomasHubelbauer/webrtc-share-sheet-custom-scheme)
+
+⚖️ 5
+
+🏷 ice, idea, ios-16, macos-ventura, sdp, sharelink, swift, swiftui, webrtc
+
+📒 An idea for using ShareLink and Share Sheet with AirDrop to facilitate WebRTC connection
 
 ## [ffmpeg-iphone-screen-record](https://github.com/TomasHubelbauer/ffmpeg-iphone-screen-record)
 
@@ -2908,7 +2900,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 4545
+⚖️ 4733
 
 🏷 tomashubelbauer
 

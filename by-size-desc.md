@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-10-27T18:04:04.512Z
+2022-10-27T19:04:45.432Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -196,7 +196,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 4545
+⚖️ 4733
 
 🏷 tomashubelbauer
 
@@ -1954,6 +1954,14 @@
 
 📒 Making contenteditable less useless
 
+## [webrtc-share-sheet-custom-scheme](https://github.com/TomasHubelbauer/webrtc-share-sheet-custom-scheme)
+
+⚖️ 5
+
+🏷 ice, idea, ios-16, macos-ventura, sdp, sharelink, swift, swiftui, webrtc
+
+📒 An idea for using ShareLink and Share Sheet with AirDrop to facilitate WebRTC connection
+
 ## [ffmpeg-iphone-screen-record](https://github.com/TomasHubelbauer/ffmpeg-iphone-screen-record)
 
 ⚖️ 5
@@ -2778,14 +2786,6 @@
 
 📒 Notes for using Blender with VS Code
 
-## [webrtc-share-sheet-custom-scheme](https://github.com/TomasHubelbauer/webrtc-share-sheet-custom-scheme)
-
-⚖️ 1
-
-🏷 ice, idea, ios-16, macos-ventura, sdp, sharelink, swift, swiftui, webrtc
-
-📒 An idea for using ShareLink and Share Sheet with AirDrop to facilitate WebRTC connection
-
 ## [youtube-dl-macos](https://github.com/TomasHubelbauer/youtube-dl-macos)
 
 ⚖️ 1
@@ -3081,14 +3081,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [on-vanilla-stack](https://github.com/TomasHubelbauer/on-vanilla-stack)
-
-⚖️ 0
-
-🏷 
-
-📒 null
 
 ## [corebluetooth-peripheral-webbluetooth-central](https://github.com/TomasHubelbauer/corebluetooth-peripheral-webbluetooth-central)
 
