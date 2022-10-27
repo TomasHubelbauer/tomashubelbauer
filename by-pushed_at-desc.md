@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2022-10-27T08:04:11.753Z
+2022-10-27T09:03:51.603Z
+
+## [html-video](https://github.com/TomasHubelbauer/html-video)
+
+⚖️ 2022-10-27T08:45:08Z
+
+🏷 html, video
+
+📒 An application for generating videos from HTML+JS scenes
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-10-27T07:04:04Z
+⚖️ 2022-10-27T08:04:15Z
 
 🏷 tomashubelbauer
 
@@ -2233,14 +2241,6 @@
 🏷 html-video, scrubbar, scrubber
 
 📒 An alternative approach to a video player scrubbar implementation
-
-## [html-video](https://github.com/TomasHubelbauer/html-video)
-
-⚖️ 2022-04-14T20:26:53Z
-
-🏷 html, video
-
-📒 An application for generating videos from HTML+JS scenes
 
 ## [html-responsive-table](https://github.com/TomasHubelbauer/html-responsive-table)
 

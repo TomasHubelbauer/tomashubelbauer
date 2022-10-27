@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2022-10-27T08:04:11.755Z
+2022-10-27T09:03:51.606Z
 
 ## [corebluetooth-peripheral-webbluetooth-central](https://github.com/TomasHubelbauer/corebluetooth-peripheral-webbluetooth-central)
 
@@ -1690,6 +1690,14 @@
 
 📒 Scrapes Spotify for Artists and sends an email digest
 
+## [html-video](https://github.com/TomasHubelbauer/html-video)
+
+⚖️ 15
+
+🏷 html, video
+
+📒 An application for generating videos from HTML+JS scenes
+
 ## [asp-pdf](https://github.com/TomasHubelbauer/asp-pdf)
 
 ⚖️ 15
@@ -1713,14 +1721,6 @@
 🏷 canvas, rust, wasm
 
 📒 Demonstrating drawing to canvas with Rust
-
-## [html-video](https://github.com/TomasHubelbauer/html-video)
-
-⚖️ 15
-
-🏷 html, video
-
-📒 An application for generating videos from HTML+JS scenes
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 

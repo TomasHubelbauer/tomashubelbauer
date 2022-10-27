@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-10-27T08:04:11.757Z
+2022-10-27T09:03:51.609Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -1370,6 +1370,14 @@
 
 📒 An editor web component which reports the specific changes of its value
 
+## [html-video](https://github.com/TomasHubelbauer/html-video)
+
+⚖️ 15
+
+🏷 html, video
+
+📒 An application for generating videos from HTML+JS scenes
+
 ## [asp-pdf](https://github.com/TomasHubelbauer/asp-pdf)
 
 ⚖️ 15
@@ -1393,14 +1401,6 @@
 🏷 canvas, rust, wasm
 
 📒 Demonstrating drawing to canvas with Rust
-
-## [html-video](https://github.com/TomasHubelbauer/html-video)
-
-⚖️ 15
-
-🏷 html, video
-
-📒 An application for generating videos from HTML+JS scenes
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
