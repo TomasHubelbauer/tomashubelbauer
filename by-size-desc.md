@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-10-27T21:03:13.003Z
+2022-10-27T22:03:53.005Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -177,14 +177,6 @@
 🏷 deterministic, jpg, png, puppeteer, reproducible-builds, screenshot
 
 📒 Pondering about whether Puppeteer screenshots are deterministic
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 4920
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [onewheel](https://github.com/TomasHubelbauer/onewheel)
 
@@ -425,6 +417,14 @@
 🏷 markdown, vscode, vscode-extension, vscode-plugin, week-calendar
 
 📒 A VS Code extension showing the number of the current week in the IDE status bar
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 502
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [sqlite-javascript](https://github.com/TomasHubelbauer/sqlite-javascript)
 
