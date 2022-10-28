@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2022-10-28T14:11:22.628Z
+2022-10-28T15:03:36.746Z
 
 ## [corebluetooth-peripheral-webbluetooth-central](https://github.com/TomasHubelbauer/corebluetooth-peripheral-webbluetooth-central)
 
@@ -2818,14 +2818,6 @@
 
 📒 Demonstrating PDF text and image extraction with correct bounds
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 1646
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [garmin-img](https://github.com/TomasHubelbauer/garmin-img)
 
 ⚖️ 1647
@@ -2833,6 +2825,14 @@
 🏷 garmin
 
 📒 A JavaScript parser and renderer of the Garmin maps
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 1833
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [playwright-firefox-mp4](https://github.com/TomasHubelbauer/playwright-firefox-mp4)
 

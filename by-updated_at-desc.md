@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2022-10-28T14:11:22.615Z
+2022-10-28T15:03:36.741Z
 
 ## [youtube-dl-macos](https://github.com/TomasHubelbauer/youtube-dl-macos)
 
