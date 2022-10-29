@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2022-10-29T14:03:39.143Z
+2022-10-29T15:03:34.126Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2842,14 +2842,6 @@
 
 📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
 
-## [markright](https://github.com/TomasHubelbauer/markright)
-
-⚖️ 2022-09-10T02:37:07Z
-
-🏷 lab-notebook, literate-programming, markdown, markright, notebook, notebooks
-
-📒 Didactic literate programming
-
 ## [node-apng](https://github.com/TomasHubelbauer/node-apng)
 
 ⚖️ 2022-09-15T06:45:24Z
@@ -3097,4 +3089,12 @@
 🏷 screencast, screenshot, svg
 
 📒 SVG screencast - animated SVG files from screenshots using CSS animations
+
+## [markright](https://github.com/TomasHubelbauer/markright)
+
+⚖️ 2022-10-29T14:36:32Z
+
+🏷 lab-notebook, literate-programming, markdown, markright, notebook, notebooks
+
+📒 Didactic literate programming
 

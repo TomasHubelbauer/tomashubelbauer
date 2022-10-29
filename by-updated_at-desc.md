@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2022-10-29T14:03:39.144Z
+2022-10-29T15:03:34.128Z
+
+## [markright](https://github.com/TomasHubelbauer/markright)
+
+⚖️ 2022-10-29T14:36:32Z
+
+🏷 lab-notebook, literate-programming, markdown, markright, notebook, notebooks
+
+📒 Didactic literate programming
 
 ## [svg-screencast](https://github.com/TomasHubelbauer/svg-screencast)
 
@@ -249,14 +257,6 @@
 🏷 animated-gif, animated-png, animation, apng, javascript, javascript-library, mng, node, npm, png
 
 📒 A JavaScript library for producing an APNG file from a series of PNG image data buffers
-
-## [markright](https://github.com/TomasHubelbauer/markright)
-
-⚖️ 2022-09-10T02:37:07Z
-
-🏷 lab-notebook, literate-programming, markdown, markright, notebook, notebooks
-
-📒 Didactic literate programming
 
 ## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
 
