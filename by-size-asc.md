@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2022-10-30T15:03:38.982Z
+2022-10-30T16:03:36.527Z
 
 ## [corebluetooth-peripheral-webbluetooth-central](https://github.com/TomasHubelbauer/corebluetooth-peripheral-webbluetooth-central)
 
@@ -2762,14 +2762,6 @@
 
 📒 React Big Calendar event wrapper
 
-## [solar](https://github.com/TomasHubelbauer/solar)
-
-⚖️ 1122
-
-🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
-
-📒 Notes about my solar experiments
-
 ## [puppeteer-moje-o2-scraper](https://github.com/TomasHubelbauer/puppeteer-moje-o2-scraper)
 
 ⚖️ 1138
@@ -2785,6 +2777,14 @@
 🏷 appium
 
 📒 My notes about Appium
+
+## [solar](https://github.com/TomasHubelbauer/solar)
+
+⚖️ 1303
+
+🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
+
+📒 Notes about my solar experiments
 
 ## [rbc-timezone-gutter](https://github.com/TomasHubelbauer/rbc-timezone-gutter)
 

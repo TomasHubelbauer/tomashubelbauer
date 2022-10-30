@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-10-30T15:03:38.984Z
+2022-10-30T16:03:36.529Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -314,6 +314,14 @@
 
 📒 An example of implementing a custom time gutter for RBC showing time zone conversions
 
+## [solar](https://github.com/TomasHubelbauer/solar)
+
+⚖️ 1303
+
+🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
+
+📒 Notes about my solar experiments
+
 ## [appium](https://github.com/TomasHubelbauer/appium)
 
 ⚖️ 1173
@@ -329,14 +337,6 @@
 🏷 invoices, moje-o2, o2, puppeteer, scraper
 
 📒 A scraper for MojeO2 invoices
-
-## [solar](https://github.com/TomasHubelbauer/solar)
-
-⚖️ 1122
-
-🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
-
-📒 Notes about my solar experiments
 
 ## [rbc-resizable-event-wrapper](https://github.com/TomasHubelbauer/rbc-resizable-event-wrapper)
 
