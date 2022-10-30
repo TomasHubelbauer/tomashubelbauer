@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2022-10-30T16:03:36.527Z
+2022-10-30T17:05:39.304Z
 
 ## [corebluetooth-peripheral-webbluetooth-central](https://github.com/TomasHubelbauer/corebluetooth-peripheral-webbluetooth-central)
 
@@ -2778,14 +2778,6 @@
 
 📒 My notes about Appium
 
-## [solar](https://github.com/TomasHubelbauer/solar)
-
-⚖️ 1303
-
-🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
-
-📒 Notes about my solar experiments
-
 ## [rbc-timezone-gutter](https://github.com/TomasHubelbauer/rbc-timezone-gutter)
 
 ⚖️ 1304
@@ -2794,6 +2786,14 @@
 
 📒 An example of implementing a custom time gutter for RBC showing time zone conversions
 
+## [solar](https://github.com/TomasHubelbauer/solar)
+
+⚖️ 1307
+
+🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
+
+📒 Notes about my solar experiments
+
 ## [vscode-markdown-link-suggestions](https://github.com/TomasHubelbauer/vscode-markdown-link-suggestions)
 
 ⚖️ 1433
@@ -2801,14 +2801,6 @@
 🏷 intellisense, link-checker, markdown, vscode, vscode-extension, vscode-plugin
 
 📒 Suggests workspace files and MarkDown file headers in MarkDown links
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 1516
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
 
@@ -2833,6 +2825,14 @@
 🏷 garmin
 
 📒 A JavaScript parser and renderer of the Garmin maps
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 1721
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [playwright-firefox-mp4](https://github.com/TomasHubelbauer/playwright-firefox-mp4)
 
