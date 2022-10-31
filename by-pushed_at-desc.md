@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2022-10-31T10:03:29.832Z
+2022-10-31T11:03:52.615Z
+
+## [solar](https://github.com/TomasHubelbauer/solar)
+
+⚖️ 2022-10-31T10:35:26Z
+
+🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
+
+📒 Notes about my solar experiments
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-10-31T09:07:15Z
+⚖️ 2022-10-31T10:05:26Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [solar](https://github.com/TomasHubelbauer/solar)
-
-⚖️ 2022-10-30T15:52:31Z
-
-🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
-
-📒 Notes about my solar experiments
 
 ## [webrtc-share-sheet-custom-scheme](https://github.com/TomasHubelbauer/webrtc-share-sheet-custom-scheme)
 

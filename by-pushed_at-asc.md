@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2022-10-31T10:03:29.831Z
+2022-10-31T11:03:52.614Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3074,14 +3074,6 @@
 
 📒 An idea for using ShareLink and Share Sheet with AirDrop to facilitate WebRTC connection
 
-## [solar](https://github.com/TomasHubelbauer/solar)
-
-⚖️ 2022-10-30T15:52:31Z
-
-🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
-
-📒 Notes about my solar experiments
-
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
 ⚖️ 2022-10-31T00:20:15Z
@@ -3092,9 +3084,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-10-31T09:07:15Z
+⚖️ 2022-10-31T10:05:26Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [solar](https://github.com/TomasHubelbauer/solar)
+
+⚖️ 2022-10-31T10:35:26Z
+
+🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
+
+📒 Notes about my solar experiments
 
