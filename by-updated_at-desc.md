@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2022-10-31T05:14:25.151Z
+2022-10-31T07:03:58.043Z
 
 ## [markright](https://github.com/TomasHubelbauer/markright)
 
