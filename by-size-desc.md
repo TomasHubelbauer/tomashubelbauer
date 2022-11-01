@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-11-01T12:05:19.822Z
+2022-11-01T13:20:02.718Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -338,6 +338,14 @@
 
 📒 React Big Calendar event wrapper
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 1015
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [vscode-box-drawing](https://github.com/TomasHubelbauer/vscode-box-drawing)
 
 ⚖️ 1005
@@ -361,14 +369,6 @@
 🏷 github-actions, playwright, puppeteer
 
 📒 Demonstrates using Playwright to control Firefox to take a screenshot of Hacker News in GitHub Actions
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 827
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [mic-holder](https://github.com/TomasHubelbauer/mic-holder)
 
