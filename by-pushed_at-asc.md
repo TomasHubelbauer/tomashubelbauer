@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2022-11-01T00:16:40.365Z
+2022-11-01T01:33:12.801Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3074,14 +3074,6 @@
 
 📒 An idea for using ShareLink and Share Sheet with AirDrop to facilitate WebRTC connection
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2022-10-31T00:20:15Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [solar](https://github.com/TomasHubelbauer/solar)
 
 ⚖️ 2022-10-31T12:16:18Z
@@ -3092,9 +3084,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-10-31T23:05:21Z
+⚖️ 2022-11-01T00:16:44Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2022-11-01T00:21:20Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
