@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2022-11-02T14:11:23.001Z
+2022-11-02T16:03:49.730Z
+
+## [svg-screencast](https://github.com/TomasHubelbauer/svg-screencast)
+
+⚖️ 2022-11-02T14:47:37Z
+
+🏷 screencast, screenshot, svg
+
+📒 SVG screencast - animated SVG files from screenshots using CSS animations
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
@@ -17,14 +25,6 @@
 🏷 lab-notebook, literate-programming, markdown, markright, notebook, notebooks
 
 📒 Didactic literate programming
-
-## [svg-screencast](https://github.com/TomasHubelbauer/svg-screencast)
-
-⚖️ 2022-10-28T21:39:05Z
-
-🏷 screencast, screenshot, svg
-
-📒 SVG screencast - animated SVG files from screenshots using CSS animations
 
 ## [youtube-dl-macos](https://github.com/TomasHubelbauer/youtube-dl-macos)
 
