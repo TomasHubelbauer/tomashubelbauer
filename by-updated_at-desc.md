@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2022-11-04T00:14:48.595Z
+2022-11-04T01:32:38.213Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2022-11-04T00:19:58Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
 
@@ -2729,14 +2737,6 @@
 🏷 blender, light-box
 
 📒 Blender light box model
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2022-04-12T19:29:24Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [rbc-timezone-gutter](https://github.com/TomasHubelbauer/rbc-timezone-gutter)
 
