@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-11-07T21:03:57.089Z
+2022-11-07T22:03:43.530Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -300,7 +300,7 @@
 
 ## [solar](https://github.com/TomasHubelbauer/solar)
 
-⚖️ 1317
+⚖️ 1319
 
 🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
 
