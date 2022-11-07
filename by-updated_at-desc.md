@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2022-11-07T16:03:41.452Z
+2022-11-07T17:08:44.994Z
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
