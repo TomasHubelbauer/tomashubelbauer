@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-11-07T23:03:45.698Z
+2022-11-08T00:14:51.274Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -330,6 +330,14 @@
 
 📒 A scraper for MojeO2 invoices
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 1074
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [rbc-resizable-event-wrapper](https://github.com/TomasHubelbauer/rbc-resizable-event-wrapper)
 
 ⚖️ 1030
@@ -353,14 +361,6 @@
 🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
 
 📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 886
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [playwright-github-actions](https://github.com/TomasHubelbauer/playwright-github-actions)
 
