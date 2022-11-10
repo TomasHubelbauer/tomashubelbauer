@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2022-11-10T20:04:00.199Z
+2022-11-10T21:03:50.699Z
 
 ## [next-13-ssg](https://github.com/TomasHubelbauer/next-13-ssg)
 
