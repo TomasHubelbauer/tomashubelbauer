@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2022-11-10T21:03:50.699Z
-
-## [next-13-ssg](https://github.com/TomasHubelbauer/next-13-ssg)
-
-⚖️ 0
-
-🏷 
-
-📒 null
+2022-11-10T22:03:28.716Z
 
 ## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
 
@@ -2610,6 +2602,14 @@
 
 📒 Formats tables in MarkDown documents when using the Format Document editor context menu option in VS Code.
 
+## [next-13-ssg](https://github.com/TomasHubelbauer/next-13-ssg)
+
+⚖️ 321
+
+🏷 
+
+📒 null
+
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
 ⚖️ 335
@@ -2860,7 +2860,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2650
+⚖️ 2838
 
 🏷 tomashubelbauer
 

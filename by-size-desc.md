@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-11-10T21:03:50.701Z
+2022-11-10T22:03:28.718Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -252,7 +252,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2650
+⚖️ 2838
 
 🏷 tomashubelbauer
 
@@ -505,6 +505,14 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
+
+## [next-13-ssg](https://github.com/TomasHubelbauer/next-13-ssg)
+
+⚖️ 321
+
+🏷 
+
+📒 null
 
 ## [vscode-markdown-table-format](https://github.com/TomasHubelbauer/vscode-markdown-table-format)
 
@@ -3081,14 +3089,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [next-13-ssg](https://github.com/TomasHubelbauer/next-13-ssg)
-
-⚖️ 0
-
-🏷 
-
-📒 null
 
 ## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
 
