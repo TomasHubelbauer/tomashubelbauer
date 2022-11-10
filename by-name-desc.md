@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2022-11-10T19:03:16.573Z
+2022-11-10T20:04:00.186Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1401,6 +1401,14 @@
 🏷 esm, nextjs, url-import
 
 📒 NextJS URL imports
+
+## [next-13-ssg](https://github.com/TomasHubelbauer/next-13-ssg)
+
+⚖️ next-13-ssg
+
+🏷 
+
+📒 null
 
 ## [net-tree](https://github.com/TomasHubelbauer/net-tree)
 

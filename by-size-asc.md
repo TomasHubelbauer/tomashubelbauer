@@ -1,6 +1,14 @@
 # By `size` (asc)
 
-2022-11-10T19:03:16.585Z
+2022-11-10T20:04:00.199Z
+
+## [next-13-ssg](https://github.com/TomasHubelbauer/next-13-ssg)
+
+⚖️ 0
+
+🏷 
+
+📒 null
 
 ## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
 
@@ -2852,7 +2860,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2462
+⚖️ 2650
 
 🏷 tomashubelbauer
 

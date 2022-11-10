@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2022-11-10T19:03:16.578Z
+2022-11-10T20:04:00.191Z
+
+## [next-13-ssg](https://github.com/TomasHubelbauer/next-13-ssg)
+
+⚖️ 2022-11-10T19:13:52Z
+
+🏷 
+
+📒 null
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 

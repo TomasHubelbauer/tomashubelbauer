@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2022-11-10T19:03:16.576Z
+2022-11-10T20:04:00.190Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3105,4 +3105,12 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
+## [next-13-ssg](https://github.com/TomasHubelbauer/next-13-ssg)
+
+⚖️ 2022-11-10T19:13:52Z
+
+🏷 
+
+📒 null
 

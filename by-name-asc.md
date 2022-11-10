@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2022-11-10T19:03:16.570Z
+2022-11-10T20:04:00.184Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -1705,6 +1705,14 @@
 🏷 graph, javascript, js, package, tree
 
 📒 A JavaScript library for displaying graphs as trees
+
+## [next-13-ssg](https://github.com/TomasHubelbauer/next-13-ssg)
+
+⚖️ next-13-ssg
+
+🏷 
+
+📒 null
 
 ## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
 
