@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2022-11-12T17:04:45.244Z
+2022-11-12T18:03:30.056Z
 
 ## [next-13-ssg](https://github.com/TomasHubelbauer/next-13-ssg)
 
