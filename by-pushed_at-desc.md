@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2022-11-14T00:13:51.365Z
+2022-11-14T01:32:37.638Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2022-11-14T00:16:52Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-11-13T23:03:23Z
+⚖️ 2022-11-14T00:15:49Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 api, victron
 
 📒 Victron API sample scripts written in Node
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2022-11-13T00:16:52Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [next-13-ssg](https://github.com/TomasHubelbauer/next-13-ssg)
 
