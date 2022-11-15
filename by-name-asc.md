@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2022-10-24T16:06:47.248Z
+2022-11-15T18:04:01.326Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -121,6 +121,14 @@
 🏷 async-await
 
 📒 The website of async-await.net
+
+## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
+
+⚖️ azure-boards-test
+
+🏷 
+
+📒 null
 
 ## [azure-pipelines-powershell-core](https://github.com/TomasHubelbauer/azure-pipelines-powershell-core)
 
@@ -1698,6 +1706,14 @@
 
 📒 A JavaScript library for displaying graphs as trees
 
+## [next-13-ssg](https://github.com/TomasHubelbauer/next-13-ssg)
+
+⚖️ next-13-ssg
+
+🏷 
+
+📒 null
+
 ## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
 
 ⚖️ next-url-import-react-component
@@ -2658,6 +2674,14 @@
 
 📒 Videor is an online web application for making short videos
 
+## [vrm-api](https://github.com/TomasHubelbauer/vrm-api)
+
+⚖️ vrm-api
+
+🏷 api, victron
+
+📒 Victron API sample scripts written in Node
+
 ## [vscode-bare-extension](https://github.com/TomasHubelbauer/vscode-bare-extension)
 
 ⚖️ vscode-bare-extension
@@ -3081,6 +3105,14 @@
 🏷 cheatsheet, knowledge-base, youtube-dl
 
 📒 My cheatsheet for YouTube-DL
+
+## [youtube-dl-macos](https://github.com/TomasHubelbauer/youtube-dl-macos)
+
+⚖️ youtube-dl-macos
+
+🏷 
+
+📒 null
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 

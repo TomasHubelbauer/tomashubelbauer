@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2022-10-24T16:06:47.249Z
+2022-11-15T18:04:01.328Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -9,6 +9,14 @@
 🏷 youtube, youtube-dl, youtube-dl-gui, youtube-downloader
 
 📒 Youtube subscription downloader for offline viewing
+
+## [youtube-dl-macos](https://github.com/TomasHubelbauer/youtube-dl-macos)
+
+⚖️ youtube-dl-macos
+
+🏷 
+
+📒 null
 
 ## [youtube-dl-kb](https://github.com/TomasHubelbauer/youtube-dl-kb)
 
@@ -433,6 +441,14 @@
 🏷 vscode, vscode-extension
 
 📒 Finding the minimal possible VS Code extension
+
+## [vrm-api](https://github.com/TomasHubelbauer/vrm-api)
+
+⚖️ vrm-api
+
+🏷 api, victron
+
+📒 Victron API sample scripts written in Node
 
 ## [videor](https://github.com/TomasHubelbauer/videor)
 
@@ -1393,6 +1409,14 @@
 🏷 esm, nextjs, url-import
 
 📒 NextJS URL imports
+
+## [next-13-ssg](https://github.com/TomasHubelbauer/next-13-ssg)
+
+⚖️ next-13-ssg
+
+🏷 
+
+📒 null
 
 ## [net-tree](https://github.com/TomasHubelbauer/net-tree)
 
@@ -2969,6 +2993,14 @@
 🏷 azure-pipelines, powershell, powershell-core
 
 📒 An experiment in determining if pwsh runs PowerShell Core on Windows in Azure Pipelines.
+
+## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
+
+⚖️ azure-boards-test
+
+🏷 
+
+📒 null
 
 ## [async-await.net](https://github.com/TomasHubelbauer/async-await.net)
 

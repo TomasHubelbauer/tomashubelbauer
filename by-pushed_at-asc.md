@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2022-10-24T16:06:47.258Z
+2022-11-15T18:04:01.338Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -857,14 +857,6 @@
 🏷 html, responsive-table
 
 📒 An experimental HTML responsive table component
-
-## [html-video](https://github.com/TomasHubelbauer/html-video)
-
-⚖️ 2022-04-14T20:26:53Z
-
-🏷 html, video
-
-📒 An application for generating videos from HTML+JS scenes
 
 ## [html-video-scrubber](https://github.com/TomasHubelbauer/html-video-scrubber)
 
@@ -3050,33 +3042,73 @@
 
 📒 A pure Node function for extracting single-file ZIP archives
 
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+## [youtube-dl-macos](https://github.com/TomasHubelbauer/youtube-dl-macos)
 
-⚖️ 2022-10-15T10:30:14Z
+⚖️ 2022-10-25T20:43:01Z
 
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+🏷 
 
-📒 My personal website
+📒 null
 
-## [solar](https://github.com/TomasHubelbauer/solar)
+## [html-video](https://github.com/TomasHubelbauer/html-video)
 
-⚖️ 2022-10-18T07:50:33Z
+⚖️ 2022-10-27T08:45:08Z
 
-🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
+🏷 html, video
 
-📒 Notes about my solar experiments
+📒 An application for generating videos from HTML+JS scenes
 
 ## [webrtc-share-sheet-custom-scheme](https://github.com/TomasHubelbauer/webrtc-share-sheet-custom-scheme)
 
-⚖️ 2022-10-22T17:22:59Z
+⚖️ 2022-10-27T19:21:41Z
 
 🏷 ice, idea, ios-16, macos-ventura, sdp, sharelink, swift, swiftui, webrtc
 
 📒 An idea for using ShareLink and Share Sheet with AirDrop to facilitate WebRTC connection
 
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 2022-11-02T22:07:22Z
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
+## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
+
+⚖️ 2022-11-03T11:44:26Z
+
+🏷 
+
+📒 null
+
+## [solar](https://github.com/TomasHubelbauer/solar)
+
+⚖️ 2022-11-07T20:35:04Z
+
+🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
+
+📒 Notes about my solar experiments
+
+## [next-13-ssg](https://github.com/TomasHubelbauer/next-13-ssg)
+
+⚖️ 2022-11-11T11:07:36Z
+
+🏷 
+
+📒 null
+
+## [vrm-api](https://github.com/TomasHubelbauer/vrm-api)
+
+⚖️ 2022-11-13T20:52:35Z
+
+🏷 api, victron
+
+📒 Victron API sample scripts written in Node
+
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
-⚖️ 2022-10-24T00:25:14Z
+⚖️ 2022-11-15T00:17:11Z
 
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
@@ -3084,7 +3116,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-10-24T15:06:40Z
+⚖️ 2022-11-15T17:07:07Z
 
 🏷 tomashubelbauer
 
