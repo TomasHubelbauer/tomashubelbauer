@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2022-11-15T00:13:42.779Z
+2022-11-15T01:32:17.394Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3106,19 +3106,19 @@
 
 📒 Victron API sample scripts written in Node
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2022-11-14T00:16:52Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-11-14T23:05:41Z
+⚖️ 2022-11-15T00:15:39Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2022-11-15T00:17:11Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
