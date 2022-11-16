@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2022-11-16T01:32:32.077Z
+2022-11-16T02:38:11.925Z
+
+## [js-milestone](https://github.com/TomasHubelbauer/js-milestone)
+
+⚖️ 2022-11-16T02:24:29Z
+
+🏷 algorithm, calculation, calculator, javascript, leaderboard, leaderboards, milestone, milestones
+
+📒 A milestone calculation JavaScript algorithm
 
 ## [webgl-op-1](https://github.com/TomasHubelbauer/webgl-op-1)
 
@@ -1785,14 +1793,6 @@
 🏷 javascript, protobuf
 
 📒 A JavaScript protobuf wire payload parser
-
-## [js-milestone](https://github.com/TomasHubelbauer/js-milestone)
-
-⚖️ 2022-04-16T14:12:43Z
-
-🏷 algorithm, calculation, calculator, javascript, leaderboard, leaderboards, milestone, milestones
-
-📒 A milestone calculation JavaScript algorithm
 
 ## [js-markdown-parser](https://github.com/TomasHubelbauer/js-markdown-parser)
 
