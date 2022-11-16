@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2022-11-16T18:03:46.860Z
+2022-11-16T19:03:26.717Z
 
 ## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
 
@@ -866,14 +866,6 @@
 
 📒 A demonstration of setting desktop wallpaper and background color using Batch
 
-## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
-
-⚖️ 4
-
-🏷 filemanager, ios, macos, swift
-
-📒 A nascent Swift FileManager wrapper library with some extra smarts.
-
 ## [list-sections-groups](https://github.com/TomasHubelbauer/list-sections-groups)
 
 ⚖️ 4
@@ -1265,6 +1257,14 @@
 🏷 contenteditable
 
 📒 Making contenteditable less useless
+
+## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
+
+⚖️ 7
+
+🏷 filemanager, ios, macos, swift
+
+📒 A nascent Swift FileManager wrapper library with some extra smarts.
 
 ## [webrtc-share-sheet-custom-scheme](https://github.com/TomasHubelbauer/webrtc-share-sheet-custom-scheme)
 
@@ -2860,7 +2860,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 1938
+⚖️ 2127
 
 🏷 tomashubelbauer
 

@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-11-16T18:03:46.863Z
+2022-11-16T19:03:26.719Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -268,7 +268,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 1938
+⚖️ 2127
 
 🏷 tomashubelbauer
 
@@ -1778,6 +1778,14 @@
 
 📒 A script for extracting 3MF files into 3MF directories
 
+## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
+
+⚖️ 7
+
+🏷 filemanager, ios, macos, swift
+
+📒 A nascent Swift FileManager wrapper library with some extra smarts.
+
 ## [webrtc-share-sheet-custom-scheme](https://github.com/TomasHubelbauer/webrtc-share-sheet-custom-scheme)
 
 ⚖️ 7
@@ -2113,14 +2121,6 @@
 🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
-
-## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
-
-⚖️ 4
-
-🏷 filemanager, ios, macos, swift
-
-📒 A nascent Swift FileManager wrapper library with some extra smarts.
 
 ## [list-sections-groups](https://github.com/TomasHubelbauer/list-sections-groups)
 
