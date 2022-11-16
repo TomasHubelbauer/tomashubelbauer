@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2022-11-16T12:04:37.783Z
+2022-11-16T13:15:11.099Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -2489,6 +2489,14 @@
 🏷 javascript, service-worker, transpiler, typescript
 
 📒 A demo repository for the Service Worker JavaScript to TypeScript Transpiler script
+
+## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
+
+⚖️ swift-adaptive-storage
+
+🏷 filemanager, ios, macos, swift
+
+📒 A nascent Swift FileManager wrapper library with some extra smarts.
 
 ## [swift-headphones-button](https://github.com/TomasHubelbauer/swift-headphones-button)
 

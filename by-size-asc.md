@@ -1,6 +1,14 @@
 # By `size` (asc)
 
-2022-11-16T12:04:37.797Z
+2022-11-16T13:15:11.117Z
+
+## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
+
+⚖️ 0
+
+🏷 filemanager, ios, macos, swift
+
+📒 A nascent Swift FileManager wrapper library with some extra smarts.
 
 ## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
 
@@ -2818,14 +2826,6 @@
 
 📒 Notes about my solar experiments
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 1374
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [vscode-markdown-link-suggestions](https://github.com/TomasHubelbauer/vscode-markdown-link-suggestions)
 
 ⚖️ 1433
@@ -2841,6 +2841,14 @@
 🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
 
 📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 1560
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [pdf-scrape](https://github.com/TomasHubelbauer/pdf-scrape)
 

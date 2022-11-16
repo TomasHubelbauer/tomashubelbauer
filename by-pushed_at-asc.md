@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2022-11-16T12:04:37.792Z
+2022-11-16T13:15:11.111Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3116,9 +3116,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-11-16T11:05:22Z
+⚖️ 2022-11-16T12:06:33Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
+
+⚖️ 2022-11-16T12:59:56Z
+
+🏷 filemanager, ios, macos, swift
+
+📒 A nascent Swift FileManager wrapper library with some extra smarts.
 

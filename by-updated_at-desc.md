@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2022-11-16T12:04:37.790Z
+2022-11-16T13:15:11.108Z
+
+## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
+
+⚖️ 2022-11-16T12:55:04Z
+
+🏷 filemanager, ios, macos, swift
+
+📒 A nascent Swift FileManager wrapper library with some extra smarts.
 
 ## [js-milestone](https://github.com/TomasHubelbauer/js-milestone)
 

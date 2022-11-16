@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2022-11-16T12:04:37.788Z
+2022-11-16T13:15:11.105Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3121,4 +3121,12 @@
 🏷 algorithm, calculation, calculator, javascript, leaderboard, leaderboards, milestone, milestones
 
 📒 A milestone calculation JavaScript algorithm
+
+## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
+
+⚖️ 2022-11-16T12:55:04Z
+
+🏷 filemanager, ios, macos, swift
+
+📒 A nascent Swift FileManager wrapper library with some extra smarts.
 
