@@ -1,10 +1,10 @@
 # By `updated_at` (desc)
 
-2022-11-16T17:03:50.252Z
+2022-11-16T18:03:46.852Z
 
 ## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
 
-⚖️ 2022-11-16T12:55:04Z
+⚖️ 2022-11-16T17:58:42Z
 
 🏷 filemanager, ios, macos, swift
 
