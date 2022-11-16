@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2022-11-16T13:15:11.117Z
-
-## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
-
-⚖️ 0
-
-🏷 filemanager, ios, macos, swift
-
-📒 A nascent Swift FileManager wrapper library with some extra smarts.
+2022-11-16T14:03:37.719Z
 
 ## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
 
@@ -873,6 +865,14 @@
 🏷 batch, desktop-background, desktop-wallpaper, powershell, wsb
 
 📒 A demonstration of setting desktop wallpaper and background color using Batch
+
+## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
+
+⚖️ 4
+
+🏷 filemanager, ios, macos, swift
+
+📒 A nascent Swift FileManager wrapper library with some extra smarts.
 
 ## [list-sections-groups](https://github.com/TomasHubelbauer/list-sections-groups)
 

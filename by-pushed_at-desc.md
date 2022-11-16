@@ -1,6 +1,14 @@
 # By `pushed_at` (desc)
 
-2022-11-16T13:15:11.112Z
+2022-11-16T14:03:37.717Z
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2022-11-16T13:17:07Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
 
@@ -9,14 +17,6 @@
 🏷 filemanager, ios, macos, swift
 
 📒 A nascent Swift FileManager wrapper library with some extra smarts.
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2022-11-16T12:06:33Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 

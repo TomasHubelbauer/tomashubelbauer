@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-11-16T13:15:11.120Z
+2022-11-16T14:03:37.720Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -2114,6 +2114,14 @@
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
 
+## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
+
+⚖️ 4
+
+🏷 filemanager, ios, macos, swift
+
+📒 A nascent Swift FileManager wrapper library with some extra smarts.
+
 ## [list-sections-groups](https://github.com/TomasHubelbauer/list-sections-groups)
 
 ⚖️ 4
@@ -3097,14 +3105,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
-
-⚖️ 0
-
-🏷 filemanager, ios, macos, swift
-
-📒 A nascent Swift FileManager wrapper library with some extra smarts.
 
 ## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
 
