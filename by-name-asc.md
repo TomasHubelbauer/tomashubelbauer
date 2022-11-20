@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2022-11-16T20:03:57.347Z
+2022-11-20T14:23:31.826Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -1553,6 +1553,14 @@
 🏷 dpapi, keychain, keytar, vscode, vscode-extension
 
 📒 Keytar in VS Code extension experiment
+
+## [ladybird](https://github.com/TomasHubelbauer/ladybird)
+
+⚖️ ladybird
+
+🏷 
+
+📒 The Ladybird web browser
 
 ## [linode-nginx](https://github.com/TomasHubelbauer/linode-nginx)
 

@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2022-11-16T20:03:57.351Z
+2022-11-20T14:23:31.829Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1577,6 +1577,14 @@
 🏷 linode, nginx
 
 📒 Setting up NGinx on Linode
+
+## [ladybird](https://github.com/TomasHubelbauer/ladybird)
+
+⚖️ ladybird
+
+🏷 
+
+📒 The Ladybird web browser
 
 ## [keytar-vscode-extension](https://github.com/TomasHubelbauer/keytar-vscode-extension)
 

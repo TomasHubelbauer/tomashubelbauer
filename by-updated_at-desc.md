@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2022-11-16T20:03:57.354Z
+2022-11-20T14:23:31.834Z
+
+## [ladybird](https://github.com/TomasHubelbauer/ladybird)
+
+⚖️ 2022-11-16T23:09:11Z
+
+🏷 
+
+📒 The Ladybird web browser
 
 ## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
 
