@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2022-11-15T18:04:01.338Z
+2022-11-16T20:03:57.356Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3108,15 +3108,23 @@
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
-⚖️ 2022-11-15T00:17:11Z
+⚖️ 2022-11-16T00:18:16Z
 
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
+## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
+
+⚖️ 2022-11-16T17:58:39Z
+
+🏷 filemanager, ios, macos, swift
+
+📒 A nascent Swift FileManager wrapper library with some extra smarts.
+
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-11-15T17:07:07Z
+⚖️ 2022-11-16T19:05:24Z
 
 🏷 tomashubelbauer
 

@@ -309,7 +309,7 @@ const forkPrRepos = forkPrs.map(pr => pr.html_url.split('/').slice(3, 5).join('/
 const forks = repositories.filter(repository => repository.fork);
 const identicalForks = [];
 for (const fork of forks) {
-  const { parent } = await download(fork.url);
+  const { parent } = await fetch(fork.url, { headers }).then(response => response.json());
   if (!forkPrRepos.includes(parent.full_name)) {
     console.log('Marked', fork.name, 'as identical');
     identicalForks.push(fork.name);

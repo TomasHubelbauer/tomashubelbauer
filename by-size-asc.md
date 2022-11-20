@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2022-11-15T18:04:01.345Z
+2022-11-16T20:03:57.359Z
 
 ## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
 
@@ -1257,6 +1257,14 @@
 🏷 contenteditable
 
 📒 Making contenteditable less useless
+
+## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
+
+⚖️ 7
+
+🏷 filemanager, ios, macos, swift
+
+📒 A nascent Swift FileManager wrapper library with some extra smarts.
 
 ## [webrtc-share-sheet-custom-scheme](https://github.com/TomasHubelbauer/webrtc-share-sheet-custom-scheme)
 
@@ -2850,6 +2858,14 @@
 
 📒 A JavaScript parser and renderer of the Garmin maps
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2127
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [playwright-firefox-mp4](https://github.com/TomasHubelbauer/playwright-firefox-mp4)
 
 ⚖️ 2306
@@ -2922,17 +2938,9 @@
 
 📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 4309
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
-⚖️ 4811
+⚖️ 4812
 
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 

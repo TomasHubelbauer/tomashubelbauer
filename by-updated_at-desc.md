@@ -1,6 +1,22 @@
 # By `updated_at` (desc)
 
-2022-11-15T18:04:01.336Z
+2022-11-16T20:03:57.354Z
+
+## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
+
+⚖️ 2022-11-16T17:58:42Z
+
+🏷 filemanager, ios, macos, swift
+
+📒 A nascent Swift FileManager wrapper library with some extra smarts.
+
+## [js-milestone](https://github.com/TomasHubelbauer/js-milestone)
+
+⚖️ 2022-11-16T02:24:29Z
+
+🏷 algorithm, calculation, calculator, javascript, leaderboard, leaderboards, milestone, milestones
+
+📒 A milestone calculation JavaScript algorithm
 
 ## [webgl-op-1](https://github.com/TomasHubelbauer/webgl-op-1)
 
@@ -1785,14 +1801,6 @@
 🏷 javascript, protobuf
 
 📒 A JavaScript protobuf wire payload parser
-
-## [js-milestone](https://github.com/TomasHubelbauer/js-milestone)
-
-⚖️ 2022-04-16T14:12:43Z
-
-🏷 algorithm, calculation, calculator, javascript, leaderboard, leaderboards, milestone, milestones
-
-📒 A milestone calculation JavaScript algorithm
 
 ## [js-markdown-parser](https://github.com/TomasHubelbauer/js-markdown-parser)
 

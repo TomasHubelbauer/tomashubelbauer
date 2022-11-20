@@ -1,18 +1,26 @@
 # By `pushed_at` (desc)
 
-2022-11-15T18:04:01.340Z
+2022-11-16T20:03:57.357Z
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-11-15T17:07:07Z
+⚖️ 2022-11-16T19:05:24Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
 
+## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
+
+⚖️ 2022-11-16T17:58:39Z
+
+🏷 filemanager, ios, macos, swift
+
+📒 A nascent Swift FileManager wrapper library with some extra smarts.
+
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
-⚖️ 2022-11-15T00:17:11Z
+⚖️ 2022-11-16T00:18:16Z
 
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 

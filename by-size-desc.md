@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-11-15T18:04:01.347Z
+2022-11-16T20:03:57.362Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -188,19 +188,11 @@
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
-⚖️ 4811
+⚖️ 4812
 
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 4309
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
 
@@ -273,6 +265,14 @@
 🏷 firefox, html-video, playwright
 
 📒 Playwright Firefox MP4 video
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2127
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [garmin-img](https://github.com/TomasHubelbauer/garmin-img)
 
@@ -1777,6 +1777,14 @@
 🏷 3mf
 
 📒 A script for extracting 3MF files into 3MF directories
+
+## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
+
+⚖️ 7
+
+🏷 filemanager, ios, macos, swift
+
+📒 A nascent Swift FileManager wrapper library with some extra smarts.
 
 ## [webrtc-share-sheet-custom-scheme](https://github.com/TomasHubelbauer/webrtc-share-sheet-custom-scheme)
 

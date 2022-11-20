@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2022-11-15T18:04:01.328Z
+2022-11-16T20:03:57.351Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -633,6 +633,14 @@
 🏷 headphone-button, swift
 
 📒 Headphone button handler in Swift
+
+## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
+
+⚖️ swift-adaptive-storage
+
+🏷 filemanager, ios, macos, swift
+
+📒 A nascent Swift FileManager wrapper library with some extra smarts.
 
 ## [sw-js-to-ts-transpiler-demo](https://github.com/TomasHubelbauer/sw-js-to-ts-transpiler-demo)
 
