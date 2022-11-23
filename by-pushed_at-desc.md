@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2022-11-23T00:13:18.056Z
+2022-11-23T01:31:40.368Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2022-11-23T00:16:03Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-11-22T23:05:30Z
+⚖️ 2022-11-23T00:15:14Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 
 
 📒 The Ladybird web browser
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2022-11-22T00:17:09Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
 
