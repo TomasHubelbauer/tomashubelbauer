@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2022-11-24T21:03:27.347Z
+2022-11-24T22:03:35.262Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3132,7 +3132,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-11-24T20:05:36Z
+⚖️ 2022-11-24T21:05:23Z
 
 🏷 tomashubelbauer
 
@@ -3140,9 +3140,9 @@
 
 ## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
 
-⚖️ 2022-11-24T21:03:16Z
+⚖️ 2022-11-24T21:40:24Z
 
-🏷 
+🏷 hacker-news, tailwind
 
-📒 null
+📒 Hacker News redesigned using Tailwind for practice
 

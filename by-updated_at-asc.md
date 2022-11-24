@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2022-11-24T21:03:27.343Z
+2022-11-24T22:03:35.258Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3140,9 +3140,9 @@
 
 ## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
 
-⚖️ 2022-11-24T20:43:22Z
+⚖️ 2022-11-24T21:39:24Z
 
-🏷 
+🏷 hacker-news, tailwind
 
-📒 null
+📒 Hacker News redesigned using Tailwind for practice
 

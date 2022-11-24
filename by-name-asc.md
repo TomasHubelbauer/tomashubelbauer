@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2022-11-24T21:03:27.337Z
+2022-11-24T22:03:35.250Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -1270,9 +1270,9 @@
 
 ⚖️ hn-tailwind
 
-🏷 
+🏷 hacker-news, tailwind
 
-📒 null
+📒 Hacker News redesigned using Tailwind for practice
 
 ## [html-data-view-box](https://github.com/TomasHubelbauer/html-data-view-box)
 

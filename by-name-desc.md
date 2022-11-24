@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2022-11-24T21:03:27.341Z
+2022-11-24T22:03:35.253Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1878,9 +1878,9 @@
 
 ⚖️ hn-tailwind
 
-🏷 
+🏷 hacker-news, tailwind
 
-📒 null
+📒 Hacker News redesigned using Tailwind for practice
 
 ## [he3-webcam](https://github.com/TomasHubelbauer/he3-webcam)
 

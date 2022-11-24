@@ -1,14 +1,14 @@
 # By `updated_at` (desc)
 
-2022-11-24T21:03:27.345Z
+2022-11-24T22:03:35.259Z
 
 ## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
 
-⚖️ 2022-11-24T20:43:22Z
+⚖️ 2022-11-24T21:39:24Z
 
-🏷 
+🏷 hacker-news, tailwind
 
-📒 null
+📒 Hacker News redesigned using Tailwind for practice
 
 ## [workers-formdata](https://github.com/TomasHubelbauer/workers-formdata)
 

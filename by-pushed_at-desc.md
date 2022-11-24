@@ -1,18 +1,18 @@
 # By `pushed_at` (desc)
 
-2022-11-24T21:03:27.351Z
+2022-11-24T22:03:35.264Z
 
 ## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
 
-⚖️ 2022-11-24T21:03:16Z
+⚖️ 2022-11-24T21:40:24Z
 
-🏷 
+🏷 hacker-news, tailwind
 
-📒 null
+📒 Hacker News redesigned using Tailwind for practice
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-11-24T20:05:36Z
+⚖️ 2022-11-24T21:05:23Z
 
 🏷 tomashubelbauer
 
