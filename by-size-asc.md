@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2022-11-25T12:04:31.918Z
+2022-11-25T13:08:45.080Z
 
 ## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
 
@@ -1946,14 +1946,6 @@
 
 📒 EF provider operating on JSON files
 
-## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
-
-⚖️ 25
-
-🏷 hacker-news, tailwind
-
-📒 Hacker News redesigned using Tailwind for practice
-
 ## [html-data-view-box](https://github.com/TomasHubelbauer/html-data-view-box)
 
 ⚖️ 25
@@ -2073,6 +2065,14 @@
 🏷 ast, cra, create-react-app, localization
 
 📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
+
+## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
+
+⚖️ 32
+
+🏷 hacker-news, tailwind
+
+📒 Hacker News redesigned using Tailwind for practice
 
 ## [handoff](https://github.com/TomasHubelbauer/handoff)
 
@@ -2938,14 +2938,6 @@
 
 📒 A Pi Pico script for collecting CPU temperature reading in Supabase using a Deno function
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 3799
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
 
 ⚖️ 3869
@@ -2953,6 +2945,14 @@
 🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
 
 📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 3987
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
