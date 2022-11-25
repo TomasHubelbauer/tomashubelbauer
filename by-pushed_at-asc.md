@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2022-11-25T00:12:03.938Z
+2022-11-25T01:32:00.934Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3122,14 +3122,6 @@
 
 📒 The Ladybird web browser
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2022-11-24T00:16:56Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
 
 ⚖️ 2022-11-24T21:40:24Z
@@ -3140,9 +3132,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-11-24T23:05:38Z
+⚖️ 2022-11-25T00:13:59Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2022-11-25T00:15:14Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 

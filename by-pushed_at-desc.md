@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2022-11-25T00:12:03.941Z
+2022-11-25T01:32:00.946Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2022-11-25T00:15:14Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-11-24T23:05:38Z
+⚖️ 2022-11-25T00:13:59Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 hacker-news, tailwind
 
 📒 Hacker News redesigned using Tailwind for practice
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2022-11-24T00:16:56Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [ladybird](https://github.com/TomasHubelbauer/ladybird)
 
