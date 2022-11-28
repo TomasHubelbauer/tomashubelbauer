@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-11-28T16:03:37.755Z
+2022-11-28T17:03:40.330Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -170,14 +170,6 @@
 
 📒 Arduino LED dot-matrix display QR code
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 5959
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [puppeteer-deterministic-screenshot](https://github.com/TomasHubelbauer/puppeteer-deterministic-screenshot)
 
 ⚖️ 5535
@@ -297,6 +289,14 @@
 🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
 
 📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 1477
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [vscode-markdown-link-suggestions](https://github.com/TomasHubelbauer/vscode-markdown-link-suggestions)
 
