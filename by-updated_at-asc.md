@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2022-11-30T08:04:14.187Z
+2022-11-30T09:03:58.867Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -465,14 +465,6 @@
 🏷 github, github-actions
 
 📒 GitHub Actions commit context object data
-
-## [github-linguist](https://github.com/TomasHubelbauer/github-linguist)
-
-⚖️ 2022-04-14T20:22:36Z
-
-🏷 linguist, linguistics, markdown, savant
-
-📒 A .gitattributes file which makes MarkDown files appear in the Linguist language stats bar
 
 ## [js-array-groups](https://github.com/TomasHubelbauer/js-array-groups)
 
@@ -3145,4 +3137,12 @@
 🏷 onewheel
 
 📒 A collection of links relating to the Onewheel
+
+## [github-linguist](https://github.com/TomasHubelbauer/github-linguist)
+
+⚖️ 2022-11-30T08:46:28Z
+
+🏷 linguist, linguistics, markdown, savant
+
+📒 A .gitattributes file which makes MarkDown files appear in the Linguist language stats bar
 

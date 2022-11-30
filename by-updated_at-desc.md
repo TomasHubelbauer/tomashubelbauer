@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2022-11-30T08:04:14.189Z
+2022-11-30T09:03:58.871Z
+
+## [github-linguist](https://github.com/TomasHubelbauer/github-linguist)
+
+⚖️ 2022-11-30T08:46:28Z
+
+🏷 linguist, linguistics, markdown, savant
+
+📒 A .gitattributes file which makes MarkDown files appear in the Linguist language stats bar
 
 ## [onewheel](https://github.com/TomasHubelbauer/onewheel)
 
@@ -2673,14 +2681,6 @@
 🏷 array, javascript
 
 📒 JavaScript Split Array Into Groups of the Same Size
-
-## [github-linguist](https://github.com/TomasHubelbauer/github-linguist)
-
-⚖️ 2022-04-14T20:22:36Z
-
-🏷 linguist, linguistics, markdown, savant
-
-📒 A .gitattributes file which makes MarkDown files appear in the Linguist language stats bar
 
 ## [github-actions-commit](https://github.com/TomasHubelbauer/github-actions-commit)
 
