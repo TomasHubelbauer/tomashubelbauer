@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2022-12-01T07:03:44.231Z
+2022-12-01T08:04:16.768Z
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2022-12-01T07:08:51Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
 ## [github-linguist](https://github.com/TomasHubelbauer/github-linguist)
 
@@ -769,14 +777,6 @@
 🏷 arduino, arduino-qr, dot-matrix, led-matrix, ledcontrol, max7219, qr, qr-code
 
 📒 Arduino LED dot-matrix display QR code
-
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2022-04-22T19:49:48Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
 ## [node-localhost-https](https://github.com/TomasHubelbauer/node-localhost-https)
 

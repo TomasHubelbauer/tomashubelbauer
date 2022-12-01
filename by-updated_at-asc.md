@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2022-12-01T07:03:44.229Z
+2022-12-01T08:04:16.766Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2370,14 +2370,6 @@
 
 📒 A library for issuing certificates for secure localhost development.
 
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2022-04-22T19:49:48Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
-
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
 ⚖️ 2022-04-28T08:43:13Z
@@ -3145,4 +3137,12 @@
 🏷 linguist, linguistics, markdown, savant
 
 📒 A .gitattributes file which makes MarkDown files appear in the Linguist language stats bar
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2022-12-01T07:08:51Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
