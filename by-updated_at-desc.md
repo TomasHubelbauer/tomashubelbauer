@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2022-12-05T10:03:46.483Z
+2022-12-05T11:03:27.591Z
+
+## [github-actions](https://github.com/TomasHubelbauer/github-actions)
+
+⚖️ 2022-12-05T10:26:24Z
+
+🏷 cd, ci, ci-cd, github, github-actions
+
+📒 Infromation and tips regarding GitHub Actions
 
 ## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
 
@@ -2209,14 +2217,6 @@
 🏷 bash, github-actions
 
 📒 Documenting GitHub Actions Bash compatibility issues
-
-## [github-actions](https://github.com/TomasHubelbauer/github-actions)
-
-⚖️ 2022-04-16T13:19:32Z
-
-🏷 cd, ci, ci-cd, github, github-actions
-
-📒 Infromation and tips regarding GitHub Actions
 
 ## [ffmpeg-crop-image](https://github.com/TomasHubelbauer/ffmpeg-crop-image)
 
