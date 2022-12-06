@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2022-12-06T00:11:45.750Z
+2022-12-06T01:30:36.139Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2022-12-06T00:14:27Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-12-05T23:05:49Z
+⚖️ 2022-12-06T00:11:49Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 mime, multipart
 
 📒 JavaScript MIME Multipart Parser
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2022-12-05T00:16:21Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
 
