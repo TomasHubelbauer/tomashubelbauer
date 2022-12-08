@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2022-12-08T22:03:53.513Z
+2022-12-08T23:03:57.554Z
 
 ## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
 
@@ -2458,14 +2458,6 @@
 
 📒 Testing CRA (Create React App) with Puppeteer
 
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 156
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
-
 ## [remix](https://github.com/TomasHubelbauer/remix)
 
 ⚖️ 157
@@ -2489,6 +2481,14 @@
 🏷 indexed-db, local-storage, todo, todo-app, todo-list
 
 📒 An IndexedDB exploration repository
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 165
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
 
 ## [canvas-chromatic-aberration](https://github.com/TomasHubelbauer/canvas-chromatic-aberration)
 
@@ -2964,7 +2964,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 5001
+⚖️ 5191
 
 🏷 tomashubelbauer
 
