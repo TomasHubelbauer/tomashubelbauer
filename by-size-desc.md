@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-12-11T21:03:20.536Z
+2022-12-11T22:03:30.078Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -162,14 +162,6 @@
 
 📒 CSS solution for a "merry-go-round" style sliding showcase
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 6406
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
 ⚖️ 5992
@@ -273,6 +265,14 @@
 🏷 firefox, html-video, playwright
 
 📒 Playwright Firefox MP4 video
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 1944
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [garmin-img](https://github.com/TomasHubelbauer/garmin-img)
 
