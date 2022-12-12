@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2022-12-12T08:04:12.842Z
+2022-12-12T09:03:57.317Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
