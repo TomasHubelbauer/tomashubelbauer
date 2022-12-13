@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2022-12-13T08:04:13.419Z
+2022-12-13T09:03:52.956Z
+
+## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
+
+⚖️ 2022-12-13T08:56:07Z
+
+🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
+
+📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -337,14 +345,6 @@
 🏷 
 
 📒 A list of things I plan on looking into.
-
-## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
-
-⚖️ 2022-09-26T05:11:14Z
-
-🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
-
-📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
 
 ## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
 

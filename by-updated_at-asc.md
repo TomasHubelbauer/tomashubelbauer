@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2022-12-13T08:04:13.416Z
+2022-12-13T09:03:52.954Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2810,14 +2810,6 @@
 
 📒 A WebRTC data channel establishment with QR codes used for signaling channel.
 
-## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
-
-⚖️ 2022-09-26T05:11:14Z
-
-🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
-
-📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
-
 ## [wip](https://github.com/TomasHubelbauer/wip)
 
 ⚖️ 2022-09-26T20:17:08Z
@@ -3153,4 +3145,12 @@
 🏷 
 
 📒 null
+
+## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
+
+⚖️ 2022-12-13T08:56:07Z
+
+🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
+
+📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
 
