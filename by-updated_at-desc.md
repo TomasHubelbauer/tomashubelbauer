@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2022-12-14T02:29:02.183Z
+2022-12-14T03:07:30.818Z
+
+## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
+
+⚖️ 2022-12-14T02:55:40Z
+
+🏷 3mf
+
+📒 A script for extracting 3MF files into 3MF directories
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -2577,14 +2585,6 @@
 🏷 ado, azure-devops
 
 📒 ADO bookmarklet
-
-## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
-
-⚖️ 2022-04-16T11:46:36Z
-
-🏷 3mf
-
-📒 A script for extracting 3MF files into 3MF directories
 
 ## [puppeteer-deterministic-screenshot](https://github.com/TomasHubelbauer/puppeteer-deterministic-screenshot)
 

@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2022-12-14T02:29:02.181Z
+2022-12-14T03:07:30.815Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -569,14 +569,6 @@
 🏷 deterministic, jpg, png, puppeteer, reproducible-builds, screenshot
 
 📒 Pondering about whether Puppeteer screenshots are deterministic
-
-## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
-
-⚖️ 2022-04-16T11:46:36Z
-
-🏷 3mf
-
-📒 A script for extracting 3MF files into 3MF directories
 
 ## [ado-bookmarklet](https://github.com/TomasHubelbauer/ado-bookmarklet)
 
@@ -3153,4 +3145,12 @@
 🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
 
 📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
+
+## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
+
+⚖️ 2022-12-14T02:55:40Z
+
+🏷 3mf
+
+📒 A script for extracting 3MF files into 3MF directories
 
