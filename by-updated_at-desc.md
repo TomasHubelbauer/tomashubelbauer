@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2022-12-14T16:03:52.616Z
+2022-12-14T17:03:51.144Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
