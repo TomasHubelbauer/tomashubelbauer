@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2022-12-15T10:04:10.271Z
+2022-12-15T11:03:57.258Z
+
+## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
+
+⚖️ 2022-12-15T10:51:13Z
+
+🏷 esm, nextjs, url-import
+
+📒 NextJS URL imports
 
 ## [webrtc-bridge](https://github.com/TomasHubelbauer/webrtc-bridge)
 
@@ -249,14 +257,6 @@
 🏷 akai, apc-mini, launchpad, midi, usb
 
 📒 Akai APCmini launchpad USB/MIDI communication protocol
-
-## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
-
-⚖️ 2022-10-12T11:46:33Z
-
-🏷 esm, nextjs, url-import
-
-📒 NextJS URL imports
 
 ## [solar](https://github.com/TomasHubelbauer/solar)
 

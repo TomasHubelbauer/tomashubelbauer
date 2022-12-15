@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2022-12-15T10:04:10.268Z
+2022-12-15T11:03:57.256Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2898,14 +2898,6 @@
 
 📒 Notes about my solar experiments
 
-## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
-
-⚖️ 2022-10-12T11:46:33Z
-
-🏷 esm, nextjs, url-import
-
-📒 NextJS URL imports
-
 ## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
 
 ⚖️ 2022-10-12T23:31:40Z
@@ -3153,4 +3145,12 @@
 🏷 hotp, ice, nat, otp, sdp, totp, web-server, webrtc, webrtc-data-channel
 
 📒 An idea for serving sites from a home server through a WebRTC based frame site
+
+## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
+
+⚖️ 2022-12-15T10:51:13Z
+
+🏷 esm, nextjs, url-import
+
+📒 NextJS URL imports
 
