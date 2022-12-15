@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2022-12-15T05:03:39.759Z
+2022-12-15T07:03:48.782Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -1329,14 +1329,6 @@
 🏷 web-design
 
 📒 My notes on web design techniques and trends
-
-## [webrtc-bridge](https://github.com/TomasHubelbauer/webrtc-bridge)
-
-⚖️ 2022-04-16T14:23:50Z
-
-🏷 hotp, ice, nat, otp, sdp, totp, web-server, webrtc, webrtc-data-channel
-
-📒 An idea for serving sites from a home server through a WebRTC based frame site
 
 ## [todo-comments-github-issues](https://github.com/TomasHubelbauer/todo-comments-github-issues)
 
@@ -3153,4 +3145,12 @@
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [webrtc-bridge](https://github.com/TomasHubelbauer/webrtc-bridge)
+
+⚖️ 2022-12-15T06:57:17Z
+
+🏷 hotp, ice, nat, otp, sdp, totp, web-server, webrtc, webrtc-data-channel
+
+📒 An idea for serving sites from a home server through a WebRTC based frame site
 

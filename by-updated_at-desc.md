@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2022-12-15T05:03:39.768Z
+2022-12-15T07:03:48.783Z
+
+## [webrtc-bridge](https://github.com/TomasHubelbauer/webrtc-bridge)
+
+⚖️ 2022-12-15T06:57:17Z
+
+🏷 hotp, ice, nat, otp, sdp, totp, web-server, webrtc, webrtc-data-channel
+
+📒 An idea for serving sites from a home server through a WebRTC based frame site
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
@@ -1817,14 +1825,6 @@
 🏷 github-actions, github-issues, to-do
 
 📒 A GitHub Actions action to sync code to-do comments to GitHub issues
-
-## [webrtc-bridge](https://github.com/TomasHubelbauer/webrtc-bridge)
-
-⚖️ 2022-04-16T14:23:50Z
-
-🏷 hotp, ice, nat, otp, sdp, totp, web-server, webrtc, webrtc-data-channel
-
-📒 An idea for serving sites from a home server through a WebRTC based frame site
 
 ## [web-design](https://github.com/TomasHubelbauer/web-design)
 
