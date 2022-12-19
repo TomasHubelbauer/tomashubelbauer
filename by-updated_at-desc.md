@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2022-12-19T08:04:18.501Z
+2022-12-19T09:03:49.154Z
 
 ## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
 
