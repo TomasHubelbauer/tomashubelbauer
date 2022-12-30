@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2022-12-30T12:04:51.453Z
+2022-12-30T13:06:25.913Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2050,14 +2050,6 @@
 
 📒 A demonstration of using WebRTC to achieve communication between an iOS application and a web page
 
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
-
-⚖️ 31
-
-🏷 ast, cra, create-react-app, localization
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
-
 ## [swift-ui](https://github.com/TomasHubelbauer/swift-ui)
 
 ⚖️ 31
@@ -2114,6 +2106,14 @@
 
 📒 A script for storing GitHub Issues in Git notes.
 
+## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
+
+⚖️ 34
+
+🏷 ast, cra, create-react-app, localization
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
+
 ## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
 
 ⚖️ 35
@@ -2162,14 +2162,6 @@
 
 📒 Hyper-V PowerShell script for running a script in a temporary VM
 
-## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
-
-⚖️ 43
-
-🏷 babel, babel-sourcemap, sourcemap
-
-📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
-
 ## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
 
 ⚖️ 43
@@ -2185,6 +2177,14 @@
 🏷 framework, javascript, library, paper, ui, ux, wc, web-components
 
 📒 JavaScript UI library
+
+## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
+
+⚖️ 45
+
+🏷 babel, babel-sourcemap, sourcemap
+
+📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
 ## [esm-list-zip](https://github.com/TomasHubelbauer/esm-list-zip)
 
@@ -2972,7 +2972,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 4980
+⚖️ 5173
 
 🏷 tomashubelbauer
 

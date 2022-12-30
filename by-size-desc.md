@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-12-30T12:04:51.455Z
+2022-12-30T13:06:25.915Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -180,7 +180,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 4980
+⚖️ 5173
 
 🏷 tomashubelbauer
 
@@ -970,6 +970,14 @@
 
 📒 An ESM package for extracting the list of entries from a ZIP archive by URL using range requests for minimal bandwidth use.
 
+## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
+
+⚖️ 45
+
+🏷 babel, babel-sourcemap, sourcemap
+
+📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
+
 ## [paper](https://github.com/TomasHubelbauer/paper)
 
 ⚖️ 44
@@ -977,14 +985,6 @@
 🏷 framework, javascript, library, paper, ui, ux, wc, web-components
 
 📒 JavaScript UI library
-
-## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
-
-⚖️ 43
-
-🏷 babel, babel-sourcemap, sourcemap
-
-📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
 ## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
 
@@ -1042,6 +1042,14 @@
 
 📒 VS Code extension to highlight Jira links in MarkDown
 
+## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
+
+⚖️ 34
+
+🏷 ast, cra, create-react-app, localization
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
+
 ## [github-issues-git-notes-demo](https://github.com/TomasHubelbauer/github-issues-git-notes-demo)
 
 ⚖️ 33
@@ -1081,14 +1089,6 @@
 🏷 files-app, ios, ios-app, ios-swift, todo-list, todolist
 
 📒 An app for reading and writing a text file with persistence in the Files app
-
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
-
-⚖️ 31
-
-🏷 ast, cra, create-react-app, localization
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [swift-ui](https://github.com/TomasHubelbauer/swift-ui)
 
