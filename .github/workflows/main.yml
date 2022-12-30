@@ -29,6 +29,13 @@ jobs:
         node test
         node . ${{github.token}}
     
+    - name: Upload JSON response artifacts for debugging in case of failure
+      if: failure()
+      uses: actions/upload-artifact@v3
+      with:
+        name: issues-and-prs.json
+        path: issues-and-prs.json
+    
     - name: Upload the followers.json cache file as an artifact
       uses: actions/upload-artifact@v3
       with:
