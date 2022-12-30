@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2022-12-30T11:36:47.304Z
+2022-12-30T12:04:51.453Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2050,6 +2050,14 @@
 
 📒 A demonstration of using WebRTC to achieve communication between an iOS application and a web page
 
+## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
+
+⚖️ 31
+
+🏷 ast, cra, create-react-app, localization
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
+
 ## [swift-ui](https://github.com/TomasHubelbauer/swift-ui)
 
 ⚖️ 31
@@ -2065,14 +2073,6 @@
 🏷 exif, ios, jpeg, jpg, photos-app, png, png-metadata
 
 📒 Research into how (if at all) the iOS Photos app processes / strips image metadata.
-
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
-
-⚖️ 31
-
-🏷 ast, cra, create-react-app, localization
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
 
@@ -2162,14 +2162,6 @@
 
 📒 Hyper-V PowerShell script for running a script in a temporary VM
 
-## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
-
-⚖️ 43
-
-🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
-
-📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
-
 ## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
 
 ⚖️ 43
@@ -2177,6 +2169,14 @@
 🏷 babel, babel-sourcemap, sourcemap
 
 📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
+
+## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
+
+⚖️ 43
+
+🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
+
+📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
 
 ## [paper](https://github.com/TomasHubelbauer/paper)
 

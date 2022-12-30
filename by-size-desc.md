@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-12-30T11:36:47.308Z
+2022-12-30T12:04:51.455Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -978,14 +978,6 @@
 
 📒 JavaScript UI library
 
-## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
-
-⚖️ 43
-
-🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
-
-📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
-
 ## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
 
 ⚖️ 43
@@ -993,6 +985,14 @@
 🏷 babel, babel-sourcemap, sourcemap
 
 📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
+
+## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
+
+⚖️ 43
+
+🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
+
+📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
 
 ## [hyperv](https://github.com/TomasHubelbauer/hyperv)
 
@@ -1082,6 +1082,14 @@
 
 📒 An app for reading and writing a text file with persistence in the Files app
 
+## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
+
+⚖️ 31
+
+🏷 ast, cra, create-react-app, localization
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
+
 ## [swift-ui](https://github.com/TomasHubelbauer/swift-ui)
 
 ⚖️ 31
@@ -1097,14 +1105,6 @@
 🏷 exif, ios, jpeg, jpg, photos-app, png, png-metadata
 
 📒 Research into how (if at all) the iOS Photos app processes / strips image metadata.
-
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
-
-⚖️ 31
-
-🏷 ast, cra, create-react-app, localization
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [ios-app-web-control](https://github.com/TomasHubelbauer/ios-app-web-control)
 

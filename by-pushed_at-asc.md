@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2022-12-30T11:36:47.298Z
+2022-12-30T12:04:51.448Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -154,14 +154,6 @@
 
 📒 An experiment in determining if pwsh runs PowerShell Core on Windows in Azure Pipelines.
 
-## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
-
-⚖️ 2022-04-14T19:37:16Z
-
-🏷 babel, babel-sourcemap, sourcemap
-
-📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
-
 ## [batch-wallpaper](https://github.com/TomasHubelbauer/batch-wallpaper)
 
 ⚖️ 2022-04-14T19:37:32Z
@@ -281,14 +273,6 @@
 🏷 cosmos-db, dotnet, dotnet-core, net, sdk
 
 📒 Info about the Cosmos .NET SDK
-
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
-
-⚖️ 2022-04-14T19:56:42Z
-
-🏷 ast, cra, create-react-app, localization
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [cra-location-hash-router](https://github.com/TomasHubelbauer/cra-location-hash-router)
 
@@ -3148,9 +3132,25 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-12-30T11:35:49Z
+⚖️ 2022-12-30T11:38:43Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
+
+⚖️ 2022-12-30T11:50:32Z
+
+🏷 babel, babel-sourcemap, sourcemap
+
+📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
+
+## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
+
+⚖️ 2022-12-30T11:51:13Z
+
+🏷 ast, cra, create-react-app, localization
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 

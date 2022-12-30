@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2022-12-30T11:36:47.294Z
+2022-12-30T12:04:51.445Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -297,14 +297,6 @@
 🏷 cra, create-react-app, source-map, source-maps, sourcemap, sourcemaps
 
 📒 Demonstrating a problem with CRA source maps pointing to wrong locations
-
-## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
-
-⚖️ 2021-04-30T06:27:41Z
-
-🏷 babel, babel-sourcemap, sourcemap
-
-📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
 ## [dom-local-storage-perf](https://github.com/TomasHubelbauer/dom-local-storage-perf)
 
@@ -3153,4 +3145,12 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
+
+## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
+
+⚖️ 2022-12-30T11:50:36Z
+
+🏷 babel, babel-sourcemap, sourcemap
+
+📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
