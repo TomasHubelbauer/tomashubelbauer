@@ -271,6 +271,7 @@ for (const repository in _repositories) {
 }
 
 const issuesAndPrs = [...await downloadPages(`${process.env.GITHUB_API_URL}/search/issues?q=org:${login}+is:open&per_page=100`)].reduce((issuesAndPrs, page) => [...issuesAndPrs, ...page.items], []);
+await fs.promises.writeFile('issues-and-prs.json', JSON.stringify(issuesAndPrs, null, 2));
 
 const issues = issuesAndPrs.filter(issueOrPr => !issueOrPr.pull_request).map(issue => ({
   repo: issue.html_url.split('/')[4],
