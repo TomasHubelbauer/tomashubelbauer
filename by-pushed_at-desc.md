@@ -1,14 +1,30 @@
 # By `pushed_at` (desc)
 
-2022-12-30T11:32:43.814Z
+2022-12-30T20:03:50.934Z
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-12-30T11:31:33Z
+⚖️ 2022-12-30T19:05:44Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
+
+⚖️ 2022-12-30T13:31:19Z
+
+🏷 babel, babel-sourcemap, sourcemap
+
+📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
+
+## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
+
+⚖️ 2022-12-30T11:51:13Z
+
+🏷 ast, cra, create-react-app, localization
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2866,14 +2882,6 @@
 
 📒 A router for CRA which uses location.hash
 
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
-
-⚖️ 2022-04-14T19:56:42Z
-
-🏷 ast, cra, create-react-app, localization
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
-
 ## [cosmos-net-sdk](https://github.com/TomasHubelbauer/cosmos-net-sdk)
 
 ⚖️ 2022-04-14T19:55:45Z
@@ -2993,14 +3001,6 @@
 🏷 batch, desktop-background, desktop-wallpaper, powershell, wsb
 
 📒 A demonstration of setting desktop wallpaper and background color using Batch
-
-## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
-
-⚖️ 2022-04-14T19:37:16Z
-
-🏷 babel, babel-sourcemap, sourcemap
-
-📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
 ## [azure-pipelines-powershell-core](https://github.com/TomasHubelbauer/azure-pipelines-powershell-core)
 

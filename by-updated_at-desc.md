@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2022-12-30T11:32:43.802Z
+2022-12-30T20:03:50.931Z
+
+## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
+
+⚖️ 2022-12-30T11:50:36Z
+
+🏷 babel, babel-sourcemap, sourcemap
+
+📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
@@ -2849,14 +2857,6 @@
 🏷 dom, local-storage
 
 📒 DOM local storage performance experiment
-
-## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
-
-⚖️ 2021-04-30T06:27:41Z
-
-🏷 babel, babel-sourcemap, sourcemap
-
-📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
 ## [cra-sourcemap](https://github.com/TomasHubelbauer/cra-sourcemap)
 

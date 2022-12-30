@@ -150,3 +150,7 @@ these days and to distinguish the ones which have it and those that do not, I
 think the title attribute displaying the description as well as an ellipsis
 following the link text would be a good way to surface this information in the
 readme.
+
+## Report on changes to my profile data
+
+Bio, orgs, etc.

@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2022-12-30T11:32:43.821Z
+2022-12-30T20:03:50.937Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2066,14 +2066,6 @@
 
 📒 Research into how (if at all) the iOS Photos app processes / strips image metadata.
 
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
-
-⚖️ 31
-
-🏷 ast, cra, create-react-app, localization
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
-
 ## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
 
 ⚖️ 32
@@ -2113,6 +2105,14 @@
 🏷 git-notes, github-actions, github-issues
 
 📒 A script for storing GitHub Issues in Git notes.
+
+## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
+
+⚖️ 34
+
+🏷 ast, cra, create-react-app, localization
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
 
@@ -2169,14 +2169,6 @@
 🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
 
 📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
-
-## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
-
-⚖️ 43
-
-🏷 babel, babel-sourcemap, sourcemap
-
-📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
 ## [paper](https://github.com/TomasHubelbauer/paper)
 
@@ -2249,6 +2241,14 @@
 🏷 ado, azure-devops
 
 📒 ADO bookmarklet
+
+## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
+
+⚖️ 69
+
+🏷 babel, babel-sourcemap, sourcemap
+
+📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
 ## [phone-organizer](https://github.com/TomasHubelbauer/phone-organizer)
 
@@ -2970,14 +2970,6 @@
 
 📒 A collection of links relating to the Onewheel
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 4980
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [puppeteer-deterministic-screenshot](https://github.com/TomasHubelbauer/puppeteer-deterministic-screenshot)
 
 ⚖️ 5535
@@ -2985,6 +2977,14 @@
 🏷 deterministic, jpg, png, puppeteer, reproducible-builds, screenshot
 
 📒 Pondering about whether Puppeteer screenshots are deterministic
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 5930
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
