@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2022-12-30T13:06:25.910Z
+2022-12-30T14:04:11.578Z
+
+## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
+
+⚖️ 2022-12-30T13:31:19Z
+
+🏷 babel, babel-sourcemap, sourcemap
+
+📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-12-30T12:06:48Z
+⚖️ 2022-12-30T13:08:21Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 ast, cra, create-react-app, localization
 
 📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
-
-## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
-
-⚖️ 2022-12-30T11:50:32Z
-
-🏷 babel, babel-sourcemap, sourcemap
-
-📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
