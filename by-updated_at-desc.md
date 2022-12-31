@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2022-12-31T13:05:37.487Z
+2022-12-31T14:04:05.806Z
+
+## [cra](https://github.com/TomasHubelbauer/cra)
+
+⚖️ 2022-12-31T13:25:39Z
+
+🏷 cra, create-react-app
+
+📒 Create React App sample
 
 ## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
 
@@ -337,14 +345,6 @@
 🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
 
 📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
-
-## [cra](https://github.com/TomasHubelbauer/cra)
-
-⚖️ 2022-09-28T16:37:20Z
-
-🏷 cra, create-react-app
-
-📒 Create React App sample
 
 ## [fastmail](https://github.com/TomasHubelbauer/fastmail)
 

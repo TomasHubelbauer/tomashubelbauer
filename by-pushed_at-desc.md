@@ -1,18 +1,10 @@
 # By `pushed_at` (desc)
 
-2022-12-31T13:05:37.497Z
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2022-12-31T12:06:24Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
+2022-12-31T14:04:05.810Z
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
-⚖️ 2022-12-31T02:10:46Z
+⚖️ 2022-12-31T14:02:51Z
 
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
@@ -20,11 +12,27 @@
 
 ## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
 
-⚖️ 2022-12-31T00:58:07Z
+⚖️ 2022-12-31T13:43:31Z
 
 🏷 ast, cra, create-react-app, localization
 
 📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
+
+## [cra](https://github.com/TomasHubelbauer/cra)
+
+⚖️ 2022-12-31T13:28:49Z
+
+🏷 cra, create-react-app
+
+📒 Create React App sample
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2022-12-31T13:07:34Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
 
@@ -217,14 +225,6 @@
 🏷 api-token, email, fastmail, fastmail-api, sieve
 
 📒 My exploration of the Fastmail API
-
-## [cra](https://github.com/TomasHubelbauer/cra)
-
-⚖️ 2022-09-28T00:20:41Z
-
-🏷 cra, create-react-app
-
-📒 Create React App sample
 
 ## [pi-pico-rest-cpu-temp](https://github.com/TomasHubelbauer/pi-pico-rest-cpu-temp)
 
