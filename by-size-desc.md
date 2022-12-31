@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-12-31T03:03:53.838Z
+2022-12-31T04:03:52.717Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -186,6 +186,14 @@
 
 📒 Pondering about whether Puppeteer screenshots are deterministic
 
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 4960
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
 ## [onewheel](https://github.com/TomasHubelbauer/onewheel)
 
 ⚖️ 4904
@@ -193,14 +201,6 @@
 🏷 onewheel
 
 📒 A collection of links relating to the Onewheel
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 4829
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
 
