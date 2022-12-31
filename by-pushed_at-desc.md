@@ -1,6 +1,22 @@
 # By `pushed_at` (desc)
 
-2022-12-31T01:30:36.922Z
+2022-12-31T02:19:14.407Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2022-12-31T02:10:46Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2022-12-31T01:32:33Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
 
@@ -26,14 +42,6 @@
 
 📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2022-12-31T00:13:00Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
 ⚖️ 2022-12-11T20:22:40Z
@@ -49,14 +57,6 @@
 🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
 
 📒 My personal website
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2022-12-06T00:14:27Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [mime-multipart](https://github.com/TomasHubelbauer/mime-multipart)
 

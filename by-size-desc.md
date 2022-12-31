@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-12-31T01:30:36.926Z
+2022-12-31T02:19:14.413Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -356,7 +356,7 @@
 
 ## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
 
-⚖️ 921
+⚖️ 924
 
 🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
 
@@ -866,6 +866,14 @@
 
 📒 VS Code extension adding support for ?search and #fragment in ESM module specifiers
 
+## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
+
+⚖️ 76
+
+🏷 babel, babel-sourcemap, sourcemap
+
+📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
+
 ## [markright-vscode](https://github.com/TomasHubelbauer/markright-vscode)
 
 ⚖️ 76
@@ -905,14 +913,6 @@
 🏷 3d-model, 3d-print, stl
 
 📒 Phone organizer 3D model
-
-## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
-
-⚖️ 69
-
-🏷 babel, babel-sourcemap, sourcemap
-
-📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
 ## [ado-bookmarklet](https://github.com/TomasHubelbauer/ado-bookmarklet)
 
@@ -1026,6 +1026,14 @@
 
 📒 An idea for serving sites from a home server through a WebRTC based frame site
 
+## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
+
+⚖️ 37
+
+🏷 ast, cra, create-react-app, localization
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
+
 ## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
 
 ⚖️ 35
@@ -1041,14 +1049,6 @@
 🏷 jira, markdown, vscode, vscode-extension
 
 📒 VS Code extension to highlight Jira links in MarkDown
-
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
-
-⚖️ 34
-
-🏷 ast, cra, create-react-app, localization
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [github-issues-git-notes-demo](https://github.com/TomasHubelbauer/github-issues-git-notes-demo)
 

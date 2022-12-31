@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2022-12-31T01:30:36.924Z
+2022-12-31T02:19:14.410Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2106,14 +2106,6 @@
 
 📒 A script for storing GitHub Issues in Git notes.
 
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
-
-⚖️ 34
-
-🏷 ast, cra, create-react-app, localization
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
-
 ## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
 
 ⚖️ 35
@@ -2129,6 +2121,14 @@
 🏷 jira, markdown, vscode, vscode-extension
 
 📒 VS Code extension to highlight Jira links in MarkDown
+
+## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
+
+⚖️ 37
+
+🏷 ast, cra, create-react-app, localization
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [webrtc-bridge](https://github.com/TomasHubelbauer/webrtc-bridge)
 
@@ -2242,14 +2242,6 @@
 
 📒 ADO bookmarklet
 
-## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
-
-⚖️ 69
-
-🏷 babel, babel-sourcemap, sourcemap
-
-📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
-
 ## [phone-organizer](https://github.com/TomasHubelbauer/phone-organizer)
 
 ⚖️ 70
@@ -2273,6 +2265,14 @@
 🏷 supabase, supabase-auth
 
 📒 A demonstration of Supabase Auth
+
+## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
+
+⚖️ 76
+
+🏷 babel, babel-sourcemap, sourcemap
+
+📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
 ## [markright-vscode](https://github.com/TomasHubelbauer/markright-vscode)
 
@@ -2796,7 +2796,7 @@
 
 ## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
 
-⚖️ 921
+⚖️ 924
 
 🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
 
