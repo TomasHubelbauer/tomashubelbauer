@@ -1,30 +1,38 @@
 # By `pushed_at` (desc)
 
-2022-12-31T00:11:03.120Z
+2022-12-31T01:30:36.922Z
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
 
-⚖️ 2022-12-30T23:05:51Z
+⚖️ 2022-12-31T00:58:07Z
 
-🏷 tomashubelbauer
+🏷 ast, cra, create-react-app, localization
 
-📒 My GitHub profile page repository
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
+
+## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
+
+⚖️ 2022-12-31T00:56:26Z
+
+🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
+
+📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
 
 ## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
 
-⚖️ 2022-12-30T13:31:19Z
+⚖️ 2022-12-31T00:51:09Z
 
 🏷 babel, babel-sourcemap, sourcemap
 
 📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-12-30T11:51:13Z
+⚖️ 2022-12-31T00:13:00Z
 
-🏷 ast, cra, create-react-app, localization
+🏷 tomashubelbauer
 
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
+📒 My GitHub profile page repository
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -185,14 +193,6 @@
 🏷 day-planner
 
 📒 A one-off utility for graphical day planning
-
-## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
-
-⚖️ 2022-09-29T10:58:06Z
-
-🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
-
-📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
 
 ## [typescript-in-browser](https://github.com/TomasHubelbauer/typescript-in-browser)
 

@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2022-12-31T00:11:03.117Z
+2022-12-31T01:30:36.921Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -2962,14 +2962,6 @@
 
 📒 Using the TypeScript API in the browser
 
-## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
-
-⚖️ 2022-09-29T10:58:06Z
-
-🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
-
-📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
-
 ## [day-planner](https://github.com/TomasHubelbauer/day-planner)
 
 ⚖️ 2022-09-29T22:47:21Z
@@ -3130,27 +3122,35 @@
 
 📒 null
 
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-12-30T11:51:13Z
+⚖️ 2022-12-31T00:13:00Z
 
-🏷 ast, cra, create-react-app, localization
+🏷 tomashubelbauer
 
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
+📒 My GitHub profile page repository
 
 ## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
 
-⚖️ 2022-12-30T13:31:19Z
+⚖️ 2022-12-31T00:51:09Z
 
 🏷 babel, babel-sourcemap, sourcemap
 
 📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
 
-⚖️ 2022-12-30T23:05:51Z
+⚖️ 2022-12-31T00:56:26Z
 
-🏷 tomashubelbauer
+🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
 
-📒 My GitHub profile page repository
+📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
+
+## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
+
+⚖️ 2022-12-31T00:58:07Z
+
+🏷 ast, cra, create-react-app, localization
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
