@@ -119,12 +119,13 @@ for (const [field, order] of [['name', 'asc'], ['name', 'desc'], ['updated_at', 
   repositories.sort((a, b) => {
     const aField = a[field];
     const bField = b[field];
-    switch (`${typeof aField}-${typeof bField}-${order}`) {
+    const sortOrder = `${typeof aField}-${typeof bField}-${order}`; 
+    switch (sortOrder) {
       case 'string-string-asc': return aField.localeCompare(bField);
       case 'string-string-desc': return bField.localeCompare(aField);
       case 'number-number-asc': return aField - bField;
       case 'number-number-desc': return bField - aField;
-      default: throw new Error('No sort order was specified. Pass sortOrder!');
+      default: throw new Error(`No or incorrect sort order was specified: '${sortOrder}'. Pass sortOrder!`);
     }
   });
 
