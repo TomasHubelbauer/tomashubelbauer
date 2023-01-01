@@ -1,3 +1,4 @@
+import fs from 'fs';
 import headers from './headers.js';
 import reportRateLimit from './reportRateLimit.js';
 
@@ -25,6 +26,10 @@ export default async function downloadPages(url) {
     );
 
     const data = await response.json();
+    
+    // Save response to a file marked to be uploaded as an artifact for debugging
+    await fs.promises.writeFile(url.match(/\w+/g).join('-') + '.artifact.json', JSON.stringify(data, null, 2));
+
     if (Array.isArray(data)) {
       result.push(...data);
     }

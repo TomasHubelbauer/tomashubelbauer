@@ -33,8 +33,8 @@ jobs:
       if: failure()
       uses: actions/upload-artifact@v3
       with:
-        name: issues-and-prs.json
-        path: issues-and-prs.json
+        name: debugging-artifacts
+        path: '*.artifact.json'
     
     - name: Upload the followers.json cache file as an artifact
       uses: actions/upload-artifact@v3
