@@ -1,30 +1,62 @@
 # By `pushed_at` (desc)
 
-2022-12-30T20:03:50.934Z
+2023-01-01T23:05:45.889Z
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-12-30T19:05:44Z
+⚖️ 2023-01-01T22:05:42Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
 
-## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
-⚖️ 2022-12-30T13:31:19Z
+⚖️ 2023-01-01T00:21:27Z
 
-🏷 babel, babel-sourcemap, sourcemap
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
-📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
+## [cra](https://github.com/TomasHubelbauer/cra)
+
+⚖️ 2023-01-01T00:04:24Z
+
+🏷 cra, create-react-app
+
+📒 Create React App sample
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 2022-12-31T16:28:22Z
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
 
 ## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
 
-⚖️ 2022-12-30T11:51:13Z
+⚖️ 2022-12-31T13:43:31Z
 
 🏷 ast, cra, create-react-app, localization
 
 📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
+
+## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
+
+⚖️ 2022-12-31T00:56:26Z
+
+🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
+
+📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
+
+## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
+
+⚖️ 2022-12-31T00:51:09Z
+
+🏷 babel, babel-sourcemap, sourcemap
+
+📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -33,22 +65,6 @@
 🏷 
 
 📒 null
-
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 2022-12-08T21:31:32Z
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2022-12-06T00:14:27Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [mime-multipart](https://github.com/TomasHubelbauer/mime-multipart)
 
@@ -186,14 +202,6 @@
 
 📒 A one-off utility for graphical day planning
 
-## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
-
-⚖️ 2022-09-29T10:58:06Z
-
-🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
-
-📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
-
 ## [typescript-in-browser](https://github.com/TomasHubelbauer/typescript-in-browser)
 
 ⚖️ 2022-09-28T16:45:24Z
@@ -217,14 +225,6 @@
 🏷 api-token, email, fastmail, fastmail-api, sieve
 
 📒 My exploration of the Fastmail API
-
-## [cra](https://github.com/TomasHubelbauer/cra)
-
-⚖️ 2022-09-28T00:20:41Z
-
-🏷 cra, create-react-app
-
-📒 Create React App sample
 
 ## [pi-pico-rest-cpu-temp](https://github.com/TomasHubelbauer/pi-pico-rest-cpu-temp)
 

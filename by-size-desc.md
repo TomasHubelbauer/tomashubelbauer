@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2022-12-30T20:03:50.940Z
+2023-01-01T23:05:45.895Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -68,7 +68,7 @@
 
 ## [cra](https://github.com/TomasHubelbauer/cra)
 
-⚖️ 28475
+⚖️ 29121
 
 🏷 cra, create-react-app
 
@@ -162,6 +162,14 @@
 
 📒 CSS solution for a "merry-go-round" style sliding showcase
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 6036
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
 ⚖️ 5992
@@ -169,14 +177,6 @@
 🏷 arduino, arduino-qr, dot-matrix, led-matrix, ledcontrol, max7219, qr, qr-code
 
 📒 Arduino LED dot-matrix display QR code
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 5930
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [puppeteer-deterministic-screenshot](https://github.com/TomasHubelbauer/puppeteer-deterministic-screenshot)
 
@@ -186,6 +186,14 @@
 
 📒 Pondering about whether Puppeteer screenshots are deterministic
 
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 5026
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
 ## [onewheel](https://github.com/TomasHubelbauer/onewheel)
 
 ⚖️ 4904
@@ -193,14 +201,6 @@
 🏷 onewheel
 
 📒 A collection of links relating to the Onewheel
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 4829
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
 
@@ -356,7 +356,7 @@
 
 ## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
 
-⚖️ 921
+⚖️ 924
 
 🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
 
@@ -642,6 +642,14 @@
 
 📒 Provides a context menu option to mount ZIP archives as a virtual file system in the VS Code Explorer pane.
 
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 174
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
 ## [html-responsive-table](https://github.com/TomasHubelbauer/html-responsive-table)
 
 ⚖️ 172
@@ -657,14 +665,6 @@
 🏷 canvas, chromatic-abberation, html
 
 📒 The chromatic abberation effect implemented in HTML canvas
-
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 165
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
 
 ## [indexed-db](https://github.com/TomasHubelbauer/indexed-db)
 
@@ -866,6 +866,14 @@
 
 📒 VS Code extension adding support for ?search and #fragment in ESM module specifiers
 
+## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
+
+⚖️ 76
+
+🏷 babel, babel-sourcemap, sourcemap
+
+📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
+
 ## [markright-vscode](https://github.com/TomasHubelbauer/markright-vscode)
 
 ⚖️ 76
@@ -905,14 +913,6 @@
 🏷 3d-model, 3d-print, stl
 
 📒 Phone organizer 3D model
-
-## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
-
-⚖️ 69
-
-🏷 babel, babel-sourcemap, sourcemap
-
-📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
 ## [ado-bookmarklet](https://github.com/TomasHubelbauer/ado-bookmarklet)
 
@@ -1026,6 +1026,14 @@
 
 📒 An idea for serving sites from a home server through a WebRTC based frame site
 
+## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
+
+⚖️ 38
+
+🏷 ast, cra, create-react-app, localization
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
+
 ## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
 
 ⚖️ 35
@@ -1041,14 +1049,6 @@
 🏷 jira, markdown, vscode, vscode-extension
 
 📒 VS Code extension to highlight Jira links in MarkDown
-
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
-
-⚖️ 34
-
-🏷 ast, cra, create-react-app, localization
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [github-issues-git-notes-demo](https://github.com/TomasHubelbauer/github-issues-git-notes-demo)
 

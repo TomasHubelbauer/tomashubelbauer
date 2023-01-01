@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2022-12-30T20:03:50.929Z
+2023-01-01T23:05:45.884Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2810,14 +2810,6 @@
 
 📒 My exploration of the Fastmail API
 
-## [cra](https://github.com/TomasHubelbauer/cra)
-
-⚖️ 2022-09-28T16:37:20Z
-
-🏷 cra, create-react-app
-
-📒 Create React App sample
-
 ## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
 
 ⚖️ 2022-09-29T10:22:56Z
@@ -3153,4 +3145,12 @@
 🏷 babel, babel-sourcemap, sourcemap
 
 📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
+
+## [cra](https://github.com/TomasHubelbauer/cra)
+
+⚖️ 2022-12-31T13:25:39Z
+
+🏷 cra, create-react-app
+
+📒 Create React App sample
 

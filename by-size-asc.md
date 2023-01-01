@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2022-12-30T20:03:50.937Z
+2023-01-01T23:05:45.891Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2106,14 +2106,6 @@
 
 📒 A script for storing GitHub Issues in Git notes.
 
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
-
-⚖️ 34
-
-🏷 ast, cra, create-react-app, localization
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
-
 ## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
 
 ⚖️ 35
@@ -2129,6 +2121,14 @@
 🏷 jira, markdown, vscode, vscode-extension
 
 📒 VS Code extension to highlight Jira links in MarkDown
+
+## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
+
+⚖️ 38
+
+🏷 ast, cra, create-react-app, localization
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [webrtc-bridge](https://github.com/TomasHubelbauer/webrtc-bridge)
 
@@ -2242,14 +2242,6 @@
 
 📒 ADO bookmarklet
 
-## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
-
-⚖️ 69
-
-🏷 babel, babel-sourcemap, sourcemap
-
-📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
-
 ## [phone-organizer](https://github.com/TomasHubelbauer/phone-organizer)
 
 ⚖️ 70
@@ -2273,6 +2265,14 @@
 🏷 supabase, supabase-auth
 
 📒 A demonstration of Supabase Auth
+
+## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
+
+⚖️ 76
+
+🏷 babel, babel-sourcemap, sourcemap
+
+📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
 ## [markright-vscode](https://github.com/TomasHubelbauer/markright-vscode)
 
@@ -2490,14 +2490,6 @@
 
 📒 An IndexedDB exploration repository
 
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 165
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
-
 ## [canvas-chromatic-aberration](https://github.com/TomasHubelbauer/canvas-chromatic-aberration)
 
 ⚖️ 171
@@ -2513,6 +2505,14 @@
 🏷 html, responsive-table
 
 📒 An experimental HTML responsive table component
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 174
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
 
 ## [vscode-zip-file-system](https://github.com/TomasHubelbauer/vscode-zip-file-system)
 
@@ -2796,7 +2796,7 @@
 
 ## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
 
-⚖️ 921
+⚖️ 924
 
 🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
 
@@ -2954,14 +2954,6 @@
 
 📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 4829
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [onewheel](https://github.com/TomasHubelbauer/onewheel)
 
 ⚖️ 4904
@@ -2969,6 +2961,14 @@
 🏷 onewheel
 
 📒 A collection of links relating to the Onewheel
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 5026
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [puppeteer-deterministic-screenshot](https://github.com/TomasHubelbauer/puppeteer-deterministic-screenshot)
 
@@ -2978,14 +2978,6 @@
 
 📒 Pondering about whether Puppeteer screenshots are deterministic
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 5930
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
 ⚖️ 5992
@@ -2993,6 +2985,14 @@
 🏷 arduino, arduino-qr, dot-matrix, led-matrix, ledcontrol, max7219, qr, qr-code
 
 📒 Arduino LED dot-matrix display QR code
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 6036
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [css-merry-go-round](https://github.com/TomasHubelbauer/css-merry-go-round)
 
@@ -3084,7 +3084,7 @@
 
 ## [cra](https://github.com/TomasHubelbauer/cra)
 
-⚖️ 28475
+⚖️ 29121
 
 🏷 cra, create-react-app
 
