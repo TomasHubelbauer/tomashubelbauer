@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-01-01T00:13:57.257Z
+2023-01-01T01:31:58.967Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3122,14 +3122,6 @@
 
 📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2022-12-31T14:02:51Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
 ⚖️ 2022-12-31T16:28:22Z
@@ -3138,14 +3130,6 @@
 
 📒 My personal website
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2022-12-31T23:05:38Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [cra](https://github.com/TomasHubelbauer/cra)
 
 ⚖️ 2023-01-01T00:04:24Z
@@ -3153,4 +3137,20 @@
 🏷 cra, create-react-app
 
 📒 Create React App sample
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2023-01-01T00:15:55Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2023-01-01T00:21:27Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
