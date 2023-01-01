@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2022-12-31T23:03:41.248Z
+2023-01-01T00:13:57.258Z
+
+## [cra](https://github.com/TomasHubelbauer/cra)
+
+⚖️ 2023-01-01T00:04:24Z
+
+🏷 cra, create-react-app
+
+📒 Create React App sample
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2022-12-31T22:05:48Z
+⚖️ 2022-12-31T23:05:38Z
 
 🏷 tomashubelbauer
 
@@ -33,14 +41,6 @@
 🏷 ast, cra, create-react-app, localization
 
 📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
-
-## [cra](https://github.com/TomasHubelbauer/cra)
-
-⚖️ 2022-12-31T13:28:49Z
-
-🏷 cra, create-react-app
-
-📒 Create React App sample
 
 ## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
 
