@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-02T13:07:26.270Z
+2023-01-02T14:03:54.523Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -1594,6 +1594,14 @@
 
 📒 Tips and tricks for using Git
 
+## [git-worktree](https://github.com/TomasHubelbauer/git-worktree)
+
+⚖️ 10
+
+🏷 
+
+📒 null
+
 ## [esm-import-map](https://github.com/TomasHubelbauer/esm-import-map)
 
 ⚖️ 10
@@ -3121,14 +3129,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [git-worktree](https://github.com/TomasHubelbauer/git-worktree)
-
-⚖️ 0
-
-🏷 
-
-📒 null
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 

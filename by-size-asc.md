@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2023-01-02T13:07:26.268Z
-
-## [git-worktree](https://github.com/TomasHubelbauer/git-worktree)
-
-⚖️ 0
-
-🏷 
-
-📒 null
+2023-01-02T14:03:54.521Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -1505,6 +1497,14 @@
 🏷 dom, local-storage
 
 📒 DOM local storage performance experiment
+
+## [git-worktree](https://github.com/TomasHubelbauer/git-worktree)
+
+⚖️ 10
+
+🏷 
+
+📒 null
 
 ## [esm-import-map](https://github.com/TomasHubelbauer/esm-import-map)
 
