@@ -117,8 +117,20 @@ for (const [field, order] of [['name', 'asc'], ['name', 'desc'], ['updated_at', 
   console.group(`Generating list by ${field} ${order}…`);
 
   repositories.sort((a, b) => {
+    // Use strict equality checks not `!field` to accept zeros
     const aField = a[field];
+    if (aField === null || aField === undefined) {
+      console.log(`Empty '${field}' field:`);
+      console.log(a);
+    }
+    
+    // Use strict equality checks not `!field` to accept zeros
     const bField = b[field];
+    if (bField === null || bField === undefined) {
+      console.log(`Empty '${field}' field:`);
+      console.log(b);
+    }
+    
     const sortOrder = `${typeof aField}-${typeof bField}-${order}`; 
     switch (sortOrder) {
       case 'string-string-asc': return aField.localeCompare(bField);
