@@ -125,7 +125,7 @@ for (const [field, order] of [['name', 'asc'], ['name', 'desc'], ['updated_at', 
       case 'string-string-desc': return bField.localeCompare(aField);
       case 'number-number-asc': return aField - bField;
       case 'number-number-desc': return bField - aField;
-      default: throw new Error(`No or incorrect sort order was specified: '${sortOrder}'. Pass sortOrder!`);
+      default: throw new Error(`No or incorrect sort order was specified: '${sortOrder}'. Pass sortOrder! Field: ${field}. aField: ${aField}. bField: ${bField}.`);
     }
   });
 
