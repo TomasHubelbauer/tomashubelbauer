@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-01-01T23:47:39.932Z
+2023-01-02T00:12:08.956Z
+
+## [cra](https://github.com/TomasHubelbauer/cra)
+
+⚖️ 2023-01-02T00:04:35Z
+
+🏷 cra, create-react-app
+
+📒 Create React App sample
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-01T23:46:44Z
+⚖️ 2023-01-01T23:49:36Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [cra](https://github.com/TomasHubelbauer/cra)
-
-⚖️ 2023-01-01T00:04:24Z
-
-🏷 cra, create-react-app
-
-📒 Create React App sample
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
