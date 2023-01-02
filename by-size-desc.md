@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-01T23:41:27.672Z
+2023-01-02T05:03:49.045Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -68,7 +68,7 @@
 
 ## [cra](https://github.com/TomasHubelbauer/cra)
 
-⚖️ 29121
+⚖️ 29153
 
 🏷 cra, create-react-app
 
@@ -164,7 +164,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 6036
+⚖️ 6797
 
 🏷 tomashubelbauer
 
@@ -188,7 +188,7 @@
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
-⚖️ 5026
+⚖️ 5065
 
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
