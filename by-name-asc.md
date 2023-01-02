@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-01-02T12:04:51.394Z
+2023-01-02T13:07:26.253Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -1049,6 +1049,14 @@
 🏷 git, gitmodules, submodule
 
 📒 Investigating if a Git submodule can be added by hand
+
+## [git-worktree](https://github.com/TomasHubelbauer/git-worktree)
+
+⚖️ git-worktree
+
+🏷 
+
+📒 null
 
 ## [github](https://github.com/TomasHubelbauer/github)
 
