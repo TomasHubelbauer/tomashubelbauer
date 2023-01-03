@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-01-03T18:04:27.399Z
+2023-01-03T19:03:44.933Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -2770,14 +2770,6 @@
 
 📒 Binding CRA to various host names and subdomains
 
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
-
-⚖️ cra-ast-localize
-
-🏷 ast, cra, create-react-app, localization
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
-
 ## [cosmos-net-sdk](https://github.com/TomasHubelbauer/cosmos-net-sdk)
 
 ⚖️ cosmos-net-sdk
@@ -3041,6 +3033,14 @@
 🏷 async-await
 
 📒 The website of async-await.net
+
+## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
+
+⚖️ ast-localizer
+
+🏷 ast, cra, create-react-app, localization
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [asp-pdf](https://github.com/TomasHubelbauer/asp-pdf)
 

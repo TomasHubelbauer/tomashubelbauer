@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-01-03T18:04:27.396Z
+2023-01-03T19:03:44.930Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -113,6 +113,14 @@
 🏷 asp, asp-net, asp-net-core, pdf
 
 📒 An example of printing a PDF using a .NET Core port of PDFSharp and using Chrome
+
+## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
+
+⚖️ ast-localizer
+
+🏷 ast, cra, create-react-app, localization
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [async-await.net](https://github.com/TomasHubelbauer/async-await.net)
 
@@ -377,14 +385,6 @@
 🏷 cosmos-db, dotnet, dotnet-core, net, sdk
 
 📒 Info about the Cosmos .NET SDK
-
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
-
-⚖️ cra-ast-localize
-
-🏷 ast, cra, create-react-app, localization
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [cra-hosts](https://github.com/TomasHubelbauer/cra-hosts)
 

@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-01-03T18:04:27.403Z
+2023-01-03T19:03:44.937Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -417,14 +417,6 @@
 🏷 cinema, cinestar
 
 📒 CineStar cinema monitor and premiere reporter
-
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
-
-⚖️ 2022-04-14T19:56:46Z
-
-🏷 ast, cra, create-react-app, localization
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [dapper-sqlite](https://github.com/TomasHubelbauer/dapper-sqlite)
 
@@ -3153,4 +3145,12 @@
 🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
 
 📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
+
+## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
+
+⚖️ 2023-01-03T18:50:48Z
+
+🏷 ast, cra, create-react-app, localization
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 

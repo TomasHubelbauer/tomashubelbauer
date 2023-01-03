@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-03T18:04:27.417Z
+2023-01-03T19:03:44.949Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -1018,7 +1018,7 @@
 
 📒 An idea for serving sites from a home server through a WebRTC based frame site
 
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
+## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
 
 ⚖️ 38
 

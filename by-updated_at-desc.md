@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-01-03T18:04:27.405Z
+2023-01-03T19:03:44.938Z
+
+## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
+
+⚖️ 2023-01-03T18:50:48Z
+
+🏷 ast, cra, create-react-app, localization
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
 
@@ -2729,14 +2737,6 @@
 🏷 dapper, sqlite
 
 📒 Looking into using Dapper with SQLite
-
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
-
-⚖️ 2022-04-14T19:56:46Z
-
-🏷 ast, cra, create-react-app, localization
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [cinestar](https://github.com/TomasHubelbauer/cinestar)
 

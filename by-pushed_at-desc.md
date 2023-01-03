@@ -1,10 +1,10 @@
 # By `pushed_at` (desc)
 
-2023-01-03T18:04:27.409Z
+2023-01-03T19:03:44.943Z
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-03T17:05:49Z
+⚖️ 2023-01-03T18:06:23Z
 
 🏷 tomashubelbauer
 
@@ -34,7 +34,7 @@
 
 📒 My personal website
 
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
+## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
 
 ⚖️ 2022-12-31T13:43:31Z
 

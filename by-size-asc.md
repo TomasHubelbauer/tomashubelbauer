@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-01-03T18:04:27.414Z
+2023-01-03T19:03:44.946Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2130,7 +2130,7 @@
 
 📒 VS Code extension to highlight Jira links in MarkDown
 
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
+## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
 
 ⚖️ 38
 
