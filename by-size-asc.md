@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-01-03T22:03:52.697Z
+2023-01-03T23:03:56.581Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -1730,14 +1730,6 @@
 
 📒 Scrapes Spotify for Artists and sends an email digest
 
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 15
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
-
 ## [asp-pdf](https://github.com/TomasHubelbauer/asp-pdf)
 
 ⚖️ 15
@@ -1905,6 +1897,14 @@
 🏷 cinema, cinestar
 
 📒 CineStar cinema monitor and premiere reporter
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 21
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [mime-multipart](https://github.com/TomasHubelbauer/mime-multipart)
 

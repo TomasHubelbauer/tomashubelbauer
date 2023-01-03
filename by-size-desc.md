@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-03T22:03:52.699Z
+2023-01-03T23:03:56.583Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -1234,6 +1234,14 @@
 
 📒 An application for timestamping audio and video streams for lyrics videos, subtitles etc.
 
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 21
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
+
 ## [mime-multipart](https://github.com/TomasHubelbauer/mime-multipart)
 
 ⚖️ 21
@@ -1393,14 +1401,6 @@
 🏷 editor, web-components
 
 📒 An editor web component which reports the specific changes of its value
-
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 15
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [asp-pdf](https://github.com/TomasHubelbauer/asp-pdf)
 
