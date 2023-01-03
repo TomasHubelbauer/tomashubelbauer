@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-01-02T09:03:54.239Z
+2023-01-03T15:04:02.235Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -2105,6 +2105,14 @@
 🏷 github, knowledge-base
 
 📒 Random trivia about GitHub I figured to keep
+
+## [git-worktree](https://github.com/TomasHubelbauer/git-worktree)
+
+⚖️ git-worktree
+
+🏷 
+
+📒 null
 
 ## [git-submodule](https://github.com/TomasHubelbauer/git-submodule)
 

@@ -29,6 +29,11 @@ export default async function downloadPages(url) {
     
     // Save response to a file marked to be uploaded as an artifact for debugging
     await fs.promises.writeFile(`${url.match(/\w+/g).join('-')}.${response.status}.artifact.json`, JSON.stringify(data, null, 2));
+    
+    // GitHub Search API has a secondary rate limit which can report remaining calls but fail with a 403 still :(
+    if (response.status !== 200) {
+      throw new Error(`Errored (${response.status}) mid-way paging while on URL ${url}`);
+    }
 
     if (Array.isArray(data)) {
       result.push(...data);

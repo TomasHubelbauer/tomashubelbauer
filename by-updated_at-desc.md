@@ -1,6 +1,22 @@
 # By `updated_at` (desc)
 
-2023-01-02T09:03:54.243Z
+2023-01-03T15:04:02.240Z
+
+## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
+
+⚖️ 2023-01-03T06:41:36Z
+
+🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
+
+📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
+
+## [git-worktree](https://github.com/TomasHubelbauer/git-worktree)
+
+⚖️ 2023-01-02T12:45:04Z
+
+🏷 
+
+📒 null
 
 ## [cra](https://github.com/TomasHubelbauer/cra)
 
@@ -465,14 +481,6 @@
 🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
-
-## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
-
-⚖️ 2022-08-16T11:48:39Z
-
-🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
-
-📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
 
 ## [windows-sandbox-script](https://github.com/TomasHubelbauer/windows-sandbox-script)
 
