@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-01-02T23:03:53.328Z
+2023-01-03T00:11:19.401Z
 
 ## [git-worktree](https://github.com/TomasHubelbauer/git-worktree)
 
