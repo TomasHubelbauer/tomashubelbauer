@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-03T21:03:42.287Z
+2023-01-03T22:03:52.699Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -164,7 +164,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 5710
+⚖️ 5902
 
 🏷 tomashubelbauer
 
@@ -1393,6 +1393,14 @@
 🏷 editor, web-components
 
 📒 An editor web component which reports the specific changes of its value
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 15
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [asp-pdf](https://github.com/TomasHubelbauer/asp-pdf)
 
@@ -3121,14 +3129,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 0
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 

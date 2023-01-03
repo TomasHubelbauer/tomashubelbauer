@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2023-01-03T21:03:42.285Z
-
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 0
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
+2023-01-03T22:03:52.697Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -1738,6 +1730,14 @@
 
 📒 Scrapes Spotify for Artists and sends an email digest
 
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 15
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
+
 ## [asp-pdf](https://github.com/TomasHubelbauer/asp-pdf)
 
 ⚖️ 15
@@ -2996,7 +2996,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 5710
+⚖️ 5902
 
 🏷 tomashubelbauer
 
