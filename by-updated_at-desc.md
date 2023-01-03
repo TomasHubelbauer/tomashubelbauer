@@ -1,12 +1,12 @@
 # By `updated_at` (desc)
 
-2023-01-03T19:03:44.938Z
+2023-01-03T20:04:12.252Z
 
 ## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
 
-⚖️ 2023-01-03T18:50:48Z
+⚖️ 2023-01-03T19:08:24Z
 
-🏷 ast, cra, create-react-app, localization
+🏷 ast, cra, create-react-app, i18n, internationalization, localization, translation
 
 📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 

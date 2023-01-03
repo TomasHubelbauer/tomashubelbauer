@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-01-03T19:03:44.941Z
+2023-01-03T20:04:12.254Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3114,14 +3114,6 @@
 
 📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
 
-## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
-
-⚖️ 2022-12-31T13:43:31Z
-
-🏷 ast, cra, create-react-app, localization
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
-
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
 ⚖️ 2022-12-31T16:28:22Z
@@ -3148,9 +3140,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-03T18:06:23Z
+⚖️ 2023-01-03T19:05:42Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
+
+⚖️ 2023-01-03T19:28:51Z
+
+🏷 ast, cra, create-react-app, i18n, internationalization, localization, translation
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 

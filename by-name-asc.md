@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-01-03T19:03:44.930Z
+2023-01-03T20:04:12.246Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -118,7 +118,7 @@
 
 ⚖️ ast-localizer
 
-🏷 ast, cra, create-react-app, localization
+🏷 ast, cra, create-react-app, i18n, internationalization, localization, translation
 
 📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 

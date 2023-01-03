@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-01-03T19:03:44.946Z
+2023-01-03T20:04:12.258Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2134,7 +2134,7 @@
 
 ⚖️ 38
 
-🏷 ast, cra, create-react-app, localization
+🏷 ast, cra, create-react-app, i18n, internationalization, localization, translation
 
 📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
@@ -2978,14 +2978,6 @@
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 5520
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [puppeteer-deterministic-screenshot](https://github.com/TomasHubelbauer/puppeteer-deterministic-screenshot)
 
 ⚖️ 5535
@@ -2993,6 +2985,14 @@
 🏷 deterministic, jpg, png, puppeteer, reproducible-builds, screenshot
 
 📒 Pondering about whether Puppeteer screenshots are deterministic
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 5710
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 

@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-01-03T19:03:44.943Z
+2023-01-03T20:04:12.256Z
+
+## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
+
+⚖️ 2023-01-03T19:28:51Z
+
+🏷 ast, cra, create-react-app, i18n, internationalization, localization, translation
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-03T18:06:23Z
+⚖️ 2023-01-03T19:05:42Z
 
 🏷 tomashubelbauer
 
@@ -33,14 +41,6 @@
 🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
 
 📒 My personal website
-
-## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
-
-⚖️ 2022-12-31T13:43:31Z
-
-🏷 ast, cra, create-react-app, localization
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
 

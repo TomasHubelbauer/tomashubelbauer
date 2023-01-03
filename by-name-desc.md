@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-01-03T19:03:44.933Z
+2023-01-03T20:04:12.249Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -3038,7 +3038,7 @@
 
 ⚖️ ast-localizer
 
-🏷 ast, cra, create-react-app, localization
+🏷 ast, cra, create-react-app, i18n, internationalization, localization, translation
 
 📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
