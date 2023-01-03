@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-01-03T16:04:35.183Z
+2023-01-03T17:03:52.879Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -377,14 +377,6 @@
 🏷 cosmos-db, dotnet, dotnet-core, net, sdk
 
 📒 Info about the Cosmos .NET SDK
-
-## [cra](https://github.com/TomasHubelbauer/cra)
-
-⚖️ cra
-
-🏷 cra, create-react-app
-
-📒 Create React App sample
 
 ## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
 

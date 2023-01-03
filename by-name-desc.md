@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-01-03T16:04:35.185Z
+2023-01-03T17:03:52.881Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -2777,14 +2777,6 @@
 🏷 ast, cra, create-react-app, localization
 
 📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
-
-## [cra](https://github.com/TomasHubelbauer/cra)
-
-⚖️ cra
-
-🏷 cra, create-react-app
-
-📒 Create React App sample
 
 ## [cosmos-net-sdk](https://github.com/TomasHubelbauer/cosmos-net-sdk)
 

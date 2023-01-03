@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-01-03T16:04:35.194Z
+2023-01-03T17:03:52.887Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3138,14 +3138,6 @@
 
 📒 null
 
-## [cra](https://github.com/TomasHubelbauer/cra)
-
-⚖️ 2023-01-03T00:03:57Z
-
-🏷 cra, create-react-app
-
-📒 Create React App sample
-
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
 ⚖️ 2023-01-03T00:18:44Z
@@ -3156,7 +3148,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-03T15:12:35Z
+⚖️ 2023-01-03T16:06:31Z
 
 🏷 tomashubelbauer
 

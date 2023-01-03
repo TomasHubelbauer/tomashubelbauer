@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-01-03T16:04:35.189Z
+2023-01-03T17:03:52.883Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3137,14 +3137,6 @@
 🏷 babel, babel-sourcemap, sourcemap
 
 📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
-
-## [cra](https://github.com/TomasHubelbauer/cra)
-
-⚖️ 2022-12-31T13:25:39Z
-
-🏷 cra, create-react-app
-
-📒 Create React App sample
 
 ## [git-worktree](https://github.com/TomasHubelbauer/git-worktree)
 

@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-01-03T16:04:35.191Z
+2023-01-03T17:03:52.884Z
 
 ## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
 
@@ -17,14 +17,6 @@
 🏷 
 
 📒 null
-
-## [cra](https://github.com/TomasHubelbauer/cra)
-
-⚖️ 2022-12-31T13:25:39Z
-
-🏷 cra, create-react-app
-
-📒 Create React App sample
 
 ## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
 

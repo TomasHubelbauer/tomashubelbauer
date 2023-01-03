@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-03T16:04:35.203Z
+2023-01-03T17:03:52.893Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -65,14 +65,6 @@
 🏷 benchmark, comparison, qr, qr-code, qr-codes, qrcode, qrcode-reader, qrcode-scanner
 
 📒 A comparison of JavaScript QR scanner libraries
-
-## [cra](https://github.com/TomasHubelbauer/cra)
-
-⚖️ 29448
-
-🏷 cra, create-react-app
-
-📒 Create React App sample
 
 ## [globus](https://github.com/TomasHubelbauer/globus)
 
@@ -180,7 +172,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 5139
+⚖️ 5330
 
 🏷 tomashubelbauer
 

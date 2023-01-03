@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-01-03T16:04:35.200Z
+2023-01-03T17:03:52.890Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2980,7 +2980,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 5139
+⚖️ 5330
 
 🏷 tomashubelbauer
 
@@ -3089,14 +3089,6 @@
 🏷 globus, pdf-scraping, puppeteer, puppeteer-firefox
 
 📒 Scrapes the Globus PDF catalogue using Puppeteer
-
-## [cra](https://github.com/TomasHubelbauer/cra)
-
-⚖️ 29448
-
-🏷 cra, create-react-app
-
-📒 Create React App sample
 
 ## [js-qr-scanner-library-comparison](https://github.com/TomasHubelbauer/js-qr-scanner-library-comparison)
 
