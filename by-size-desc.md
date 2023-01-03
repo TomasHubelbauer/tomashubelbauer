@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-03T20:04:12.261Z
+2023-01-03T21:03:42.287Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -457,6 +457,14 @@
 🏷 g11n, globalization, globe, i18n, internalization, l10n, localization
 
 📒 Performance measurements of the Globe library compared to Intl and Moment
+
+## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
+
+⚖️ 407
+
+🏷 ast, cra, create-react-app, i18n, internationalization, localization, translation
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [electron-xvfb](https://github.com/TomasHubelbauer/electron-xvfb)
 
@@ -1017,14 +1025,6 @@
 🏷 hotp, ice, nat, otp, sdp, totp, web-server, webrtc, webrtc-data-channel
 
 📒 An idea for serving sites from a home server through a WebRTC based frame site
-
-## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
-
-⚖️ 38
-
-🏷 ast, cra, create-react-app, i18n, internationalization, localization, translation
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
 
@@ -3121,6 +3121,14 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 0
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 

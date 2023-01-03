@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-01-03T20:04:12.249Z
+2023-01-03T21:03:42.275Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -737,6 +737,14 @@
 🏷 javascript, sqlite, sqlite-database
 
 📒 SQLite database file parser in pure JavaScript
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ spotify-slack-status
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [spotify-artists](https://github.com/TomasHubelbauer/spotify-artists)
 

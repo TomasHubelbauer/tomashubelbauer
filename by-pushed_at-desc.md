@@ -1,6 +1,22 @@
 # By `pushed_at` (desc)
 
-2023-01-03T20:04:12.256Z
+2023-01-03T21:03:42.283Z
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 2023-01-03T21:02:03Z
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2023-01-03T20:06:07Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
 
@@ -9,14 +25,6 @@
 🏷 ast, cra, create-react-app, i18n, internationalization, localization, translation
 
 📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2023-01-03T19:05:42Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 

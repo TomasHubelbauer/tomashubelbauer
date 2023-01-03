@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-01-03T20:04:12.246Z
+2023-01-03T21:03:42.273Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -2417,6 +2417,14 @@
 🏷 spotify, spotify-for-artists
 
 📒 Scrapes Spotify for Artists and sends an email digest
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ spotify-slack-status
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [sqlite-javascript](https://github.com/TomasHubelbauer/sqlite-javascript)
 

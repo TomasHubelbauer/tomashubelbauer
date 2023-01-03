@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-01-03T20:04:12.252Z
+2023-01-03T21:03:42.280Z
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 2023-01-03T20:16:09Z
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
 

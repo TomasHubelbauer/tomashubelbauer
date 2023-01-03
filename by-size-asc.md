@@ -1,6 +1,14 @@
 # By `size` (asc)
 
-2023-01-03T20:04:12.258Z
+2023-01-03T21:03:42.285Z
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 0
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2130,14 +2138,6 @@
 
 📒 VS Code extension to highlight Jira links in MarkDown
 
-## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
-
-⚖️ 38
-
-🏷 ast, cra, create-react-app, i18n, internationalization, localization, translation
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
-
 ## [webrtc-bridge](https://github.com/TomasHubelbauer/webrtc-bridge)
 
 ⚖️ 39
@@ -2697,6 +2697,14 @@
 🏷 elecron, xvfb
 
 📒 Running Electron in XVFB
+
+## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
+
+⚖️ 407
+
+🏷 ast, cra, create-react-app, i18n, internationalization, localization, translation
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [globe-perf](https://github.com/TomasHubelbauer/globe-perf)
 
