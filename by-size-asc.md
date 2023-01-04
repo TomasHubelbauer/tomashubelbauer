@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-01-04T13:07:55.511Z
+2023-01-04T14:03:47.216Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
