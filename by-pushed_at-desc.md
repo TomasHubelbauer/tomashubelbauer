@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-01-04T00:11:54.775Z
+2023-01-04T01:31:17.746Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2023-01-04T00:18:21Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-03T23:05:51Z
+⚖️ 2023-01-04T00:13:50Z
 
 🏷 tomashubelbauer
 
@@ -25,14 +33,6 @@
 🏷 ast, cra, create-react-app, i18n, internationalization, localization, translation
 
 📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2023-01-03T00:18:44Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [git-worktree](https://github.com/TomasHubelbauer/git-worktree)
 
