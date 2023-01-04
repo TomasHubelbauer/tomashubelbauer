@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-03T23:03:56.583Z
+2023-01-04T00:11:54.781Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -154,6 +154,14 @@
 
 📒 CSS solution for a "merry-go-round" style sliding showcase
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 6091
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
 ⚖️ 5992
@@ -161,14 +169,6 @@
 🏷 arduino, arduino-qr, dot-matrix, led-matrix, ledcontrol, max7219, qr, qr-code
 
 📒 Arduino LED dot-matrix display QR code
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 5902
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [puppeteer-deterministic-screenshot](https://github.com/TomasHubelbauer/puppeteer-deterministic-screenshot)
 
@@ -1194,6 +1194,14 @@
 
 📒 Pure Node websocket client
 
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 24
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
+
 ## [swift-headphones-button](https://github.com/TomasHubelbauer/swift-headphones-button)
 
 ⚖️ 24
@@ -1233,14 +1241,6 @@
 🏷 subtitles, timestamps
 
 📒 An application for timestamping audio and video streams for lyrics videos, subtitles etc.
-
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 21
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [mime-multipart](https://github.com/TomasHubelbauer/mime-multipart)
 

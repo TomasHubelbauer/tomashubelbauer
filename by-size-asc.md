@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-01-03T23:03:56.581Z
+2023-01-04T00:11:54.779Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -1898,14 +1898,6 @@
 
 📒 CineStar cinema monitor and premiere reporter
 
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 21
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
-
 ## [mime-multipart](https://github.com/TomasHubelbauer/mime-multipart)
 
 ⚖️ 21
@@ -1953,6 +1945,14 @@
 🏷 html, input, input-range, joystick
 
 📒 HTML input which behaves like a console controller joystick
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 24
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [swift-headphones-button](https://github.com/TomasHubelbauer/swift-headphones-button)
 
@@ -2994,14 +2994,6 @@
 
 📒 Pondering about whether Puppeteer screenshots are deterministic
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 5902
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
 ⚖️ 5992
@@ -3009,6 +3001,14 @@
 🏷 arduino, arduino-qr, dot-matrix, led-matrix, ledcontrol, max7219, qr, qr-code
 
 📒 Arduino LED dot-matrix display QR code
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 6091
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [css-merry-go-round](https://github.com/TomasHubelbauer/css-merry-go-round)
 
