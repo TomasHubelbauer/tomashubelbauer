@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-01-05T12:05:18.727Z
+2023-01-05T13:08:21.145Z
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 2023-01-05T12:55:19Z
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-05T11:05:44Z
+⚖️ 2023-01-05T12:07:15Z
 
 🏷 tomashubelbauer
 
@@ -25,14 +33,6 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 2023-01-03T22:37:56Z
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
 
