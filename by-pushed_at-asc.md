@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-01-05T22:04:01.930Z
+2023-01-05T23:04:06.083Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3106,14 +3106,6 @@
 
 📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
-## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
-
-⚖️ 2022-12-31T00:56:26Z
-
-🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
-
-📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
-
 ## [git-worktree](https://github.com/TomasHubelbauer/git-worktree)
 
 ⚖️ 2023-01-02T13:29:02Z
@@ -3156,9 +3148,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-05T21:06:13Z
+⚖️ 2023-01-05T22:05:58Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
+
+⚖️ 2023-01-05T22:11:32Z
+
+🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
+
+📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
 

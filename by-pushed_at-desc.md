@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-01-05T22:04:01.931Z
+2023-01-05T23:04:06.084Z
+
+## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
+
+⚖️ 2023-01-05T22:11:32Z
+
+🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
+
+📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-05T21:06:13Z
+⚖️ 2023-01-05T22:05:58Z
 
 🏷 tomashubelbauer
 
@@ -49,14 +57,6 @@
 🏷 
 
 📒 null
-
-## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
-
-⚖️ 2022-12-31T00:56:26Z
-
-🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
-
-📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
 
 ## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
 
