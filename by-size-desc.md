@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-05T13:08:21.152Z
+2023-01-05T14:03:52.211Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -1130,6 +1130,14 @@
 
 📒 Trying to lay out and cluster prices and product images in a supermarket PDF
 
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 27
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
+
 ## [yarn-justify](https://github.com/TomasHubelbauer/yarn-justify)
 
 ⚖️ 27
@@ -1193,14 +1201,6 @@
 🏷 cdp, debugger, electron, websocket
 
 📒 Pure Node websocket client
-
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 24
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [swift-headphones-button](https://github.com/TomasHubelbauer/swift-headphones-button)
 

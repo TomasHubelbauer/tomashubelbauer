@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-01-05T13:08:21.149Z
+2023-01-05T14:03:52.208Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -1946,14 +1946,6 @@
 
 📒 HTML input which behaves like a console controller joystick
 
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 24
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
-
 ## [swift-headphones-button](https://github.com/TomasHubelbauer/swift-headphones-button)
 
 ⚖️ 24
@@ -2001,6 +1993,14 @@
 🏷 cloudflare, cloudflare-workers, formdata, multipart
 
 📒 FormData support for Cloudflare Workers
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 27
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [yarn-justify](https://github.com/TomasHubelbauer/yarn-justify)
 
