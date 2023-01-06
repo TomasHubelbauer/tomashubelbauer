@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-01-06T11:03:44.888Z
+2023-01-06T12:04:45.980Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3130,14 +3130,6 @@
 
 📒 My personal website
 
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 2023-01-05T12:55:19Z
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
-
 ## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
 
 ⚖️ 2023-01-05T22:11:32Z
@@ -3156,9 +3148,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-06T10:05:55Z
+⚖️ 2023-01-06T11:05:40Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 2023-01-06T11:47:19Z
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 

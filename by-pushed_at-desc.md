@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-01-06T11:03:44.889Z
+2023-01-06T12:04:45.982Z
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 2023-01-06T11:47:19Z
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-06T10:05:55Z
+⚖️ 2023-01-06T11:05:40Z
 
 🏷 tomashubelbauer
 
@@ -25,14 +33,6 @@
 🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
 
 📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
-
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 2023-01-05T12:55:19Z
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
