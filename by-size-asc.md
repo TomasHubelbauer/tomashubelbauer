@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-01-06T12:04:45.988Z
+2023-01-06T13:07:20.435Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -1994,14 +1994,6 @@
 
 📒 FormData support for Cloudflare Workers
 
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 27
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
-
 ## [yarn-justify](https://github.com/TomasHubelbauer/yarn-justify)
 
 ⚖️ 27
@@ -2065,6 +2057,14 @@
 🏷 ios, ios-app, swift, webrtc, webview
 
 📒 A demonstration of using WebRTC to achieve communication between an iOS application and a web page
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 31
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [swift-ui](https://github.com/TomasHubelbauer/swift-ui)
 
@@ -3004,7 +3004,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 6926
+⚖️ 7115
 
 🏷 tomashubelbauer
 

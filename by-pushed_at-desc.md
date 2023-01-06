@@ -1,6 +1,14 @@
 # By `pushed_at` (desc)
 
-2023-01-06T12:04:45.982Z
+2023-01-06T13:07:20.432Z
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2023-01-06T12:06:43Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
 
@@ -9,14 +17,6 @@
 🏷 slack, slack-app, slack-status, spotify
 
 📒 A script for setting the currently playing Spotify song as your Slack status
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2023-01-06T11:05:40Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 

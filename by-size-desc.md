@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-06T12:04:45.991Z
+2023-01-06T13:07:20.438Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -156,7 +156,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 6926
+⚖️ 7115
 
 🏷 tomashubelbauer
 
@@ -1082,6 +1082,14 @@
 
 📒 An app for reading and writing a text file with persistence in the Files app
 
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 31
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
+
 ## [swift-ui](https://github.com/TomasHubelbauer/swift-ui)
 
 ⚖️ 31
@@ -1129,14 +1137,6 @@
 🏷 albert, ocr, pdf
 
 📒 Trying to lay out and cluster prices and product images in a supermarket PDF
-
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 27
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [yarn-justify](https://github.com/TomasHubelbauer/yarn-justify)
 
