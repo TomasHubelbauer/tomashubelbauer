@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-01-06T04:03:57.705Z
+2023-01-06T05:03:56.742Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2866,14 +2866,6 @@
 
 📒 Notes about my solar experiments
 
-## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
-
-⚖️ 2022-10-12T23:31:40Z
-
-🏷 akai, apc-mini, launchpad, midi, usb
-
-📒 Akai APCmini launchpad USB/MIDI communication protocol
-
 ## [node-extract-zip](https://github.com/TomasHubelbauer/node-extract-zip)
 
 ⚖️ 2022-10-13T19:54:29Z
@@ -3161,4 +3153,12 @@
 🏷 slack, slack-app, slack-status, spotify
 
 📒 A script for setting the currently playing Spotify song as your Slack status
+
+## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
+
+⚖️ 2023-01-06T04:25:28Z
+
+🏷 akai, apc-mini, launchpad, midi, usb
+
+📒 Akai APCmini launchpad USB/MIDI communication protocol
 
