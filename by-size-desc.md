@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-05T23:04:06.090Z
+2023-01-06T00:11:50.809Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -164,7 +164,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 5970
+⚖️ 5972
 
 🏷 tomashubelbauer
 
@@ -348,7 +348,7 @@
 
 ## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
 
-⚖️ 924
+⚖️ 926
 
 🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
 
