@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-01-07T16:03:48.832Z
+2023-01-07T17:03:54.964Z
+
+## [node-apng](https://github.com/TomasHubelbauer/node-apng)
+
+⚖️ 2023-01-07T16:13:40Z
+
+🏷 animated-gif, animated-png, animation, apng, javascript, javascript-library, mng, node, npm, png
+
+📒 A JavaScript library for producing an APNG file from a series of PNG image data buffers
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-07T15:05:58Z
+⚖️ 2023-01-07T16:05:45Z
 
 🏷 tomashubelbauer
 
@@ -721,14 +729,6 @@
 🏷 hmr, hot-reload, node
 
 📒 A Node script for keeping a single instance process alive even after the terminal has been closed
-
-## [node-apng](https://github.com/TomasHubelbauer/node-apng)
-
-⚖️ 2022-04-28T08:50:18Z
-
-🏷 animated-gif, animated-png, animation, apng, javascript, javascript-library, mng, node, npm, png
-
-📒 A JavaScript library for producing an APNG file from a series of PNG image data buffers
 
 ## [nim-media-manager](https://github.com/TomasHubelbauer/nim-media-manager)
 
