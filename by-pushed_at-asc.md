@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-01-08T00:13:03.894Z
+2023-01-08T01:31:07.004Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3138,14 +3138,6 @@
 
 📒 A script for setting the currently playing Spotify song as your Slack status
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2023-01-07T00:20:29Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [node-apng](https://github.com/TomasHubelbauer/node-apng)
 
 ⚖️ 2023-01-07T16:13:40Z
@@ -3156,9 +3148,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-07T22:05:48Z
+⚖️ 2023-01-08T00:14:59Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2023-01-08T00:19:51Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
