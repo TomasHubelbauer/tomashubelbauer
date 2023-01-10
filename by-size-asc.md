@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-01-10T00:12:27.689Z
+2023-01-10T01:32:02.319Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2538,6 +2538,14 @@
 
 📒 Binding CRA to various host names and subdomains
 
+## [bases](https://github.com/TomasHubelbauer/bases)
+
+⚖️ 183
+
+🏷 
+
+📒 Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
+
 ## [track-maker](https://github.com/TomasHubelbauer/track-maker)
 
 ⚖️ 191
@@ -2545,14 +2553,6 @@
 🏷 3d-print, 3d-printing, cad, cam, gcode, openscad, stl
 
 📒 A highly specialized tool for designing tracks for 3D printing channels that hold LED strips for creating wall mounted neon-like logos.
-
-## [bases](https://github.com/TomasHubelbauer/bases)
-
-⚖️ 197
-
-🏷 
-
-📒 Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 
 ## [drawer-divider](https://github.com/TomasHubelbauer/drawer-divider)
 
@@ -2980,7 +2980,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 4591
+⚖️ 4594
 
 🏷 tomashubelbauer
 
@@ -2996,7 +2996,7 @@
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
-⚖️ 5426
+⚖️ 5476
 
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
