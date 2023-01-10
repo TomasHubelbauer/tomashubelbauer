@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-01-09T23:04:05.825Z
+2023-01-10T00:12:27.684Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3156,9 +3156,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-09T22:05:47Z
+⚖️ 2023-01-09T23:06:03Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [bases](https://github.com/TomasHubelbauer/bases)
+
+⚖️ 2023-01-10T00:06:54Z
+
+🏷 
+
+📒 Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 

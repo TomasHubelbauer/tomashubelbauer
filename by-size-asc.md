@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-01-09T23:04:05.828Z
+2023-01-10T00:12:27.689Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2546,6 +2546,14 @@
 
 📒 A highly specialized tool for designing tracks for 3D printing channels that hold LED strips for creating wall mounted neon-like logos.
 
+## [bases](https://github.com/TomasHubelbauer/bases)
+
+⚖️ 197
+
+🏷 
+
+📒 Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
+
 ## [drawer-divider](https://github.com/TomasHubelbauer/drawer-divider)
 
 ⚖️ 208
@@ -2972,7 +2980,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 4402
+⚖️ 4591
 
 🏷 tomashubelbauer
 

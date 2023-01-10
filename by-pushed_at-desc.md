@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-01-09T23:04:05.826Z
+2023-01-10T00:12:27.686Z
+
+## [bases](https://github.com/TomasHubelbauer/bases)
+
+⚖️ 2023-01-10T00:06:54Z
+
+🏷 
+
+📒 Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-09T22:05:47Z
+⚖️ 2023-01-09T23:06:03Z
 
 🏷 tomashubelbauer
 

@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-01-09T23:04:05.820Z
+2023-01-10T00:12:27.681Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3161,4 +3161,12 @@
 🏷 arduino, arduino-qr, dot-matrix, led-matrix, ledcontrol, max7219, qr, qr-code
 
 📒 Arduino LED dot-matrix display QR code
+
+## [bases](https://github.com/TomasHubelbauer/bases)
+
+⚖️ 2023-01-09T22:14:32Z
+
+🏷 
+
+📒 Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 

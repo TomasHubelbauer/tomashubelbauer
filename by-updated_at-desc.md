@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-01-09T23:04:05.822Z
+2023-01-10T00:12:27.682Z
+
+## [bases](https://github.com/TomasHubelbauer/bases)
+
+⚖️ 2023-01-09T22:14:32Z
+
+🏷 
+
+📒 Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 

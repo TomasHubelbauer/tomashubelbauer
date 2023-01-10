@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-09T23:04:05.831Z
+2023-01-10T00:12:27.691Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -188,7 +188,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 4402
+⚖️ 4591
 
 🏷 tomashubelbauer
 
@@ -617,6 +617,14 @@
 🏷 3d-model, 3d-printing, stl
 
 📒 A 3D model for a drawer divider
+
+## [bases](https://github.com/TomasHubelbauer/bases)
+
+⚖️ 197
+
+🏷 
+
+📒 Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 
 ## [track-maker](https://github.com/TomasHubelbauer/track-maker)
 

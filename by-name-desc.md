@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-01-09T23:04:05.818Z
+2023-01-10T00:12:27.678Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -3009,6 +3009,14 @@
 🏷 batch, desktop-background, desktop-wallpaper, powershell, wsb
 
 📒 A demonstration of setting desktop wallpaper and background color using Batch
+
+## [bases](https://github.com/TomasHubelbauer/bases)
+
+⚖️ bases
+
+🏷 
+
+📒 Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 
 ## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
 

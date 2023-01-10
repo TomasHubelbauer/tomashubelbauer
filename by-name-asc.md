@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-01-09T23:04:05.816Z
+2023-01-10T00:12:27.677Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -153,6 +153,14 @@
 🏷 babel, babel-sourcemap, sourcemap
 
 📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
+
+## [bases](https://github.com/TomasHubelbauer/bases)
+
+⚖️ bases
+
+🏷 
+
+📒 Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 
 ## [batch-wallpaper](https://github.com/TomasHubelbauer/batch-wallpaper)
 
