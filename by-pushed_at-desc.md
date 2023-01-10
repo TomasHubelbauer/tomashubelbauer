@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-01-10T16:04:47.413Z
+2023-01-10T17:04:09.229Z
+
+## [node-apng](https://github.com/TomasHubelbauer/node-apng)
+
+⚖️ 2023-01-10T16:30:00Z
+
+🏷 animated-gif, animated-png, animation, apng, javascript, javascript-library, mng, node, npm, png
+
+📒 A JavaScript library for producing an APNG file from a series of PNG image data buffers
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-10T15:06:33Z
+⚖️ 2023-01-10T16:06:38Z
 
 🏷 tomashubelbauer
 
@@ -33,14 +41,6 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [node-apng](https://github.com/TomasHubelbauer/node-apng)
-
-⚖️ 2023-01-07T16:13:40Z
-
-🏷 animated-gif, animated-png, animation, apng, javascript, javascript-library, mng, node, npm, png
-
-📒 A JavaScript library for producing an APNG file from a series of PNG image data buffers
 
 ## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
 
