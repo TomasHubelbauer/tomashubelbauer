@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-01-10T11:03:53.092Z
+2023-01-10T12:05:17.281Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3066,14 +3066,6 @@
 
 📒 My personal website
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2022-12-14T23:28:12Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [webrtc-bridge](https://github.com/TomasHubelbauer/webrtc-bridge)
 
 ⚖️ 2022-12-15T06:57:17Z
@@ -3169,4 +3161,12 @@
 🏷 
 
 📒 Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2023-01-10T11:20:18Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
