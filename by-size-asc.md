@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2023-01-10T20:03:58.989Z
-
-## [macos-login-item-shell-script-no-terminal](https://github.com/TomasHubelbauer/macos-login-item-shell-script-no-terminal)
-
-⚖️ 0
-
-🏷 
-
-📒 null
+2023-01-10T21:04:26.696Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -1697,6 +1689,14 @@
 🏷 ast, dom, javascript, markdown, parser, serializer
 
 📒 Javascript Markdown AST/DOM parser and serializer
+
+## [macos-login-item-shell-script-no-terminal](https://github.com/TomasHubelbauer/macos-login-item-shell-script-no-terminal)
+
+⚖️ 14
+
+🏷 
+
+📒 null
 
 ## [instagram](https://github.com/TomasHubelbauer/instagram)
 

@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-10T20:03:58.991Z
+2023-01-10T21:04:26.700Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -1441,6 +1441,14 @@
 🏷 100mbps, open-street-map, osm, prague, prague-geodata
 
 📒 Attempting to compress the OSM data to 100 MB and seeing what fits
+
+## [macos-login-item-shell-script-no-terminal](https://github.com/TomasHubelbauer/macos-login-item-shell-script-no-terminal)
+
+⚖️ 14
+
+🏷 
+
+📒 null
 
 ## [instagram](https://github.com/TomasHubelbauer/instagram)
 
@@ -3137,14 +3145,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [macos-login-item-shell-script-no-terminal](https://github.com/TomasHubelbauer/macos-login-item-shell-script-no-terminal)
-
-⚖️ 0
-
-🏷 
-
-📒 null
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
