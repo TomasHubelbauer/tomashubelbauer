@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-10T21:04:26.700Z
+2023-01-10T22:04:21.699Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -156,7 +156,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 6315
+⚖️ 6505
 
 🏷 tomashubelbauer
 
@@ -1034,6 +1034,14 @@
 
 📒 An idea for serving sites from a home server through a WebRTC based frame site
 
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 38
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
+
 ## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
 
 ⚖️ 35
@@ -1089,14 +1097,6 @@
 🏷 files-app, ios, ios-app, ios-swift, todo-list, todolist
 
 📒 An app for reading and writing a text file with persistence in the Files app
-
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 31
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [swift-ui](https://github.com/TomasHubelbauer/swift-ui)
 

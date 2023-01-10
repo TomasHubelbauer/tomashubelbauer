@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-01-10T21:04:26.696Z
+2023-01-10T22:04:21.696Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2066,14 +2066,6 @@
 
 📒 A demonstration of using WebRTC to achieve communication between an iOS application and a web page
 
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 31
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
-
 ## [swift-ui](https://github.com/TomasHubelbauer/swift-ui)
 
 ⚖️ 31
@@ -2145,6 +2137,14 @@
 🏷 jira, markdown, vscode, vscode-extension
 
 📒 VS Code extension to highlight Jira links in MarkDown
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 38
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [webrtc-bridge](https://github.com/TomasHubelbauer/webrtc-bridge)
 
@@ -3020,7 +3020,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 6315
+⚖️ 6505
 
 🏷 tomashubelbauer
 
