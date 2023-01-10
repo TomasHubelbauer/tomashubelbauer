@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-10T18:04:16.340Z
+2023-01-10T19:03:55.105Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -212,7 +212,7 @@
 
 ## [node-apng](https://github.com/TomasHubelbauer/node-apng)
 
-⚖️ 3500
+⚖️ 3502
 
 🏷 animated-gif, animated-png, animation, apng, javascript, javascript-library, mng, node, npm, png
 

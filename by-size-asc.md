@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-01-10T18:04:16.337Z
+2023-01-10T19:03:55.103Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2956,7 +2956,7 @@
 
 ## [node-apng](https://github.com/TomasHubelbauer/node-apng)
 
-⚖️ 3500
+⚖️ 3502
 
 🏷 animated-gif, animated-png, animation, apng, javascript, javascript-library, mng, node, npm, png
 
