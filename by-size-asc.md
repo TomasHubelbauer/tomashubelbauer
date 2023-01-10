@@ -1,6 +1,14 @@
 # By `size` (asc)
 
-2023-01-10T19:03:55.103Z
+2023-01-10T20:03:58.989Z
+
+## [macos-login-item-shell-script-no-terminal](https://github.com/TomasHubelbauer/macos-login-item-shell-script-no-terminal)
+
+⚖️ 0
+
+🏷 
+
+📒 null
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -3012,7 +3020,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 6124
+⚖️ 6315
 
 🏷 tomashubelbauer
 

@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-01-10T19:03:55.084Z
+2023-01-10T20:03:58.972Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -1609,6 +1609,14 @@
 🏷 am-pm, clock, date-and-time, date-time, g11n, i14n, l10n, mac-os, meridian
 
 📒 My findings about macOS date and time settings
+
+## [macos-login-item-shell-script-no-terminal](https://github.com/TomasHubelbauer/macos-login-item-shell-script-no-terminal)
+
+⚖️ macos-login-item-shell-script-no-terminal
+
+🏷 
+
+📒 null
 
 ## [mapsforge](https://github.com/TomasHubelbauer/mapsforge)
 

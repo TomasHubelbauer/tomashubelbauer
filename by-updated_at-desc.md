@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-01-10T19:03:55.098Z
+2023-01-10T20:03:58.982Z
+
+## [macos-login-item-shell-script-no-terminal](https://github.com/TomasHubelbauer/macos-login-item-shell-script-no-terminal)
+
+⚖️ 2023-01-10T19:50:01Z
+
+🏷 
+
+📒 null
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 

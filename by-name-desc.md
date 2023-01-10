@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-01-10T19:03:55.087Z
+2023-01-10T20:03:58.974Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1561,6 +1561,14 @@
 🏷 mapsforge
 
 📒 MapsForge JavaScript parser
+
+## [macos-login-item-shell-script-no-terminal](https://github.com/TomasHubelbauer/macos-login-item-shell-script-no-terminal)
+
+⚖️ macos-login-item-shell-script-no-terminal
+
+🏷 
+
+📒 null
 
 ## [macos-date-time](https://github.com/TomasHubelbauer/macos-date-time)
 
