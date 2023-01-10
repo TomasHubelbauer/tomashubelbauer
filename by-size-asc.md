@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-01-10T12:05:17.289Z
+2023-01-10T14:04:26.885Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2820,7 +2820,7 @@
 
 ## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
 
-⚖️ 926
+⚖️ 927
 
 🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
 
@@ -3004,7 +3004,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 5739
+⚖️ 5741
 
 🏷 tomashubelbauer
 

@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-01-10T12:05:17.286Z
+2023-01-10T14:04:26.877Z
+
+## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
+
+⚖️ 2023-01-10T12:57:15Z
+
+🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
+
+📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-10T11:05:47Z
+⚖️ 2023-01-10T12:07:11Z
 
 🏷 tomashubelbauer
 
@@ -41,14 +49,6 @@
 🏷 slack, slack-app, slack-status, spotify
 
 📒 A script for setting the currently playing Spotify song as your Slack status
-
-## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
-
-⚖️ 2023-01-05T22:11:32Z
-
-🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
-
-📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
