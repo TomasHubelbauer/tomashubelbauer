@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2023-01-11T13:09:16.514Z
-
-## [firebase-firebase-js-sdk-6928](https://github.com/TomasHubelbauer/firebase-firebase-js-sdk-6928)
-
-⚖️ 0
-
-🏷 
-
-📒 null
+2023-01-11T14:04:26.354Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2361,6 +2353,14 @@
 🏷 todo, todo-comment
 
 📒 A utility to print to-do comments in the current directory recursively.
+
+## [firebase-firebase-js-sdk-6928](https://github.com/TomasHubelbauer/firebase-firebase-js-sdk-6928)
+
+⚖️ 94
+
+🏷 
+
+📒 null
 
 ## [vercel-geo-ip](https://github.com/TomasHubelbauer/vercel-geo-ip)
 
