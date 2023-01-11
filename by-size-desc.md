@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-11T00:11:34.867Z
+2023-01-11T01:31:09.132Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -156,7 +156,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 6699
+⚖️ 6888
 
 🏷 tomashubelbauer
 
@@ -170,6 +170,14 @@
 
 📒 Arduino LED dot-matrix display QR code
 
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 5561
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
 ## [puppeteer-deterministic-screenshot](https://github.com/TomasHubelbauer/puppeteer-deterministic-screenshot)
 
 ⚖️ 5535
@@ -177,14 +185,6 @@
 🏷 deterministic, jpg, png, puppeteer, reproducible-builds, screenshot
 
 📒 Pondering about whether Puppeteer screenshots are deterministic
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 5476
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [onewheel](https://github.com/TomasHubelbauer/onewheel)
 

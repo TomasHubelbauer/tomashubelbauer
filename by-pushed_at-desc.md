@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-01-11T00:11:34.863Z
+2023-01-11T01:31:09.127Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2023-01-11T00:18:38Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-10T23:05:51Z
+⚖️ 2023-01-11T00:13:29Z
 
 🏷 tomashubelbauer
 
@@ -49,14 +57,6 @@
 🏷 
 
 📒 Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2023-01-10T00:20:54Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
