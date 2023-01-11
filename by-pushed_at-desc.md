@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-01-11T17:06:49.358Z
+2023-01-11T18:04:36.295Z
+
+## [node-apng](https://github.com/TomasHubelbauer/node-apng)
+
+⚖️ 2023-01-11T17:20:50Z
+
+🏷 animated-gif, animated-png, animation, apng, javascript, javascript-library, mng, node, npm, png
+
+📒 A JavaScript library for producing an APNG file from a series of PNG image data buffers
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-11T16:09:17Z
+⚖️ 2023-01-11T17:08:52Z
 
 🏷 tomashubelbauer
 
@@ -41,14 +49,6 @@
 🏷 
 
 📒 null
-
-## [node-apng](https://github.com/TomasHubelbauer/node-apng)
-
-⚖️ 2023-01-10T17:56:26Z
-
-🏷 animated-gif, animated-png, animation, apng, javascript, javascript-library, mng, node, npm, png
-
-📒 A JavaScript library for producing an APNG file from a series of PNG image data buffers
 
 ## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
 
