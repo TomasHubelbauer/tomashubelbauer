@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-01-11T12:05:07.810Z
+2023-01-11T13:09:16.506Z
+
+## [firebase-firebase-js-sdk-6928](https://github.com/TomasHubelbauer/firebase-firebase-js-sdk-6928)
+
+⚖️ 2023-01-11T12:23:24Z
+
+🏷 
+
+📒 null
 
 ## [macos-login-item-shell-script-no-terminal](https://github.com/TomasHubelbauer/macos-login-item-shell-script-no-terminal)
 
