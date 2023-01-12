@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-01-12T00:12:39.111Z
+2023-01-12T01:31:22.444Z
 
 ## [firebase-firebase-js-sdk-6928](https://github.com/TomasHubelbauer/firebase-firebase-js-sdk-6928)
 
