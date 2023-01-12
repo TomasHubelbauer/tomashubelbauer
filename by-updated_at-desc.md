@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-01-12T22:04:06.624Z
+2023-01-12T23:04:13.466Z
+
+## [timestamper](https://github.com/TomasHubelbauer/timestamper)
+
+⚖️ 2023-01-12T22:30:13Z
+
+🏷 subtitles, timestamps
+
+📒 An application for timestamping audio and video streams for lyrics videos, subtitles etc.
 
 ## [firebase-firebase-js-sdk-6928](https://github.com/TomasHubelbauer/firebase-firebase-js-sdk-6928)
 
@@ -1513,14 +1521,6 @@
 🏷 todo, todo-comment
 
 📒 A utility to print to-do comments in the current directory recursively.
-
-## [timestamper](https://github.com/TomasHubelbauer/timestamper)
-
-⚖️ 2022-04-16T23:16:17Z
-
-🏷 subtitles, timestamps
-
-📒 An application for timestamping audio and video streams for lyrics videos, subtitles etc.
 
 ## [swift-headphones-button](https://github.com/TomasHubelbauer/swift-headphones-button)
 
