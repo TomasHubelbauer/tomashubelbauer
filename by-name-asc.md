@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-01-12T17:12:41.055Z
+2023-01-12T18:04:38.738Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
