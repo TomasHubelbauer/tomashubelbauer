@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-01-13T09:04:23.613Z
+2023-01-13T10:04:04.589Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3066,14 +3066,6 @@
 
 📒 An idea for serving sites from a home server through a WebRTC based frame site
 
-## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
-
-⚖️ 2022-12-15T10:51:13Z
-
-🏷 esm, nextjs, url-import
-
-📒 NextJS URL imports
-
 ## [vscode-email-viewer](https://github.com/TomasHubelbauer/vscode-email-viewer)
 
 ⚖️ 2022-12-22T10:24:32Z
@@ -3185,4 +3177,12 @@
 🏷 subtitles, timestamps
 
 📒 An application for timestamping audio and video streams for lyrics videos, subtitles etc.
+
+## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
+
+⚖️ 2023-01-13T09:07:54Z
+
+🏷 esm, nextjs, url-import
+
+📒 NextJS URL imports
 
