@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-13T19:03:53.356Z
+2023-01-13T20:04:08.094Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -154,14 +154,6 @@
 
 📒 CSS solution for a "merry-go-round" style sliding showcase
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 7577
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
 ⚖️ 5992
@@ -241,6 +233,14 @@
 🏷 css
 
 📒 My practice redesign of the Stein landing page I liked
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 3018
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [selfie](https://github.com/TomasHubelbauer/selfie)
 
