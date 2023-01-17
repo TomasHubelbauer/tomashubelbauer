@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-01-17T14:04:07.360Z
+2023-01-17T15:04:28.758Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -1714,14 +1714,6 @@
 
 📒 A VS Code extension for simplifying box drawing with Unicode and ASCII
 
-## [vscode-compound-debug-split-terminal](https://github.com/TomasHubelbauer/vscode-compound-debug-split-terminal)
-
-⚖️ 2022-04-16T23:23:17Z
-
-🏷 terminal, vscode
-
-📒 VS Code launch tasks from a compound debugger configuration in individual but split terminals in the Integrated Terminal pane
-
 ## [vscode-markdown-email-link](https://github.com/TomasHubelbauer/vscode-markdown-email-link)
 
 ⚖️ 2022-04-16T23:24:04Z
@@ -3185,4 +3177,12 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
+
+## [vscode-compound-debug-split-terminal](https://github.com/TomasHubelbauer/vscode-compound-debug-split-terminal)
+
+⚖️ 2023-01-17T14:40:22Z
+
+🏷 terminal, vscode
+
+📒 VS Code launch tasks from a compound debugger configuration in individual but split terminals in the Integrated Terminal pane
 

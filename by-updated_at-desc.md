@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-01-17T14:04:07.361Z
+2023-01-17T15:04:28.759Z
+
+## [vscode-compound-debug-split-terminal](https://github.com/TomasHubelbauer/vscode-compound-debug-split-terminal)
+
+⚖️ 2023-01-17T14:40:22Z
+
+🏷 terminal, vscode
+
+📒 VS Code launch tasks from a compound debugger configuration in individual but split terminals in the Integrated Terminal pane
 
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
@@ -1465,14 +1473,6 @@
 🏷 email, markdown, regex-pattern, vscode, vscode-extension, vscode-plugin
 
 📒 VS Code extension to highlight email addresses in MarkDown
-
-## [vscode-compound-debug-split-terminal](https://github.com/TomasHubelbauer/vscode-compound-debug-split-terminal)
-
-⚖️ 2022-04-16T23:23:17Z
-
-🏷 terminal, vscode
-
-📒 VS Code launch tasks from a compound debugger configuration in individual but split terminals in the Integrated Terminal pane
 
 ## [vscode-box-drawing](https://github.com/TomasHubelbauer/vscode-box-drawing)
 
