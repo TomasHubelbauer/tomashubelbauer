@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-01-17T22:03:53.752Z
+2023-01-17T23:04:23.325Z
 
 ## [vscode-compound-debug-split-terminal](https://github.com/TomasHubelbauer/vscode-compound-debug-split-terminal)
 
