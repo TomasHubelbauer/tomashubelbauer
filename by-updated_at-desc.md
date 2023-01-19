@@ -1,10 +1,10 @@
 # By `updated_at` (desc)
 
-2023-01-19T00:12:32.957Z
+2023-01-19T01:32:42.723Z
 
 ## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
 
-⚖️ 2023-01-18T23:37:43Z
+⚖️ 2023-01-19T00:58:06Z
 
 🏷 fuck-you, stale-bot
 

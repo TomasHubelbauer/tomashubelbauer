@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-01-19T00:12:32.955Z
+2023-01-19T01:32:42.720Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3180,7 +3180,7 @@
 
 ## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
 
-⚖️ 2023-01-18T23:37:43Z
+⚖️ 2023-01-19T00:58:06Z
 
 🏷 fuck-you, stale-bot
 
