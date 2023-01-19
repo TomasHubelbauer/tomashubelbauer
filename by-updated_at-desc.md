@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-01-18T23:04:17.768Z
+2023-01-19T00:12:32.957Z
+
+## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
+
+⚖️ 2023-01-18T23:37:43Z
+
+🏷 fuck-you, stale-bot
+
+📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
 ## [vscode-compound-debug-split-terminal](https://github.com/TomasHubelbauer/vscode-compound-debug-split-terminal)
 
@@ -569,14 +577,6 @@
 🏷 onewheel, web-ble, web-bluetooth, web-bluetooth-api
 
 📒 Onewheel Web Bluetooth
-
-## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
-
-⚖️ 2022-07-12T00:11:40Z
-
-🏷 fuck-you, stale-bot
-
-📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
 ## [ef-json-provider](https://github.com/TomasHubelbauer/ef-json-provider)
 

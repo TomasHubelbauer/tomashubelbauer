@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-01-18T23:04:17.766Z
+2023-01-19T00:12:32.955Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2610,14 +2610,6 @@
 
 📒 EF provider operating on JSON files
 
-## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
-
-⚖️ 2022-07-12T00:11:40Z
-
-🏷 fuck-you, stale-bot
-
-📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
-
 ## [onewheel-web-bluetooth](https://github.com/TomasHubelbauer/onewheel-web-bluetooth)
 
 ⚖️ 2022-07-24T22:33:52Z
@@ -3185,4 +3177,12 @@
 🏷 terminal, vscode
 
 📒 VS Code launch tasks from a compound debugger configuration in individual but split terminals in the Integrated Terminal pane
+
+## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
+
+⚖️ 2023-01-18T23:37:43Z
+
+🏷 fuck-you, stale-bot
+
+📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
