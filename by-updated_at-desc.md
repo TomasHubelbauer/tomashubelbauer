@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-01-20T15:04:06.831Z
+2023-01-20T16:04:48.668Z
+
+## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
+
+⚖️ 2023-01-20T15:32:31Z
+
+🏷 fuck-you, stale-bot
+
+📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
 ## [rbc-components](https://github.com/TomasHubelbauer/rbc-components)
 
@@ -9,14 +17,6 @@
 🏷 rbc, react-big-calendar
 
 📒 A tool for exploring the possible values of the RBC components prop.
-
-## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
-
-⚖️ 2023-01-19T07:56:36Z
-
-🏷 fuck-you, stale-bot
-
-📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
 ## [vscode-compound-debug-split-terminal](https://github.com/TomasHubelbauer/vscode-compound-debug-split-terminal)
 

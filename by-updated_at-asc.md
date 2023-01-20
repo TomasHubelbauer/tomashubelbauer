@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-01-20T15:04:06.830Z
+2023-01-20T16:04:48.666Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3170,14 +3170,6 @@
 
 📒 VS Code launch tasks from a compound debugger configuration in individual but split terminals in the Integrated Terminal pane
 
-## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
-
-⚖️ 2023-01-19T07:56:36Z
-
-🏷 fuck-you, stale-bot
-
-📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
-
 ## [rbc-components](https://github.com/TomasHubelbauer/rbc-components)
 
 ⚖️ 2023-01-20T08:45:22Z
@@ -3185,4 +3177,12 @@
 🏷 rbc, react-big-calendar
 
 📒 A tool for exploring the possible values of the RBC components prop.
+
+## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
+
+⚖️ 2023-01-20T15:32:31Z
+
+🏷 fuck-you, stale-bot
+
+📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
