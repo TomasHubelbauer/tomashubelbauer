@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-01-20T00:12:57.545Z
+2023-01-20T01:31:52.912Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -3010,14 +3010,6 @@
 
 📒 Pondering about whether Puppeteer screenshots are deterministic
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 5991
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
 ⚖️ 5992
@@ -3026,9 +3018,17 @@
 
 📒 Arduino LED dot-matrix display QR code
 
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 6041
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 6842
+⚖️ 7032
 
 🏷 tomashubelbauer
 
