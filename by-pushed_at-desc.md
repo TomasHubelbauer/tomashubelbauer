@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-01-20T22:03:56.528Z
+2023-01-20T23:03:51.322Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2023-01-20T22:17:04Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-20T21:05:56Z
+⚖️ 2023-01-20T22:05:54Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 
 
 📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2023-01-20T00:18:41Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [node-apng](https://github.com/TomasHubelbauer/node-apng)
 
