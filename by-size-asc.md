@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-01-20T21:03:59.104Z
+2023-01-20T22:03:56.531Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2996,7 +2996,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 4059
+⚖️ 4252
 
 🏷 tomashubelbauer
 
@@ -3180,7 +3180,7 @@
 
 ## [postgres-meta](https://github.com/TomasHubelbauer/postgres-meta)
 
-⚖️ 90524
+⚖️ 90506
 
 🏷 
 
