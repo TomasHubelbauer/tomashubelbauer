@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-01-20T08:04:44.085Z
+2023-01-20T09:04:16.416Z
+
+## [rbc-components](https://github.com/TomasHubelbauer/rbc-components)
+
+⚖️ 2023-01-20T08:45:22Z
+
+🏷 rbc, react-big-calendar
+
+📒 A tool for exploring the possible values of the RBC components prop.
 
 ## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
 
@@ -1073,14 +1081,6 @@
 🏷 rbc, react-big-calendar
 
 📒 A demonstration of a weird behavior of the RBC onRangeChange callback
-
-## [rbc-components](https://github.com/TomasHubelbauer/rbc-components)
-
-⚖️ 2022-04-17T10:05:36Z
-
-🏷 rbc, react-big-calendar
-
-📒 A tool for exploring the possible values of the RBC components prop.
 
 ## [puppeteer-moje-o2-scraper](https://github.com/TomasHubelbauer/puppeteer-moje-o2-scraper)
 
