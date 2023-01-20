@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-01-20T20:04:20.489Z
+2023-01-20T21:03:59.096Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3185,4 +3185,12 @@
 🏷 fuck-you, stale-bot
 
 📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
+
+## [postgres-meta](https://github.com/TomasHubelbauer/postgres-meta)
+
+⚖️ 2023-01-20T20:16:31Z
+
+🏷 
+
+📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
 

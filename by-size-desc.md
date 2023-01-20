@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-20T20:04:20.500Z
+2023-01-20T21:03:59.107Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -9,6 +9,14 @@
 🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
 
 📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
+
+## [postgres-meta](https://github.com/TomasHubelbauer/postgres-meta)
+
+⚖️ 90524
+
+🏷 
+
+📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
 
 ## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
 

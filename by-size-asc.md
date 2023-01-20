@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-01-20T20:04:20.498Z
+2023-01-20T21:03:59.104Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -3177,6 +3177,14 @@
 🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
 
 📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
+
+## [postgres-meta](https://github.com/TomasHubelbauer/postgres-meta)
+
+⚖️ 90524
+
+🏷 
+
+📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
