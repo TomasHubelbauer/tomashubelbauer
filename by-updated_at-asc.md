@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-01-21T05:04:04.069Z
+2023-01-21T06:04:13.106Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3178,14 +3178,6 @@
 
 📒 A tool for exploring the possible values of the RBC components prop.
 
-## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
-
-⚖️ 2023-01-20T15:32:31Z
-
-🏷 fuck-you, stale-bot
-
-📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
-
 ## [postgres-meta](https://github.com/TomasHubelbauer/postgres-meta)
 
 ⚖️ 2023-01-20T20:16:31Z
@@ -3193,4 +3185,12 @@
 🏷 
 
 📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
+
+## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
+
+⚖️ 2023-01-21T05:53:49Z
+
+🏷 fuck-you, stale-bot
+
+📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 

@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-01-21T05:04:04.072Z
+2023-01-21T06:04:13.108Z
+
+## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
+
+⚖️ 2023-01-21T05:53:49Z
+
+🏷 fuck-you, stale-bot
+
+📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
 ## [postgres-meta](https://github.com/TomasHubelbauer/postgres-meta)
 
@@ -9,14 +17,6 @@
 🏷 
 
 📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
-
-## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
-
-⚖️ 2023-01-20T15:32:31Z
-
-🏷 fuck-you, stale-bot
-
-📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
 ## [rbc-components](https://github.com/TomasHubelbauer/rbc-components)
 
