@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-01-21T01:31:41.502Z
+2023-01-21T02:22:49.650Z
 
 ## [postgres-meta](https://github.com/TomasHubelbauer/postgres-meta)
 
