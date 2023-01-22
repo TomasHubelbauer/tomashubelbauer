@@ -1,6 +1,14 @@
 # By `pushed_at` (desc)
 
-2023-01-22T14:04:00.861Z
+2023-01-22T15:03:58.508Z
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2023-01-22T14:05:59Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [rust](https://github.com/TomasHubelbauer/rust)
 
@@ -9,14 +17,6 @@
 🏷 
 
 📒 Exercism exercises in Rust.
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2023-01-22T13:08:18Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
