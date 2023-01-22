@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-01-22T13:06:21.732Z
+2023-01-22T14:04:00.840Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -2345,6 +2345,14 @@
 🏷 charp, dotnet, net, roslyn
 
 📒 Adding a log keyword to C# using Roslyn
+
+## [rust](https://github.com/TomasHubelbauer/rust)
+
+⚖️ rust
+
+🏷 
+
+📒 Exercism exercises in Rust.
 
 ## [rust-wasm](https://github.com/TomasHubelbauer/rust-wasm)
 

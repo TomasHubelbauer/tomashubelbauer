@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-01-22T13:06:21.738Z
+2023-01-22T14:04:00.845Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3193,4 +3193,12 @@
 🏷 fuck-you, stale-bot
 
 📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
+
+## [rust](https://github.com/TomasHubelbauer/rust)
+
+⚖️ 2023-01-21T13:09:06Z
+
+🏷 
+
+📒 Exercism exercises in Rust.
 

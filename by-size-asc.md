@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-01-22T13:06:21.757Z
+2023-01-22T14:04:00.863Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2986,6 +2986,14 @@
 
 📒 A Pi Pico script for collecting CPU temperature reading in Supabase using a Deno function
 
+## [rust](https://github.com/TomasHubelbauer/rust)
+
+⚖️ 3808
+
+🏷 
+
+📒 Exercism exercises in Rust.
+
 ## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
 
 ⚖️ 3869
@@ -3028,7 +3036,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 7910
+⚖️ 7912
 
 🏷 tomashubelbauer
 

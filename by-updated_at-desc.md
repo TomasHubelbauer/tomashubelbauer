@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-01-22T13:06:21.747Z
+2023-01-22T14:04:00.849Z
+
+## [rust](https://github.com/TomasHubelbauer/rust)
+
+⚖️ 2023-01-21T13:09:06Z
+
+🏷 
+
+📒 Exercism exercises in Rust.
 
 ## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
 

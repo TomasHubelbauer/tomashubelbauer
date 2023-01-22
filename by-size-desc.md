@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-22T13:06:21.760Z
+2023-01-22T14:04:00.866Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -164,7 +164,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 7910
+⚖️ 7912
 
 🏷 tomashubelbauer
 
@@ -209,6 +209,14 @@
 🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
 
 📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
+
+## [rust](https://github.com/TomasHubelbauer/rust)
+
+⚖️ 3808
+
+🏷 
+
+📒 Exercism exercises in Rust.
 
 ## [pi-pico-rest-cpu-temp](https://github.com/TomasHubelbauer/pi-pico-rest-cpu-temp)
 

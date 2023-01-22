@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-01-22T13:06:21.735Z
+2023-01-22T14:04:00.842Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -849,6 +849,14 @@
 🏷 rust, wasm, webassembly
 
 📒 Experiments with Rust and WebAssembly
+
+## [rust](https://github.com/TomasHubelbauer/rust)
+
+⚖️ rust
+
+🏷 
+
+📒 Exercism exercises in Rust.
 
 ## [roslyn-log-keyword](https://github.com/TomasHubelbauer/roslyn-log-keyword)
 
