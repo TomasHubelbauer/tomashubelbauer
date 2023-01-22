@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-22T19:03:38.993Z
+2023-01-22T20:04:10.445Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -210,6 +210,14 @@
 
 📒 Exercism exercises in Rust.
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 3729
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [pi-pico-rest-cpu-temp](https://github.com/TomasHubelbauer/pi-pico-rest-cpu-temp)
 
 ⚖️ 3714
@@ -217,14 +225,6 @@
 🏷 deno, deno-function, micropython, pi-pico, pi-pico-w, raspberry-pi, supabase
 
 📒 A Pi Pico script for collecting CPU temperature reading in Supabase using a Deno function
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 3536
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [node-apng](https://github.com/TomasHubelbauer/node-apng)
 
