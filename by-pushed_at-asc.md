@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-01-22T15:03:58.507Z
+2023-01-22T16:04:10.587Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3178,14 +3178,6 @@
 
 📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2023-01-22T00:19:41Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [rust](https://github.com/TomasHubelbauer/rust)
 
 ⚖️ 2023-01-22T13:41:56Z
@@ -3196,9 +3188,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-22T14:05:59Z
+⚖️ 2023-01-22T15:05:56Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2023-01-22T15:41:48Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
