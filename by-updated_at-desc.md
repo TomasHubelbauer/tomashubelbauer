@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-01-23T18:04:14.648Z
+2023-01-23T19:04:11.926Z
+
+## [windows-sandbox-script](https://github.com/TomasHubelbauer/windows-sandbox-script)
+
+⚖️ 2023-01-23T18:57:14Z
+
+🏷 windows-sandbox, wsb
+
+📒 Windows Sandbox exploration
 
 ## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
 
@@ -569,14 +577,6 @@
 🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
-
-## [windows-sandbox-script](https://github.com/TomasHubelbauer/windows-sandbox-script)
-
-⚖️ 2022-08-15T15:18:47Z
-
-🏷 windows-sandbox, wsb
-
-📒 Windows Sandbox exploration
 
 ## [handoff](https://github.com/TomasHubelbauer/handoff)
 

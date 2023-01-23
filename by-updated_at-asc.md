@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-01-23T18:04:14.646Z
+2023-01-23T19:04:11.924Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2626,14 +2626,6 @@
 
 📒 null
 
-## [windows-sandbox-script](https://github.com/TomasHubelbauer/windows-sandbox-script)
-
-⚖️ 2022-08-15T15:18:47Z
-
-🏷 windows-sandbox, wsb
-
-📒 Windows Sandbox exploration
-
 ## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
 
 ⚖️ 2022-08-17T20:11:17Z
@@ -3201,4 +3193,12 @@
 🏷 fuck-you, stale-bot
 
 📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
+
+## [windows-sandbox-script](https://github.com/TomasHubelbauer/windows-sandbox-script)
+
+⚖️ 2023-01-23T18:57:14Z
+
+🏷 windows-sandbox, wsb
+
+📒 Windows Sandbox exploration
 
