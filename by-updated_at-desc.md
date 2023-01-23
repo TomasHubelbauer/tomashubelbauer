@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-01-23T17:04:10.161Z
+2023-01-23T18:04:14.648Z
+
+## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
+
+⚖️ 2023-01-23T17:36:14Z
+
+🏷 fuck-you, stale-bot
+
+📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
 ## [rust](https://github.com/TomasHubelbauer/rust)
 
@@ -9,14 +17,6 @@
 🏷 
 
 📒 Exercism exercises in Rust.
-
-## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
-
-⚖️ 2023-01-21T05:53:49Z
-
-🏷 fuck-you, stale-bot
-
-📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
 ## [postgres-meta](https://github.com/TomasHubelbauer/postgres-meta)
 

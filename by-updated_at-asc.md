@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-01-23T17:04:10.159Z
+2023-01-23T18:04:14.646Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3186,14 +3186,6 @@
 
 📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
 
-## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
-
-⚖️ 2023-01-21T05:53:49Z
-
-🏷 fuck-you, stale-bot
-
-📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
-
 ## [rust](https://github.com/TomasHubelbauer/rust)
 
 ⚖️ 2023-01-21T13:09:06Z
@@ -3201,4 +3193,12 @@
 🏷 
 
 📒 Exercism exercises in Rust.
+
+## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
+
+⚖️ 2023-01-23T17:36:14Z
+
+🏷 fuck-you, stale-bot
+
+📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
