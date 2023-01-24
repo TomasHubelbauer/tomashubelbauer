@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-24T21:04:01.025Z
+2023-01-24T22:03:59.916Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -162,14 +162,6 @@
 
 📒 CSS solution for a "merry-go-round" style sliding showcase
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 8162
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
 ⚖️ 5992
@@ -233,6 +225,14 @@
 🏷 animated-gif, animated-png, animation, apng, javascript, javascript-library, mng, node, npm, png
 
 📒 A JavaScript library for producing an APNG file from a series of PNG image data buffers
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 3437
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [camera-stand](https://github.com/TomasHubelbauer/camera-stand)
 
