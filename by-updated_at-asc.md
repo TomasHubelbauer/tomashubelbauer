@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-01-24T12:05:06.281Z
+2023-01-24T13:07:41.586Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2666,14 +2666,6 @@
 
 📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
 
-## [node-apng](https://github.com/TomasHubelbauer/node-apng)
-
-⚖️ 2022-09-15T06:45:24Z
-
-🏷 animated-gif, animated-png, animation, apng, javascript, javascript-library, mng, node, npm, png
-
-📒 A JavaScript library for producing an APNG file from a series of PNG image data buffers
-
 ## [arduino-am2303](https://github.com/TomasHubelbauer/arduino-am2303)
 
 ⚖️ 2022-09-16T19:15:01Z
@@ -3201,4 +3193,12 @@
 🏷 windows-sandbox, wsb
 
 📒 Windows Sandbox exploration
+
+## [node-apng](https://github.com/TomasHubelbauer/node-apng)
+
+⚖️ 2023-01-24T12:30:37Z
+
+🏷 animated-gif, animated-png, animation, apng, javascript, javascript-library, mng, node, npm, png
+
+📒 A JavaScript library for producing an APNG file from a series of PNG image data buffers
 

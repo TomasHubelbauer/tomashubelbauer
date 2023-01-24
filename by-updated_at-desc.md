@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-01-24T12:05:06.285Z
+2023-01-24T13:07:41.587Z
+
+## [node-apng](https://github.com/TomasHubelbauer/node-apng)
+
+⚖️ 2023-01-24T12:30:37Z
+
+🏷 animated-gif, animated-png, animation, apng, javascript, javascript-library, mng, node, npm, png
+
+📒 A JavaScript library for producing an APNG file from a series of PNG image data buffers
 
 ## [windows-sandbox-script](https://github.com/TomasHubelbauer/windows-sandbox-script)
 
@@ -529,14 +537,6 @@
 🏷 
 
 📒 null
-
-## [node-apng](https://github.com/TomasHubelbauer/node-apng)
-
-⚖️ 2022-09-15T06:45:24Z
-
-🏷 animated-gif, animated-png, animation, apng, javascript, javascript-library, mng, node, npm, png
-
-📒 A JavaScript library for producing an APNG file from a series of PNG image data buffers
 
 ## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
 
