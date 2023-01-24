@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-01-24T14:04:17.005Z
+2023-01-24T15:04:26.090Z
 
 ## [node-apng](https://github.com/TomasHubelbauer/node-apng)
 
