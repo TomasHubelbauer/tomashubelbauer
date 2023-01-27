@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-01-27T21:04:09.357Z
+2023-01-27T22:04:12.047Z
+
+## [vscode-video](https://github.com/TomasHubelbauer/vscode-video)
+
+⚖️ 2023-01-27T21:09:17Z
+
+🏷 audio-preview, video-preview, vscode, vscode-extension
+
+📒 Previews video files in VS Code using the custom editors proposed API
 
 ## [mime-multipart](https://github.com/TomasHubelbauer/mime-multipart)
 
@@ -505,14 +513,6 @@
 🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
 
 📒 A WebRTC data channel establishment with QR codes used for signaling channel.
-
-## [vscode-video](https://github.com/TomasHubelbauer/vscode-video)
-
-⚖️ 2022-09-17T11:11:07Z
-
-🏷 audio-preview, video-preview, vscode, vscode-extension
-
-📒 Previews video files in VS Code using the custom editors proposed API
 
 ## [sqlite-javascript](https://github.com/TomasHubelbauer/sqlite-javascript)
 
