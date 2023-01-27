@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-01-27T00:13:10.468Z
+2023-01-27T01:31:30.647Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -162,14 +162,6 @@
 
 📒 CSS solution for a "merry-go-round" style sliding showcase
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 8065
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
 ⚖️ 5992
@@ -178,6 +170,14 @@
 
 📒 Arduino LED dot-matrix display QR code
 
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 5556
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
 ## [puppeteer-deterministic-screenshot](https://github.com/TomasHubelbauer/puppeteer-deterministic-screenshot)
 
 ⚖️ 5535
@@ -185,14 +185,6 @@
 🏷 deterministic, jpg, png, puppeteer, reproducible-builds, screenshot
 
 📒 Pondering about whether Puppeteer screenshots are deterministic
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 5521
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [onewheel](https://github.com/TomasHubelbauer/onewheel)
 
@@ -225,6 +217,14 @@
 🏷 deno, deno-function, micropython, pi-pico, pi-pico-w, raspberry-pi, supabase
 
 📒 A Pi Pico script for collecting CPU temperature reading in Supabase using a Deno function
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 3512
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [node-apng](https://github.com/TomasHubelbauer/node-apng)
 
