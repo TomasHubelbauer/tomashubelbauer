@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-01-28T12:04:17.950Z
+2023-01-28T13:06:16.661Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1113,14 +1113,6 @@
 🏷 powershell
 
 📒 Show/hide file extensions in Explorer using PowerShell
-
-## [postgres-meta](https://github.com/TomasHubelbauer/postgres-meta)
-
-⚖️ postgres-meta
-
-🏷 
-
-📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
 
 ## [playwright-pdf](https://github.com/TomasHubelbauer/playwright-pdf)
 
