@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-01-29T22:03:56.467Z
+2023-01-29T23:04:09.912Z
+
+## [postgres-meta](https://github.com/TomasHubelbauer/postgres-meta)
+
+⚖️ 2023-01-29T22:48:44Z
+
+🏷 
+
+📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-29T21:06:14Z
+⚖️ 2023-01-29T22:05:54Z
 
 🏷 tomashubelbauer
 

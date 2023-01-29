@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-01-29T22:03:56.464Z
+2023-01-29T23:04:09.907Z
 
 ## [vscode-video](https://github.com/TomasHubelbauer/vscode-video)
 
@@ -9,6 +9,14 @@
 🏷 audio-preview, video-preview, vscode, vscode-extension
 
 📒 Previews video files in VS Code using the custom editors proposed API
+
+## [postgres-meta](https://github.com/TomasHubelbauer/postgres-meta)
+
+⚖️ 2023-01-26T10:27:57Z
+
+🏷 
+
+📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
 
 ## [mime-multipart](https://github.com/TomasHubelbauer/mime-multipart)
 

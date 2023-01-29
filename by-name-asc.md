@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-01-29T22:03:56.458Z
+2023-01-29T23:04:09.901Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -2081,6 +2081,14 @@
 🏷 firefox, pdf, playwright, puppeteer, scraping
 
 📒 Using Playwright Firefox to scrape PDFs
+
+## [postgres-meta](https://github.com/TomasHubelbauer/postgres-meta)
+
+⚖️ postgres-meta
+
+🏷 
+
+📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
 
 ## [powershell-explorer-file-extensions](https://github.com/TomasHubelbauer/powershell-explorer-file-extensions)
 
