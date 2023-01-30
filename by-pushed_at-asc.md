@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-01-30T03:04:13.567Z
+2023-01-30T04:03:57.642Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3162,14 +3162,6 @@
 
 📒 A JavaScript library for producing an APNG file from a series of PNG image data buffers
 
-## [rust](https://github.com/TomasHubelbauer/rust)
-
-⚖️ 2023-01-22T13:41:56Z
-
-🏷 
-
-📒 Exercism exercises in Rust.
-
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
 ⚖️ 2023-01-29T18:05:25Z
@@ -3196,9 +3188,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-30T02:24:36Z
+⚖️ 2023-01-30T03:06:11Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [rust](https://github.com/TomasHubelbauer/rust)
+
+⚖️ 2023-01-30T03:41:22Z
+
+🏷 
+
+📒 Exercism exercises in Rust.
 

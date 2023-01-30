@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-01-30T03:04:13.568Z
+2023-01-30T04:03:57.643Z
+
+## [rust](https://github.com/TomasHubelbauer/rust)
+
+⚖️ 2023-01-30T03:41:22Z
+
+🏷 
+
+📒 Exercism exercises in Rust.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-30T02:24:36Z
+⚖️ 2023-01-30T03:06:11Z
 
 🏷 tomashubelbauer
 
@@ -33,14 +41,6 @@
 🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
 
 📒 My personal website
-
-## [rust](https://github.com/TomasHubelbauer/rust)
-
-⚖️ 2023-01-22T13:41:56Z
-
-🏷 
-
-📒 Exercism exercises in Rust.
 
 ## [node-apng](https://github.com/TomasHubelbauer/node-apng)
 
