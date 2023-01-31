@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-01-31T03:05:44.330Z
+2023-01-31T04:04:29.410Z
+
+## [postgres-meta](https://github.com/TomasHubelbauer/postgres-meta)
+
+⚖️ 2023-01-31T03:35:28Z
+
+🏷 
+
+📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-01-31T02:29:57Z
+⚖️ 2023-01-31T03:07:42Z
 
 🏷 tomashubelbauer
 
@@ -25,14 +33,6 @@
 🏷 
 
 📒 Exercism exercises in Rust.
-
-## [postgres-meta](https://github.com/TomasHubelbauer/postgres-meta)
-
-⚖️ 2023-01-29T22:48:44Z
-
-🏷 
-
-📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
