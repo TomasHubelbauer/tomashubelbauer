@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-01-31T04:04:29.406Z
+2023-01-31T05:04:11.626Z
+
+## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
+
+⚖️ 2023-01-31T04:53:34Z
+
+🏷 ntlite, powershell, ps
+
+📒 PowerShell NTLite installer
 
 ## [vscode-video](https://github.com/TomasHubelbauer/vscode-video)
 
@@ -1601,14 +1609,6 @@
 🏷 powershell, remoting
 
 📒 PowerShell remoting with Windows Sandbox
-
-## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
-
-⚖️ 2022-04-16T23:07:41Z
-
-🏷 ntlite, powershell, ps
-
-📒 PowerShell NTLite installer
 
 ## [ps-inno](https://github.com/TomasHubelbauer/ps-inno)
 

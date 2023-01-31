@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-01-31T04:04:29.405Z
+2023-01-31T05:04:11.625Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -1593,14 +1593,6 @@
 🏷 inno, inno-extract, inno-setup, innoextract, powershell, ps
 
 📒 PowerShell InnoExtract installer
-
-## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
-
-⚖️ 2022-04-16T23:07:41Z
-
-🏷 ntlite, powershell, ps
-
-📒 PowerShell NTLite installer
 
 ## [ps-remoting](https://github.com/TomasHubelbauer/ps-remoting)
 
@@ -3201,4 +3193,12 @@
 🏷 audio-preview, video-preview, vscode, vscode-extension
 
 📒 Previews video files in VS Code using the custom editors proposed API
+
+## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
+
+⚖️ 2023-01-31T04:53:34Z
+
+🏷 ntlite, powershell, ps
+
+📒 PowerShell NTLite installer
 
