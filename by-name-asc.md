@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-02-02T15:04:10.282Z
+2023-02-02T16:04:30.893Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -321,6 +321,14 @@
 🏷 cinema, cinestar
 
 📒 CineStar cinema monitor and premiere reporter
+
+## [cli](https://github.com/TomasHubelbauer/cli)
+
+⚖️ cli
+
+🏷 
+
+📒 Supabase CLI
 
 ## [cloudflare-worker](https://github.com/TomasHubelbauer/cloudflare-worker)
 

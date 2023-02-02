@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-02-02T15:04:10.294Z
+2023-02-02T16:04:30.906Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -3081,6 +3081,14 @@
 🏷 email, email-parsing, eml, eml-files, preview, vscode, vscode-extension, vscode-preview
 
 📒 Preview email message files (EML) in VS Code
+
+## [cli](https://github.com/TomasHubelbauer/cli)
+
+⚖️ 16210
+
+🏷 
+
+📒 Supabase CLI
 
 ## [mapsforge](https://github.com/TomasHubelbauer/mapsforge)
 

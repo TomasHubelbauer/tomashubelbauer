@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-02-02T15:04:10.284Z
+2023-02-02T16:04:30.895Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -2881,6 +2881,14 @@
 🏷 cloudflare, cloudflare-kv, cloudflare-worker, cloudflare-workers, serverless, worker
 
 📒 Information on setting up and basic usage of Cloudflare Workers
+
+## [cli](https://github.com/TomasHubelbauer/cli)
+
+⚖️ cli
+
+🏷 
+
+📒 Supabase CLI
 
 ## [cinestar](https://github.com/TomasHubelbauer/cinestar)
 

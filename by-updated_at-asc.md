@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-02-02T15:04:10.287Z
+2023-02-02T16:04:30.898Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3193,6 +3193,14 @@
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [cli](https://github.com/TomasHubelbauer/cli)
+
+⚖️ 2023-02-02T08:37:48Z
+
+🏷 
+
+📒 Supabase CLI
 
 ## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
 

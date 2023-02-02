@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-02-02T15:04:10.292Z
+2023-02-02T16:04:30.904Z
+
+## [cli](https://github.com/TomasHubelbauer/cli)
+
+⚖️ 2023-02-02T15:29:53Z
+
+🏷 
+
+📒 Supabase CLI
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-02-02T14:06:18Z
+⚖️ 2023-02-02T15:06:08Z
 
 🏷 tomashubelbauer
 

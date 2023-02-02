@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-02-02T15:04:10.289Z
+2023-02-02T16:04:30.900Z
 
 ## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
 
@@ -9,6 +9,14 @@
 🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
+
+## [cli](https://github.com/TomasHubelbauer/cli)
+
+⚖️ 2023-02-02T08:37:48Z
+
+🏷 
+
+📒 Supabase CLI
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 

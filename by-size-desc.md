@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-02-02T15:04:10.296Z
+2023-02-02T16:04:30.908Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -121,6 +121,14 @@
 🏷 mapsforge
 
 📒 MapsForge JavaScript parser
+
+## [cli](https://github.com/TomasHubelbauer/cli)
+
+⚖️ 16210
+
+🏷 
+
+📒 Supabase CLI
 
 ## [vscode-email-viewer](https://github.com/TomasHubelbauer/vscode-email-viewer)
 
