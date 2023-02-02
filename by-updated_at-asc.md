@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-02-02T12:05:40.090Z
+2023-02-02T13:12:04.442Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2610,14 +2610,6 @@
 
 📒 null
 
-## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
-
-⚖️ 2022-08-17T20:11:17Z
-
-🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
-
-📒 KalorickeTabulky.cz Node/browser JavaScript API
-
 ## [selfie](https://github.com/TomasHubelbauer/selfie)
 
 ⚖️ 2022-08-22T10:54:10Z
@@ -3201,4 +3193,12 @@
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
+
+⚖️ 2023-02-02T12:24:07Z
+
+🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
+
+📒 KalorickeTabulky.cz Node/browser JavaScript API
 

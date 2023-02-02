@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-02-02T12:05:40.093Z
+2023-02-02T13:12:04.443Z
+
+## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
+
+⚖️ 2023-02-02T12:24:07Z
+
+🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
+
+📒 KalorickeTabulky.cz Node/browser JavaScript API
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
@@ -585,14 +593,6 @@
 🏷 getdisplaymedia, html2canvas, screenshot, self-screenshot, selfie
 
 📒 A library for capturing web page self screenshots
-
-## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
-
-⚖️ 2022-08-17T20:11:17Z
-
-🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
-
-📒 KalorickeTabulky.cz Node/browser JavaScript API
 
 ## [handoff](https://github.com/TomasHubelbauer/handoff)
 
