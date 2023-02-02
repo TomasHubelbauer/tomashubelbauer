@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-02-02T16:04:30.906Z
+2023-02-02T17:04:05.938Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -3036,7 +3036,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 8102
+⚖️ 8293
 
 🏷 tomashubelbauer
 
@@ -3084,7 +3084,7 @@
 
 ## [cli](https://github.com/TomasHubelbauer/cli)
 
-⚖️ 16210
+⚖️ 16098
 
 🏷 
 
