@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-02-02T19:03:51.862Z
+2023-02-02T20:04:24.807Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -170,14 +170,6 @@
 
 📒 CSS solution for a "merry-go-round" style sliding showcase
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 8486
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
 ⚖️ 5992
@@ -225,6 +217,14 @@
 🏷 
 
 📒 Exercism exercises in Rust.
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 3741
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [pi-pico-rest-cpu-temp](https://github.com/TomasHubelbauer/pi-pico-rest-cpu-temp)
 
