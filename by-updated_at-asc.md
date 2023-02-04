@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-02-03T23:04:05.269Z
+2023-02-04T00:12:13.179Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2962,14 +2962,6 @@
 
 📒 null
 
-## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
-
-⚖️ 2022-12-13T08:56:07Z
-
-🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
-
-📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
-
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
 ⚖️ 2022-12-14T02:55:40Z
@@ -3209,4 +3201,12 @@
 🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
+
+## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
+
+⚖️ 2023-02-03T23:13:35Z
+
+🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
+
+📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
 

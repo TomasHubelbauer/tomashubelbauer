@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-02-03T23:04:05.271Z
+2023-02-04T00:12:13.181Z
+
+## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
+
+⚖️ 2023-02-03T23:13:35Z
+
+🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
+
+📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
 
 ## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
 
@@ -241,14 +249,6 @@
 🏷 3mf
 
 📒 A script for extracting 3MF files into 3MF directories
-
-## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
-
-⚖️ 2022-12-13T08:56:07Z
-
-🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
-
-📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
