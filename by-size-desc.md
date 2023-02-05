@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-02-04T23:04:23.105Z
+2023-02-05T00:12:57.014Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -170,14 +170,6 @@
 
 📒 CSS solution for a "merry-go-round" style sliding showcase
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 8566
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
 ⚖️ 6069
@@ -217,6 +209,14 @@
 🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
 
 📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 3815
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [rust](https://github.com/TomasHubelbauer/rust)
 

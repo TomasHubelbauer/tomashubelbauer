@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-02-04T23:04:23.102Z
+2023-02-05T00:12:57.012Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2994,6 +2994,14 @@
 
 📒 Exercism exercises in Rust.
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 3815
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
 
 ⚖️ 3869
@@ -3033,14 +3041,6 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 8566
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [css-merry-go-round](https://github.com/TomasHubelbauer/css-merry-go-round)
 
