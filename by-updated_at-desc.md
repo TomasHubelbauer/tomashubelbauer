@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-02-06T02:23:34.330Z
+2023-02-06T03:03:56.732Z
+
+## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
+
+⚖️ 2023-02-06T03:02:02Z
+
+🏷 fuck-you, stale-bot
+
+📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -81,14 +89,6 @@
 🏷 windows-sandbox, wsb
 
 📒 Windows Sandbox exploration
-
-## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
-
-⚖️ 2023-01-23T17:36:14Z
-
-🏷 fuck-you, stale-bot
-
-📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
 ## [rust](https://github.com/TomasHubelbauer/rust)
 

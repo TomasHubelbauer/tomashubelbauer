@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-02-06T02:23:34.328Z
+2023-02-06T03:03:56.730Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3122,14 +3122,6 @@
 
 📒 Exercism exercises in Rust.
 
-## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
-
-⚖️ 2023-01-23T17:36:14Z
-
-🏷 fuck-you, stale-bot
-
-📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
-
 ## [windows-sandbox-script](https://github.com/TomasHubelbauer/windows-sandbox-script)
 
 ⚖️ 2023-01-23T18:57:14Z
@@ -3209,4 +3201,12 @@
 🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
 
 📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
+
+## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
+
+⚖️ 2023-02-06T03:02:02Z
+
+🏷 fuck-you, stale-bot
+
+📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
