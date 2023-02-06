@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-02-06T11:04:02.487Z
+2023-02-06T12:05:17.204Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3090,14 +3090,6 @@
 
 📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
 
-## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
-
-⚖️ 2023-01-17T12:38:02Z
-
-🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
-
-📒 Raspberry Pi Pico mouse jiggler
-
 ## [vscode-compound-debug-split-terminal](https://github.com/TomasHubelbauer/vscode-compound-debug-split-terminal)
 
 ⚖️ 2023-01-17T14:40:22Z
@@ -3209,4 +3201,12 @@
 🏷 fuck-you, stale-bot
 
 📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
+
+## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
+
+⚖️ 2023-02-06T11:36:40Z
+
+🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
+
+📒 Raspberry Pi Pico mouse jiggler
 

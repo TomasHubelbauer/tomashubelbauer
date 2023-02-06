@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-02-06T11:04:02.489Z
+2023-02-06T12:05:17.205Z
+
+## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
+
+⚖️ 2023-02-06T11:36:40Z
+
+🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
+
+📒 Raspberry Pi Pico mouse jiggler
 
 ## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
 
@@ -113,14 +121,6 @@
 🏷 terminal, vscode
 
 📒 VS Code launch tasks from a compound debugger configuration in individual but split terminals in the Integrated Terminal pane
-
-## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
-
-⚖️ 2023-01-17T12:38:02Z
-
-🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
-
-📒 Raspberry Pi Pico mouse jiggler
 
 ## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
 
