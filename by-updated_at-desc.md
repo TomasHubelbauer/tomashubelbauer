@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-02-12T20:04:14.402Z
+2023-02-12T21:04:22.372Z
+
+## [hnpopup](https://github.com/TomasHubelbauer/hnpopup)
+
+⚖️ 2023-02-12T20:19:42Z
+
+🏷 
+
+📒 HN Pop-up lets you quickly glance at a user's profile without leaving the page you're on. You can quickly see a user's bio, karma and account age
 
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 

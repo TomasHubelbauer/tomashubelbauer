@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-02-12T20:04:14.400Z
+2023-02-12T21:04:22.371Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3209,4 +3209,12 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
+
+## [hnpopup](https://github.com/TomasHubelbauer/hnpopup)
+
+⚖️ 2023-02-12T20:19:42Z
+
+🏷 
+
+📒 HN Pop-up lets you quickly glance at a user's profile without leaving the page you're on. You can quickly see a user's bio, karma and account age
 

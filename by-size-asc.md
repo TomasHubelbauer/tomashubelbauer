@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-02-12T20:04:14.407Z
+2023-02-12T21:04:22.380Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2810,6 +2810,14 @@
 
 📒 An experiment in making RBC event slots auto-select on hover
 
+## [hnpopup](https://github.com/TomasHubelbauer/hnpopup)
+
+⚖️ 635
+
+🏷 
+
+📒 HN Pop-up lets you quickly glance at a user's profile without leaving the page you're on. You can quickly see a user's bio, karma and account age
+
 ## [asp-conditional-validations](https://github.com/TomasHubelbauer/asp-conditional-validations)
 
 ⚖️ 698
@@ -3028,7 +3036,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 6164
+⚖️ 6355
 
 🏷 tomashubelbauer
 

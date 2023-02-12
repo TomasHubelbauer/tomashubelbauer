@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-02-12T20:04:14.398Z
+2023-02-12T21:04:22.368Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1913,6 +1913,14 @@
 🏷 dataview, hex-editor, hex-viewer, html
 
 📒 An HTML component for displaying contents of a DataView with virtualized scrolling behavior
+
+## [hnpopup](https://github.com/TomasHubelbauer/hnpopup)
+
+⚖️ hnpopup
+
+🏷 
+
+📒 HN Pop-up lets you quickly glance at a user's profile without leaving the page you're on. You can quickly see a user's bio, karma and account age
 
 ## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
 

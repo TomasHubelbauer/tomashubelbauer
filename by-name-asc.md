@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-02-12T20:04:14.394Z
+2023-02-12T21:04:22.366Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -1297,6 +1297,14 @@
 🏷 hacker-news, tailwind
 
 📒 Hacker News redesigned using Tailwind for practice
+
+## [hnpopup](https://github.com/TomasHubelbauer/hnpopup)
+
+⚖️ hnpopup
+
+🏷 
+
+📒 HN Pop-up lets you quickly glance at a user's profile without leaving the page you're on. You can quickly see a user's bio, karma and account age
 
 ## [html-data-view-box](https://github.com/TomasHubelbauer/html-data-view-box)
 

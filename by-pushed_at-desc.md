@@ -1,10 +1,10 @@
 # By `pushed_at` (desc)
 
-2023-02-12T20:04:14.405Z
+2023-02-12T21:04:22.378Z
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-02-12T19:05:54Z
+⚖️ 2023-02-12T20:06:11Z
 
 🏷 tomashubelbauer
 
@@ -17,6 +17,14 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
+## [hnpopup](https://github.com/TomasHubelbauer/hnpopup)
+
+⚖️ 2023-02-10T19:14:45Z
+
+🏷 
+
+📒 HN Pop-up lets you quickly glance at a user's profile without leaving the page you're on. You can quickly see a user's bio, karma and account age
 
 ## [cli](https://github.com/TomasHubelbauer/cli)
 
