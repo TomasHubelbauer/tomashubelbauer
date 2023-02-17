@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-02-17T11:04:14.934Z
+2023-02-17T12:05:10.898Z
+
+## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
+
+⚖️ 2023-02-17T02:16:46Z
+
+🏷 
+
+📒 Isomorphic JavaScript client for PostgREST.
 
 ## [pdf-scrape](https://github.com/TomasHubelbauer/pdf-scrape)
 

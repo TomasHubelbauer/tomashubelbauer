@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-02-17T11:04:14.945Z
+2023-02-17T12:05:10.907Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -170,6 +170,14 @@
 
 📒 CSS solution for a "merry-go-round" style sliding showcase
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 6928
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
 ⚖️ 6879
@@ -177,14 +185,6 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 6734
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
@@ -289,6 +289,14 @@
 🏷 firefox, html-video, playwright
 
 📒 Playwright Firefox MP4 video
+
+## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
+
+⚖️ 2260
+
+🏷 
+
+📒 Isomorphic JavaScript client for PostgREST.
 
 ## [garmin-img](https://github.com/TomasHubelbauer/garmin-img)
 

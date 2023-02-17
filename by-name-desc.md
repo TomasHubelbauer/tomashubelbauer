@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-02-17T11:04:14.930Z
+2023-02-17T12:05:10.893Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1113,6 +1113,14 @@
 🏷 powershell
 
 📒 Show/hide file extensions in Explorer using PowerShell
+
+## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
+
+⚖️ postgrest-js
+
+🏷 
+
+📒 Isomorphic JavaScript client for PostgREST.
 
 ## [postgres-meta](https://github.com/TomasHubelbauer/postgres-meta)
 

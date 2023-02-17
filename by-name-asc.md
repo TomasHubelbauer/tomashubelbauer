@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-02-17T11:04:14.928Z
+2023-02-17T12:05:10.879Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -2105,6 +2105,14 @@
 🏷 
 
 📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
+
+## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
+
+⚖️ postgrest-js
+
+🏷 
+
+📒 Isomorphic JavaScript client for PostgREST.
 
 ## [powershell-explorer-file-extensions](https://github.com/TomasHubelbauer/powershell-explorer-file-extensions)
 

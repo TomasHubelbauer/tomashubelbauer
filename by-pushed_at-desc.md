@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-02-17T11:04:14.939Z
+2023-02-17T12:05:10.902Z
+
+## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
+
+⚖️ 2023-02-17T11:32:48Z
+
+🏷 
+
+📒 Isomorphic JavaScript client for PostgREST.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-02-17T10:06:30Z
+⚖️ 2023-02-17T11:06:12Z
 
 🏷 tomashubelbauer
 
