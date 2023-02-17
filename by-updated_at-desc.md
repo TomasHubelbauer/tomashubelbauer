@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-02-17T17:04:17.018Z
+2023-02-17T18:04:35.103Z
 
 ## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
 
