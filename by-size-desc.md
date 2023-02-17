@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-02-17T12:05:10.907Z
+2023-02-17T13:08:13.099Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -172,7 +172,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 6928
+⚖️ 7121
 
 🏷 tomashubelbauer
 
@@ -292,7 +292,7 @@
 
 ## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
 
-⚖️ 2260
+⚖️ 2234
 
 🏷 
 
