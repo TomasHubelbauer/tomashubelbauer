@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-02-18T14:03:58.402Z
+2023-02-18T15:04:30.262Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3186,14 +3186,6 @@
 
 📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
-## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
-
-⚖️ 2023-02-06T11:36:40Z
-
-🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
-
-📒 Raspberry Pi Pico mouse jiggler
-
 ## [hnpopup](https://github.com/TomasHubelbauer/hnpopup)
 
 ⚖️ 2023-02-12T21:08:49Z
@@ -3225,4 +3217,12 @@
 🏷 
 
 📒 Isomorphic JavaScript client for PostgREST.
+
+## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
+
+⚖️ 2023-02-18T14:44:20Z
+
+🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
+
+📒 Raspberry Pi Pico mouse jiggler
 
