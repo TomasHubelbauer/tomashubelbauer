@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-02-19T18:04:40.184Z
+2023-02-19T19:03:56.506Z
+
+## [qr-channel](https://github.com/TomasHubelbauer/qr-channel)
+
+⚖️ 2023-02-19T18:13:10Z
+
+🏷 data-channel, ice, javascript, peer-connection, qr-channel, qr-code, qrcode, sdp, webrtc, webrtc-datachannel, webrtc-demo
+
+📒 WebRTC data channel peer connection establishment using QR codes for trickle ICE exchange.
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -697,14 +705,6 @@
 🏷 archive, filesystem, vscode, vscode-extension, zip, zipfile
 
 📒 Provides a context menu option to mount ZIP archives as a virtual file system in the VS Code Explorer pane.
-
-## [qr-channel](https://github.com/TomasHubelbauer/qr-channel)
-
-⚖️ 2022-06-15T00:25:52Z
-
-🏷 data-channel, ice, javascript, peer-connection, qr-channel, qr-code, qrcode, sdp, webrtc, webrtc-datachannel, webrtc-demo
-
-📒 WebRTC data channel peer connection establishment using QR codes for trickle ICE exchange.
 
 ## [list-sections-groups](https://github.com/TomasHubelbauer/list-sections-groups)
 

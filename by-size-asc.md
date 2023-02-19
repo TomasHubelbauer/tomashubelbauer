@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-02-19T18:04:40.194Z
+2023-02-19T19:03:56.513Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -3228,7 +3228,7 @@
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
-⚖️ 2019800
+⚖️ 2019799
 
 🏷 
 
