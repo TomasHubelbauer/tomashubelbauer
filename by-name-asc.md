@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-02-19T17:04:21.279Z
+2023-02-19T18:04:40.175Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -2721,6 +2721,14 @@
 🏷 twitch
 
 📒 Twitch "Not Interested" automated
+
+## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
+
+⚖️ TypeScript
+
+🏷 
+
+📒 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## [typescript-in-browser](https://github.com/TomasHubelbauer/typescript-in-browser)
 

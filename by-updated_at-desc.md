@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-02-19T17:04:21.291Z
+2023-02-19T18:04:40.184Z
+
+## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
+
+⚖️ 2023-02-19T16:47:04Z
+
+🏷 
+
+📒 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 

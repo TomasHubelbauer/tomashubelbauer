@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-02-19T17:04:21.282Z
+2023-02-19T18:04:40.178Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -505,6 +505,14 @@
 🏷 browser, javascript, tsc, typescript
 
 📒 Using the TypeScript API in the browser
+
+## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
+
+⚖️ TypeScript
+
+🏷 
+
+📒 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## [twitch-not-interested](https://github.com/TomasHubelbauer/twitch-not-interested)
 

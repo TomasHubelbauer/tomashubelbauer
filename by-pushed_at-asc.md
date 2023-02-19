@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-02-19T17:04:21.294Z
+2023-02-19T18:04:40.189Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3220,9 +3220,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-02-19T16:06:19Z
+⚖️ 2023-02-19T17:06:19Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
+
+⚖️ 2023-02-19T17:17:29Z
+
+🏷 
+
+📒 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 

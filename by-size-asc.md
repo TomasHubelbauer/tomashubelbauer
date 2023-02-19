@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-02-19T17:04:21.298Z
+2023-02-19T18:04:40.194Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -3044,7 +3044,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 6620
+⚖️ 6814
 
 🏷 tomashubelbauer
 
@@ -3225,4 +3225,12 @@
 🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
 
 📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
+
+## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
+
+⚖️ 2019800
+
+🏷 
+
+📒 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 

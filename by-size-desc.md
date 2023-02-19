@@ -1,6 +1,14 @@
 # By `size` (desc)
 
-2023-02-19T17:04:21.303Z
+2023-02-19T18:04:40.198Z
+
+## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
+
+⚖️ 2019800
+
+🏷 
+
+📒 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -180,7 +188,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 6620
+⚖️ 6814
 
 🏷 tomashubelbauer
 
