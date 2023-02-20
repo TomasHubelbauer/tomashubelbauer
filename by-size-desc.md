@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-02-20T18:04:44.684Z
+2023-02-20T19:03:57.419Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -162,14 +162,6 @@
 
 📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 8956
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [web-midi](https://github.com/TomasHubelbauer/web-midi)
 
 ⚖️ 8781
@@ -217,6 +209,14 @@
 🏷 onewheel
 
 📒 A collection of links relating to the Onewheel
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 4350
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
 
@@ -412,7 +412,7 @@
 
 ## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
 
-⚖️ 834
+⚖️ 836
 
 🏷 
 
