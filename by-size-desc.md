@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-02-20T17:04:19.732Z
+2023-02-20T18:04:44.684Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -409,6 +409,14 @@
 🏷 github-actions, playwright, puppeteer
 
 📒 Demonstrates using Playwright to control Firefox to take a screenshot of Hacker News in GitHub Actions
+
+## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
+
+⚖️ 834
+
+🏷 
+
+📒 MDX extension for Visual Studio Code
 
 ## [mic-holder](https://github.com/TomasHubelbauer/mic-holder)
 

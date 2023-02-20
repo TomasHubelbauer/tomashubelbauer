@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-02-20T17:04:19.727Z
+2023-02-20T18:04:44.677Z
+
+## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
+
+⚖️ 2023-02-20T17:23:54Z
+
+🏷 
+
+📒 MDX extension for Visual Studio Code
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-02-20T16:06:29Z
+⚖️ 2023-02-20T17:06:16Z
 
 🏷 tomashubelbauer
 

@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-02-20T17:04:19.721Z
+2023-02-20T18:04:44.667Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3233,4 +3233,12 @@
 🏷 data-channel, ice, javascript, peer-connection, qr-channel, qr-code, qrcode, sdp, webrtc, webrtc-datachannel, webrtc-demo
 
 📒 WebRTC data channel peer connection establishment using QR codes for trickle ICE exchange.
+
+## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
+
+⚖️ 2023-02-20T16:24:24Z
+
+🏷 
+
+📒 MDX extension for Visual Studio Code
 

@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-02-20T17:04:19.716Z
+2023-02-20T18:04:44.661Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -2905,6 +2905,14 @@
 🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
 
 📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
+
+## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
+
+⚖️ vscode-mdx
+
+🏷 
+
+📒 MDX extension for Visual Studio Code
 
 ## [vscode-settings](https://github.com/TomasHubelbauer/vscode-settings)
 

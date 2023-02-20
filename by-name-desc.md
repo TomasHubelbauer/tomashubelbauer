@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-02-20T17:04:19.718Z
+2023-02-20T18:04:44.664Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -329,6 +329,14 @@
 🏷 dotfiles, vscode
 
 📒 My preferred VS Code settings
+
+## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
+
+⚖️ vscode-mdx
+
+🏷 
+
+📒 MDX extension for Visual Studio Code
 
 ## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
 
