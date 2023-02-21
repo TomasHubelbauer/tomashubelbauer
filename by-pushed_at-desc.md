@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-02-21T05:04:34.559Z
+2023-02-21T07:04:29.044Z
+
+## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
+
+⚖️ 2023-02-21T07:01:13Z
+
+🏷 
+
+📒 Isomorphic JavaScript client for PostgREST.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-02-21T04:06:39Z
+⚖️ 2023-02-21T05:06:31Z
 
 🏷 tomashubelbauer
 
@@ -33,14 +41,6 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
-
-## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
-
-⚖️ 2023-02-17T11:32:48Z
-
-🏷 
-
-📒 Isomorphic JavaScript client for PostgREST.
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 

@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-02-21T05:04:34.557Z
+2023-02-21T07:04:29.043Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3202,14 +3202,6 @@
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
-## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
-
-⚖️ 2023-02-17T11:32:48Z
-
-🏷 
-
-📒 Isomorphic JavaScript client for PostgREST.
-
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
 ⚖️ 2023-02-17T21:09:15Z
@@ -3236,9 +3228,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-02-21T04:06:39Z
+⚖️ 2023-02-21T05:06:31Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
+
+⚖️ 2023-02-21T07:01:13Z
+
+🏷 
+
+📒 Isomorphic JavaScript client for PostgREST.
 
