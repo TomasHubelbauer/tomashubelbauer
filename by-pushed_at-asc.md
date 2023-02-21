@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-02-21T11:04:04.214Z
+2023-02-21T12:05:13.481Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3218,14 +3218,6 @@
 
 📒 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
-## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
-
-⚖️ 2023-02-20T17:23:54Z
-
-🏷 
-
-📒 MDX extension for Visual Studio Code
-
 ## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
 
 ⚖️ 2023-02-21T07:01:13Z
@@ -3236,9 +3228,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-02-21T10:06:45Z
+⚖️ 2023-02-21T11:06:01Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
+
+⚖️ 2023-02-21T11:48:21Z
+
+🏷 
+
+📒 MDX extension for Visual Studio Code
 

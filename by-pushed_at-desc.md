@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-02-21T11:04:04.216Z
+2023-02-21T12:05:13.482Z
+
+## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
+
+⚖️ 2023-02-21T11:48:21Z
+
+🏷 
+
+📒 MDX extension for Visual Studio Code
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-02-21T10:06:45Z
+⚖️ 2023-02-21T11:06:01Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 
 
 📒 Isomorphic JavaScript client for PostgREST.
-
-## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
-
-⚖️ 2023-02-20T17:23:54Z
-
-🏷 
-
-📒 MDX extension for Visual Studio Code
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
