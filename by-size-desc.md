@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-02-21T07:04:29.050Z
+2023-02-21T08:04:26.131Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -300,7 +300,7 @@
 
 ## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
 
-⚖️ 2234
+⚖️ 2135
 
 🏷 
 
