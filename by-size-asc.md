@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-02-21T12:05:13.484Z
+2023-02-21T13:09:04.555Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2828,7 +2828,7 @@
 
 ## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
 
-⚖️ 836
+⚖️ 834
 
 🏷 
 
@@ -3044,7 +3044,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 5922
+⚖️ 5923
 
 🏷 tomashubelbauer
 

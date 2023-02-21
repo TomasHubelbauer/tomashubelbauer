@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-02-21T12:05:13.486Z
+2023-02-21T13:09:04.558Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -196,7 +196,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 5922
+⚖️ 5923
 
 🏷 tomashubelbauer
 
@@ -412,7 +412,7 @@
 
 ## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
 
-⚖️ 836
+⚖️ 834
 
 🏷 
 
