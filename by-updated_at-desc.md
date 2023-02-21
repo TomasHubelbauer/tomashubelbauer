@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-02-21T03:09:00.290Z
+2023-02-21T04:04:41.952Z
 
 ## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
 
