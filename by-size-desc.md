@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-02-28T17:04:49.738Z
+2023-02-28T18:04:38.779Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -180,7 +180,7 @@
 
 ## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
 
-⚖️ 8273
+⚖️ 8275
 
 🏷 
 
@@ -188,7 +188,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 7121
+⚖️ 7123
 
 🏷 tomashubelbauer
 
