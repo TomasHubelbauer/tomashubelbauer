@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-03-03T21:03:58.702Z
+2023-03-03T22:04:46.607Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -1633,6 +1633,14 @@
 🏷 language-server-protocol, lsp, vscode
 
 📒 A prototyping repository for the TS Server plugin adding partial support for URL in ESM statements
+
+## [lyrics](https://github.com/TomasHubelbauer/lyrics)
+
+⚖️ lyrics
+
+🏷 
+
+📒 null
 
 ## [macos-date-time](https://github.com/TomasHubelbauer/macos-date-time)
 

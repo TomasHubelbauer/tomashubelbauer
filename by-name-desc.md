@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-03-03T21:03:58.704Z
+2023-03-03T22:04:46.610Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1617,6 +1617,14 @@
 🏷 am-pm, clock, date-and-time, date-time, g11n, i14n, l10n, mac-os, meridian
 
 📒 My findings about macOS date and time settings
+
+## [lyrics](https://github.com/TomasHubelbauer/lyrics)
+
+⚖️ lyrics
+
+🏷 
+
+📒 null
 
 ## [lsp-plugin](https://github.com/TomasHubelbauer/lsp-plugin)
 
