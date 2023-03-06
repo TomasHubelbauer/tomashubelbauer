@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-03-06T14:04:41.220Z
+2023-03-06T15:04:36.779Z
 
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
@@ -1638,9 +1638,9 @@
 
 ⚖️ lyrics
 
-🏷 
+🏷 electron, lrc, lyrics, spotify
 
-📒 null
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
 ## [macos-date-time](https://github.com/TomasHubelbauer/macos-date-time)
 

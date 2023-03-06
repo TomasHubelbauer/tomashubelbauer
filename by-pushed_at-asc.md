@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-03-06T14:04:41.230Z
+2023-03-06T15:04:36.790Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3242,19 +3242,19 @@
 
 📒 My personal website
 
-## [lyrics](https://github.com/TomasHubelbauer/lyrics)
-
-⚖️ 2023-03-06T12:00:10Z
-
-🏷 
-
-📒 null
-
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-03-06T13:11:07Z
+⚖️ 2023-03-06T14:06:28Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [lyrics](https://github.com/TomasHubelbauer/lyrics)
+
+⚖️ 2023-03-06T14:17:25Z
+
+🏷 electron, lrc, lyrics, spotify
+
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 

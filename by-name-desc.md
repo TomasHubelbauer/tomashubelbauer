@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-03-06T14:04:41.223Z
+2023-03-06T15:04:36.782Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1622,9 +1622,9 @@
 
 ⚖️ lyrics
 
-🏷 
+🏷 electron, lrc, lyrics, spotify
 
-📒 null
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
 ## [lsp-plugin](https://github.com/TomasHubelbauer/lsp-plugin)
 

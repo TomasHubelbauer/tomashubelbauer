@@ -1,22 +1,22 @@
 # By `pushed_at` (desc)
 
-2023-03-06T14:04:41.231Z
+2023-03-06T15:04:36.792Z
+
+## [lyrics](https://github.com/TomasHubelbauer/lyrics)
+
+⚖️ 2023-03-06T14:17:25Z
+
+🏷 electron, lrc, lyrics, spotify
+
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-03-06T13:11:07Z
+⚖️ 2023-03-06T14:06:28Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
-
-## [lyrics](https://github.com/TomasHubelbauer/lyrics)
-
-⚖️ 2023-03-06T12:00:10Z
-
-🏷 
-
-📒 null
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 

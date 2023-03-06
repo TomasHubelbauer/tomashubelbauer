@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-03-06T14:04:41.237Z
+2023-03-06T15:04:36.797Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -212,7 +212,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 5200
+⚖️ 5396
 
 🏷 tomashubelbauer
 
@@ -318,9 +318,9 @@
 
 ⚖️ 1807
 
-🏷 
+🏷 electron, lrc, lyrics, spotify
 
-📒 null
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
 ## [garmin-img](https://github.com/TomasHubelbauer/garmin-img)
 

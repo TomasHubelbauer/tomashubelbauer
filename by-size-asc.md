@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-03-06T14:04:41.234Z
+2023-03-06T15:04:36.795Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2942,9 +2942,9 @@
 
 ⚖️ 1807
 
-🏷 
+🏷 electron, lrc, lyrics, spotify
 
-📒 null
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
 ## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
 
@@ -3044,7 +3044,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 5200
+⚖️ 5396
 
 🏷 tomashubelbauer
 

@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-03-06T14:04:41.225Z
+2023-03-06T15:04:36.784Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3252,9 +3252,9 @@
 
 ## [lyrics](https://github.com/TomasHubelbauer/lyrics)
 
-⚖️ 2023-03-04T01:34:02Z
+⚖️ 2023-03-06T14:20:13Z
 
-🏷 
+🏷 electron, lrc, lyrics, spotify
 
-📒 null
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 

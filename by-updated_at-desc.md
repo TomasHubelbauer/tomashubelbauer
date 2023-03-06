@@ -1,14 +1,14 @@
 # By `updated_at` (desc)
 
-2023-03-06T14:04:41.227Z
+2023-03-06T15:04:36.788Z
 
 ## [lyrics](https://github.com/TomasHubelbauer/lyrics)
 
-⚖️ 2023-03-04T01:34:02Z
+⚖️ 2023-03-06T14:20:13Z
 
-🏷 
+🏷 electron, lrc, lyrics, spotify
 
-📒 null
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
 ## [workers-formdata](https://github.com/TomasHubelbauer/workers-formdata)
 
