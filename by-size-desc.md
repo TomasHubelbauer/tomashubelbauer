@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-03-06T15:04:36.797Z
+2023-03-06T16:05:02.832Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -194,6 +194,14 @@
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
+## [lyrics](https://github.com/TomasHubelbauer/lyrics)
+
+⚖️ 6863
+
+🏷 electron, lrc, lyrics, spotify
+
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
+
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
 ⚖️ 5992
@@ -313,14 +321,6 @@
 🏷 
 
 📒 Isomorphic JavaScript client for PostgREST.
-
-## [lyrics](https://github.com/TomasHubelbauer/lyrics)
-
-⚖️ 1807
-
-🏷 electron, lrc, lyrics, spotify
-
-📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
 ## [garmin-img](https://github.com/TomasHubelbauer/garmin-img)
 

@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-03-06T15:04:36.795Z
+2023-03-06T16:05:02.829Z
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -2938,14 +2938,6 @@
 
 📒 A JavaScript parser and renderer of the Garmin maps
 
-## [lyrics](https://github.com/TomasHubelbauer/lyrics)
-
-⚖️ 1807
-
-🏷 electron, lrc, lyrics, spotify
-
-📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
-
 ## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
 
 ⚖️ 2135
@@ -3065,6 +3057,14 @@
 🏷 arduino, arduino-qr, dot-matrix, led-matrix, ledcontrol, max7219, qr, qr-code
 
 📒 Arduino LED dot-matrix display QR code
+
+## [lyrics](https://github.com/TomasHubelbauer/lyrics)
+
+⚖️ 6863
+
+🏷 electron, lrc, lyrics, spotify
+
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
