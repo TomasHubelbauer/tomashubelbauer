@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-03-06T12:05:49.514Z
+2023-03-06T13:09:11.909Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -212,7 +212,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 5005
+⚖️ 5200
 
 🏷 tomashubelbauer
 
@@ -313,6 +313,14 @@
 🏷 
 
 📒 Isomorphic JavaScript client for PostgREST.
+
+## [lyrics](https://github.com/TomasHubelbauer/lyrics)
+
+⚖️ 1807
+
+🏷 
+
+📒 null
 
 ## [garmin-img](https://github.com/TomasHubelbauer/garmin-img)
 
@@ -1193,14 +1201,6 @@
 🏷 ios, ios-app, swift, webrtc, webview
 
 📒 A demonstration of using WebRTC to achieve communication between an iOS application and a web page
-
-## [lyrics](https://github.com/TomasHubelbauer/lyrics)
-
-⚖️ 29
-
-🏷 
-
-📒 null
 
 ## [vscode-bare-extension](https://github.com/TomasHubelbauer/vscode-bare-extension)
 
