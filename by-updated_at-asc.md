@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-03-10T15:04:40.249Z
+2023-03-10T16:04:25.680Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -377,14 +377,6 @@
 🏷 blender, vscode
 
 📒 Notes for using Blender with VS Code
-
-## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
-
-⚖️ 2022-04-14T19:44:28Z
-
-🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
-
-📒 Brother P-touch D600 label maker USB communication with P-touch Editor
 
 ## [canvas-chromatic-aberration](https://github.com/TomasHubelbauer/canvas-chromatic-aberration)
 
@@ -3257,4 +3249,12 @@
 🏷 ast, cra, create-react-app, i18n, internationalization, localization, translation
 
 📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
+
+## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
+
+⚖️ 2023-03-10T15:26:44Z
+
+🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
+
+📒 Brother P-touch D600 label maker USB communication with P-touch Editor
 
