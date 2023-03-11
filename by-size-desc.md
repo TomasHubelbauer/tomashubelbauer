@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-03-11T02:20:55.421Z
+2023-03-11T03:04:27.766Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -162,14 +162,6 @@
 
 📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 9583
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [web-midi](https://github.com/TomasHubelbauer/web-midi)
 
 ⚖️ 8781
@@ -225,6 +217,14 @@
 🏷 deterministic, jpg, png, puppeteer, reproducible-builds, screenshot
 
 📒 Pondering about whether Puppeteer screenshots are deterministic
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 4964
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [onewheel](https://github.com/TomasHubelbauer/onewheel)
 
