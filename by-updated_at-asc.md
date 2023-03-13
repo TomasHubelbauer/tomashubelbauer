@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-03-13T11:04:19.712Z
+2023-03-13T12:05:52.057Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2714,14 +2714,6 @@
 
 📒 3D SVG projection and animation
 
-## [node-puppeteer-apng](https://github.com/TomasHubelbauer/node-puppeteer-apng)
-
-⚖️ 2022-10-05T23:10:44Z
-
-🏷 animated-gif, animated-png, apng, javascript, node, node-library, node-module, png, puppeteer, screencast
-
-📒 A JavaScript library for recording screencasts of URLs or Puppeteer sessions to APNG
-
 ## [solar](https://github.com/TomasHubelbauer/solar)
 
 ⚖️ 2022-10-10T09:17:21Z
@@ -3257,4 +3249,12 @@
 🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
 
 📒 Brother P-touch D600 label maker USB communication with P-touch Editor
+
+## [node-puppeteer-apng](https://github.com/TomasHubelbauer/node-puppeteer-apng)
+
+⚖️ 2023-03-13T11:14:49Z
+
+🏷 animated-gif, animated-png, apng, javascript, node, node-library, node-module, png, puppeteer, screencast
+
+📒 A JavaScript library for recording screencasts of URLs or Puppeteer sessions to APNG
 
