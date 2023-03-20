@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-03-20T11:04:35.898Z
+2023-03-20T12:06:12.057Z
+
+## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
+
+⚖️ 2023-03-20T11:11:59Z
+
+🏷 esm, nextjs, url-import
+
+📒 NextJS URL imports
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -377,14 +385,6 @@
 🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
 
 📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
-
-## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
-
-⚖️ 2023-01-13T09:07:54Z
-
-🏷 esm, nextjs, url-import
-
-📒 NextJS URL imports
 
 ## [timestamper](https://github.com/TomasHubelbauer/timestamper)
 
