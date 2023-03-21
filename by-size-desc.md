@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-03-21T16:04:26.306Z
+2023-03-21T17:04:36.590Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -188,7 +188,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 7222
+⚖️ 7418
 
 🏷 tomashubelbauer
 
@@ -233,6 +233,14 @@
 🏷 onewheel
 
 📒 A collection of links relating to the Onewheel
+
+## [zod](https://github.com/TomasHubelbauer/zod)
+
+⚖️ 4753
+
+🏷 
+
+📒 TypeScript-first schema validation with static type inference
 
 ## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
 

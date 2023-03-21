@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-03-21T16:04:26.291Z
+2023-03-21T17:04:36.575Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3265,4 +3265,12 @@
 🏷 esm, nextjs, url-import
 
 📒 NextJS URL imports
+
+## [zod](https://github.com/TomasHubelbauer/zod)
+
+⚖️ 2023-03-21T16:05:43Z
+
+🏷 
+
+📒 TypeScript-first schema validation with static type inference
 

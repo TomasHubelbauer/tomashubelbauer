@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-03-21T16:04:26.300Z
+2023-03-21T17:04:36.583Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3260,9 +3260,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-03-21T15:06:52Z
+⚖️ 2023-03-21T16:06:22Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [zod](https://github.com/TomasHubelbauer/zod)
+
+⚖️ 2023-03-21T16:12:52Z
+
+🏷 
+
+📒 TypeScript-first schema validation with static type inference
 

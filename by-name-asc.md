@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-03-21T16:04:26.284Z
+2023-03-21T17:04:36.555Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -3265,4 +3265,12 @@
 🏷 youtube, youtube-dl, youtube-dl-gui, youtube-downloader
 
 📒 Youtube subscription downloader for offline viewing
+
+## [zod](https://github.com/TomasHubelbauer/zod)
+
+⚖️ zod
+
+🏷 
+
+📒 TypeScript-first schema validation with static type inference
 

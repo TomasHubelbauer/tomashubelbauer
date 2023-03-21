@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-03-21T16:04:26.296Z
+2023-03-21T17:04:36.578Z
+
+## [zod](https://github.com/TomasHubelbauer/zod)
+
+⚖️ 2023-03-21T16:05:43Z
+
+🏷 
+
+📒 TypeScript-first schema validation with static type inference
 
 ## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
 

@@ -1,6 +1,14 @@
 # By `name` (desc)
 
-2023-03-21T16:04:26.287Z
+2023-03-21T17:04:36.570Z
+
+## [zod](https://github.com/TomasHubelbauer/zod)
+
+⚖️ zod
+
+🏷 
+
+📒 TypeScript-first schema validation with static type inference
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 

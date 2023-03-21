@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-03-21T16:04:26.301Z
+2023-03-21T17:04:36.585Z
+
+## [zod](https://github.com/TomasHubelbauer/zod)
+
+⚖️ 2023-03-21T16:12:52Z
+
+🏷 
+
+📒 TypeScript-first schema validation with static type inference
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-03-21T15:06:52Z
+⚖️ 2023-03-21T16:06:22Z
 
 🏷 tomashubelbauer
 
