@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-03-21T13:05:21.311Z
+2023-03-21T14:04:42.482Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -186,6 +186,14 @@
 
 📒 GitHub Action to send LGTM reaction
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 7028
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
 ⚖️ 6879
@@ -201,14 +209,6 @@
 🏷 electron, lrc, lyrics, spotify
 
 📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 6833
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
