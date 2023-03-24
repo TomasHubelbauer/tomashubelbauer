@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-03-24T11:04:25.303Z
+2023-03-24T12:05:14.823Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2137,6 +2137,14 @@
 🏷 git-notes, github-actions, github-issues
 
 📒 A script for storing GitHub Issues in Git notes.
+
+## [remark-mermaid-nextra](https://github.com/TomasHubelbauer/remark-mermaid-nextra)
+
+⚖️ 34
+
+🏷 
+
+📒 Remark Mermaid Nextra plugin that should work.
 
 ## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
 

@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-03-24T11:04:25.306Z
+2023-03-24T12:05:14.825Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -1145,6 +1145,14 @@
 🏷 jira, markdown, vscode, vscode-extension
 
 📒 VS Code extension to highlight Jira links in MarkDown
+
+## [remark-mermaid-nextra](https://github.com/TomasHubelbauer/remark-mermaid-nextra)
+
+⚖️ 34
+
+🏷 
+
+📒 Remark Mermaid Nextra plugin that should work.
 
 ## [github-issues-git-notes-demo](https://github.com/TomasHubelbauer/github-issues-git-notes-demo)
 

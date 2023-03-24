@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-03-24T11:04:25.288Z
+2023-03-24T12:05:14.808Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2361,6 +2361,14 @@
 🏷 bank-api, bank-statement, payment-card, regex
 
 📒 Regex for parsing Czech card statement lines
+
+## [remark-mermaid-nextra](https://github.com/TomasHubelbauer/remark-mermaid-nextra)
+
+⚖️ remark-mermaid-nextra
+
+🏷 
+
+📒 Remark Mermaid Nextra plugin that should work.
 
 ## [remarkable](https://github.com/TomasHubelbauer/remarkable)
 

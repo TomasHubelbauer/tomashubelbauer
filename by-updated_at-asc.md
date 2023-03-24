@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-03-24T11:04:25.293Z
+2023-03-24T12:05:14.813Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3249,6 +3249,14 @@
 🏷 fuck-you, stale-bot
 
 📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
+
+## [remark-mermaid-nextra](https://github.com/TomasHubelbauer/remark-mermaid-nextra)
+
+⚖️ 2023-03-18T16:52:37Z
+
+🏷 
+
+📒 Remark Mermaid Nextra plugin that should work.
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 

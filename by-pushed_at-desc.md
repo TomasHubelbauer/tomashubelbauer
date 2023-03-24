@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-03-24T11:04:25.301Z
+2023-03-24T12:05:14.821Z
+
+## [remark-mermaid-nextra](https://github.com/TomasHubelbauer/remark-mermaid-nextra)
+
+⚖️ 2023-03-24T11:33:45Z
+
+🏷 
+
+📒 Remark Mermaid Nextra plugin that should work.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-03-24T07:06:29Z
+⚖️ 2023-03-24T11:06:21Z
 
 🏷 tomashubelbauer
 

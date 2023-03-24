@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-03-24T11:04:25.290Z
+2023-03-24T12:05:14.811Z
 
 ## [zod](https://github.com/TomasHubelbauer/zod)
 
@@ -921,6 +921,14 @@
 🏷 remarkable
 
 📒 My links for reMarkable
+
+## [remark-mermaid-nextra](https://github.com/TomasHubelbauer/remark-mermaid-nextra)
+
+⚖️ remark-mermaid-nextra
+
+🏷 
+
+📒 Remark Mermaid Nextra plugin that should work.
 
 ## [regex-card-statement](https://github.com/TomasHubelbauer/regex-card-statement)
 

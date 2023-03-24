@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-03-24T11:04:25.294Z
+2023-03-24T12:05:14.817Z
 
 ## [test](https://github.com/TomasHubelbauer/test)
 
@@ -33,6 +33,14 @@
 🏷 
 
 📒 null
+
+## [remark-mermaid-nextra](https://github.com/TomasHubelbauer/remark-mermaid-nextra)
+
+⚖️ 2023-03-18T16:52:37Z
+
+🏷 
+
+📒 Remark Mermaid Nextra plugin that should work.
 
 ## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
 
