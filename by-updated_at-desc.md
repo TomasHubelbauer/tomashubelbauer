@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-03-25T04:04:25.889Z
+2023-03-25T05:04:30.704Z
 
 ## [supabase-cache-helpers](https://github.com/TomasHubelbauer/supabase-cache-helpers)
 
