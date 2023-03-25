@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-03-25T11:04:13.879Z
+2023-03-25T12:04:57.844Z
+
+## [remark-mermaid-nextra](https://github.com/TomasHubelbauer/remark-mermaid-nextra)
+
+⚖️ 2023-03-25T11:27:16Z
+
+🏷 
+
+📒 Remark Mermaid Nextra plugin that should work.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-03-25T09:06:11Z
+⚖️ 2023-03-25T11:06:10Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 
 
 📒 A collection of framework specific Cache utilities for working with Supabase.
-
-## [remark-mermaid-nextra](https://github.com/TomasHubelbauer/remark-mermaid-nextra)
-
-⚖️ 2023-03-24T11:33:45Z
-
-🏷 
-
-📒 Remark Mermaid Nextra plugin that should work.
 
 ## [test](https://github.com/TomasHubelbauer/test)
 
