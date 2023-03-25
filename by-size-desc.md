@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-03-25T12:04:57.849Z
+2023-03-25T13:05:43.306Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -154,14 +154,6 @@
 
 📒 Using Playwright Firefox to scrape PDFs
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 10084
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [html-live-text](https://github.com/TomasHubelbauer/html-live-text)
 
 ⚖️ 9764
@@ -225,6 +217,14 @@
 🏷 deterministic, jpg, png, puppeteer, reproducible-builds, screenshot
 
 📒 Pondering about whether Puppeteer screenshots are deterministic
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 5408
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [onewheel](https://github.com/TomasHubelbauer/onewheel)
 
@@ -1138,14 +1138,6 @@
 
 📒 A script for setting the currently playing Spotify song as your Slack status
 
-## [remark-mermaid-nextra](https://github.com/TomasHubelbauer/remark-mermaid-nextra)
-
-⚖️ 35
-
-🏷 
-
-📒 Remark Mermaid Nextra plugin that should work.
-
 ## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
 
 ⚖️ 35
@@ -1161,6 +1153,14 @@
 🏷 jira, markdown, vscode, vscode-extension
 
 📒 VS Code extension to highlight Jira links in MarkDown
+
+## [remark-mermaid-nextra](https://github.com/TomasHubelbauer/remark-mermaid-nextra)
+
+⚖️ 34
+
+🏷 
+
+📒 Remark Mermaid Nextra plugin that should work.
 
 ## [github-issues-git-notes-demo](https://github.com/TomasHubelbauer/github-issues-git-notes-demo)
 
