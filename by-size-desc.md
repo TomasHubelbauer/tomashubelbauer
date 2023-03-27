@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-03-27T00:12:27.070Z
+2023-03-27T01:31:07.699Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -170,6 +170,14 @@
 
 📒 OP-1 working with web MIDI
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 8769
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [css-merry-go-round](https://github.com/TomasHubelbauer/css-merry-go-round)
 
 ⚖️ 8766
@@ -177,14 +185,6 @@
 🏷 css, layout, merry-go-round
 
 📒 CSS solution for a "merry-go-round" style sliding showcase
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 8574
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
 
