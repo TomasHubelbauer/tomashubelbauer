@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-03-28T17:04:32.915Z
+2023-03-28T18:04:28.892Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -188,7 +188,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 7066
+⚖️ 7264
 
 🏷 tomashubelbauer
 
@@ -634,6 +634,14 @@
 
 📒 An example of using TypeScript with TSX to achieve cool props typing
 
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 284
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
 ## [cable-case](https://github.com/TomasHubelbauer/cable-case)
 
 ⚖️ 284
@@ -689,14 +697,6 @@
 🏷 lab-notebook, literate-programming, markdown, markright, notebook, notebooks
 
 📒 Didactic literate programming
-
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 221
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
 
 ## [github-actions-push-api](https://github.com/TomasHubelbauer/github-actions-push-api)
 
@@ -3259,6 +3259,14 @@
 📒 A webcam page for with with He3 as a face camera
 
 ## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
+
+⚖️ 0
+
+🏷 
+
+📒 null
+
+## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
 
 ⚖️ 0
 

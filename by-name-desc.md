@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-03-28T17:04:32.895Z
+2023-03-28T18:04:28.876Z
 
 ## [zod](https://github.com/TomasHubelbauer/zod)
 
@@ -2249,6 +2249,14 @@
 🏷 git
 
 📒 Demonstrating wiping files from Git history
+
+## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
+
+⚖️ git-demo-submodule
+
+🏷 
+
+📒 null
 
 ## [git-config](https://github.com/TomasHubelbauer/git-config)
 
