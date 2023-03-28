@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-03-28T22:04:13.565Z
+2023-03-28T23:04:38.916Z
+
+## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
+
+⚖️ 2023-03-28T22:15:33Z
+
+🏷 
+
+📒 null
 
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
@@ -9,14 +17,6 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
-
-## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
-
-⚖️ 2023-03-28T17:06:57Z
-
-🏷 
-
-📒 null
 
 ## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
 
