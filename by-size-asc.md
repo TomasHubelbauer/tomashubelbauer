@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-03-30T09:05:37.668Z
+2023-03-30T11:04:47.848Z
 
 ## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
 
@@ -3098,6 +3098,14 @@
 
 📒 Pondering about whether Puppeteer screenshots are deterministic
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 5569
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
 ⚖️ 5992
@@ -3153,14 +3161,6 @@
 🏷 html, loader, loading-animation, loading-indicator, ui, ux, ux-experiment
 
 📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 10228
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [playwright-pdf](https://github.com/TomasHubelbauer/playwright-pdf)
 
