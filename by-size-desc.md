@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-03-29T23:04:56.612Z
+2023-03-30T00:12:58.624Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -164,7 +164,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 9438
+⚖️ 9636
 
 🏷 tomashubelbauer
 
@@ -1650,6 +1650,14 @@
 
 📒 An experiment in determining if pwsh runs PowerShell Core on Windows in Azure Pipelines.
 
+## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
+
+⚖️ 11
+
+🏷 
+
+📒 null
+
 ## [fastmail](https://github.com/TomasHubelbauer/fastmail)
 
 ⚖️ 11
@@ -1713,14 +1721,6 @@
 🏷 git, kb, knowledge-base, tips-and-tricks
 
 📒 Tips and tricks for using Git
-
-## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
-
-⚖️ 10
-
-🏷 
-
-📒 null
 
 ## [git-worktree](https://github.com/TomasHubelbauer/git-worktree)
 
