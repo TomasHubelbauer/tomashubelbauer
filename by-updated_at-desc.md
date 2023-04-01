@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-03-31T23:04:49.371Z
+2023-04-01T00:12:40.219Z
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 2023-03-31T23:09:11Z
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
 
@@ -121,14 +129,6 @@
 🏷 filemanager, ios, macos, swift
 
 📒 A nascent Swift FileManager wrapper library with some extra smarts.
-
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 2023-03-07T13:37:57Z
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [rust](https://github.com/TomasHubelbauer/rust)
 
