@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-04-08T10:04:31.177Z
+2023-04-08T11:04:07.873Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -425,14 +425,6 @@
 🏷 github, github-actions
 
 📒 GitHub Actions commit context object data
-
-## [js-array-groups](https://github.com/TomasHubelbauer/js-array-groups)
-
-⚖️ 2022-04-14T20:28:44Z
-
-🏷 array, javascript
-
-📒 JavaScript Split Array Into Groups of the Same Size
 
 ## [objc-ui](https://github.com/TomasHubelbauer/objc-ui)
 
@@ -3313,4 +3305,12 @@
 🏷 ntlite, powershell, ps
 
 📒 PowerShell NTLite installer
+
+## [js-array-groups](https://github.com/TomasHubelbauer/js-array-groups)
+
+⚖️ 2023-04-08T10:35:01Z
+
+🏷 array, javascript
+
+📒 JavaScript Split Array Into Groups of the Same Size
 

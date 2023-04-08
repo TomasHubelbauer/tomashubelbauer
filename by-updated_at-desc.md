@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-04-08T10:04:31.179Z
+2023-04-08T11:04:07.874Z
+
+## [js-array-groups](https://github.com/TomasHubelbauer/js-array-groups)
+
+⚖️ 2023-04-08T10:35:01Z
+
+🏷 array, javascript
+
+📒 JavaScript Split Array Into Groups of the Same Size
 
 ## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
 
@@ -2881,14 +2889,6 @@
 🏷 code-ui, objective-c, swift
 
 📒 Building out a UI using code in ObjectiveC
-
-## [js-array-groups](https://github.com/TomasHubelbauer/js-array-groups)
-
-⚖️ 2022-04-14T20:28:44Z
-
-🏷 array, javascript
-
-📒 JavaScript Split Array Into Groups of the Same Size
 
 ## [github-actions-commit](https://github.com/TomasHubelbauer/github-actions-commit)
 
