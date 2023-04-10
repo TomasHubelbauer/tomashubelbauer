@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-04-10T13:05:39.475Z
+2023-04-10T14:04:32.550Z
 
 ## [js-array-groups](https://github.com/TomasHubelbauer/js-array-groups)
 
