@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-04-10T11:04:44.294Z
+2023-04-10T12:05:48.913Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -178,6 +178,14 @@
 
 📒 CSS solution for a "merry-go-round" style sliding showcase
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 8442
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
 
 ⚖️ 8275
@@ -185,14 +193,6 @@
 🏷 
 
 📒 GitHub Action to send LGTM reaction
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 8247
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
