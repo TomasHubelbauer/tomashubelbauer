@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-04-11T15:05:08.715Z
+2023-04-11T16:04:36.768Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3298,14 +3298,6 @@
 
 📒 PowerShell NTLite installer
 
-## [js-array-groups](https://github.com/TomasHubelbauer/js-array-groups)
-
-⚖️ 2023-04-08T10:35:01Z
-
-🏷 array, javascript
-
-📒 JavaScript Split Array Into Groups of the Same Size
-
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
 ⚖️ 2023-04-10T15:19:49Z
@@ -3313,4 +3305,12 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
+
+## [js-array-groups](https://github.com/TomasHubelbauer/js-array-groups)
+
+⚖️ 2023-04-11T15:28:57Z
+
+🏷 array, javascript
+
+📒 JavaScript Split Array Into Groups of the Same Size
 

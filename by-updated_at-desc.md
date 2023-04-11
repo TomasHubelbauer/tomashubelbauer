@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-04-11T15:05:08.717Z
+2023-04-11T16:04:36.772Z
+
+## [js-array-groups](https://github.com/TomasHubelbauer/js-array-groups)
+
+⚖️ 2023-04-11T15:28:57Z
+
+🏷 array, javascript
+
+📒 JavaScript Split Array Into Groups of the Same Size
 
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
@@ -9,14 +17,6 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
-
-## [js-array-groups](https://github.com/TomasHubelbauer/js-array-groups)
-
-⚖️ 2023-04-08T10:35:01Z
-
-🏷 array, javascript
-
-📒 JavaScript Split Array Into Groups of the Same Size
 
 ## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
 
