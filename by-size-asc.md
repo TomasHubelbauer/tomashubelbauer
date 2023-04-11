@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-04-11T00:12:15.624Z
+2023-04-11T01:31:07.146Z
 
 ## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
 
@@ -3146,14 +3146,6 @@
 
 📒 OP-1 working with web MIDI
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 9630
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [html-live-text](https://github.com/TomasHubelbauer/html-live-text)
 
 ⚖️ 9764
@@ -3161,6 +3153,14 @@
 🏷 html, loader, loading-animation, loading-indicator, ui, ux, ux-experiment
 
 📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 9825
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [playwright-pdf](https://github.com/TomasHubelbauer/playwright-pdf)
 
