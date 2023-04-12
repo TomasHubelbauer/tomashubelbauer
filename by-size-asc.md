@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-04-12T17:04:21.861Z
+2023-04-12T18:05:29.421Z
 
 ## [pipe-mount](https://github.com/TomasHubelbauer/pipe-mount)
 
@@ -2898,14 +2898,6 @@
 
 📒 HN Pop-up lets you quickly glance at a user's profile without leaving the page you're on. You can quickly see a user's bio, karma and account age
 
-## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
-
-⚖️ 927
-
-🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
-
-📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
-
 ## [vscode-box-drawing](https://github.com/TomasHubelbauer/vscode-box-drawing)
 
 ⚖️ 1005
@@ -2929,6 +2921,14 @@
 🏷 invoices, moje-o2, o2, puppeteer, scraper
 
 📒 A scraper for MojeO2 invoices
+
+## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
+
+⚖️ 1170
+
+🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
+
+📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
 
 ## [appium](https://github.com/TomasHubelbauer/appium)
 

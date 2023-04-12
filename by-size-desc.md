@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-04-12T17:04:21.864Z
+2023-04-12T18:05:29.424Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -394,6 +394,14 @@
 
 📒 My notes about Appium
 
+## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
+
+⚖️ 1170
+
+🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
+
+📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
+
 ## [puppeteer-moje-o2-scraper](https://github.com/TomasHubelbauer/puppeteer-moje-o2-scraper)
 
 ⚖️ 1138
@@ -417,14 +425,6 @@
 🏷 ascii, ascii-art, box-drawing, markdown, unicode, vscode, vscode-extension, vscode-plugin
 
 📒 A VS Code extension for simplifying box drawing with Unicode and ASCII
-
-## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
-
-⚖️ 927
-
-🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
-
-📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
 
 ## [hnpopup](https://github.com/TomasHubelbauer/hnpopup)
 

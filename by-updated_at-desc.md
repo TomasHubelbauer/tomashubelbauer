@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-04-12T17:04:21.853Z
+2023-04-12T18:05:29.406Z
+
+## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
+
+⚖️ 2023-04-12T17:46:02Z
+
+🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
+
+📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
 
 ## [pipe-mount](https://github.com/TomasHubelbauer/pipe-mount)
 
@@ -217,14 +225,6 @@
 🏷 hacker-news, tailwind
 
 📒 Hacker News redesigned using Tailwind for practice
-
-## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
-
-⚖️ 2023-03-07T13:37:57Z
-
-🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
-
-📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
 
 ## [git-worktree](https://github.com/TomasHubelbauer/git-worktree)
 
