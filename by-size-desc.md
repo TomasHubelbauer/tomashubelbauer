@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-04-13T20:04:22.669Z
+2023-04-13T21:04:19.732Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -156,7 +156,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 10104
+⚖️ 10303
 
 🏷 tomashubelbauer
 
@@ -1658,6 +1658,14 @@
 
 📒 An experiment in determining if pwsh runs PowerShell Core on Windows in Azure Pipelines.
 
+## [json-to-json_build_object](https://github.com/TomasHubelbauer/json-to-json_build_object)
+
+⚖️ 11
+
+🏷 json, json-build-array, json-build-object, postgres, sql
+
+📒 A handy tool for converting JSON to json_build_object calls in Postgres SQL
+
 ## [fastmail](https://github.com/TomasHubelbauer/fastmail)
 
 ⚖️ 11
@@ -2025,14 +2033,6 @@
 🏷 flirc, ir, led, led-strip
 
 📒 Using Flirc to control an IR LED strip
-
-## [json-to-json_build_object](https://github.com/TomasHubelbauer/json-to-json_build_object)
-
-⚖️ 6
-
-🏷 json, json-build-array, json-build-object, postgres, sql
-
-📒 A handy tool for converting JSON to json_build_object calls in Postgres SQL
 
 ## [vscode-compound-debug-split-terminal](https://github.com/TomasHubelbauer/vscode-compound-debug-split-terminal)
 

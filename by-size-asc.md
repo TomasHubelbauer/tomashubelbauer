@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-04-13T20:04:22.667Z
+2023-04-13T21:04:19.730Z
 
 ## [pipe-mount](https://github.com/TomasHubelbauer/pipe-mount)
 
@@ -1194,14 +1194,6 @@
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
 
-## [json-to-json_build_object](https://github.com/TomasHubelbauer/json-to-json_build_object)
-
-⚖️ 6
-
-🏷 json, json-build-array, json-build-object, postgres, sql
-
-📒 A handy tool for converting JSON to json_build_object calls in Postgres SQL
-
 ## [vscode-compound-debug-split-terminal](https://github.com/TomasHubelbauer/vscode-compound-debug-split-terminal)
 
 ⚖️ 6
@@ -1609,6 +1601,14 @@
 🏷 ef-code-first, ef-core, entity-framework, entity-framework-core
 
 📒 A repro showing EF to auto-generating a successive ID after seeding the DB with hardcoded IDs.
+
+## [json-to-json_build_object](https://github.com/TomasHubelbauer/json-to-json_build_object)
+
+⚖️ 11
+
+🏷 json, json-build-array, json-build-object, postgres, sql
+
+📒 A handy tool for converting JSON to json_build_object calls in Postgres SQL
 
 ## [fastmail](https://github.com/TomasHubelbauer/fastmail)
 
@@ -3172,7 +3172,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 10104
+⚖️ 10303
 
 🏷 tomashubelbauer
 
