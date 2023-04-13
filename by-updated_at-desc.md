@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-04-13T14:04:44.902Z
+2023-04-13T16:04:35.237Z
+
+## [json-to-json_build_object](https://github.com/TomasHubelbauer/json-to-json_build_object)
+
+⚖️ 2023-04-13T15:07:20Z
+
+🏷 json, json-build-array, json-build-object, postgres, sql
+
+📒 A handy tool for converting JSON to json_build_object calls in Postgres SQL
 
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
@@ -9,14 +17,6 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
-
-## [json-to-json_build_object](https://github.com/TomasHubelbauer/json-to-json_build_object)
-
-⚖️ 2023-04-13T13:31:03Z
-
-🏷 
-
-📒 null
 
 ## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
 

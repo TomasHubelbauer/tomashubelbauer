@@ -1,14 +1,14 @@
 # By `size` (asc)
 
-2023-04-13T14:04:44.914Z
+2023-04-13T16:04:35.247Z
 
 ## [json-to-json_build_object](https://github.com/TomasHubelbauer/json-to-json_build_object)
 
 ⚖️ 0
 
-🏷 
+🏷 json, json-build-array, json-build-object, postgres, sql
 
-📒 null
+📒 A handy tool for converting JSON to json_build_object calls in Postgres SQL
 
 ## [pipe-mount](https://github.com/TomasHubelbauer/pipe-mount)
 
@@ -3162,14 +3162,6 @@
 
 📒 OP-1 working with web MIDI
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 9708
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [html-live-text](https://github.com/TomasHubelbauer/html-live-text)
 
 ⚖️ 9764
@@ -3177,6 +3169,14 @@
 🏷 html, loader, loading-animation, loading-indicator, ui, ux, ux-experiment
 
 📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 9904
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [playwright-pdf](https://github.com/TomasHubelbauer/playwright-pdf)
 

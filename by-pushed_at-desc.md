@@ -1,18 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-04-13T14:04:44.911Z
+2023-04-13T16:04:35.244Z
 
 ## [json-to-json_build_object](https://github.com/TomasHubelbauer/json-to-json_build_object)
 
-⚖️ 2023-04-13T13:31:04Z
+⚖️ 2023-04-13T15:11:02Z
 
-🏷 
+🏷 json, json-build-array, json-build-object, postgres, sql
 
-📒 null
+📒 A handy tool for converting JSON to json_build_object calls in Postgres SQL
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-04-13T12:12:52Z
+⚖️ 2023-04-13T14:06:41Z
 
 🏷 tomashubelbauer
 

@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-04-13T14:04:44.896Z
+2023-04-13T16:04:35.230Z
 
 ## [zod](https://github.com/TomasHubelbauer/zod)
 
@@ -1734,9 +1734,9 @@
 
 ⚖️ json-to-json_build_object
 
-🏷 
+🏷 json, json-build-array, json-build-object, postgres, sql
 
-📒 null
+📒 A handy tool for converting JSON to json_build_object calls in Postgres SQL
 
 ## [js-time-zone-research](https://github.com/TomasHubelbauer/js-time-zone-research)
 

@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-04-13T14:04:44.900Z
+2023-04-13T16:04:35.233Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3314,14 +3314,6 @@
 
 📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
 
-## [json-to-json_build_object](https://github.com/TomasHubelbauer/json-to-json_build_object)
-
-⚖️ 2023-04-13T13:31:03Z
-
-🏷 
-
-📒 null
-
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
 ⚖️ 2023-04-13T13:44:58Z
@@ -3329,4 +3321,12 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
+
+## [json-to-json_build_object](https://github.com/TomasHubelbauer/json-to-json_build_object)
+
+⚖️ 2023-04-13T15:07:20Z
+
+🏷 json, json-build-array, json-build-object, postgres, sql
+
+📒 A handy tool for converting JSON to json_build_object calls in Postgres SQL
 

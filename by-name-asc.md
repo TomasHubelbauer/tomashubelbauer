@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-04-13T14:04:44.893Z
+2023-04-13T16:04:35.227Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -1598,9 +1598,9 @@
 
 ⚖️ json-to-json_build_object
 
-🏷 
+🏷 json, json-build-array, json-build-object, postgres, sql
 
-📒 null
+📒 A handy tool for converting JSON to json_build_object calls in Postgres SQL
 
 ## [jsx-tsx-cheatsheet](https://github.com/TomasHubelbauer/jsx-tsx-cheatsheet)
 
