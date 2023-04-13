@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2023-04-13T16:04:35.247Z
-
-## [json-to-json_build_object](https://github.com/TomasHubelbauer/json-to-json_build_object)
-
-⚖️ 0
-
-🏷 json, json-build-array, json-build-object, postgres, sql
-
-📒 A handy tool for converting JSON to json_build_object calls in Postgres SQL
+2023-04-13T17:04:20.613Z
 
 ## [pipe-mount](https://github.com/TomasHubelbauer/pipe-mount)
 
@@ -1201,6 +1193,14 @@
 🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
+
+## [json-to-json_build_object](https://github.com/TomasHubelbauer/json-to-json_build_object)
+
+⚖️ 6
+
+🏷 json, json-build-array, json-build-object, postgres, sql
+
+📒 A handy tool for converting JSON to json_build_object calls in Postgres SQL
 
 ## [vscode-compound-debug-split-terminal](https://github.com/TomasHubelbauer/vscode-compound-debug-split-terminal)
 
