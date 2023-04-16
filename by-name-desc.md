@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-04-16T07:04:14.101Z
+2023-04-16T11:04:13.230Z
 
 ## [zod](https://github.com/TomasHubelbauer/zod)
 
@@ -2161,6 +2161,14 @@
 🏷 git-notes, github-actions, github-issues
 
 📒 A GitHub Actions action to sync GitHub Issues to Git notes
+
+## [github-clear-artifacts](https://github.com/TomasHubelbauer/github-clear-artifacts)
+
+⚖️ github-clear-artifacts
+
+🏷 
+
+📒 null
 
 ## [github-api](https://github.com/TomasHubelbauer/github-api)
 
