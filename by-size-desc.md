@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-04-17T10:04:32.233Z
+2023-04-17T11:04:36.657Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -196,7 +196,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 7303
+⚖️ 7502
 
 🏷 tomashubelbauer
 
@@ -2434,6 +2434,14 @@
 
 📒 My research into merging faces in Blender
 
+## [github-clear-artifacts](https://github.com/TomasHubelbauer/github-clear-artifacts)
+
+⚖️ 3
+
+🏷 
+
+📒 null
+
 ## [vrm-api](https://github.com/TomasHubelbauer/vrm-api)
 
 ⚖️ 3
@@ -2977,14 +2985,6 @@
 🏷 blender, vscode
 
 📒 Notes for using Blender with VS Code
-
-## [github-clear-artifacts](https://github.com/TomasHubelbauer/github-clear-artifacts)
-
-⚖️ 1
-
-🏷 
-
-📒 null
 
 ## [test](https://github.com/TomasHubelbauer/test)
 
