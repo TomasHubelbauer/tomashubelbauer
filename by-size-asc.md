@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-04-17T20:04:41.720Z
+2023-04-17T21:04:49.176Z
 
 ## [playwright-web-push-notification](https://github.com/TomasHubelbauer/playwright-web-push-notification)
 
