@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-04-17T14:04:42.194Z
+2023-04-17T16:04:59.325Z
 
 ## [pipe-mount](https://github.com/TomasHubelbauer/pipe-mount)
 
@@ -618,14 +618,6 @@
 
 📒 Notes for using Blender with VS Code
 
-## [github-clear-artifacts](https://github.com/TomasHubelbauer/github-clear-artifacts)
-
-⚖️ 3
-
-🏷 
-
-📒 null
-
 ## [vrm-api](https://github.com/TomasHubelbauer/vrm-api)
 
 ⚖️ 3
@@ -1201,6 +1193,14 @@
 🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
+
+## [github-clear-artifacts](https://github.com/TomasHubelbauer/github-clear-artifacts)
+
+⚖️ 6
+
+🏷 
+
+📒 null
 
 ## [vscode-compound-debug-split-terminal](https://github.com/TomasHubelbauer/vscode-compound-debug-split-terminal)
 
@@ -3148,7 +3148,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 7701
+⚖️ 7900
 
 🏷 tomashubelbauer
 
