@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-04-17T23:04:26.625Z
+2023-04-18T00:12:08.654Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -1738,14 +1738,6 @@
 
 📒 ESM (and non-ESM) JavaScript varint library
 
-## [bt-channel](https://github.com/TomasHubelbauer/bt-channel)
-
-⚖️ 2022-04-17T09:50:53Z
-
-🏷 sdp, web-bluetooth, webrtc
-
-📒 Thinking about using Web Bluetooth for WebRTC SDP exchange
-
 ## [cf-workers-deploy](https://github.com/TomasHubelbauer/cf-workers-deploy)
 
 ⚖️ 2022-04-17T09:51:03Z
@@ -3353,4 +3345,12 @@
 🏷 
 
 📒 null
+
+## [bt-channel](https://github.com/TomasHubelbauer/bt-channel)
+
+⚖️ 2023-04-17T23:32:54Z
+
+🏷 sdp, web-bluetooth, webrtc
+
+📒 Thinking about using Web Bluetooth for WebRTC SDP exchange
 

@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-04-17T23:04:26.627Z
+2023-04-18T00:12:08.658Z
+
+## [bt-channel](https://github.com/TomasHubelbauer/bt-channel)
+
+⚖️ 2023-04-17T23:32:54Z
+
+🏷 sdp, web-bluetooth, webrtc
+
+📒 Thinking about using Web Bluetooth for WebRTC SDP exchange
 
 ## [playwright-web-push-notification](https://github.com/TomasHubelbauer/playwright-web-push-notification)
 
@@ -1609,14 +1617,6 @@
 🏷 cloudflare, cloudflare-kv, cloudflare-worker, cloudflare-workers, cloudflare-workers-kv, wrangler
 
 📒 A Node package for deploying a script to CloudFlare Workers without the use of Wrangler
-
-## [bt-channel](https://github.com/TomasHubelbauer/bt-channel)
-
-⚖️ 2022-04-17T09:50:53Z
-
-🏷 sdp, web-bluetooth, webrtc
-
-📒 Thinking about using Web Bluetooth for WebRTC SDP exchange
 
 ## [esm-dataview-getvarint](https://github.com/TomasHubelbauer/esm-dataview-getvarint)
 
