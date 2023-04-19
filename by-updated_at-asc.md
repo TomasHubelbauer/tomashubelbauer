@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-04-19T01:31:39.376Z
+2023-04-19T02:18:43.554Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2554,14 +2554,6 @@
 
 📒 null
 
-## [selfie](https://github.com/TomasHubelbauer/selfie)
-
-⚖️ 2022-08-22T10:54:10Z
-
-🏷 getdisplaymedia, html2canvas, screenshot, self-screenshot, selfie
-
-📒 A library for capturing web page self screenshots
-
 ## [vscode-markdown-table-format](https://github.com/TomasHubelbauer/vscode-markdown-table-format)
 
 ⚖️ 2022-09-02T02:47:05Z
@@ -3353,4 +3345,12 @@
 🏷 sdp, web-bluetooth, webrtc
 
 📒 Thinking about using Web Bluetooth for WebRTC SDP exchange
+
+## [selfie](https://github.com/TomasHubelbauer/selfie)
+
+⚖️ 2023-04-19T02:15:57Z
+
+🏷 getdisplaymedia, html2canvas, screenshot, self-screenshot, selfie
+
+📒 A library for capturing web page self screenshots
 

@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-04-19T01:31:39.380Z
+2023-04-19T02:18:43.557Z
+
+## [selfie](https://github.com/TomasHubelbauer/selfie)
+
+⚖️ 2023-04-19T02:15:57Z
+
+🏷 getdisplaymedia, html2canvas, screenshot, self-screenshot, selfie
+
+📒 A library for capturing web page self screenshots
 
 ## [bt-channel](https://github.com/TomasHubelbauer/bt-channel)
 
@@ -793,14 +801,6 @@
 🏷 intellisense, markdown, table, vscode, vscode-extension, vscode-plugin
 
 📒 Formats tables in MarkDown documents when using the Format Document editor context menu option in VS Code.
-
-## [selfie](https://github.com/TomasHubelbauer/selfie)
-
-⚖️ 2022-08-22T10:54:10Z
-
-🏷 getdisplaymedia, html2canvas, screenshot, self-screenshot, selfie
-
-📒 A library for capturing web page self screenshots
 
 ## [handoff](https://github.com/TomasHubelbauer/handoff)
 
