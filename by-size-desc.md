@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-04-21T09:04:30.875Z
+2023-04-21T11:05:05.576Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -164,7 +164,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 10197
+⚖️ 10394
 
 🏷 tomashubelbauer
 
@@ -473,6 +473,14 @@
 🏷 asp, asp-net, asp-net-core, fluent-validations, form-validation, validation, validations, validator
 
 📒 Shared conditional validations approach for ASP .NET Core
+
+## [openMotor](https://github.com/TomasHubelbauer/openMotor)
+
+⚖️ 675
+
+🏷 
+
+📒 An open-source internal ballistics simulator for rocket motor experimenters
 
 ## [rbc-dnd-auto-select](https://github.com/TomasHubelbauer/rbc-dnd-auto-select)
 

@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-04-21T09:04:30.873Z
+2023-04-21T11:05:05.573Z
 
 ## [pipe-mount](https://github.com/TomasHubelbauer/pipe-mount)
 
@@ -2882,6 +2882,14 @@
 
 📒 An experiment in making RBC event slots auto-select on hover
 
+## [openMotor](https://github.com/TomasHubelbauer/openMotor)
+
+⚖️ 675
+
+🏷 
+
+📒 An open-source internal ballistics simulator for rocket motor experimenters
+
 ## [asp-conditional-validations](https://github.com/TomasHubelbauer/asp-conditional-validations)
 
 ⚖️ 698
@@ -3188,7 +3196,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 10197
+⚖️ 10394
 
 🏷 tomashubelbauer
 

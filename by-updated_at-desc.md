@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-04-21T09:04:30.865Z
+2023-04-21T11:05:05.564Z
+
+## [openMotor](https://github.com/TomasHubelbauer/openMotor)
+
+⚖️ 2023-04-21T10:21:43Z
+
+🏷 
+
+📒 An open-source internal ballistics simulator for rocket motor experimenters
 
 ## [selfie](https://github.com/TomasHubelbauer/selfie)
 

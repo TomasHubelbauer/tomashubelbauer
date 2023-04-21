@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-04-21T09:04:30.858Z
+2023-04-21T11:05:05.555Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2073,6 +2073,14 @@
 🏷 op-1, op1, teenage-engineering
 
 📒 OP-1 designed in SVG. That's it.
+
+## [openMotor](https://github.com/TomasHubelbauer/openMotor)
+
+⚖️ openMotor
+
+🏷 
+
+📒 An open-source internal ballistics simulator for rocket motor experimenters
 
 ## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
 

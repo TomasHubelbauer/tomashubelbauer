@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-04-21T09:04:30.863Z
+2023-04-21T11:05:05.561Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3353,4 +3353,12 @@
 🏷 getdisplaymedia, html2canvas, screenshot, self-screenshot, selfie
 
 📒 A library for capturing web page self screenshots
+
+## [openMotor](https://github.com/TomasHubelbauer/openMotor)
+
+⚖️ 2023-04-21T10:21:43Z
+
+🏷 
+
+📒 An open-source internal ballistics simulator for rocket motor experimenters
 

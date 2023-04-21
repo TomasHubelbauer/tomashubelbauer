@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-04-21T09:04:30.860Z
+2023-04-21T11:05:05.557Z
 
 ## [zod](https://github.com/TomasHubelbauer/zod)
 
@@ -1281,6 +1281,14 @@
 🏷 map, maps, open-street-map, osm, raster-tiles
 
 📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
+
+## [openMotor](https://github.com/TomasHubelbauer/openMotor)
+
+⚖️ openMotor
+
+🏷 
+
+📒 An open-source internal ballistics simulator for rocket motor experimenters
 
 ## [op1-svg](https://github.com/TomasHubelbauer/op1-svg)
 
