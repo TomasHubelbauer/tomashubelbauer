@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-04-21T18:04:32.025Z
+2023-04-21T19:04:29.581Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2562,14 +2562,6 @@
 
 📒 Formats tables in MarkDown documents when using the Format Document editor context menu option in VS Code.
 
-## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
-
-⚖️ 2022-09-08T09:25:26Z
-
-🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
-
-📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
-
 ## [arduino-am2303](https://github.com/TomasHubelbauer/arduino-am2303)
 
 ⚖️ 2022-09-16T19:15:01Z
@@ -3361,4 +3353,12 @@
 🏷 
 
 📒 An open-source internal ballistics simulator for rocket motor experimenters
+
+## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
+
+⚖️ 2023-04-21T18:20:15Z
+
+🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
+
+📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
 

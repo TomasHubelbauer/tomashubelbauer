@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-04-21T18:04:32.028Z
+2023-04-21T19:04:29.584Z
+
+## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
+
+⚖️ 2023-04-21T18:20:15Z
+
+🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
+
+📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
 
 ## [openMotor](https://github.com/TomasHubelbauer/openMotor)
 
@@ -793,14 +801,6 @@
 🏷 
 
 📒 null
-
-## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
-
-⚖️ 2022-09-08T09:25:26Z
-
-🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
-
-📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
 
 ## [vscode-markdown-table-format](https://github.com/TomasHubelbauer/vscode-markdown-table-format)
 
