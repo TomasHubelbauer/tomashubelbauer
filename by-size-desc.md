@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-04-22T11:04:25.152Z
+2023-04-22T12:05:22.581Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -196,7 +196,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 7685
+⚖️ 7886
 
 🏷 tomashubelbauer
 
@@ -2050,6 +2050,14 @@
 
 📒 Using Flirc to control an IR LED strip
 
+## [firefox-youtube-buddy](https://github.com/TomasHubelbauer/firefox-youtube-buddy)
+
+⚖️ 6
+
+🏷 
+
+📒 null
+
 ## [github-clear-artifacts](https://github.com/TomasHubelbauer/github-clear-artifacts)
 
 ⚖️ 6
@@ -3305,14 +3313,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [firefox-youtube-buddy](https://github.com/TomasHubelbauer/firefox-youtube-buddy)
-
-⚖️ 0
-
-🏷 
-
-📒 null
 
 ## [pipe-mount](https://github.com/TomasHubelbauer/pipe-mount)
 
