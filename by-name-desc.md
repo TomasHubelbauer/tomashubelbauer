@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-04-22T10:04:54.921Z
+2023-04-22T11:04:25.137Z
 
 ## [zod](https://github.com/TomasHubelbauer/zod)
 
@@ -2361,6 +2361,14 @@
 🏷 css, flex
 
 📒 An example of how to use flex to space things apart with the same distance
+
+## [firefox-youtube-buddy](https://github.com/TomasHubelbauer/firefox-youtube-buddy)
+
+⚖️ firefox-youtube-buddy
+
+🏷 
+
+📒 null
 
 ## [firefox-cors](https://github.com/TomasHubelbauer/firefox-cors)
 

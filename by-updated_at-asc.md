@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-04-22T10:04:54.924Z
+2023-04-22T11:04:25.140Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3361,4 +3361,12 @@
 🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
 
 📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
+
+## [firefox-youtube-buddy](https://github.com/TomasHubelbauer/firefox-youtube-buddy)
+
+⚖️ 2023-04-22T10:05:14Z
+
+🏷 
+
+📒 null
 

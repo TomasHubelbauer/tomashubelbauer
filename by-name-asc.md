@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-04-22T10:04:54.919Z
+2023-04-22T11:04:25.135Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -1001,6 +1001,14 @@
 🏷 cors, file-protocol, firefox
 
 📒 Notes of working around CORS with Firefox localhost file: protocol
+
+## [firefox-youtube-buddy](https://github.com/TomasHubelbauer/firefox-youtube-buddy)
+
+⚖️ firefox-youtube-buddy
+
+🏷 
+
+📒 null
 
 ## [flex-equidistant-children](https://github.com/TomasHubelbauer/flex-equidistant-children)
 
