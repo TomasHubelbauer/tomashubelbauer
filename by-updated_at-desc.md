@@ -1,46 +1,574 @@
 # By `updated_at` (desc)
 
-2023-01-03T15:04:02.240Z
+2023-04-23T09:04:18.967Z
 
-## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
+## [cool-people-online](https://github.com/TomasHubelbauer/cool-people-online)
 
-⚖️ 2023-01-03T06:41:36Z
-
-🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
-
-📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
-
-## [git-worktree](https://github.com/TomasHubelbauer/git-worktree)
-
-⚖️ 2023-01-02T12:45:04Z
+⚖️ 2023-04-22T21:02:00Z
 
 🏷 
 
 📒 null
 
-## [cra](https://github.com/TomasHubelbauer/cra)
+## [planck-habit](https://github.com/TomasHubelbauer/planck-habit)
 
-⚖️ 2022-12-31T13:25:39Z
+⚖️ 2023-04-22T20:26:22Z
 
-🏷 cra, create-react-app
+🏷 
 
-📒 Create React App sample
+📒 null
+
+## [paper-roll-holder](https://github.com/TomasHubelbauer/paper-roll-holder)
+
+⚖️ 2023-04-22T13:07:22Z
+
+🏷 
+
+📒 null
+
+## [firefox-youtube-buddy](https://github.com/TomasHubelbauer/firefox-youtube-buddy)
+
+⚖️ 2023-04-22T10:05:14Z
+
+🏷 
+
+📒 null
+
+## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
+
+⚖️ 2023-04-21T18:20:15Z
+
+🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
+
+📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
+
+## [openMotor](https://github.com/TomasHubelbauer/openMotor)
+
+⚖️ 2023-04-21T10:21:43Z
+
+🏷 
+
+📒 An open-source internal ballistics simulator for rocket motor experimenters
+
+## [selfie](https://github.com/TomasHubelbauer/selfie)
+
+⚖️ 2023-04-19T02:15:57Z
+
+🏷 getdisplaymedia, html2canvas, screenshot, self-screenshot, selfie
+
+📒 A library for capturing web page self screenshots
+
+## [bt-channel](https://github.com/TomasHubelbauer/bt-channel)
+
+⚖️ 2023-04-17T23:32:54Z
+
+🏷 sdp, web-bluetooth, webrtc
+
+📒 Thinking about using Web Bluetooth for WebRTC SDP exchange
+
+## [playwright-web-push-notification](https://github.com/TomasHubelbauer/playwright-web-push-notification)
+
+⚖️ 2023-04-17T20:52:57Z
+
+🏷 
+
+📒 null
+
+## [github-clear-artifacts](https://github.com/TomasHubelbauer/github-clear-artifacts)
+
+⚖️ 2023-04-17T14:04:47Z
+
+🏷 
+
+📒 null
+
+## [react-native](https://github.com/TomasHubelbauer/react-native)
+
+⚖️ 2023-04-14T20:42:10Z
+
+🏷 
+
+📒 A framework for building native applications using React
+
+## [json-to-json_build_object](https://github.com/TomasHubelbauer/json-to-json_build_object)
+
+⚖️ 2023-04-13T15:07:20Z
+
+🏷 json, json-build-array, json-build-object, postgres, sql
+
+📒 A handy tool for converting JSON to json_build_object calls in Postgres SQL
+
+## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
+
+⚖️ 2023-04-13T13:44:58Z
+
+🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
+
+📒 Raspberry Pi Pico mouse jiggler
+
+## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
+
+⚖️ 2023-04-12T17:46:02Z
+
+🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
+
+📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
+
+## [pipe-mount](https://github.com/TomasHubelbauer/pipe-mount)
+
+⚖️ 2023-04-12T16:38:43Z
+
+🏷 
+
+📒 null
+
+## [js-array-groups](https://github.com/TomasHubelbauer/js-array-groups)
+
+⚖️ 2023-04-11T15:28:57Z
+
+🏷 array, javascript
+
+📒 JavaScript Split Array Into Groups of the Same Size
+
+## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
+
+⚖️ 2023-04-06T08:12:37Z
+
+🏷 ntlite, powershell, ps
+
+📒 PowerShell NTLite installer
+
+## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
+
+⚖️ 2023-04-02T20:05:26Z
+
+🏷 
+
+📒 null
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 2023-03-31T23:09:11Z
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
+
+## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
+
+⚖️ 2023-03-28T22:15:33Z
+
+🏷 
+
+📒 null
+
+## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
+
+⚖️ 2023-03-26T11:34:34Z
+
+🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
+
+📒 WebRTC Data Channel demo
+
+## [supabase-cache-helpers](https://github.com/TomasHubelbauer/supabase-cache-helpers)
+
+⚖️ 2023-03-24T12:54:23Z
+
+🏷 
+
+📒 A collection of framework specific Cache utilities for working with Supabase.
+
+## [test](https://github.com/TomasHubelbauer/test)
+
+⚖️ 2023-03-23T10:14:24Z
+
+🏷 
+
+📒 null
+
+## [zod](https://github.com/TomasHubelbauer/zod)
+
+⚖️ 2023-03-21T16:05:43Z
+
+🏷 
+
+📒 TypeScript-first schema validation with static type inference
+
+## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
+
+⚖️ 2023-03-20T11:11:59Z
+
+🏷 esm, nextjs, url-import
+
+📒 NextJS URL imports
+
+## [150.community](https://github.com/TomasHubelbauer/150.community)
+
+⚖️ 2023-03-18T22:06:28Z
+
+🏷 
+
+📒 null
+
+## [remark-mermaid-nextra](https://github.com/TomasHubelbauer/remark-mermaid-nextra)
+
+⚖️ 2023-03-18T16:52:37Z
+
+🏷 
+
+📒 Remark Mermaid Nextra plugin that should work.
+
+## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
+
+⚖️ 2023-03-18T11:29:06Z
+
+🏷 fuck-you, stale-bot
+
+📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
+
+## [node-puppeteer-apng](https://github.com/TomasHubelbauer/node-puppeteer-apng)
+
+⚖️ 2023-03-13T11:14:49Z
+
+🏷 animated-gif, animated-png, apng, javascript, node, node-library, node-module, png, puppeteer, screencast
+
+📒 A JavaScript library for recording screencasts of URLs or Puppeteer sessions to APNG
+
+## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
+
+⚖️ 2023-03-10T15:26:44Z
+
+🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
+
+📒 Brother P-touch D600 label maker USB communication with P-touch Editor
+
+## [vrm-api](https://github.com/TomasHubelbauer/vrm-api)
+
+⚖️ 2023-03-07T13:37:57Z
+
+🏷 api, victron
+
+📒 Victron API sample scripts written in Node
+
+## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
+
+⚖️ 2023-03-07T13:37:57Z
+
+🏷 filemanager, ios, macos, swift
+
+📒 A nascent Swift FileManager wrapper library with some extra smarts.
+
+## [rust](https://github.com/TomasHubelbauer/rust)
+
+⚖️ 2023-03-07T13:37:57Z
+
+🏷 
+
+📒 Exercism exercises in Rust.
+
+## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
+
+⚖️ 2023-03-07T13:37:57Z
+
+🏷 
+
+📒 null
+
+## [node-apng](https://github.com/TomasHubelbauer/node-apng)
+
+⚖️ 2023-03-07T13:37:57Z
+
+🏷 animated-gif, animated-png, animation, apng, javascript, javascript-library, mng, node, npm, png
+
+📒 A JavaScript library for producing an APNG file from a series of PNG image data buffers
+
+## [next-13-ssg](https://github.com/TomasHubelbauer/next-13-ssg)
+
+⚖️ 2023-03-07T13:37:57Z
+
+🏷 
+
+📒 null
+
+## [mime-multipart](https://github.com/TomasHubelbauer/mime-multipart)
+
+⚖️ 2023-03-07T13:37:57Z
+
+🏷 mime, multipart
+
+📒 JavaScript MIME Multipart Parser
+
+## [macos-login-item-shell-script-no-terminal](https://github.com/TomasHubelbauer/macos-login-item-shell-script-no-terminal)
+
+⚖️ 2023-03-07T13:37:57Z
+
+🏷 
+
+📒 null
+
+## [ladybird](https://github.com/TomasHubelbauer/ladybird)
+
+⚖️ 2023-03-07T13:37:57Z
+
+🏷 
+
+📒 The Ladybird web browser
+
+## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
+
+⚖️ 2023-03-07T13:37:57Z
+
+🏷 hacker-news, tailwind
+
+📒 Hacker News redesigned using Tailwind for practice
+
+## [git-worktree](https://github.com/TomasHubelbauer/git-worktree)
+
+⚖️ 2023-03-07T13:37:57Z
+
+🏷 
+
+📒 null
+
+## [firebase-firebase-js-sdk-6928](https://github.com/TomasHubelbauer/firebase-firebase-js-sdk-6928)
+
+⚖️ 2023-03-07T13:37:57Z
+
+🏷 
+
+📒 null
+
+## [bases](https://github.com/TomasHubelbauer/bases)
+
+⚖️ 2023-03-07T13:37:57Z
+
+🏷 
+
+📒 Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 
 ## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
 
-⚖️ 2022-12-30T11:50:36Z
+⚖️ 2023-03-07T13:37:57Z
 
 🏷 babel, babel-sourcemap, sourcemap
 
 📒 Reproducing a Babel bug where string literals get mapped incorrectly when used as React children
 
-## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
+## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
 
-⚖️ 2022-12-22T13:21:41Z
+⚖️ 2023-03-07T13:37:57Z
 
-🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
+🏷 ast, cra, create-react-app, i18n, internationalization, localization, translation
 
-📒 Raspberry Pi Pico mouse jiggler
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
+
+## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
+
+⚖️ 2023-03-07T13:37:56Z
+
+🏷 
+
+📒 MDX extension for Visual Studio Code
+
+## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
+
+⚖️ 2023-03-07T13:37:56Z
+
+🏷 
+
+📒 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2023-03-07T13:37:56Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
+## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
+
+⚖️ 2023-03-07T13:37:56Z
+
+🏷 
+
+📒 Isomorphic JavaScript client for PostgREST.
+
+## [postgres-meta](https://github.com/TomasHubelbauer/postgres-meta)
+
+⚖️ 2023-03-07T13:37:56Z
+
+🏷 
+
+📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
+
+## [lyrics](https://github.com/TomasHubelbauer/lyrics)
+
+⚖️ 2023-03-07T13:37:56Z
+
+🏷 electron, lrc, lyrics, spotify
+
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 2023-03-07T13:37:56Z
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
+## [hnpopup](https://github.com/TomasHubelbauer/hnpopup)
+
+⚖️ 2023-03-07T13:37:56Z
+
+🏷 
+
+📒 HN Pop-up lets you quickly glance at a user's profile without leaving the page you're on. You can quickly see a user's bio, karma and account age
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2023-03-07T13:37:56Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
+## [cli](https://github.com/TomasHubelbauer/cli)
+
+⚖️ 2023-03-07T13:37:56Z
+
+🏷 
+
+📒 Supabase CLI
+
+## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
+
+⚖️ 2023-03-07T13:37:56Z
+
+🏷 
+
+📒 GitHub Action to send LGTM reaction
+
+## [workers-formdata](https://github.com/TomasHubelbauer/workers-formdata)
+
+⚖️ 2023-02-28T04:41:48Z
+
+🏷 cloudflare, cloudflare-workers, formdata, multipart
+
+📒 FormData support for Cloudflare Workers
+
+## [wsb-busdog](https://github.com/TomasHubelbauer/wsb-busdog)
+
+⚖️ 2023-02-24T03:22:12Z
+
+🏷 busdog, windows-sandbox, wsb
+
+📒 My resarch into running BusDog in WSB
+
+## [wsb-kb](https://github.com/TomasHubelbauer/wsb-kb)
+
+⚖️ 2023-02-24T03:22:10Z
+
+🏷 cheatsheet, kb, knowledge-base, windows-sandbox, wsb, wsb-launcher
+
+📒 My knowledge base about the Windows Sandbox
+
+## [windows-sandbox-script](https://github.com/TomasHubelbauer/windows-sandbox-script)
+
+⚖️ 2023-02-24T03:22:08Z
+
+🏷 windows-sandbox, wsb
+
+📒 Windows Sandbox exploration
+
+## [qr-channel](https://github.com/TomasHubelbauer/qr-channel)
+
+⚖️ 2023-02-20T04:54:52Z
+
+🏷 data-channel, ice, javascript, peer-connection, qr-channel, qr-code, qrcode, sdp, webrtc, webrtc-datachannel, webrtc-demo
+
+📒 WebRTC data channel peer connection establishment using QR codes for trickle ICE exchange.
+
+## [pdf-scrape](https://github.com/TomasHubelbauer/pdf-scrape)
+
+⚖️ 2023-02-13T19:13:33Z
+
+🏷 pdf, pdf-js, pdf-scraping, pdfjs
+
+📒 Demonstrating PDF text and image extraction with correct bounds
+
+## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
+
+⚖️ 2023-02-12T23:18:19Z
+
+🏷 akai, apc-mini, launchpad, midi, usb
+
+📒 Akai APCmini launchpad USB/MIDI communication protocol
+
+## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
+
+⚖️ 2023-02-03T23:13:35Z
+
+🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
+
+📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
+
+## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
+
+⚖️ 2023-02-02T12:24:07Z
+
+🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
+
+📒 KalorickeTabulky.cz Node/browser JavaScript API
+
+## [vscode-video](https://github.com/TomasHubelbauer/vscode-video)
+
+⚖️ 2023-01-27T21:09:17Z
+
+🏷 audio-preview, video-preview, vscode, vscode-extension
+
+📒 Previews video files in VS Code using the custom editors proposed API
+
+## [rbc-components](https://github.com/TomasHubelbauer/rbc-components)
+
+⚖️ 2023-01-20T08:45:22Z
+
+🏷 rbc, react-big-calendar
+
+📒 A tool for exploring the possible values of the RBC components prop.
+
+## [vscode-compound-debug-split-terminal](https://github.com/TomasHubelbauer/vscode-compound-debug-split-terminal)
+
+⚖️ 2023-01-17T14:40:22Z
+
+🏷 terminal, vscode
+
+📒 VS Code launch tasks from a compound debugger configuration in individual but split terminals in the Integrated Terminal pane
+
+## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
+
+⚖️ 2023-01-14T03:05:28Z
+
+🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
+
+📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
+
+## [timestamper](https://github.com/TomasHubelbauer/timestamper)
+
+⚖️ 2023-01-12T22:30:13Z
+
+🏷 subtitles, timestamps
+
+📒 An application for timestamping audio and video streams for lyrics videos, subtitles etc.
+
+## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
+
+⚖️ 2023-01-09T07:53:50Z
+
+🏷 arduino, arduino-qr, dot-matrix, led-matrix, ledcontrol, max7219, qr, qr-code
+
+📒 Arduino LED dot-matrix display QR code
 
 ## [vscode-email-viewer](https://github.com/TomasHubelbauer/vscode-email-viewer)
 
@@ -50,14 +578,6 @@
 
 📒 Preview email message files (EML) in VS Code
 
-## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
-
-⚖️ 2022-12-15T10:51:13Z
-
-🏷 esm, nextjs, url-import
-
-📒 NextJS URL imports
-
 ## [webrtc-bridge](https://github.com/TomasHubelbauer/webrtc-bridge)
 
 ⚖️ 2022-12-15T06:57:17Z
@@ -66,22 +586,6 @@
 
 📒 An idea for serving sites from a home server through a WebRTC based frame site
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2022-12-14T23:28:12Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 2022-12-14T22:58:45Z
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
-
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
 ⚖️ 2022-12-14T02:55:40Z
@@ -89,22 +593,6 @@
 🏷 3mf
 
 📒 A script for extracting 3MF files into 3MF directories
-
-## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
-
-⚖️ 2022-12-13T08:56:07Z
-
-🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
-
-📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
-
-## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
-
-⚖️ 2022-12-11T20:22:40Z
-
-🏷 
-
-📒 null
 
 ## [github-actions](https://github.com/TomasHubelbauer/github-actions)
 
@@ -146,38 +634,6 @@
 
 📒 Onewheel Pint and +XR charger specs and connector pinouts
 
-## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
-
-⚖️ 2022-11-25T11:28:21Z
-
-🏷 hacker-news, tailwind
-
-📒 Hacker News redesigned using Tailwind for practice
-
-## [workers-formdata](https://github.com/TomasHubelbauer/workers-formdata)
-
-⚖️ 2022-11-23T14:25:58Z
-
-🏷 cloudflare, cloudflare-workers, formdata, multipart
-
-📒 FormData support for Cloudflare Workers
-
-## [ladybird](https://github.com/TomasHubelbauer/ladybird)
-
-⚖️ 2022-11-22T21:13:09Z
-
-🏷 
-
-📒 The Ladybird web browser
-
-## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
-
-⚖️ 2022-11-16T17:58:42Z
-
-🏷 filemanager, ios, macos, swift
-
-📒 A nascent Swift FileManager wrapper library with some extra smarts.
-
 ## [js-milestone](https://github.com/TomasHubelbauer/js-milestone)
 
 ⚖️ 2022-11-16T02:24:29Z
@@ -193,30 +649,6 @@
 🏷 op-1, op1, teenage-engineering, webgl
 
 📒 A 3D model of Teenage Engineering OP-1 displayed in the browser using WebGL
-
-## [vrm-api](https://github.com/TomasHubelbauer/vrm-api)
-
-⚖️ 2022-11-13T20:52:58Z
-
-🏷 api, victron
-
-📒 Victron API sample scripts written in Node
-
-## [next-13-ssg](https://github.com/TomasHubelbauer/next-13-ssg)
-
-⚖️ 2022-11-10T20:56:34Z
-
-🏷 
-
-📒 null
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2022-11-04T00:19:58Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
 
@@ -282,14 +714,6 @@
 
 📒 A pure Node function for extracting single-file ZIP archives
 
-## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
-
-⚖️ 2022-10-12T23:31:40Z
-
-🏷 akai, apc-mini, launchpad, midi, usb
-
-📒 Akai APCmini launchpad USB/MIDI communication protocol
-
 ## [solar](https://github.com/TomasHubelbauer/solar)
 
 ⚖️ 2022-10-10T09:17:21Z
@@ -297,14 +721,6 @@
 🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
 
 📒 Notes about my solar experiments
-
-## [node-puppeteer-apng](https://github.com/TomasHubelbauer/node-puppeteer-apng)
-
-⚖️ 2022-10-05T23:10:44Z
-
-🏷 animated-gif, animated-png, apng, javascript, node, node-library, node-module, png, puppeteer, screencast
-
-📒 A JavaScript library for recording screencasts of URLs or Puppeteer sessions to APNG
 
 ## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
 
@@ -354,14 +770,6 @@
 
 📒 A one-off utility for graphical week planning
 
-## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
-
-⚖️ 2022-09-29T10:22:56Z
-
-🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
-
-📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
-
 ## [fastmail](https://github.com/TomasHubelbauer/fastmail)
 
 ⚖️ 2022-09-28T08:40:10Z
@@ -393,14 +801,6 @@
 🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
 
 📒 A WebRTC data channel establishment with QR codes used for signaling channel.
-
-## [vscode-video](https://github.com/TomasHubelbauer/vscode-video)
-
-⚖️ 2022-09-17T11:11:07Z
-
-🏷 audio-preview, video-preview, vscode, vscode-extension
-
-📒 Previews video files in VS Code using the custom editors proposed API
 
 ## [sqlite-javascript](https://github.com/TomasHubelbauer/sqlite-javascript)
 
@@ -434,22 +834,6 @@
 
 📒 null
 
-## [node-apng](https://github.com/TomasHubelbauer/node-apng)
-
-⚖️ 2022-09-15T06:45:24Z
-
-🏷 animated-gif, animated-png, animation, apng, javascript, javascript-library, mng, node, npm, png
-
-📒 A JavaScript library for producing an APNG file from a series of PNG image data buffers
-
-## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
-
-⚖️ 2022-09-08T09:25:26Z
-
-🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
-
-📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
-
 ## [vscode-markdown-table-format](https://github.com/TomasHubelbauer/vscode-markdown-table-format)
 
 ⚖️ 2022-09-02T02:47:05Z
@@ -457,38 +841,6 @@
 🏷 intellisense, markdown, table, vscode, vscode-extension, vscode-plugin
 
 📒 Formats tables in MarkDown documents when using the Format Document editor context menu option in VS Code.
-
-## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
-
-⚖️ 2022-08-30T08:56:50Z
-
-🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
-
-📒 WebRTC Data Channel demo
-
-## [selfie](https://github.com/TomasHubelbauer/selfie)
-
-⚖️ 2022-08-22T10:54:10Z
-
-🏷 getdisplaymedia, html2canvas, screenshot, self-screenshot, selfie
-
-📒 A library for capturing web page self screenshots
-
-## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
-
-⚖️ 2022-08-17T20:11:17Z
-
-🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
-
-📒 KalorickeTabulky.cz Node/browser JavaScript API
-
-## [windows-sandbox-script](https://github.com/TomasHubelbauer/windows-sandbox-script)
-
-⚖️ 2022-08-15T15:18:47Z
-
-🏷 windows-sandbox, wsb
-
-📒 Windows Sandbox exploration
 
 ## [handoff](https://github.com/TomasHubelbauer/handoff)
 
@@ -513,14 +865,6 @@
 🏷 onewheel, web-ble, web-bluetooth, web-bluetooth-api
 
 📒 Onewheel Web Bluetooth
-
-## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
-
-⚖️ 2022-07-12T00:11:40Z
-
-🏷 fuck-you, stale-bot
-
-📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
 ## [ef-json-provider](https://github.com/TomasHubelbauer/ef-json-provider)
 
@@ -554,14 +898,6 @@
 
 📒 Scrapes Instagram stats and emails the report.
 
-## [mime-multipart](https://github.com/TomasHubelbauer/mime-multipart)
-
-⚖️ 2022-06-20T08:15:05Z
-
-🏷 mime, multipart
-
-📒 JavaScript MIME Multipart Parser
-
 ## [vscode-zip-file-system](https://github.com/TomasHubelbauer/vscode-zip-file-system)
 
 ⚖️ 2022-06-17T06:42:47Z
@@ -569,14 +905,6 @@
 🏷 archive, filesystem, vscode, vscode-extension, zip, zipfile
 
 📒 Provides a context menu option to mount ZIP archives as a virtual file system in the VS Code Explorer pane.
-
-## [qr-channel](https://github.com/TomasHubelbauer/qr-channel)
-
-⚖️ 2022-06-15T00:25:52Z
-
-🏷 data-channel, ice, javascript, peer-connection, qr-channel, qr-code, qrcode, sdp, webrtc, webrtc-datachannel, webrtc-demo
-
-📒 WebRTC data channel peer connection establishment using QR codes for trickle ICE exchange.
 
 ## [list-sections-groups](https://github.com/TomasHubelbauer/list-sections-groups)
 
@@ -818,14 +1146,6 @@
 
 📒 An example of printing a PDF using a .NET Core port of PDFSharp and using Chrome
 
-## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
-
-⚖️ 2022-04-28T08:43:13Z
-
-🏷 arduino, arduino-qr, dot-matrix, led-matrix, ledcontrol, max7219, qr, qr-code
-
-📒 Arduino LED dot-matrix display QR code
-
 ## [node-localhost-https](https://github.com/TomasHubelbauer/node-localhost-https)
 
 ⚖️ 2022-04-19T18:37:24Z
@@ -865,14 +1185,6 @@
 🏷 lockfile, npm, package-json, package-management, yarn, yarn-lock
 
 📒 A CLI tool for checking and reporting justification of inclusion of NodeJS packages based on Yarn lock file
-
-## [wsb-busdog](https://github.com/TomasHubelbauer/wsb-busdog)
-
-⚖️ 2022-04-17T10:14:22Z
-
-🏷 busdog, windows-sandbox, wsb
-
-📒 My resarch into running BusDog in WSB
 
 ## [windows-safari](https://github.com/TomasHubelbauer/windows-safari)
 
@@ -1025,14 +1337,6 @@
 🏷 rbc, react-big-calendar
 
 📒 A demonstration of a weird behavior of the RBC onRangeChange callback
-
-## [rbc-components](https://github.com/TomasHubelbauer/rbc-components)
-
-⚖️ 2022-04-17T10:05:36Z
-
-🏷 rbc, react-big-calendar
-
-📒 A tool for exploring the possible values of the RBC components prop.
 
 ## [puppeteer-moje-o2-scraper](https://github.com/TomasHubelbauer/puppeteer-moje-o2-scraper)
 
@@ -1354,14 +1658,6 @@
 
 📒 A Node package for deploying a script to CloudFlare Workers without the use of Wrangler
 
-## [bt-channel](https://github.com/TomasHubelbauer/bt-channel)
-
-⚖️ 2022-04-17T09:50:53Z
-
-🏷 sdp, web-bluetooth, webrtc
-
-📒 Thinking about using Web Bluetooth for WebRTC SDP exchange
-
 ## [esm-dataview-getvarint](https://github.com/TomasHubelbauer/esm-dataview-getvarint)
 
 ⚖️ 2022-04-17T00:18:12Z
@@ -1426,14 +1722,6 @@
 
 📒 VS Code extension to highlight email addresses in MarkDown
 
-## [vscode-compound-debug-split-terminal](https://github.com/TomasHubelbauer/vscode-compound-debug-split-terminal)
-
-⚖️ 2022-04-16T23:23:17Z
-
-🏷 terminal, vscode
-
-📒 VS Code launch tasks from a compound debugger configuration in individual but split terminals in the Integrated Terminal pane
-
 ## [vscode-box-drawing](https://github.com/TomasHubelbauer/vscode-box-drawing)
 
 ⚖️ 2022-04-16T23:22:34Z
@@ -1481,14 +1769,6 @@
 🏷 todo, todo-comment
 
 📒 A utility to print to-do comments in the current directory recursively.
-
-## [timestamper](https://github.com/TomasHubelbauer/timestamper)
-
-⚖️ 2022-04-16T23:16:17Z
-
-🏷 subtitles, timestamps
-
-📒 An application for timestamping audio and video streams for lyrics videos, subtitles etc.
 
 ## [swift-headphones-button](https://github.com/TomasHubelbauer/swift-headphones-button)
 
@@ -1553,14 +1833,6 @@
 🏷 powershell, remoting
 
 📒 PowerShell remoting with Windows Sandbox
-
-## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
-
-⚖️ 2022-04-16T23:07:41Z
-
-🏷 ntlite, powershell, ps
-
-📒 PowerShell NTLite installer
 
 ## [ps-inno](https://github.com/TomasHubelbauer/ps-inno)
 
@@ -2698,14 +2970,6 @@
 
 📒 Building out a UI using code in ObjectiveC
 
-## [js-array-groups](https://github.com/TomasHubelbauer/js-array-groups)
-
-⚖️ 2022-04-14T20:28:44Z
-
-🏷 array, javascript
-
-📒 JavaScript Split Array Into Groups of the Same Size
-
 ## [github-actions-commit](https://github.com/TomasHubelbauer/github-actions-commit)
 
 ⚖️ 2022-04-14T20:20:36Z
@@ -2738,14 +3002,6 @@
 
 📒 Looking into using Dapper with SQLite
 
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
-
-⚖️ 2022-04-14T19:56:46Z
-
-🏷 ast, cra, create-react-app, localization
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
-
 ## [cinestar](https://github.com/TomasHubelbauer/cinestar)
 
 ⚖️ 2022-04-14T19:52:35Z
@@ -2761,14 +3017,6 @@
 🏷 canvas, chromatic-abberation, html
 
 📒 The chromatic abberation effect implemented in HTML canvas
-
-## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
-
-⚖️ 2022-04-14T19:44:28Z
-
-🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
-
-📒 Brother P-touch D600 label maker USB communication with P-touch Editor
 
 ## [blender-vscode](https://github.com/TomasHubelbauer/blender-vscode)
 
@@ -2889,14 +3137,6 @@
 🏷 javascript, react
 
 📒 My idea about a UI framework
-
-## [pdf-scrape](https://github.com/TomasHubelbauer/pdf-scrape)
-
-⚖️ 2021-04-06T21:20:50Z
-
-🏷 pdf, pdf-js, pdf-scraping, pdfjs
-
-📒 Demonstrating PDF text and image extraction with correct bounds
 
 ## [node-console](https://github.com/TomasHubelbauer/node-console)
 
@@ -3089,14 +3329,6 @@
 🏷 ffmpeg
 
 📒 A snippet showing how to resize an image using FFMPEG
-
-## [wsb-kb](https://github.com/TomasHubelbauer/wsb-kb)
-
-⚖️ 2021-04-01T21:10:24Z
-
-🏷 cheatsheet, kb, knowledge-base, windows-sandbox, wsb, wsb-launcher
-
-📒 My knowledge base about the Windows Sandbox
 
 ## [regex-card-statement](https://github.com/TomasHubelbauer/regex-card-statement)
 

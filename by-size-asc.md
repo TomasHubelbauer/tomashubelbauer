@@ -1,6 +1,38 @@
 # By `size` (asc)
 
-2023-01-03T15:04:02.247Z
+2023-04-23T09:04:18.974Z
+
+## [planck-habit](https://github.com/TomasHubelbauer/planck-habit)
+
+⚖️ 0
+
+🏷 
+
+📒 null
+
+## [pipe-mount](https://github.com/TomasHubelbauer/pipe-mount)
+
+⚖️ 0
+
+🏷 
+
+📒 null
+
+## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
+
+⚖️ 0
+
+🏷 
+
+📒 null
+
+## [150.community](https://github.com/TomasHubelbauer/150.community)
+
+⚖️ 0
+
+🏷 
+
+📒 null
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
@@ -33,6 +65,14 @@
 🏷 console, node
 
 📒 Overriding console.log in Node
+
+## [test](https://github.com/TomasHubelbauer/test)
+
+⚖️ 1
+
+🏷 
+
+📒 null
 
 ## [youtube-dl-macos](https://github.com/TomasHubelbauer/youtube-dl-macos)
 
@@ -585,6 +625,22 @@
 🏷 blender, vscode
 
 📒 Notes for using Blender with VS Code
+
+## [cool-people-online](https://github.com/TomasHubelbauer/cool-people-online)
+
+⚖️ 3
+
+🏷 
+
+📒 null
+
+## [playwright-web-push-notification](https://github.com/TomasHubelbauer/playwright-web-push-notification)
+
+⚖️ 3
+
+🏷 
+
+📒 null
 
 ## [vrm-api](https://github.com/TomasHubelbauer/vrm-api)
 
@@ -1162,6 +1218,30 @@
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
 
+## [paper-roll-holder](https://github.com/TomasHubelbauer/paper-roll-holder)
+
+⚖️ 6
+
+🏷 
+
+📒 null
+
+## [firefox-youtube-buddy](https://github.com/TomasHubelbauer/firefox-youtube-buddy)
+
+⚖️ 6
+
+🏷 
+
+📒 null
+
+## [github-clear-artifacts](https://github.com/TomasHubelbauer/github-clear-artifacts)
+
+⚖️ 6
+
+🏷 
+
+📒 null
+
 ## [vscode-compound-debug-split-terminal](https://github.com/TomasHubelbauer/vscode-compound-debug-split-terminal)
 
 ⚖️ 6
@@ -1570,6 +1650,14 @@
 
 📒 A repro showing EF to auto-generating a successive ID after seeding the DB with hardcoded IDs.
 
+## [json-to-json_build_object](https://github.com/TomasHubelbauer/json-to-json_build_object)
+
+⚖️ 11
+
+🏷 json, json-build-array, json-build-object, postgres, sql
+
+📒 A handy tool for converting JSON to json_build_object calls in Postgres SQL
+
 ## [fastmail](https://github.com/TomasHubelbauer/fastmail)
 
 ⚖️ 11
@@ -1689,6 +1777,14 @@
 🏷 ast, dom, javascript, markdown, parser, serializer
 
 📒 Javascript Markdown AST/DOM parser and serializer
+
+## [macos-login-item-shell-script-no-terminal](https://github.com/TomasHubelbauer/macos-login-item-shell-script-no-terminal)
+
+⚖️ 14
+
+🏷 
+
+📒 null
 
 ## [instagram](https://github.com/TomasHubelbauer/instagram)
 
@@ -1922,6 +2018,14 @@
 
 📒 A repository demonstrating the use of the  tomashubelbauer/github-actions-code-to-do-github-issues-backup GitHub Action
 
+## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
+
+⚖️ 22
+
+🏷 
+
+📒 null
+
 ## [timestamper](https://github.com/TomasHubelbauer/timestamper)
 
 ⚖️ 22
@@ -2114,6 +2218,14 @@
 
 📒 A script for storing GitHub Issues in Git notes.
 
+## [remark-mermaid-nextra](https://github.com/TomasHubelbauer/remark-mermaid-nextra)
+
+⚖️ 34
+
+🏷 
+
+📒 Remark Mermaid Nextra plugin that should work.
+
 ## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
 
 ⚖️ 35
@@ -2130,13 +2242,13 @@
 
 📒 VS Code extension to highlight Jira links in MarkDown
 
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
 
 ⚖️ 38
 
-🏷 ast, cra, create-react-app, localization
+🏷 slack, slack-app, slack-status, spotify
 
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
+📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [webrtc-bridge](https://github.com/TomasHubelbauer/webrtc-bridge)
 
@@ -2346,6 +2458,14 @@
 
 📒 A utility to print to-do comments in the current directory recursively.
 
+## [firebase-firebase-js-sdk-6928](https://github.com/TomasHubelbauer/firebase-firebase-js-sdk-6928)
+
+⚖️ 94
+
+🏷 
+
+📒 null
+
 ## [vercel-geo-ip](https://github.com/TomasHubelbauer/vercel-geo-ip)
 
 ⚖️ 94
@@ -2514,14 +2634,6 @@
 
 📒 An experimental HTML responsive table component
 
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 174
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
-
 ## [vscode-zip-file-system](https://github.com/TomasHubelbauer/vscode-zip-file-system)
 
 ⚖️ 176
@@ -2537,6 +2649,14 @@
 🏷 cra, hosts, hsts, http, https
 
 📒 Binding CRA to various host names and subdomains
+
+## [bases](https://github.com/TomasHubelbauer/bases)
+
+⚖️ 183
+
+🏷 
+
+📒 Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 
 ## [track-maker](https://github.com/TomasHubelbauer/track-maker)
 
@@ -2610,6 +2730,14 @@
 
 📒 XAML-like prop-children in JSX/TSX for React
 
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 284
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
 ## [cable-case](https://github.com/TomasHubelbauer/cable-case)
 
 ⚖️ 284
@@ -2660,7 +2788,7 @@
 
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
-⚖️ 335
+⚖️ 339
 
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
@@ -2697,6 +2825,14 @@
 🏷 elecron, xvfb
 
 📒 Running Electron in XVFB
+
+## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
+
+⚖️ 407
+
+🏷 ast, cra, create-react-app, i18n, internationalization, localization, translation
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [globe-perf](https://github.com/TomasHubelbauer/globe-perf)
 
@@ -2778,6 +2914,14 @@
 
 📒 An experiment in making RBC event slots auto-select on hover
 
+## [openMotor](https://github.com/TomasHubelbauer/openMotor)
+
+⚖️ 680
+
+🏷 
+
+📒 An open-source internal ballistics simulator for rocket motor experimenters
+
 ## [asp-conditional-validations](https://github.com/TomasHubelbauer/asp-conditional-validations)
 
 ⚖️ 698
@@ -2794,6 +2938,14 @@
 
 📒 A Rode NT-USB microphone holder 3D model
 
+## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
+
+⚖️ 834
+
+🏷 
+
+📒 MDX extension for Visual Studio Code
+
 ## [playwright-github-actions](https://github.com/TomasHubelbauer/playwright-github-actions)
 
 ⚖️ 858
@@ -2802,13 +2954,13 @@
 
 📒 Demonstrates using Playwright to control Firefox to take a screenshot of Hacker News in GitHub Actions
 
-## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
+## [hnpopup](https://github.com/TomasHubelbauer/hnpopup)
 
-⚖️ 924
+⚖️ 894
 
-🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
+🏷 
 
-📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
+📒 HN Pop-up lets you quickly glance at a user's profile without leaving the page you're on. You can quickly see a user's bio, karma and account age
 
 ## [vscode-box-drawing](https://github.com/TomasHubelbauer/vscode-box-drawing)
 
@@ -2834,6 +2986,14 @@
 
 📒 A scraper for MojeO2 invoices
 
+## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
+
+⚖️ 1170
+
+🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
+
+📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
+
 ## [appium](https://github.com/TomasHubelbauer/appium)
 
 ⚖️ 1173
@@ -2857,6 +3017,14 @@
 🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
 
 📒 Notes about my solar experiments
+
+## [supabase-cache-helpers](https://github.com/TomasHubelbauer/supabase-cache-helpers)
+
+⚖️ 1366
+
+🏷 
+
+📒 A collection of framework specific Cache utilities for working with Supabase.
 
 ## [vscode-markdown-link-suggestions](https://github.com/TomasHubelbauer/vscode-markdown-link-suggestions)
 
@@ -2889,6 +3057,14 @@
 🏷 garmin
 
 📒 A JavaScript parser and renderer of the Garmin maps
+
+## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
+
+⚖️ 2135
+
+🏷 
+
+📒 Isomorphic JavaScript client for PostgREST.
 
 ## [playwright-firefox-mp4](https://github.com/TomasHubelbauer/playwright-firefox-mp4)
 
@@ -2940,7 +3116,7 @@
 
 ## [node-apng](https://github.com/TomasHubelbauer/node-apng)
 
-⚖️ 3498
+⚖️ 3502
 
 🏷 animated-gif, animated-png, animation, apng, javascript, javascript-library, mng, node, npm, png
 
@@ -2954,6 +3130,14 @@
 
 📒 A Pi Pico script for collecting CPU temperature reading in Supabase using a Deno function
 
+## [rust](https://github.com/TomasHubelbauer/rust)
+
+⚖️ 3809
+
+🏷 
+
+📒 Exercism exercises in Rust.
+
 ## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
 
 ⚖️ 3869
@@ -2962,6 +3146,14 @@
 
 📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
 
+## [zod](https://github.com/TomasHubelbauer/zod)
+
+⚖️ 4785
+
+🏷 
+
+📒 TypeScript-first schema validation with static type inference
+
 ## [onewheel](https://github.com/TomasHubelbauer/onewheel)
 
 ⚖️ 4904
@@ -2969,22 +3161,6 @@
 🏷 onewheel
 
 📒 A collection of links relating to the Onewheel
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 5102
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 5139
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [puppeteer-deterministic-screenshot](https://github.com/TomasHubelbauer/puppeteer-deterministic-screenshot)
 
@@ -3002,6 +3178,30 @@
 
 📒 Arduino LED dot-matrix display QR code
 
+## [lyrics](https://github.com/TomasHubelbauer/lyrics)
+
+⚖️ 6863
+
+🏷 electron, lrc, lyrics, spotify
+
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 6879
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
+## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
+
+⚖️ 8275
+
+🏷 
+
+📒 GitHub Action to send LGTM reaction
+
 ## [css-merry-go-round](https://github.com/TomasHubelbauer/css-merry-go-round)
 
 ⚖️ 8766
@@ -3017,6 +3217,14 @@
 🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
 
 📒 OP-1 working with web MIDI
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 9687
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [html-live-text](https://github.com/TomasHubelbauer/html-live-text)
 
@@ -3041,6 +3249,14 @@
 🏷 email, email-parsing, eml, eml-files, preview, vscode, vscode-extension, vscode-preview
 
 📒 Preview email message files (EML) in VS Code
+
+## [cli](https://github.com/TomasHubelbauer/cli)
+
+⚖️ 16098
+
+🏷 
+
+📒 Supabase CLI
 
 ## [mapsforge](https://github.com/TomasHubelbauer/mapsforge)
 
@@ -3089,14 +3305,6 @@
 🏷 globus, pdf-scraping, puppeteer, puppeteer-firefox
 
 📒 Scrapes the Globus PDF catalogue using Puppeteer
-
-## [cra](https://github.com/TomasHubelbauer/cra)
-
-⚖️ 29448
-
-🏷 cra, create-react-app
-
-📒 Create React App sample
 
 ## [js-qr-scanner-library-comparison](https://github.com/TomasHubelbauer/js-qr-scanner-library-comparison)
 
@@ -3154,6 +3362,14 @@
 
 📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 
+## [postgres-meta](https://github.com/TomasHubelbauer/postgres-meta)
+
+⚖️ 90255
+
+🏷 
+
+📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
+
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
 ⚖️ 100573
@@ -3161,4 +3377,20 @@
 🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
 
 📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
+
+## [react-native](https://github.com/TomasHubelbauer/react-native)
+
+⚖️ 870316
+
+🏷 
+
+📒 A framework for building native applications using React
+
+## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
+
+⚖️ 2019799
+
+🏷 
+
+📒 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 

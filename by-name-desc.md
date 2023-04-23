@@ -1,6 +1,14 @@
 # By `name` (desc)
 
-2023-01-03T15:04:02.235Z
+2023-04-23T09:04:18.962Z
+
+## [zod](https://github.com/TomasHubelbauer/zod)
+
+⚖️ zod
+
+🏷 
+
+📒 TypeScript-first schema validation with static type inference
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -330,6 +338,14 @@
 
 📒 My preferred VS Code settings
 
+## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
+
+⚖️ vscode-mdx
+
+🏷 
+
+📒 MDX extension for Visual Studio Code
+
 ## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
 
 ⚖️ vscode-markdown-todo
@@ -506,6 +522,14 @@
 
 📒 Using the TypeScript API in the browser
 
+## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
+
+⚖️ TypeScript
+
+🏷 
+
+📒 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+
 ## [twitch-not-interested](https://github.com/TomasHubelbauer/twitch-not-interested)
 
 ⚖️ twitch-not-interested
@@ -593,6 +617,14 @@
 🏷 op-1, op1, teenage-engineering, threejs, webgl
 
 📒 An OP-1 model in ThreeJS
+
+## [test](https://github.com/TomasHubelbauer/test)
+
+⚖️ test
+
+🏷 
+
+📒 null
 
 ## [temperx232](https://github.com/TomasHubelbauer/temperx232)
 
@@ -706,6 +738,14 @@
 
 📒 A downloader from the Apple SoftwareUpdate Service (SUS) also known as SWSCAN
 
+## [supabase-cache-helpers](https://github.com/TomasHubelbauer/supabase-cache-helpers)
+
+⚖️ supabase-cache-helpers
+
+🏷 
+
+📒 A collection of framework specific Cache utilities for working with Supabase.
+
 ## [supabase-auth](https://github.com/TomasHubelbauer/supabase-auth)
 
 ⚖️ supabase-auth
@@ -737,6 +777,14 @@
 🏷 javascript, sqlite, sqlite-database
 
 📒 SQLite database file parser in pure JavaScript
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ spotify-slack-status
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [spotify-artists](https://github.com/TomasHubelbauer/spotify-artists)
 
@@ -842,6 +890,14 @@
 
 📒 Experiments with Rust and WebAssembly
 
+## [rust](https://github.com/TomasHubelbauer/rust)
+
+⚖️ rust
+
+🏷 
+
+📒 Exercism exercises in Rust.
+
 ## [roslyn-log-keyword](https://github.com/TomasHubelbauer/roslyn-log-keyword)
 
 ⚖️ roslyn-log-keyword
@@ -874,6 +930,14 @@
 
 📒 My links for reMarkable
 
+## [remark-mermaid-nextra](https://github.com/TomasHubelbauer/remark-mermaid-nextra)
+
+⚖️ remark-mermaid-nextra
+
+🏷 
+
+📒 Remark Mermaid Nextra plugin that should work.
+
 ## [regex-card-statement](https://github.com/TomasHubelbauer/regex-card-statement)
 
 ⚖️ regex-card-statement
@@ -897,6 +961,14 @@
 🏷 demo, react, react-redux, react-redux-boilerplate, react-redux-demo, redux, typescript
 
 📒 React+Redux+TypeScript+connect decorator demo
+
+## [react-native](https://github.com/TomasHubelbauer/react-native)
+
+⚖️ react-native
+
+🏷 
+
+📒 A framework for building native applications using React
 
 ## [react-icon](https://github.com/TomasHubelbauer/react-icon)
 
@@ -1098,6 +1170,30 @@
 
 📒 Show/hide file extensions in Explorer using PowerShell
 
+## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
+
+⚖️ postgrest-js
+
+🏷 
+
+📒 Isomorphic JavaScript client for PostgREST.
+
+## [postgres-meta](https://github.com/TomasHubelbauer/postgres-meta)
+
+⚖️ postgres-meta
+
+🏷 
+
+📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
+
+## [playwright-web-push-notification](https://github.com/TomasHubelbauer/playwright-web-push-notification)
+
+⚖️ playwright-web-push-notification
+
+🏷 
+
+📒 null
+
 ## [playwright-pdf](https://github.com/TomasHubelbauer/playwright-pdf)
 
 ⚖️ playwright-pdf
@@ -1121,6 +1217,22 @@
 🏷 firefox, html-video, playwright
 
 📒 Playwright Firefox MP4 video
+
+## [planck-habit](https://github.com/TomasHubelbauer/planck-habit)
+
+⚖️ planck-habit
+
+🏷 
+
+📒 null
+
+## [pipe-mount](https://github.com/TomasHubelbauer/pipe-mount)
+
+⚖️ pipe-mount
+
+🏷 
+
+📒 null
 
 ## [pi-pico-rest-cpu-temp](https://github.com/TomasHubelbauer/pi-pico-rest-cpu-temp)
 
@@ -1154,6 +1266,14 @@
 
 📒 Basic PDF parser for parsing out text and image bounding rectangles
 
+## [paper-roll-holder](https://github.com/TomasHubelbauer/paper-roll-holder)
+
+⚖️ paper-roll-holder
+
+🏷 
+
+📒 null
+
 ## [paper](https://github.com/TomasHubelbauer/paper)
 
 ⚖️ paper
@@ -1177,6 +1297,14 @@
 🏷 map, maps, open-street-map, osm, raster-tiles
 
 📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
+
+## [openMotor](https://github.com/TomasHubelbauer/openMotor)
+
+⚖️ openMotor
+
+🏷 
+
+📒 An open-source internal ballistics simulator for rocket motor experimenters
 
 ## [op1-svg](https://github.com/TomasHubelbauer/op1-svg)
 
@@ -1554,6 +1682,14 @@
 
 📒 MapsForge JavaScript parser
 
+## [macos-login-item-shell-script-no-terminal](https://github.com/TomasHubelbauer/macos-login-item-shell-script-no-terminal)
+
+⚖️ macos-login-item-shell-script-no-terminal
+
+🏷 
+
+📒 null
+
 ## [macos-date-time](https://github.com/TomasHubelbauer/macos-date-time)
 
 ⚖️ macos-date-time
@@ -1561,6 +1697,14 @@
 🏷 am-pm, clock, date-and-time, date-time, g11n, i14n, l10n, mac-os, meridian
 
 📒 My findings about macOS date and time settings
+
+## [lyrics](https://github.com/TomasHubelbauer/lyrics)
+
+⚖️ lyrics
+
+🏷 electron, lrc, lyrics, spotify
+
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
 ## [lsp-plugin](https://github.com/TomasHubelbauer/lsp-plugin)
 
@@ -1625,6 +1769,14 @@
 🏷 jsx, react, react-dom, tsx
 
 📒 JSX/TSX cheatsheet
+
+## [json-to-json_build_object](https://github.com/TomasHubelbauer/json-to-json_build_object)
+
+⚖️ json-to-json_build_object
+
+🏷 json, json-build-array, json-build-object, postgres, sql
+
+📒 A handy tool for converting JSON to json_build_object calls in Postgres SQL
 
 ## [js-time-zone-research](https://github.com/TomasHubelbauer/js-time-zone-research)
 
@@ -1882,6 +2034,14 @@
 
 📒 An HTML component for displaying contents of a DataView with virtualized scrolling behavior
 
+## [hnpopup](https://github.com/TomasHubelbauer/hnpopup)
+
+⚖️ hnpopup
+
+🏷 
+
+📒 HN Pop-up lets you quickly glance at a user's profile without leaving the page you're on. You can quickly see a user's bio, karma and account age
+
 ## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
 
 ⚖️ hn-tailwind
@@ -2034,6 +2194,14 @@
 
 📒 A GitHub Actions action to sync GitHub Issues to Git notes
 
+## [github-clear-artifacts](https://github.com/TomasHubelbauer/github-clear-artifacts)
+
+⚖️ github-clear-artifacts
+
+🏷 
+
+📒 null
+
 ## [github-api](https://github.com/TomasHubelbauer/github-api)
 
 ⚖️ github-api
@@ -2090,6 +2258,14 @@
 
 📒 MarkDown snippets for GitHub Actions status badges
 
+## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
+
+⚖️ github-actions-auto-gitmodules
+
+🏷 
+
+📒 null
+
 ## [github-actions](https://github.com/TomasHubelbauer/github-actions)
 
 ⚖️ github-actions
@@ -2137,6 +2313,14 @@
 🏷 git
 
 📒 Demonstrating wiping files from Git history
+
+## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
+
+⚖️ git-demo-submodule
+
+🏷 
+
+📒 null
 
 ## [git-config](https://github.com/TomasHubelbauer/git-config)
 
@@ -2194,6 +2378,14 @@
 
 📒 An example of how to use flex to space things apart with the same distance
 
+## [firefox-youtube-buddy](https://github.com/TomasHubelbauer/firefox-youtube-buddy)
+
+⚖️ firefox-youtube-buddy
+
+🏷 
+
+📒 null
+
 ## [firefox-cors](https://github.com/TomasHubelbauer/firefox-cors)
 
 ⚖️ firefox-cors
@@ -2209,6 +2401,14 @@
 🏷 firefox, mozilla, mozilla-firefox, pocket
 
 📒 Tips and tricks related to Mozilla Firefox
+
+## [firebase-firebase-js-sdk-6928](https://github.com/TomasHubelbauer/firebase-firebase-js-sdk-6928)
+
+⚖️ firebase-firebase-js-sdk-6928
+
+🏷 
+
+📒 null
 
 ## [ffmpeg-stream-input-image-set](https://github.com/TomasHubelbauer/ffmpeg-stream-input-image-set)
 
@@ -2770,22 +2970,6 @@
 
 📒 Binding CRA to various host names and subdomains
 
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
-
-⚖️ cra-ast-localize
-
-🏷 ast, cra, create-react-app, localization
-
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
-
-## [cra](https://github.com/TomasHubelbauer/cra)
-
-⚖️ cra
-
-🏷 cra, create-react-app
-
-📒 Create React App sample
-
 ## [cosmos-net-sdk](https://github.com/TomasHubelbauer/cosmos-net-sdk)
 
 ⚖️ cosmos-net-sdk
@@ -2813,6 +2997,14 @@
 ## [corebluetooth-peripheral-webbluetooth-central](https://github.com/TomasHubelbauer/corebluetooth-peripheral-webbluetooth-central)
 
 ⚖️ corebluetooth-peripheral-webbluetooth-central
+
+🏷 
+
+📒 null
+
+## [cool-people-online](https://github.com/TomasHubelbauer/cool-people-online)
+
+⚖️ cool-people-online
 
 🏷 
 
@@ -2857,6 +3049,14 @@
 🏷 cloudflare, cloudflare-kv, cloudflare-worker, cloudflare-workers, serverless, worker
 
 📒 Information on setting up and basic usage of Cloudflare Workers
+
+## [cli](https://github.com/TomasHubelbauer/cli)
+
+⚖️ cli
+
+🏷 
+
+📒 Supabase CLI
 
 ## [cinestar](https://github.com/TomasHubelbauer/cinestar)
 
@@ -3018,6 +3218,14 @@
 
 📒 A demonstration of setting desktop wallpaper and background color using Batch
 
+## [bases](https://github.com/TomasHubelbauer/bases)
+
+⚖️ bases
+
+🏷 
+
+📒 Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
+
 ## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
 
 ⚖️ babel-sourcemap
@@ -3049,6 +3257,14 @@
 🏷 async-await
 
 📒 The website of async-await.net
+
+## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
+
+⚖️ ast-localizer
+
+🏷 ast, cra, create-react-app, i18n, internationalization, localization, translation
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
 ## [asp-pdf](https://github.com/TomasHubelbauer/asp-pdf)
 
@@ -3138,6 +3354,14 @@
 
 📒 ADO bookmarklet
 
+## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
+
+⚖️ action-lgtm-reaction
+
+🏷 
+
+📒 GitHub Action to send LGTM reaction
+
 ## [acter](https://github.com/TomasHubelbauer/acter)
 
 ⚖️ acter
@@ -3161,4 +3385,12 @@
 🏷 3mf
 
 📒 A script for extracting 3MF files into 3MF directories
+
+## [150.community](https://github.com/TomasHubelbauer/150.community)
+
+⚖️ 150.community
+
+🏷 
+
+📒 null
 

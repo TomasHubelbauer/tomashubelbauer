@@ -1,6 +1,22 @@
 # By `size` (desc)
 
-2023-01-03T15:04:02.250Z
+2023-04-23T09:04:18.977Z
+
+## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
+
+⚖️ 2019799
+
+🏷 
+
+📒 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+
+## [react-native](https://github.com/TomasHubelbauer/react-native)
+
+⚖️ 870316
+
+🏷 
+
+📒 A framework for building native applications using React
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -9,6 +25,14 @@
 🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
 
 📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
+
+## [postgres-meta](https://github.com/TomasHubelbauer/postgres-meta)
+
+⚖️ 90255
+
+🏷 
+
+📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
 
 ## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
 
@@ -66,14 +90,6 @@
 
 📒 A comparison of JavaScript QR scanner libraries
 
-## [cra](https://github.com/TomasHubelbauer/cra)
-
-⚖️ 29448
-
-🏷 cra, create-react-app
-
-📒 Create React App sample
-
 ## [globus](https://github.com/TomasHubelbauer/globus)
 
 ⚖️ 26569
@@ -122,6 +138,14 @@
 
 📒 MapsForge JavaScript parser
 
+## [cli](https://github.com/TomasHubelbauer/cli)
+
+⚖️ 16098
+
+🏷 
+
+📒 Supabase CLI
+
 ## [vscode-email-viewer](https://github.com/TomasHubelbauer/vscode-email-viewer)
 
 ⚖️ 15522
@@ -146,6 +170,14 @@
 
 📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 9687
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [web-midi](https://github.com/TomasHubelbauer/web-midi)
 
 ⚖️ 8781
@@ -161,6 +193,30 @@
 🏷 css, layout, merry-go-round
 
 📒 CSS solution for a "merry-go-round" style sliding showcase
+
+## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
+
+⚖️ 8275
+
+🏷 
+
+📒 GitHub Action to send LGTM reaction
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 6879
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
+## [lyrics](https://github.com/TomasHubelbauer/lyrics)
+
+⚖️ 6863
+
+🏷 electron, lrc, lyrics, spotify
+
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
@@ -178,22 +234,6 @@
 
 📒 Pondering about whether Puppeteer screenshots are deterministic
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 5139
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 5102
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [onewheel](https://github.com/TomasHubelbauer/onewheel)
 
 ⚖️ 4904
@@ -202,6 +242,14 @@
 
 📒 A collection of links relating to the Onewheel
 
+## [zod](https://github.com/TomasHubelbauer/zod)
+
+⚖️ 4785
+
+🏷 
+
+📒 TypeScript-first schema validation with static type inference
+
 ## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
 
 ⚖️ 3869
@@ -209,6 +257,14 @@
 🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
 
 📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
+
+## [rust](https://github.com/TomasHubelbauer/rust)
+
+⚖️ 3809
+
+🏷 
+
+📒 Exercism exercises in Rust.
 
 ## [pi-pico-rest-cpu-temp](https://github.com/TomasHubelbauer/pi-pico-rest-cpu-temp)
 
@@ -220,7 +276,7 @@
 
 ## [node-apng](https://github.com/TomasHubelbauer/node-apng)
 
-⚖️ 3498
+⚖️ 3502
 
 🏷 animated-gif, animated-png, animation, apng, javascript, javascript-library, mng, node, npm, png
 
@@ -274,6 +330,14 @@
 
 📒 Playwright Firefox MP4 video
 
+## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
+
+⚖️ 2135
+
+🏷 
+
+📒 Isomorphic JavaScript client for PostgREST.
+
 ## [garmin-img](https://github.com/TomasHubelbauer/garmin-img)
 
 ⚖️ 1647
@@ -306,6 +370,14 @@
 
 📒 Suggests workspace files and MarkDown file headers in MarkDown links
 
+## [supabase-cache-helpers](https://github.com/TomasHubelbauer/supabase-cache-helpers)
+
+⚖️ 1366
+
+🏷 
+
+📒 A collection of framework specific Cache utilities for working with Supabase.
+
 ## [solar](https://github.com/TomasHubelbauer/solar)
 
 ⚖️ 1319
@@ -329,6 +401,14 @@
 🏷 appium
 
 📒 My notes about Appium
+
+## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
+
+⚖️ 1170
+
+🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
+
+📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
 
 ## [puppeteer-moje-o2-scraper](https://github.com/TomasHubelbauer/puppeteer-moje-o2-scraper)
 
@@ -354,13 +434,13 @@
 
 📒 A VS Code extension for simplifying box drawing with Unicode and ASCII
 
-## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
+## [hnpopup](https://github.com/TomasHubelbauer/hnpopup)
 
-⚖️ 924
+⚖️ 894
 
-🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
+🏷 
 
-📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
+📒 HN Pop-up lets you quickly glance at a user's profile without leaving the page you're on. You can quickly see a user's bio, karma and account age
 
 ## [playwright-github-actions](https://github.com/TomasHubelbauer/playwright-github-actions)
 
@@ -369,6 +449,14 @@
 🏷 github-actions, playwright, puppeteer
 
 📒 Demonstrates using Playwright to control Firefox to take a screenshot of Hacker News in GitHub Actions
+
+## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
+
+⚖️ 834
+
+🏷 
+
+📒 MDX extension for Visual Studio Code
 
 ## [mic-holder](https://github.com/TomasHubelbauer/mic-holder)
 
@@ -385,6 +473,14 @@
 🏷 asp, asp-net, asp-net-core, fluent-validations, form-validation, validation, validations, validator
 
 📒 Shared conditional validations approach for ASP .NET Core
+
+## [openMotor](https://github.com/TomasHubelbauer/openMotor)
+
+⚖️ 680
+
+🏷 
+
+📒 An open-source internal ballistics simulator for rocket motor experimenters
 
 ## [rbc-dnd-auto-select](https://github.com/TomasHubelbauer/rbc-dnd-auto-select)
 
@@ -466,6 +562,14 @@
 
 📒 Performance measurements of the Globe library compared to Intl and Moment
 
+## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
+
+⚖️ 407
+
+🏷 ast, cra, create-react-app, i18n, internationalization, localization, translation
+
+📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
+
 ## [electron-xvfb](https://github.com/TomasHubelbauer/electron-xvfb)
 
 ⚖️ 394
@@ -500,7 +604,7 @@
 
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
-⚖️ 335
+⚖️ 339
 
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
@@ -545,6 +649,14 @@
 🏷 props, props-type, react, react-typescript
 
 📒 An example of using TypeScript with TSX to achieve cool props typing
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 284
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
 
 ## [cable-case](https://github.com/TomasHubelbauer/cable-case)
 
@@ -626,6 +738,14 @@
 
 📒 A highly specialized tool for designing tracks for 3D printing channels that hold LED strips for creating wall mounted neon-like logos.
 
+## [bases](https://github.com/TomasHubelbauer/bases)
+
+⚖️ 183
+
+🏷 
+
+📒 Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
+
 ## [cra-hosts](https://github.com/TomasHubelbauer/cra-hosts)
 
 ⚖️ 181
@@ -641,14 +761,6 @@
 🏷 archive, filesystem, vscode, vscode-extension, zip, zipfile
 
 📒 Provides a context menu option to mount ZIP archives as a virtual file system in the VS Code Explorer pane.
-
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 174
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
 
 ## [html-responsive-table](https://github.com/TomasHubelbauer/html-responsive-table)
 
@@ -809,6 +921,14 @@
 🏷 github-actions, github-issues, to-do
 
 📒 A GitHub Actions action to sync code to-do comments to GitHub issues
+
+## [firebase-firebase-js-sdk-6928](https://github.com/TomasHubelbauer/firebase-firebase-js-sdk-6928)
+
+⚖️ 94
+
+🏷 
+
+📒 null
 
 ## [vercel-geo-ip](https://github.com/TomasHubelbauer/vercel-geo-ip)
 
@@ -1026,13 +1146,13 @@
 
 📒 An idea for serving sites from a home server through a WebRTC based frame site
 
-## [cra-ast-localize](https://github.com/TomasHubelbauer/cra-ast-localize)
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
 
 ⚖️ 38
 
-🏷 ast, cra, create-react-app, localization
+🏷 slack, slack-app, slack-status, spotify
 
-📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
+📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
 
@@ -1049,6 +1169,14 @@
 🏷 jira, markdown, vscode, vscode-extension
 
 📒 VS Code extension to highlight Jira links in MarkDown
+
+## [remark-mermaid-nextra](https://github.com/TomasHubelbauer/remark-mermaid-nextra)
+
+⚖️ 34
+
+🏷 
+
+📒 Remark Mermaid Nextra plugin that should work.
 
 ## [github-issues-git-notes-demo](https://github.com/TomasHubelbauer/github-issues-git-notes-demo)
 
@@ -1233,6 +1361,14 @@
 🏷 html, input, input-range, joystick
 
 📒 HTML input which behaves like a console controller joystick
+
+## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
+
+⚖️ 22
+
+🏷 
+
+📒 null
 
 ## [timestamper](https://github.com/TomasHubelbauer/timestamper)
 
@@ -1434,6 +1570,14 @@
 
 📒 Attempting to compress the OSM data to 100 MB and seeing what fits
 
+## [macos-login-item-shell-script-no-terminal](https://github.com/TomasHubelbauer/macos-login-item-shell-script-no-terminal)
+
+⚖️ 14
+
+🏷 
+
+📒 null
+
 ## [instagram](https://github.com/TomasHubelbauer/instagram)
 
 ⚖️ 14
@@ -1529,6 +1673,14 @@
 🏷 azure-pipelines, powershell, powershell-core
 
 📒 An experiment in determining if pwsh runs PowerShell Core on Windows in Azure Pipelines.
+
+## [json-to-json_build_object](https://github.com/TomasHubelbauer/json-to-json_build_object)
+
+⚖️ 11
+
+🏷 json, json-build-array, json-build-object, postgres, sql
+
+📒 A handy tool for converting JSON to json_build_object calls in Postgres SQL
 
 ## [fastmail](https://github.com/TomasHubelbauer/fastmail)
 
@@ -1897,6 +2049,30 @@
 🏷 flirc, ir, led, led-strip
 
 📒 Using Flirc to control an IR LED strip
+
+## [paper-roll-holder](https://github.com/TomasHubelbauer/paper-roll-holder)
+
+⚖️ 6
+
+🏷 
+
+📒 null
+
+## [firefox-youtube-buddy](https://github.com/TomasHubelbauer/firefox-youtube-buddy)
+
+⚖️ 6
+
+🏷 
+
+📒 null
+
+## [github-clear-artifacts](https://github.com/TomasHubelbauer/github-clear-artifacts)
+
+⚖️ 6
+
+🏷 
+
+📒 null
 
 ## [vscode-compound-debug-split-terminal](https://github.com/TomasHubelbauer/vscode-compound-debug-split-terminal)
 
@@ -2289,6 +2465,22 @@
 🏷 3d, 3d-modeling, 3d-modelling, blender, merge-faces
 
 📒 My research into merging faces in Blender
+
+## [cool-people-online](https://github.com/TomasHubelbauer/cool-people-online)
+
+⚖️ 3
+
+🏷 
+
+📒 null
+
+## [playwright-web-push-notification](https://github.com/TomasHubelbauer/playwright-web-push-notification)
+
+⚖️ 3
+
+🏷 
+
+📒 null
 
 ## [vrm-api](https://github.com/TomasHubelbauer/vrm-api)
 
@@ -2834,6 +3026,14 @@
 
 📒 Notes for using Blender with VS Code
 
+## [test](https://github.com/TomasHubelbauer/test)
+
+⚖️ 1
+
+🏷 
+
+📒 null
+
 ## [youtube-dl-macos](https://github.com/TomasHubelbauer/youtube-dl-macos)
 
 ⚖️ 1
@@ -3129,6 +3329,38 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
+
+## [planck-habit](https://github.com/TomasHubelbauer/planck-habit)
+
+⚖️ 0
+
+🏷 
+
+📒 null
+
+## [pipe-mount](https://github.com/TomasHubelbauer/pipe-mount)
+
+⚖️ 0
+
+🏷 
+
+📒 null
+
+## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
+
+⚖️ 0
+
+🏷 
+
+📒 null
+
+## [150.community](https://github.com/TomasHubelbauer/150.community)
+
+⚖️ 0
+
+🏷 
+
+📒 null
 
 ## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
 
