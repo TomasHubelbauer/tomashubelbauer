@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-04-24T08:05:16.822Z
+2023-04-24T09:05:10.595Z
+
+## [openMotor](https://github.com/TomasHubelbauer/openMotor)
+
+⚖️ 2023-04-24T08:32:54Z
+
+🏷 
+
+📒 An open-source internal ballistics simulator for rocket motor experimenters
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-04-24T07:06:57Z
+⚖️ 2023-04-24T08:07:12Z
 
 🏷 tomashubelbauer
 
@@ -41,14 +49,6 @@
 🏷 
 
 📒 null
-
-## [openMotor](https://github.com/TomasHubelbauer/openMotor)
-
-⚖️ 2023-04-21T10:25:45Z
-
-🏷 
-
-📒 An open-source internal ballistics simulator for rocket motor experimenters
 
 ## [playwright-web-push-notification](https://github.com/TomasHubelbauer/playwright-web-push-notification)
 
