@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-04-25T11:04:25.060Z
+2023-04-25T12:09:33.643Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -172,7 +172,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 9349
+⚖️ 9550
 
 🏷 tomashubelbauer
 
@@ -2466,6 +2466,14 @@
 
 📒 My research into merging faces in Blender
 
+## [pnpm-config-defaults](https://github.com/TomasHubelbauer/pnpm-config-defaults)
+
+⚖️ 3
+
+🏷 
+
+📒 null
+
 ## [cool-people-online](https://github.com/TomasHubelbauer/cool-people-online)
 
 ⚖️ 3
@@ -3329,14 +3337,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [pnpm-config-defaults](https://github.com/TomasHubelbauer/pnpm-config-defaults)
-
-⚖️ 0
-
-🏷 
-
-📒 null
 
 ## [planck-habit](https://github.com/TomasHubelbauer/planck-habit)
 
