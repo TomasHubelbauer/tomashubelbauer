@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-04-25T10:04:43.816Z
+2023-04-25T11:04:25.058Z
 
 ## [pnpm-config-defaults](https://github.com/TomasHubelbauer/pnpm-config-defaults)
 
