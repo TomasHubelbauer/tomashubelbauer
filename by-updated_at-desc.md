@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-04-25T09:04:46.424Z
+2023-04-25T10:04:43.810Z
+
+## [pnpm-config-defaults](https://github.com/TomasHubelbauer/pnpm-config-defaults)
+
+⚖️ 2023-04-25T09:56:26Z
+
+🏷 
+
+📒 null
 
 ## [cool-people-online](https://github.com/TomasHubelbauer/cool-people-online)
 

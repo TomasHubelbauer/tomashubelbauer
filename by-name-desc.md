@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-04-25T09:04:46.416Z
+2023-04-25T10:04:43.805Z
 
 ## [zod](https://github.com/TomasHubelbauer/zod)
 
@@ -1185,6 +1185,14 @@
 🏷 
 
 📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
+
+## [pnpm-config-defaults](https://github.com/TomasHubelbauer/pnpm-config-defaults)
+
+⚖️ pnpm-config-defaults
+
+🏷 
+
+📒 null
 
 ## [playwright-web-push-notification](https://github.com/TomasHubelbauer/playwright-web-push-notification)
 
