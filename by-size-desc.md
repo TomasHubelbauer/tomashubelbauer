@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-04-27T09:04:43.464Z
+2023-04-27T10:05:00.067Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
