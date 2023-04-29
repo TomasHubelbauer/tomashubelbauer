@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-04-29T19:04:10.186Z
+2023-04-29T20:04:45.790Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -170,6 +170,14 @@
 
 📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 8928
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [web-midi](https://github.com/TomasHubelbauer/web-midi)
 
 ⚖️ 8781
@@ -185,14 +193,6 @@
 🏷 css, layout, merry-go-round
 
 📒 CSS solution for a "merry-go-round" style sliding showcase
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 8727
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
 
