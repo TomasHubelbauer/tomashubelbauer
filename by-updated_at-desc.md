@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-04-30T02:18:08.674Z
+2023-04-30T03:04:39.579Z
 
 ## [pnpm-config-defaults](https://github.com/TomasHubelbauer/pnpm-config-defaults)
 
