@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-05-01T18:04:51.298Z
+2023-05-01T19:04:38.128Z
 
 ## [planck-habit](https://github.com/TomasHubelbauer/planck-habit)
 
@@ -2738,14 +2738,6 @@
 
 📒 XAML-like prop-children in JSX/TSX for React
 
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 284
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
-
 ## [cable-case](https://github.com/TomasHubelbauer/cable-case)
 
 ⚖️ 284
@@ -2761,6 +2753,14 @@
 🏷 props, props-type, react, react-typescript
 
 📒 An example of using TypeScript with TSX to achieve cool props typing
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 292
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
 
 ## [three-op-1](https://github.com/TomasHubelbauer/three-op-1)
 
