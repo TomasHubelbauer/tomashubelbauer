@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-05-02T19:04:41.897Z
+2023-05-02T20:05:16.373Z
 
 ## [planck-habit](https://github.com/TomasHubelbauer/planck-habit)
 
@@ -1226,14 +1226,6 @@
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
 
-## [firefox-youtube-buddy](https://github.com/TomasHubelbauer/firefox-youtube-buddy)
-
-⚖️ 6
-
-🏷 
-
-📒 null
-
 ## [paper-roll-holder](https://github.com/TomasHubelbauer/paper-roll-holder)
 
 ⚖️ 6
@@ -1585,6 +1577,14 @@
 🏷 dom, local-storage
 
 📒 DOM local storage performance experiment
+
+## [firefox-youtube-buddy](https://github.com/TomasHubelbauer/firefox-youtube-buddy)
+
+⚖️ 10
+
+🏷 
+
+📒 null
 
 ## [git-worktree](https://github.com/TomasHubelbauer/git-worktree)
 

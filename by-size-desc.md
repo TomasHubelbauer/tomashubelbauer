@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-02T19:04:41.899Z
+2023-05-02T20:05:16.376Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -1746,6 +1746,14 @@
 
 📒 Tips and tricks for using Git
 
+## [firefox-youtube-buddy](https://github.com/TomasHubelbauer/firefox-youtube-buddy)
+
+⚖️ 10
+
+🏷 
+
+📒 null
+
 ## [git-worktree](https://github.com/TomasHubelbauer/git-worktree)
 
 ⚖️ 10
@@ -2049,14 +2057,6 @@
 🏷 flirc, ir, led, led-strip
 
 📒 Using Flirc to control an IR LED strip
-
-## [firefox-youtube-buddy](https://github.com/TomasHubelbauer/firefox-youtube-buddy)
-
-⚖️ 6
-
-🏷 
-
-📒 null
 
 ## [paper-roll-holder](https://github.com/TomasHubelbauer/paper-roll-holder)
 
