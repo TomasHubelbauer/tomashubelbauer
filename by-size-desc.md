@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-02T14:05:12.544Z
+2023-05-02T15:04:53.089Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -172,7 +172,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 9406
+⚖️ 9607
 
 🏷 tomashubelbauer
 
@@ -204,7 +204,7 @@
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
-⚖️ 6879
+⚖️ 7325
 
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
