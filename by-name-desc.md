@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-03T02:17:21.428Z
+2023-05-03T03:05:02.343Z
 
 ## [zod](https://github.com/TomasHubelbauer/zod)
 
