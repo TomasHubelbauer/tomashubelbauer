@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-04T04:05:15.899Z
+2023-05-04T05:04:23.077Z
+
+## [html-live-text](https://github.com/TomasHubelbauer/html-live-text)
+
+⚖️ 2023-05-04T04:53:23Z
+
+🏷 html, loader, loading-animation, loading-indicator, ui, ux, ux-experiment
+
+📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
 
 ## [workers-formdata](https://github.com/TomasHubelbauer/workers-formdata)
 
@@ -1081,14 +1089,6 @@
 🏷 am-pm, clock, date-and-time, date-time, g11n, i14n, l10n, mac-os, meridian
 
 📒 My findings about macOS date and time settings
-
-## [html-live-text](https://github.com/TomasHubelbauer/html-live-text)
-
-⚖️ 2022-04-28T08:47:46Z
-
-🏷 html, loader, loading-animation, loading-indicator, ui, ux, ux-experiment
-
-📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
 
 ## [github-pages-custom-domain](https://github.com/TomasHubelbauer/github-pages-custom-domain)
 

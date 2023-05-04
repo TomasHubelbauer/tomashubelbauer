@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-05-04T04:05:15.896Z
+2023-05-04T05:04:23.074Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2314,14 +2314,6 @@
 
 📒 A quick and concise guide on how to set up GitHub Pages with a custom domain
 
-## [html-live-text](https://github.com/TomasHubelbauer/html-live-text)
-
-⚖️ 2022-04-28T08:47:46Z
-
-🏷 html, loader, loading-animation, loading-indicator, ui, ux, ux-experiment
-
-📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
-
 ## [macos-date-time](https://github.com/TomasHubelbauer/macos-date-time)
 
 ⚖️ 2022-04-28T08:49:43Z
@@ -3401,4 +3393,12 @@
 🏷 cloudflare, cloudflare-workers, formdata, multipart
 
 📒 FormData support for Cloudflare Workers
+
+## [html-live-text](https://github.com/TomasHubelbauer/html-live-text)
+
+⚖️ 2023-05-04T04:53:23Z
+
+🏷 html, loader, loading-animation, loading-indicator, ui, ux, ux-experiment
+
+📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
 
