@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-06T16:04:53.450Z
+2023-05-06T17:04:15.328Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -172,7 +172,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 8529
+⚖️ 8531
 
 🏷 tomashubelbauer
 
@@ -354,6 +354,14 @@
 
 📒 An example of implementing a custom time gutter for RBC showing time zone conversions
 
+## [playwright-github-actions](https://github.com/TomasHubelbauer/playwright-github-actions)
+
+⚖️ 1244
+
+🏷 github-actions, playwright, puppeteer
+
+📒 Demonstrates using Playwright to control Firefox to take a screenshot of Hacker News in GitHub Actions
+
 ## [appium](https://github.com/TomasHubelbauer/appium)
 
 ⚖️ 1173
@@ -401,14 +409,6 @@
 🏷 
 
 📒 HN Pop-up lets you quickly glance at a user's profile without leaving the page you're on. You can quickly see a user's bio, karma and account age
-
-## [playwright-github-actions](https://github.com/TomasHubelbauer/playwright-github-actions)
-
-⚖️ 858
-
-🏷 github-actions, playwright, puppeteer
-
-📒 Demonstrates using Playwright to control Firefox to take a screenshot of Hacker News in GitHub Actions
 
 ## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
 
@@ -1042,6 +1042,14 @@
 
 📒 JavaScript UI library
 
+## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
+
+⚖️ 43
+
+🏷 
+
+📒 null
+
 ## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
 
 ⚖️ 43
@@ -1105,14 +1113,6 @@
 🏷 jira, markdown, vscode, vscode-extension
 
 📒 VS Code extension to highlight Jira links in MarkDown
-
-## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
-
-⚖️ 34
-
-🏷 
-
-📒 null
 
 ## [github-issues-git-notes-demo](https://github.com/TomasHubelbauer/github-issues-git-notes-demo)
 
