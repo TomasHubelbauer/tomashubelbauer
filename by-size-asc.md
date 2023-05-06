@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-05-06T11:04:40.384Z
+2023-05-06T12:05:22.135Z
 
 ## [planck-habit](https://github.com/TomasHubelbauer/planck-habit)
 
@@ -65,14 +65,6 @@
 🏷 console, node
 
 📒 Overriding console.log in Node
-
-## [test](https://github.com/TomasHubelbauer/test)
-
-⚖️ 1
-
-🏷 
-
-📒 null
 
 ## [youtube-dl-macos](https://github.com/TomasHubelbauer/youtube-dl-macos)
 
@@ -2234,14 +2226,6 @@
 
 📒 A script for storing GitHub Issues in Git notes.
 
-## [remark-mermaid-nextra](https://github.com/TomasHubelbauer/remark-mermaid-nextra)
-
-⚖️ 34
-
-🏷 
-
-📒 Remark Mermaid Nextra plugin that should work.
-
 ## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
 
 ⚖️ 35
@@ -2666,14 +2650,6 @@
 
 📒 Binding CRA to various host names and subdomains
 
-## [bases](https://github.com/TomasHubelbauer/bases)
-
-⚖️ 183
-
-🏷 
-
-📒 Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
-
 ## [track-maker](https://github.com/TomasHubelbauer/track-maker)
 
 ⚖️ 191
@@ -2705,14 +2681,6 @@
 🏷 lab-notebook, literate-programming, markdown, markright, notebook, notebooks
 
 📒 Didactic literate programming
-
-## [ladybird](https://github.com/TomasHubelbauer/ladybird)
-
-⚖️ 249
-
-🏷 
-
-📒 The Ladybird web browser
 
 ## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
 
@@ -2930,14 +2898,6 @@
 
 📒 An experiment in making RBC event slots auto-select on hover
 
-## [openMotor](https://github.com/TomasHubelbauer/openMotor)
-
-⚖️ 675
-
-🏷 
-
-📒 An open-source internal ballistics simulator for rocket motor experimenters
-
 ## [asp-conditional-validations](https://github.com/TomasHubelbauer/asp-conditional-validations)
 
 ⚖️ 698
@@ -3033,14 +2993,6 @@
 🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
 
 📒 Notes about my solar experiments
-
-## [supabase-cache-helpers](https://github.com/TomasHubelbauer/supabase-cache-helpers)
-
-⚖️ 1366
-
-🏷 
-
-📒 A collection of framework specific Cache utilities for working with Supabase.
 
 ## [vscode-markdown-link-suggestions](https://github.com/TomasHubelbauer/vscode-markdown-link-suggestions)
 
@@ -3146,14 +3098,6 @@
 
 📒 A Pi Pico script for collecting CPU temperature reading in Supabase using a Deno function
 
-## [rust](https://github.com/TomasHubelbauer/rust)
-
-⚖️ 3809
-
-🏷 
-
-📒 Exercism exercises in Rust.
-
 ## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
 
 ⚖️ 3869
@@ -3161,14 +3105,6 @@
 🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
 
 📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
-
-## [zod](https://github.com/TomasHubelbauer/zod)
-
-⚖️ 4785
-
-🏷 
-
-📒 TypeScript-first schema validation with static type inference
 
 ## [onewheel](https://github.com/TomasHubelbauer/onewheel)
 
@@ -3212,7 +3148,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 7932
+⚖️ 8131
 
 🏷 tomashubelbauer
 
@@ -3378,14 +3314,6 @@
 
 📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 
-## [postgres-meta](https://github.com/TomasHubelbauer/postgres-meta)
-
-⚖️ 90255
-
-🏷 
-
-📒 A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
-
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
 ⚖️ 100573
@@ -3393,14 +3321,6 @@
 🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
 
 📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
-
-## [react-native](https://github.com/TomasHubelbauer/react-native)
-
-⚖️ 870316
-
-🏷 
-
-📒 A framework for building native applications using React
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
