@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-05-06T15:04:29.967Z
+2023-05-06T16:04:53.446Z
+
+## [playwright-github-actions](https://github.com/TomasHubelbauer/playwright-github-actions)
+
+⚖️ 2023-05-06T16:03:57Z
+
+🏷 github-actions, playwright, puppeteer
+
+📒 Demonstrates using Playwright to control Firefox to take a screenshot of Hacker News in GitHub Actions
 
 ## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
 
-⚖️ 2023-05-06T14:46:34Z
+⚖️ 2023-05-06T15:59:35Z
 
 🏷 
 
@@ -12,7 +20,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-06T14:06:13Z
+⚖️ 2023-05-06T15:06:27Z
 
 🏷 tomashubelbauer
 
@@ -1369,14 +1377,6 @@
 🏷 pdf, puppeteer
 
 📒 Making PDFs generated using Puppeteer deterministic by zeroing their date and time stamps
-
-## [playwright-github-actions](https://github.com/TomasHubelbauer/playwright-github-actions)
-
-⚖️ 2022-04-15T20:51:14Z
-
-🏷 github-actions, playwright, puppeteer
-
-📒 Demonstrates using Playwright to control Firefox to take a screenshot of Hacker News in GitHub Actions
 
 ## [playwright-firefox-mp4](https://github.com/TomasHubelbauer/playwright-firefox-mp4)
 
