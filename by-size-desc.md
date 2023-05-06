@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-06T18:05:13.787Z
+2023-05-06T19:04:20.664Z
 
 ## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
 
@@ -986,6 +986,14 @@
 
 📒 Online JavaScript regex designer with nice code editor and syntax highlighting
 
+## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
+
+⚖️ 57
+
+🏷 
+
+📒 null
+
 ## [keytar-vscode-extension](https://github.com/TomasHubelbauer/keytar-vscode-extension)
 
 ⚖️ 54
@@ -1041,14 +1049,6 @@
 🏷 framework, javascript, library, paper, ui, ux, wc, web-components
 
 📒 JavaScript UI library
-
-## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
-
-⚖️ 43
-
-🏷 
-
-📒 null
 
 ## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
 
