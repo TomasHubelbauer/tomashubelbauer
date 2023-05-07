@@ -1,10 +1,10 @@
 # By `pushed_at` (desc)
 
-2023-05-07T21:04:19.663Z
+2023-05-07T22:04:23.920Z
 
 ## [html-video](https://github.com/TomasHubelbauer/html-video)
 
-⚖️ 2023-05-07T21:03:45Z
+⚖️ 2023-05-07T21:11:06Z
 
 🏷 html, video
 
@@ -12,7 +12,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-07T20:06:28Z
+⚖️ 2023-05-07T21:06:16Z
 
 🏷 tomashubelbauer
 
@@ -290,14 +290,6 @@
 
 📒 Hacker News redesigned using Tailwind for practice
 
-## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
-
-⚖️ 2022-11-16T20:57:00Z
-
-🏷 fuck-you, stale-bot
-
-📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
-
 ## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
 
 ⚖️ 2022-11-16T17:58:39Z
@@ -337,14 +329,6 @@
 🏷 ice, idea, ios-16, macos-ventura, sdp, sharelink, swift, swiftui, webrtc
 
 📒 An idea for using ShareLink and Share Sheet with AirDrop to facilitate WebRTC connection
-
-## [youtube-dl-macos](https://github.com/TomasHubelbauer/youtube-dl-macos)
-
-⚖️ 2022-10-25T20:43:01Z
-
-🏷 
-
-📒 null
 
 ## [node-extract-zip](https://github.com/TomasHubelbauer/node-extract-zip)
 

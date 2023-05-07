@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-05-07T21:04:19.654Z
+2023-05-07T22:04:23.912Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2706,14 +2706,6 @@
 
 📒 K40 laser cutter information
 
-## [youtube-dl-macos](https://github.com/TomasHubelbauer/youtube-dl-macos)
-
-⚖️ 2022-10-25T20:38:50Z
-
-🏷 
-
-📒 null
-
 ## [markright](https://github.com/TomasHubelbauer/markright)
 
 ⚖️ 2022-10-29T14:36:32Z
@@ -3073,14 +3065,6 @@
 🏷 animated-gif, animated-png, apng, javascript, node, node-library, node-module, png, puppeteer, screencast
 
 📒 A JavaScript library for recording screencasts of URLs or Puppeteer sessions to APNG
-
-## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
-
-⚖️ 2023-03-18T11:29:06Z
-
-🏷 fuck-you, stale-bot
-
-📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 

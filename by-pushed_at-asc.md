@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-05-07T21:04:19.661Z
+2023-05-07T22:04:23.919Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -2970,14 +2970,6 @@
 
 📒 A pure Node function for extracting single-file ZIP archives
 
-## [youtube-dl-macos](https://github.com/TomasHubelbauer/youtube-dl-macos)
-
-⚖️ 2022-10-25T20:43:01Z
-
-🏷 
-
-📒 null
-
 ## [webrtc-share-sheet-custom-scheme](https://github.com/TomasHubelbauer/webrtc-share-sheet-custom-scheme)
 
 ⚖️ 2022-10-27T19:21:41Z
@@ -3017,14 +3009,6 @@
 🏷 filemanager, ios, macos, swift
 
 📒 A nascent Swift FileManager wrapper library with some extra smarts.
-
-## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
-
-⚖️ 2022-11-16T20:57:00Z
-
-🏷 fuck-you, stale-bot
-
-📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
 ## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
 
@@ -3300,7 +3284,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-07T20:06:28Z
+⚖️ 2023-05-07T21:06:16Z
 
 🏷 tomashubelbauer
 
@@ -3308,7 +3292,7 @@
 
 ## [html-video](https://github.com/TomasHubelbauer/html-video)
 
-⚖️ 2023-05-07T21:03:45Z
+⚖️ 2023-05-07T21:11:06Z
 
 🏷 html, video
 

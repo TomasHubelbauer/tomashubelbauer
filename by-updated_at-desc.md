@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-05-07T21:04:19.658Z
+2023-05-07T22:04:23.915Z
 
 ## [live-cards](https://github.com/TomasHubelbauer/live-cards)
 
@@ -233,14 +233,6 @@
 🏷 
 
 📒 null
-
-## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
-
-⚖️ 2023-03-18T11:29:06Z
-
-🏷 fuck-you, stale-bot
-
-📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
 ## [node-puppeteer-apng](https://github.com/TomasHubelbauer/node-puppeteer-apng)
 
@@ -601,14 +593,6 @@
 🏷 lab-notebook, literate-programming, markdown, markright, notebook, notebooks
 
 📒 Didactic literate programming
-
-## [youtube-dl-macos](https://github.com/TomasHubelbauer/youtube-dl-macos)
-
-⚖️ 2022-10-25T20:38:50Z
-
-🏷 
-
-📒 null
 
 ## [k40](https://github.com/TomasHubelbauer/k40)
 

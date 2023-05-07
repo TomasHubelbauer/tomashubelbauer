@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-07T21:04:19.652Z
+2023-05-07T22:04:23.910Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -9,14 +9,6 @@
 🏷 youtube, youtube-dl, youtube-dl-gui, youtube-downloader
 
 📒 Youtube subscription downloader for offline viewing
-
-## [youtube-dl-macos](https://github.com/TomasHubelbauer/youtube-dl-macos)
-
-⚖️ youtube-dl-macos
-
-🏷 
-
-📒 null
 
 ## [youtube-dl-kb](https://github.com/TomasHubelbauer/youtube-dl-kb)
 
@@ -2281,14 +2273,6 @@
 🏷 garmin
 
 📒 A JavaScript parser and renderer of the Garmin maps
-
-## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
-
-⚖️ fuck-you-stale-bot
-
-🏷 fuck-you, stale-bot
-
-📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
 ## [fragment](https://github.com/TomasHubelbauer/fragment)
 

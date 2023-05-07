@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-05-07T21:04:19.649Z
+2023-05-07T22:04:23.908Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -1025,14 +1025,6 @@
 🏷 angular, dom, javascript-library, javascritpt, react, ui, ui-components, vdom, vue
 
 📒 A JavaScript library for building UIs
-
-## [fuck-you-stale-bot](https://github.com/TomasHubelbauer/fuck-you-stale-bot)
-
-⚖️ fuck-you-stale-bot
-
-🏷 fuck-you, stale-bot
-
-📒 Philippic against the GitHub Stale bot which is a squarey negative force in the universe
 
 ## [garmin-img](https://github.com/TomasHubelbauer/garmin-img)
 
@@ -3297,14 +3289,6 @@
 🏷 cheatsheet, knowledge-base, youtube-dl
 
 📒 My cheatsheet for YouTube-DL
-
-## [youtube-dl-macos](https://github.com/TomasHubelbauer/youtube-dl-macos)
-
-⚖️ youtube-dl-macos
-
-🏷 
-
-📒 null
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
