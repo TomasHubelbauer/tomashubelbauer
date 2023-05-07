@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-05-07T19:04:19.169Z
+2023-05-07T20:04:31.350Z
 
 ## [live-cards](https://github.com/TomasHubelbauer/live-cards)
 
@@ -274,14 +274,6 @@
 
 📒 A nascent Swift FileManager wrapper library with some extra smarts.
 
-## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
-
-⚖️ 2023-03-07T13:37:57Z
-
-🏷 
-
-📒 null
-
 ## [node-apng](https://github.com/TomasHubelbauer/node-apng)
 
 ⚖️ 2023-03-07T13:37:57Z
@@ -353,30 +345,6 @@
 🏷 ast, cra, create-react-app, i18n, internationalization, localization, translation
 
 📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
-
-## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
-
-⚖️ 2023-03-07T13:37:56Z
-
-🏷 
-
-📒 MDX extension for Visual Studio Code
-
-## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
-
-⚖️ 2023-03-07T13:37:56Z
-
-🏷 
-
-📒 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-
-## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
-
-⚖️ 2023-03-07T13:37:56Z
-
-🏷 
-
-📒 Isomorphic JavaScript client for PostgREST.
 
 ## [lyrics](https://github.com/TomasHubelbauer/lyrics)
 
@@ -617,14 +585,6 @@
 🏷 op-1, op1, teenage-engineering, webgl
 
 📒 A 3D model of Teenage Engineering OP-1 displayed in the browser using WebGL
-
-## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
-
-⚖️ 2022-11-03T11:44:25Z
-
-🏷 
-
-📒 null
 
 ## [svg-screencast](https://github.com/TomasHubelbauer/svg-screencast)
 

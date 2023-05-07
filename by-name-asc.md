@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-05-07T19:04:19.160Z
+2023-05-07T20:04:31.342Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -145,14 +145,6 @@
 🏷 async-await
 
 📒 The website of async-await.net
-
-## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
-
-⚖️ azure-boards-test
-
-🏷 
-
-📒 null
 
 ## [azure-pipelines-powershell-core](https://github.com/TomasHubelbauer/azure-pipelines-powershell-core)
 
@@ -2066,14 +2058,6 @@
 
 📒 2:43 @ 05:58 (Prague) / 20:58 (Ludwig)
 
-## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
-
-⚖️ omnidoc
-
-🏷 
-
-📒 null
-
 ## [onewheel](https://github.com/TomasHubelbauer/onewheel)
 
 ⚖️ onewheel
@@ -2225,14 +2209,6 @@
 🏷 
 
 📒 null
-
-## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
-
-⚖️ postgrest-js
-
-🏷 
-
-📒 Isomorphic JavaScript client for PostgREST.
 
 ## [powershell-explorer-file-extensions](https://github.com/TomasHubelbauer/powershell-explorer-file-extensions)
 
@@ -2834,14 +2810,6 @@
 
 📒 Twitch "Not Interested" automated
 
-## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
-
-⚖️ TypeScript
-
-🏷 
-
-📒 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-
 ## [typescript-in-browser](https://github.com/TomasHubelbauer/typescript-in-browser)
 
 ⚖️ typescript-in-browser
@@ -3017,14 +2985,6 @@
 🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
 
 📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
-
-## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
-
-⚖️ vscode-mdx
-
-🏷 
-
-📒 MDX extension for Visual Studio Code
 
 ## [vscode-settings](https://github.com/TomasHubelbauer/vscode-settings)
 

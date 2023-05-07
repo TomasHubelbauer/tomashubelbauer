@@ -1,14 +1,6 @@
 # By `size` (desc)
 
-2023-05-07T19:04:19.180Z
-
-## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
-
-⚖️ 2019799
-
-🏷 
-
-📒 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+2023-05-07T20:04:31.357Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -148,7 +140,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 10703
+⚖️ 10901
 
 🏷 tomashubelbauer
 
@@ -306,14 +298,6 @@
 
 📒 Playwright Firefox MP4 video
 
-## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
-
-⚖️ 2135
-
-🏷 
-
-📒 Isomorphic JavaScript client for PostgREST.
-
 ## [garmin-img](https://github.com/TomasHubelbauer/garmin-img)
 
 ⚖️ 1647
@@ -417,14 +401,6 @@
 🏷 
 
 📒 HN Pop-up lets you quickly glance at a user's profile without leaving the page you're on. You can quickly see a user's bio, karma and account age
-
-## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
-
-⚖️ 834
-
-🏷 
-
-📒 MDX extension for Visual Studio Code
 
 ## [mic-holder](https://github.com/TomasHubelbauer/mic-holder)
 
@@ -3315,22 +3291,6 @@
 📒 null
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
-
-⚖️ 0
-
-🏷 
-
-📒 null
-
-## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
-
-⚖️ 0
-
-🏷 
-
-📒 null
-
-## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
 
 ⚖️ 0
 

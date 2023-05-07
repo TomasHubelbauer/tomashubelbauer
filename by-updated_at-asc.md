@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-05-07T19:04:19.166Z
+2023-05-07T20:04:31.347Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2730,14 +2730,6 @@
 
 📒 SVG screencast - animated SVG files from screenshots using CSS animations
 
-## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
-
-⚖️ 2022-11-03T11:44:25Z
-
-🏷 
-
-📒 null
-
 ## [webgl-op-1](https://github.com/TomasHubelbauer/webgl-op-1)
 
 ⚖️ 2022-11-15T01:01:20Z
@@ -2930,30 +2922,6 @@
 
 📒 My resarch into running BusDog in WSB
 
-## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
-
-⚖️ 2023-03-07T13:37:56Z
-
-🏷 
-
-📒 MDX extension for Visual Studio Code
-
-## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
-
-⚖️ 2023-03-07T13:37:56Z
-
-🏷 
-
-📒 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-
-## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
-
-⚖️ 2023-03-07T13:37:56Z
-
-🏷 
-
-📒 Isomorphic JavaScript client for PostgREST.
-
 ## [lyrics](https://github.com/TomasHubelbauer/lyrics)
 
 ⚖️ 2023-03-07T13:37:56Z
@@ -3017,14 +2985,6 @@
 🏷 filemanager, ios, macos, swift
 
 📒 A nascent Swift FileManager wrapper library with some extra smarts.
-
-## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
-
-⚖️ 2023-03-07T13:37:57Z
-
-🏷 
-
-📒 null
 
 ## [node-apng](https://github.com/TomasHubelbauer/node-apng)
 

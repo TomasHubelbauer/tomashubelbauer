@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-05-07T19:04:19.177Z
+2023-05-07T20:04:31.355Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -35,22 +35,6 @@
 📒 null
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
-
-⚖️ 0
-
-🏷 
-
-📒 null
-
-## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
-
-⚖️ 0
-
-🏷 
-
-📒 null
-
-## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
 
 ⚖️ 0
 
@@ -2930,14 +2914,6 @@
 
 📒 A Rode NT-USB microphone holder 3D model
 
-## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
-
-⚖️ 834
-
-🏷 
-
-📒 MDX extension for Visual Studio Code
-
 ## [hnpopup](https://github.com/TomasHubelbauer/hnpopup)
 
 ⚖️ 894
@@ -3041,14 +3017,6 @@
 🏷 garmin
 
 📒 A JavaScript parser and renderer of the Garmin maps
-
-## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
-
-⚖️ 2135
-
-🏷 
-
-📒 Isomorphic JavaScript client for PostgREST.
 
 ## [playwright-firefox-mp4](https://github.com/TomasHubelbauer/playwright-firefox-mp4)
 
@@ -3204,7 +3172,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 10703
+⚖️ 10901
 
 🏷 tomashubelbauer
 
@@ -3345,12 +3313,4 @@
 🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
 
 📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
-
-## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
-
-⚖️ 2019799
-
-🏷 
-
-📒 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 

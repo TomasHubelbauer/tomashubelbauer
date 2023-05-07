@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-07T19:04:19.163Z
+2023-05-07T20:04:31.344Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -330,14 +330,6 @@
 
 📒 My preferred VS Code settings
 
-## [vscode-mdx](https://github.com/TomasHubelbauer/vscode-mdx)
-
-⚖️ vscode-mdx
-
-🏷 
-
-📒 MDX extension for Visual Studio Code
-
 ## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
 
 ⚖️ vscode-markdown-todo
@@ -513,14 +505,6 @@
 🏷 browser, javascript, tsc, typescript
 
 📒 Using the TypeScript API in the browser
-
-## [TypeScript](https://github.com/TomasHubelbauer/TypeScript)
-
-⚖️ TypeScript
-
-🏷 
-
-📒 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## [twitch-not-interested](https://github.com/TomasHubelbauer/twitch-not-interested)
 
@@ -1122,14 +1106,6 @@
 
 📒 Show/hide file extensions in Explorer using PowerShell
 
-## [postgrest-js](https://github.com/TomasHubelbauer/postgrest-js)
-
-⚖️ postgrest-js
-
-🏷 
-
-📒 Isomorphic JavaScript client for PostgREST.
-
 ## [pnpm-config-defaults](https://github.com/TomasHubelbauer/pnpm-config-defaults)
 
 ⚖️ pnpm-config-defaults
@@ -1281,14 +1257,6 @@
 🏷 onewheel
 
 📒 A collection of links relating to the Onewheel
-
-## [omnidoc](https://github.com/TomasHubelbauer/omnidoc)
-
-⚖️ omnidoc
-
-🏷 
-
-📒 null
 
 ## [ocr](https://github.com/TomasHubelbauer/ocr)
 
@@ -3201,14 +3169,6 @@
 🏷 azure-pipelines, powershell, powershell-core
 
 📒 An experiment in determining if pwsh runs PowerShell Core on Windows in Azure Pipelines.
-
-## [azure-boards-test](https://github.com/TomasHubelbauer/azure-boards-test)
-
-⚖️ azure-boards-test
-
-🏷 
-
-📒 null
 
 ## [async-await.net](https://github.com/TomasHubelbauer/async-await.net)
 
