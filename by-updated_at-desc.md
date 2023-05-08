@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-08T15:04:25.619Z
+2023-05-08T16:04:30.612Z
+
+## [vscode-email-viewer](https://github.com/TomasHubelbauer/vscode-email-viewer)
+
+⚖️ 2023-05-08T15:11:00Z
+
+🏷 email, email-parsing, eml, eml-files, preview, vscode, vscode-extension, vscode-preview
+
+📒 Preview email message files (EML) in VS Code
 
 ## [live-cards](https://github.com/TomasHubelbauer/live-cards)
 
@@ -497,14 +505,6 @@
 🏷 arduino, arduino-qr, dot-matrix, led-matrix, ledcontrol, max7219, qr, qr-code
 
 📒 Arduino LED dot-matrix display QR code
-
-## [vscode-email-viewer](https://github.com/TomasHubelbauer/vscode-email-viewer)
-
-⚖️ 2022-12-22T10:24:32Z
-
-🏷 email, email-parsing, eml, eml-files, preview, vscode, vscode-extension, vscode-preview
-
-📒 Preview email message files (EML) in VS Code
 
 ## [webrtc-bridge](https://github.com/TomasHubelbauer/webrtc-bridge)
 
