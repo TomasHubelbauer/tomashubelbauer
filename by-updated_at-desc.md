@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-09T07:04:25.405Z
+2023-05-09T11:04:30.213Z
+
+## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
+
+⚖️ 2023-05-09T07:40:11Z
+
+🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
+
+📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 
 ## [vscode-email-viewer](https://github.com/TomasHubelbauer/vscode-email-viewer)
 
@@ -2433,14 +2441,6 @@
 🏷 ffmpeg
 
 📒 A snippet showing how to crop an image using FFMPEG
-
-## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
-
-⚖️ 2022-04-16T13:13:51Z
-
-🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
-
-📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 
 ## [esm-svg-timeseries](https://github.com/TomasHubelbauer/esm-svg-timeseries)
 

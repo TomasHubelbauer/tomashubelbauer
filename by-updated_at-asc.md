@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-05-09T07:04:25.403Z
+2023-05-09T11:04:30.210Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -857,14 +857,6 @@
 🏷 esm, svg, timeseries
 
 📒 An ESM library module for rendering timeseries data using SVG in JavaScript.
-
-## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
-
-⚖️ 2022-04-16T13:13:51Z
-
-🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
-
-📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 
 ## [ffmpeg-crop-image](https://github.com/TomasHubelbauer/ffmpeg-crop-image)
 
@@ -3297,4 +3289,12 @@
 🏷 email, email-parsing, eml, eml-files, preview, vscode, vscode-extension, vscode-preview
 
 📒 Preview email message files (EML) in VS Code
+
+## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
+
+⚖️ 2023-05-09T07:40:11Z
+
+🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
+
+📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 
