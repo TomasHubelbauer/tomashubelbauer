@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-05-10T19:05:19.653Z
+2023-05-10T20:05:12.931Z
 
 ## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
 
