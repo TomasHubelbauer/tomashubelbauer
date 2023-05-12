@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-05-12T16:05:08.925Z
+2023-05-12T17:04:33.598Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3234,14 +3234,6 @@
 
 📒 FormData support for Cloudflare Workers
 
-## [html-live-text](https://github.com/TomasHubelbauer/html-live-text)
-
-⚖️ 2023-05-04T04:53:23Z
-
-🏷 html, loader, loading-animation, loading-indicator, ui, ux, ux-experiment
-
-📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
-
 ## [node-esm-loader-repro](https://github.com/TomasHubelbauer/node-esm-loader-repro)
 
 ⚖️ 2023-05-05T11:21:40Z
@@ -3297,4 +3289,12 @@
 🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
 
 📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
+
+## [html-live-text](https://github.com/TomasHubelbauer/html-live-text)
+
+⚖️ 2023-05-12T16:56:15Z
+
+🏷 html, loader, loading-animation, loading-indicator, ui, ux, ux-experiment
+
+📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
 

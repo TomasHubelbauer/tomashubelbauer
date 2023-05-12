@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-12T16:05:08.927Z
+2023-05-12T17:04:33.601Z
+
+## [html-live-text](https://github.com/TomasHubelbauer/html-live-text)
+
+⚖️ 2023-05-12T16:56:15Z
+
+🏷 html, loader, loading-animation, loading-indicator, ui, ux, ux-experiment
+
+📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
 
 ## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
 
@@ -57,14 +65,6 @@
 🏷 
 
 📒 null
-
-## [html-live-text](https://github.com/TomasHubelbauer/html-live-text)
-
-⚖️ 2023-05-04T04:53:23Z
-
-🏷 html, loader, loading-animation, loading-indicator, ui, ux, ux-experiment
-
-📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
 
 ## [workers-formdata](https://github.com/TomasHubelbauer/workers-formdata)
 
