@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-13T16:05:05.343Z
+2023-05-13T17:04:24.010Z
+
+## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
+
+⚖️ 2023-05-13T16:48:34Z
+
+🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
+
+📒 Brother P-touch D600 label maker USB communication with P-touch Editor
 
 ## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
 
@@ -273,14 +281,6 @@
 🏷 animated-gif, animated-png, apng, javascript, node, node-library, node-module, png, puppeteer, screencast
 
 📒 A JavaScript library for recording screencasts of URLs or Puppeteer sessions to APNG
-
-## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
-
-⚖️ 2023-03-10T15:26:44Z
-
-🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
-
-📒 Brother P-touch D600 label maker USB communication with P-touch Editor
 
 ## [vrm-api](https://github.com/TomasHubelbauer/vrm-api)
 

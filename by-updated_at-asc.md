@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-05-13T16:05:05.342Z
+2023-05-13T17:04:24.009Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3018,14 +3018,6 @@
 
 📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
-## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
-
-⚖️ 2023-03-10T15:26:44Z
-
-🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
-
-📒 Brother P-touch D600 label maker USB communication with P-touch Editor
-
 ## [node-puppeteer-apng](https://github.com/TomasHubelbauer/node-puppeteer-apng)
 
 ⚖️ 2023-03-13T11:14:49Z
@@ -3297,4 +3289,12 @@
 🏷 akai, apc-mini, launchpad, midi, usb
 
 📒 Akai APCmini launchpad USB/MIDI communication protocol
+
+## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
+
+⚖️ 2023-05-13T16:48:34Z
+
+🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
+
+📒 Brother P-touch D600 label maker USB communication with P-touch Editor
 
