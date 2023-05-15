@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-05-15T20:04:40.800Z
+2023-05-15T21:04:33.678Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2322,14 +2322,6 @@
 
 📒 A web app for playing around with Dagre charts
 
-## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
-
-⚖️ 57
-
-🏷 
-
-📒 null
-
 ## [regex](https://github.com/TomasHubelbauer/regex)
 
 ⚖️ 58
@@ -2345,6 +2337,14 @@
 🏷 ado, azure-devops
 
 📒 ADO bookmarklet
+
+## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
+
+⚖️ 60
+
+🏷 
+
+📒 null
 
 ## [phone-organizer](https://github.com/TomasHubelbauer/phone-organizer)
 
