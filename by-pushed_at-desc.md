@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-05-15T21:04:33.675Z
+2023-05-15T22:04:39.463Z
+
+## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
+
+⚖️ 2023-05-15T21:51:53Z
+
+🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
+
+📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-15T20:06:38Z
+⚖️ 2023-05-15T21:06:30Z
 
 🏷 tomashubelbauer
 
@@ -1057,14 +1065,6 @@
 🏷 download-progress, fetch
 
 📒 Demonstrating the use of reader to display a progress of fetch download
-
-## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
-
-⚖️ 2022-04-28T08:46:23Z
-
-🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
-
-📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 
 ## [ef-cosmos-embedded-inheritance](https://github.com/TomasHubelbauer/ef-cosmos-embedded-inheritance)
 

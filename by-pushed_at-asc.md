@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-05-15T21:04:33.674Z
+2023-05-15T22:04:39.462Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -2234,14 +2234,6 @@
 
 📒 Testing out inheritance of embedded entities in EF Core with the Cosmos provider
 
-## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
-
-⚖️ 2022-04-28T08:46:23Z
-
-🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
-
-📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
-
 ## [fetch-download-progress](https://github.com/TomasHubelbauer/fetch-download-progress)
 
 ⚖️ 2022-04-28T08:46:35Z
@@ -3292,9 +3284,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-15T20:06:38Z
+⚖️ 2023-05-15T21:06:30Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
+
+⚖️ 2023-05-15T21:51:53Z
+
+🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
+
+📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 
