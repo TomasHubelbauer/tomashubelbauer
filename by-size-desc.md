@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-16T06:05:01.974Z
+2023-05-16T07:04:37.758Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -146,6 +146,14 @@
 
 📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 8827
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [web-midi](https://github.com/TomasHubelbauer/web-midi)
 
 ⚖️ 8781
@@ -161,14 +169,6 @@
 🏷 css, layout, merry-go-round
 
 📒 CSS solution for a "merry-go-round" style sliding showcase
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 8631
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
 
