@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-16T13:07:21.089Z
+2023-05-16T14:04:28.322Z
+
+## [upptime.js.org](https://github.com/TomasHubelbauer/upptime.js.org)
+
+⚖️ 2023-05-16T14:02:57Z
+
+🏷 
+
+📒 ⬆️📝 Documentation and landing page for Upptime
 
 ## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
 
