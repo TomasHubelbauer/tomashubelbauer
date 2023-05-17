@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-17T18:04:53.446Z
+2023-05-17T19:04:36.772Z
 
 ## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
 
@@ -146,14 +146,6 @@
 
 📒 Using Playwright Firefox to scrape PDFs
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 11765
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [html-live-text](https://github.com/TomasHubelbauer/html-live-text)
 
 ⚖️ 9764
@@ -185,6 +177,14 @@
 🏷 
 
 📒 GitHub Action to send LGTM reaction
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 7132
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [lyrics](https://github.com/TomasHubelbauer/lyrics)
 
