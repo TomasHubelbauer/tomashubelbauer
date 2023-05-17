@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-05-17T13:06:01.530Z
+2023-05-17T14:05:06.348Z
+
+## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
+
+⚖️ 2023-05-17T14:04:17Z
+
+🏷 
+
+📒 The repository for high quality TypeScript type definitions.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-17T12:07:19Z
+⚖️ 2023-05-17T13:07:57Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 
 
 📒 null
-
-## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
-
-⚖️ 2023-05-17T10:40:06Z
-
-🏷 
-
-📒 The repository for high quality TypeScript type definitions.
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 

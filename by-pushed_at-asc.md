@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-05-17T13:06:01.528Z
+2023-05-17T14:05:06.346Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3290,14 +3290,6 @@
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
-## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
-
-⚖️ 2023-05-17T10:40:06Z
-
-🏷 
-
-📒 The repository for high quality TypeScript type definitions.
-
 ## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
 
 ⚖️ 2023-05-17T10:42:45Z
@@ -3308,9 +3300,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-17T12:07:19Z
+⚖️ 2023-05-17T13:07:57Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
+
+⚖️ 2023-05-17T14:04:17Z
+
+🏷 
+
+📒 The repository for high quality TypeScript type definitions.
 
