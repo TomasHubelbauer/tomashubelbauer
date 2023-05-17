@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-17T00:13:31.843Z
+2023-05-17T01:32:21.229Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -140,7 +140,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 10391
+⚖️ 10393
 
 🏷 tomashubelbauer
 
@@ -178,14 +178,6 @@
 
 📒 GitHub Action to send LGTM reaction
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 8042
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [lyrics](https://github.com/TomasHubelbauer/lyrics)
 
 ⚖️ 6863
@@ -193,6 +185,14 @@
 🏷 electron, lrc, lyrics, spotify
 
 📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 6270
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
