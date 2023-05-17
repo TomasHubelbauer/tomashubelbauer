@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-05-17T15:04:52.965Z
+2023-05-17T16:04:37.353Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -3292,7 +3292,7 @@
 
 ## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
 
-⚖️ 73134
+⚖️ 73136
 
 🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
 

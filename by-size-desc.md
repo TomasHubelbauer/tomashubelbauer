@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-17T15:04:52.970Z
+2023-05-17T16:04:37.355Z
 
 ## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
 
@@ -20,7 +20,7 @@
 
 ## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
 
-⚖️ 73134
+⚖️ 73136
 
 🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
 
