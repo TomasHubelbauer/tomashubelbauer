@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-05-17T11:05:08.401Z
+2023-05-17T12:05:22.337Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2340,7 +2340,7 @@
 
 ## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
 
-⚖️ 60
+⚖️ 63
 
 🏷 
 
@@ -3164,7 +3164,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 11175
+⚖️ 11176
 
 🏷 tomashubelbauer
 
@@ -3308,7 +3308,7 @@
 
 ## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
 
-⚖️ 964660
+⚖️ 964251
 
 🏷 
 
