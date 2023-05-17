@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-17T16:04:37.355Z
+2023-05-17T17:04:39.394Z
 
 ## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
 
@@ -148,7 +148,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 11569
+⚖️ 11765
 
 🏷 tomashubelbauer
 
