@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-05-17T14:05:06.348Z
+2023-05-17T15:04:52.962Z
+
+## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
+
+⚖️ 2023-05-17T15:01:16Z
+
+🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
+
+📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 
 ## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
 
-⚖️ 2023-05-17T14:04:17Z
+⚖️ 2023-05-17T14:49:20Z
 
 🏷 
 
@@ -12,7 +20,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-17T13:07:57Z
+⚖️ 2023-05-17T14:07:02Z
 
 🏷 tomashubelbauer
 
@@ -41,14 +49,6 @@
 🏷 
 
 📒 ⬆️📝 Documentation and landing page for Upptime
-
-## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
-
-⚖️ 2023-05-15T21:51:53Z
-
-🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
-
-📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 
 ## [html-video](https://github.com/TomasHubelbauer/html-video)
 

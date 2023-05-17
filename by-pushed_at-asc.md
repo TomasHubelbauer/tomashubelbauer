@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-05-17T14:05:06.346Z
+2023-05-17T15:04:52.960Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3266,14 +3266,6 @@
 
 📒 An application for generating videos from HTML+JS scenes
 
-## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
-
-⚖️ 2023-05-15T21:51:53Z
-
-🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
-
-📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
-
 ## [upptime.js.org](https://github.com/TomasHubelbauer/upptime.js.org)
 
 ⚖️ 2023-05-16T14:34:41Z
@@ -3300,7 +3292,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-17T13:07:57Z
+⚖️ 2023-05-17T14:07:02Z
 
 🏷 tomashubelbauer
 
@@ -3308,9 +3300,17 @@
 
 ## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
 
-⚖️ 2023-05-17T14:04:17Z
+⚖️ 2023-05-17T14:49:20Z
 
 🏷 
 
 📒 The repository for high quality TypeScript type definitions.
+
+## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
+
+⚖️ 2023-05-17T15:01:16Z
+
+🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
+
+📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 
