@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-05-17T10:04:41.839Z
+2023-05-17T11:05:08.397Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3266,14 +3266,6 @@
 
 📒 An application for generating videos from HTML+JS scenes
 
-## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
-
-⚖️ 2023-05-15T19:50:41Z
-
-🏷 
-
-📒 null
-
 ## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
 
 ⚖️ 2023-05-15T21:51:53Z
@@ -3300,9 +3292,25 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-17T08:06:46Z
+⚖️ 2023-05-17T10:06:38Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
+
+⚖️ 2023-05-17T10:40:06Z
+
+🏷 
+
+📒 The repository for high quality TypeScript type definitions.
+
+## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
+
+⚖️ 2023-05-17T10:42:45Z
+
+🏷 
+
+📒 null
 

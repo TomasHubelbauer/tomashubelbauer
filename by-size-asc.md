@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-05-17T10:04:41.845Z
+2023-05-17T11:05:08.401Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -3305,4 +3305,12 @@
 🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
 
 📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
+
+## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
+
+⚖️ 964660
+
+🏷 
+
+📒 The repository for high quality TypeScript type definitions.
 

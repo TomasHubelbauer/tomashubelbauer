@@ -1,6 +1,14 @@
 # By `size` (desc)
 
-2023-05-17T10:04:41.847Z
+2023-05-17T11:05:08.403Z
+
+## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
+
+⚖️ 964660
+
+🏷 
+
+📒 The repository for high quality TypeScript type definitions.
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 

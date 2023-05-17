@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-17T10:04:41.830Z
+2023-05-17T11:05:08.389Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -2729,6 +2729,14 @@
 🏷 dom, local-storage
 
 📒 DOM local storage performance experiment
+
+## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
+
+⚖️ DefinitelyTyped
+
+🏷 
+
+📒 The repository for high quality TypeScript type definitions.
 
 ## [day-planner](https://github.com/TomasHubelbauer/day-planner)
 

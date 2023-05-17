@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-05-17T10:04:41.828Z
+2023-05-17T11:05:08.384Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -577,6 +577,14 @@
 🏷 day-planner
 
 📒 A one-off utility for graphical day planning
+
+## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
+
+⚖️ DefinitelyTyped
+
+🏷 
+
+📒 The repository for high quality TypeScript type definitions.
 
 ## [dom-local-storage-perf](https://github.com/TomasHubelbauer/dom-local-storage-perf)
 

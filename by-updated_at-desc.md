@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-17T10:04:41.834Z
+2023-05-17T11:05:08.393Z
+
+## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
+
+⚖️ 2023-05-17T10:37:42Z
+
+🏷 
+
+📒 The repository for high quality TypeScript type definitions.
 
 ## [workers-formdata](https://github.com/TomasHubelbauer/workers-formdata)
 
