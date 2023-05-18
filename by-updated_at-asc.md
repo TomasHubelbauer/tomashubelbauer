@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-05-18T16:05:01.099Z
+2023-05-18T17:04:18.976Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2738,14 +2738,6 @@
 
 📒 A .gitattributes file which makes MarkDown files appear in the Linguist language stats bar
 
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2022-12-01T07:08:51Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
-
 ## [github-actions](https://github.com/TomasHubelbauer/github-actions)
 
 ⚖️ 2022-12-05T11:45:29Z
@@ -3313,4 +3305,12 @@
 🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
 
 📒 A WebRTC data channel establishment with QR codes used for signaling channel.
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2023-05-18T16:43:02Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 

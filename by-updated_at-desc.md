@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-18T16:05:01.102Z
+2023-05-18T17:04:18.979Z
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2023-05-18T16:43:02Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
 ## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
 
@@ -569,14 +577,6 @@
 🏷 cd, ci, ci-cd, github, github-actions
 
 📒 Infromation and tips regarding GitHub Actions
-
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2022-12-01T07:08:51Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
 ## [github-linguist](https://github.com/TomasHubelbauer/github-linguist)
 
