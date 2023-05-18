@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-05-17T23:04:56.057Z
+2023-05-18T00:12:22.049Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3290,14 +3290,6 @@
 
 📒 null
 
-## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
-
-⚖️ 2023-05-17T14:49:20Z
-
-🏷 
-
-📒 The repository for high quality TypeScript type definitions.
-
 ## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
 
 ⚖️ 2023-05-17T15:01:16Z
@@ -3308,9 +3300,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-17T22:06:30Z
+⚖️ 2023-05-17T23:06:53Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
+
+⚖️ 2023-05-17T23:17:50Z
+
+🏷 
+
+📒 The repository for high quality TypeScript type definitions.
 

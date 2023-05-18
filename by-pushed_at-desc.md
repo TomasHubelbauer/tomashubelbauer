@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-05-17T23:04:56.059Z
+2023-05-18T00:12:22.050Z
+
+## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
+
+⚖️ 2023-05-17T23:17:50Z
+
+🏷 
+
+📒 The repository for high quality TypeScript type definitions.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-17T22:06:30Z
+⚖️ 2023-05-17T23:06:53Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
 
 📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
-
-## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
-
-⚖️ 2023-05-17T14:49:20Z
-
-🏷 
-
-📒 The repository for high quality TypeScript type definitions.
 
 ## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
 
