@@ -1,10 +1,10 @@
 # By `size` (desc)
 
-2023-05-18T00:12:22.058Z
+2023-05-18T01:31:37.751Z
 
 ## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
 
-⚖️ 964774
+⚖️ 964409
 
 🏷 
 
@@ -180,7 +180,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 7539
+⚖️ 7734
 
 🏷 tomashubelbauer
 
@@ -196,7 +196,7 @@
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
-⚖️ 6270
+⚖️ 6289
 
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
