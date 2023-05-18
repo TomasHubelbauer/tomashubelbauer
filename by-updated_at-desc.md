@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-05-18T02:18:39.442Z
+2023-05-18T03:04:55.562Z
 
 ## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
 
