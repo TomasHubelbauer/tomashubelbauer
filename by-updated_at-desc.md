@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-18T18:05:15.036Z
+2023-05-18T19:04:32.646Z
+
+## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
+
+⚖️ 2023-05-18T18:20:58Z
+
+🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
+
+📒 A WebRTC data channel establishment with QR codes used for signaling channel.
 
 ## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
 
@@ -9,14 +17,6 @@
 🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
 
 📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
-
-## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
-
-⚖️ 2023-05-18T15:58:32Z
-
-🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
-
-📒 A WebRTC data channel establishment with QR codes used for signaling channel.
 
 ## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
 
