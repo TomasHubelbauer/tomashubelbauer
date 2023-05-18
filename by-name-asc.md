@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-05-18T20:04:39.268Z
+2023-05-18T21:04:40.828Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2169,6 +2169,14 @@
 🏷 
 
 📒 null
+
+## [playwright-1](https://github.com/TomasHubelbauer/playwright-1)
+
+⚖️ playwright-1
+
+🏷 
+
+📒 Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 
 ## [playwright-firefox-mp4](https://github.com/TomasHubelbauer/playwright-firefox-mp4)
 

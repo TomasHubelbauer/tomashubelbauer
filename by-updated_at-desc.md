@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-18T20:04:39.277Z
+2023-05-18T21:04:40.839Z
+
+## [playwright-1](https://github.com/TomasHubelbauer/playwright-1)
+
+⚖️ 2023-05-18T20:16:22Z
+
+🏷 
+
+📒 Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 
 ## [playwright-test-only](https://github.com/TomasHubelbauer/playwright-test-only)
 

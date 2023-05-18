@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-18T20:04:39.270Z
+2023-05-18T21:04:40.830Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1153,6 +1153,14 @@
 🏷 firefox, html-video, playwright
 
 📒 Playwright Firefox MP4 video
+
+## [playwright-1](https://github.com/TomasHubelbauer/playwright-1)
+
+⚖️ playwright-1
+
+🏷 
+
+📒 Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 
 ## [planck-habit](https://github.com/TomasHubelbauer/planck-habit)
 
