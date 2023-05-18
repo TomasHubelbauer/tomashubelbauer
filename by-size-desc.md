@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-18T07:04:28.752Z
+2023-05-18T08:05:09.270Z
 
 ## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
 
@@ -170,6 +170,14 @@
 
 📒 CSS solution for a "merry-go-round" style sliding showcase
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 8325
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
 
 ⚖️ 8275
@@ -177,14 +185,6 @@
 🏷 
 
 📒 GitHub Action to send LGTM reaction
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 8128
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [lyrics](https://github.com/TomasHubelbauer/lyrics)
 
