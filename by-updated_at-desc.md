@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-18T15:05:10.214Z
+2023-05-18T16:05:01.102Z
+
+## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
+
+⚖️ 2023-05-18T15:58:32Z
+
+🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
+
+📒 A WebRTC data channel establishment with QR codes used for signaling channel.
 
 ## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
 
@@ -729,14 +737,6 @@
 🏷 
 
 📒 A list of things I plan on looking into.
-
-## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
-
-⚖️ 2022-09-23T22:40:10Z
-
-🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
-
-📒 A WebRTC data channel establishment with QR codes used for signaling channel.
 
 ## [sqlite-javascript](https://github.com/TomasHubelbauer/sqlite-javascript)
 
