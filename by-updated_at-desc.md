@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-19T13:05:54.536Z
+2023-05-19T14:04:29.359Z
+
+## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
+
+⚖️ 2023-05-19T13:14:19Z
+
+🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
+
+📒 A WebRTC data channel establishment with QR codes used for signaling channel.
 
 ## [safari-offline](https://github.com/TomasHubelbauer/safari-offline)
 
@@ -25,14 +33,6 @@
 🏷 
 
 📒 null
-
-## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
-
-⚖️ 2023-05-18T18:20:58Z
-
-🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
-
-📒 A WebRTC data channel establishment with QR codes used for signaling channel.
 
 ## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
 
