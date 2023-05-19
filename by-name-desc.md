@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-19T22:04:31.379Z
+2023-05-19T23:05:32.382Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -489,6 +489,14 @@
 🏷 
 
 📒 ⬆️📝 Documentation and landing page for Upptime
+
+## [upptime](https://github.com/TomasHubelbauer/upptime)
+
+⚖️ upptime
+
+🏷 
+
+📒 ⬆️ Free uptime monitor and status page powered by GitHub
 
 ## [typescript-jsdoc-import-file](https://github.com/TomasHubelbauer/typescript-jsdoc-import-file)
 
@@ -2225,6 +2233,14 @@
 🏷 cd, ci, ci-cd, github, github-actions
 
 📒 Infromation and tips regarding GitHub Actions
+
+## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+
+⚖️ github-action-auto-git-modules
+
+🏷 
+
+📒 null
 
 ## [github](https://github.com/TomasHubelbauer/github)
 
