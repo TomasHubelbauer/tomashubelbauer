@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-19T15:04:37.090Z
+2023-05-19T16:04:55.644Z
+
+## [next.js](https://github.com/TomasHubelbauer/next.js)
+
+⚖️ 2023-05-19T15:57:39Z
+
+🏷 
+
+📒 The React Framework
 
 ## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
 

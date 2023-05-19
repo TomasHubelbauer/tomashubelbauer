@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-05-19T15:04:37.088Z
+2023-05-19T16:04:55.642Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3329,4 +3329,12 @@
 🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
 
 📒 A WebRTC data channel establishment with QR codes used for signaling channel.
+
+## [next.js](https://github.com/TomasHubelbauer/next.js)
+
+⚖️ 2023-05-19T15:57:39Z
+
+🏷 
+
+📒 The React Framework
 

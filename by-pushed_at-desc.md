@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-05-19T15:04:37.096Z
+2023-05-19T16:04:55.650Z
+
+## [next.js](https://github.com/TomasHubelbauer/next.js)
+
+⚖️ 2023-05-19T16:00:57Z
+
+🏷 
+
+📒 The React Framework
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-19T14:06:26Z
+⚖️ 2023-05-19T15:06:34Z
 
 🏷 tomashubelbauer
 

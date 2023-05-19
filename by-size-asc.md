@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-05-19T15:04:37.098Z
+2023-05-19T16:04:55.652Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -3329,4 +3329,12 @@
 🏷 
 
 📒 The repository for high quality TypeScript type definitions.
+
+## [next.js](https://github.com/TomasHubelbauer/next.js)
+
+⚖️ 1838523
+
+🏷 
+
+📒 The React Framework
 

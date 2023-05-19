@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-05-19T15:04:37.082Z
+2023-05-19T16:04:55.636Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -1841,6 +1841,14 @@
 🏷 esm, nextjs, url-import
 
 📒 NextJS URL imports
+
+## [next.js](https://github.com/TomasHubelbauer/next.js)
+
+⚖️ next.js
+
+🏷 
+
+📒 The React Framework
 
 ## [nginx-lets-encrypt](https://github.com/TomasHubelbauer/nginx-lets-encrypt)
 

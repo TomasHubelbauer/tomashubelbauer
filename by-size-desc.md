@@ -1,6 +1,14 @@
 # By `size` (desc)
 
-2023-05-19T15:04:37.100Z
+2023-05-19T16:04:55.654Z
+
+## [next.js](https://github.com/TomasHubelbauer/next.js)
+
+⚖️ 1838523
+
+🏷 
+
+📒 The React Framework
 
 ## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
 

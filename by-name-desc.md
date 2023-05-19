@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-19T15:04:37.085Z
+2023-05-19T16:04:55.638Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1489,6 +1489,14 @@
 🏷 lets-encrypt, nginx
 
 📒 NGinx Let's Encrypt information
+
+## [next.js](https://github.com/TomasHubelbauer/next.js)
+
+⚖️ next.js
+
+🏷 
+
+📒 The React Framework
 
 ## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
 
