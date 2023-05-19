@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-05-19T09:04:40.578Z
+2023-05-19T10:05:47.571Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -1105,14 +1105,6 @@
 🏷 ios-safari, mouse-events, pointer-events, safari, touch-events
 
 📒 Safari mouse/pointer/touch events demonstration and canceling
-
-## [safari-offline](https://github.com/TomasHubelbauer/safari-offline)
-
-⚖️ 2022-04-16T13:49:39Z
-
-🏷 offline-app, offline-first, service-worker
-
-📒 An example of a fully ofline web app running in iOS Safari
 
 ## [rust-wasm](https://github.com/TomasHubelbauer/rust-wasm)
 
@@ -3329,4 +3321,12 @@
 🏷 
 
 📒 Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
+
+## [safari-offline](https://github.com/TomasHubelbauer/safari-offline)
+
+⚖️ 2023-05-19T09:31:20Z
+
+🏷 offline-app, offline-first, service-worker
+
+📒 An example of a fully ofline web app running in iOS Safari
 

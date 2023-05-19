@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-19T09:04:40.581Z
+2023-05-19T10:05:47.574Z
+
+## [safari-offline](https://github.com/TomasHubelbauer/safari-offline)
+
+⚖️ 2023-05-19T09:31:20Z
+
+🏷 offline-app, offline-first, service-worker
+
+📒 An example of a fully ofline web app running in iOS Safari
 
 ## [playwright-1](https://github.com/TomasHubelbauer/playwright-1)
 
@@ -2217,14 +2225,6 @@
 🏷 rust, wasm, webassembly
 
 📒 Experiments with Rust and WebAssembly
-
-## [safari-offline](https://github.com/TomasHubelbauer/safari-offline)
-
-⚖️ 2022-04-16T13:49:39Z
-
-🏷 offline-app, offline-first, service-worker
-
-📒 An example of a fully ofline web app running in iOS Safari
 
 ## [safari-pointer-events](https://github.com/TomasHubelbauer/safari-pointer-events)
 
