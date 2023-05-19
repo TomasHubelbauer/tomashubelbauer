@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-19T10:05:47.589Z
+2023-05-19T11:04:25.153Z
 
 ## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
 

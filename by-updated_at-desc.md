@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-05-19T10:05:47.574Z
+2023-05-19T11:04:25.143Z
 
 ## [safari-offline](https://github.com/TomasHubelbauer/safari-offline)
 
