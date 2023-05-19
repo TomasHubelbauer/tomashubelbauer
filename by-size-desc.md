@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-19T14:04:29.369Z
+2023-05-19T15:04:37.100Z
 
 ## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
 
@@ -156,7 +156,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 11081
+⚖️ 11278
 
 🏷 tomashubelbauer
 
@@ -300,7 +300,7 @@
 
 ## [upptime.js.org](https://github.com/TomasHubelbauer/upptime.js.org)
 
-⚖️ 2461
+⚖️ 2447
 
 🏷 
 
