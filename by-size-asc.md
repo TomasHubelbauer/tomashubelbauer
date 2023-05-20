@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-05-20T09:04:19.844Z
+2023-05-20T10:05:00.022Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2146,14 +2146,6 @@
 
 📒 Finding the minimal possible VS Code extension
 
-## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
-
-⚖️ 30
-
-🏷 
-
-📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
-
 ## [ios-app-web-control](https://github.com/TomasHubelbauer/ios-app-web-control)
 
 ⚖️ 30
@@ -2217,6 +2209,14 @@
 🏷 git-notes, github-actions, github-issues
 
 📒 A script for storing GitHub Issues in Git notes.
+
+## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+
+⚖️ 35
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
 ## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
 
@@ -3148,7 +3148,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 8020
+⚖️ 8218
 
 🏷 tomashubelbauer
 
