@@ -1,14 +1,22 @@
 # By `updated_at` (desc)
 
-2023-05-19T23:05:32.388Z
+2023-05-20T00:11:45.749Z
 
-## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
 
-⚖️ 2023-05-19T22:56:22Z
+⚖️ 2023-05-20T00:11:10Z
 
 🏷 
 
 📒 null
+
+## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+
+⚖️ 2023-05-20T00:10:44Z
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
 ## [upptime](https://github.com/TomasHubelbauer/upptime)
 
@@ -305,14 +313,6 @@
 🏷 ntlite, powershell, ps
 
 📒 PowerShell NTLite installer
-
-## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
-
-⚖️ 2023-04-02T20:05:26Z
-
-🏷 
-
-📒 null
 
 ## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
 

@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2023-05-19T23:05:32.395Z
-
-## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
-
-⚖️ 0
-
-🏷 
-
-📒 null
+2023-05-20T00:11:45.758Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -1986,6 +1978,14 @@
 
 📒 A milestone calculation JavaScript algorithm
 
+## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+
+⚖️ 20
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
+
 ## [cinestar](https://github.com/TomasHubelbauer/cinestar)
 
 ⚖️ 20
@@ -3146,6 +3146,14 @@
 
 📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 7227
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
 
 ⚖️ 8275
@@ -3177,14 +3185,6 @@
 🏷 html, loader, loading-animation, loading-indicator, ui, ux, ux-experiment
 
 📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 12065
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [playwright-pdf](https://github.com/TomasHubelbauer/playwright-pdf)
 
@@ -3332,7 +3332,7 @@
 
 ## [upptime](https://github.com/TomasHubelbauer/upptime)
 
-⚖️ 464393
+⚖️ 464384
 
 🏷 
 

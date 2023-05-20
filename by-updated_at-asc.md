@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-05-19T23:05:32.385Z
+2023-05-20T00:11:45.747Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3042,14 +3042,6 @@
 
 📒 A script for setting the currently playing Spotify song as your Slack status
 
-## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
-
-⚖️ 2023-04-02T20:05:26Z
-
-🏷 
-
-📒 null
-
 ## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
 
 ⚖️ 2023-04-06T08:12:37Z
@@ -3348,7 +3340,15 @@
 
 ## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
 
-⚖️ 2023-05-19T22:56:22Z
+⚖️ 2023-05-20T00:10:44Z
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
+
+## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
+
+⚖️ 2023-05-20T00:11:10Z
 
 🏷 
 

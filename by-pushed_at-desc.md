@@ -1,14 +1,30 @@
 # By `pushed_at` (desc)
 
-2023-05-19T23:05:32.393Z
+2023-05-20T00:11:45.756Z
 
 ## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
 
-⚖️ 2023-05-19T22:58:28Z
+⚖️ 2023-05-20T00:09:58Z
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
+
+## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
+
+⚖️ 2023-05-20T00:07:35Z
 
 🏷 
 
 📒 null
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2023-05-19T23:07:31Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [upptime](https://github.com/TomasHubelbauer/upptime)
 
@@ -17,14 +33,6 @@
 🏷 
 
 📒 ⬆️ Free uptime monitor and status page powered by GitHub
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2023-05-19T22:06:28Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -81,14 +89,6 @@
 🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
 
 📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
-
-## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
-
-⚖️ 2023-05-17T10:42:45Z
-
-🏷 
-
-📒 null
 
 ## [html-video](https://github.com/TomasHubelbauer/html-video)
 

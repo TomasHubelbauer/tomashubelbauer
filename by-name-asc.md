@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-05-19T23:05:32.377Z
+2023-05-20T00:11:45.741Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -1120,7 +1120,7 @@
 
 🏷 
 
-📒 null
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
 ## [github-actions](https://github.com/TomasHubelbauer/github-actions)
 

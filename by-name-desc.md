@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-19T23:05:32.382Z
+2023-05-20T00:11:45.744Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -2240,7 +2240,7 @@
 
 🏷 
 
-📒 null
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
 ## [github](https://github.com/TomasHubelbauer/github)
 
