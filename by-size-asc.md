@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-05-20T21:05:01.107Z
+2023-05-20T22:04:19.565Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2210,14 +2210,6 @@
 
 📒 A script for storing GitHub Issues in Git notes.
 
-## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
-
-⚖️ 35
-
-🏷 
-
-📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
-
 ## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
 
 ⚖️ 35
@@ -2242,14 +2234,6 @@
 
 📒 A script for setting the currently playing Spotify song as your Slack status
 
-## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
-
-⚖️ 39
-
-🏷 
-
-📒 null
-
 ## [webrtc-bridge](https://github.com/TomasHubelbauer/webrtc-bridge)
 
 ⚖️ 39
@@ -2265,6 +2249,14 @@
 🏷 youtube, youtube-dl, youtube-dl-gui, youtube-downloader
 
 📒 Youtube subscription downloader for offline viewing
+
+## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
+
+⚖️ 41
+
+🏷 
+
+📒 null
 
 ## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
 
@@ -2313,6 +2305,14 @@
 🏷 rbc, react-big-calendar
 
 📒 A tool for exploring the possible values of the RBC components prop.
+
+## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+
+⚖️ 50
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
 ## [github-releases](https://github.com/TomasHubelbauer/github-releases)
 
@@ -2732,7 +2732,7 @@
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
-⚖️ 295
+⚖️ 296
 
 🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
 
@@ -3172,7 +3172,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 9210
+⚖️ 9409
 
 🏷 tomashubelbauer
 

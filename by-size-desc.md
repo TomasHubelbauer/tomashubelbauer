@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-20T21:05:01.110Z
+2023-05-20T22:04:19.567Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -180,7 +180,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 9210
+⚖️ 9409
 
 🏷 tomashubelbauer
 
@@ -620,7 +620,7 @@
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
-⚖️ 295
+⚖️ 296
 
 🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
 
@@ -1042,6 +1042,14 @@
 
 📒 Monitors GitHub Releases of projects I star on GitHub and sends a single daily digest email
 
+## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+
+⚖️ 50
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
+
 ## [rbc-components](https://github.com/TomasHubelbauer/rbc-components)
 
 ⚖️ 49
@@ -1082,6 +1090,14 @@
 
 📒 Hyper-V PowerShell script for running a script in a temporary VM
 
+## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
+
+⚖️ 41
+
+🏷 
+
+📒 null
+
 ## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
 
 ⚖️ 41
@@ -1098,14 +1114,6 @@
 
 📒 Youtube subscription downloader for offline viewing
 
-## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
-
-⚖️ 39
-
-🏷 
-
-📒 null
-
 ## [webrtc-bridge](https://github.com/TomasHubelbauer/webrtc-bridge)
 
 ⚖️ 39
@@ -1121,14 +1129,6 @@
 🏷 slack, slack-app, slack-status, spotify
 
 📒 A script for setting the currently playing Spotify song as your Slack status
-
-## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
-
-⚖️ 35
-
-🏷 
-
-📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
 ## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
 
