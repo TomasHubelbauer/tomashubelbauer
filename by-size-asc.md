@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-05-20T22:04:19.565Z
+2023-05-20T23:04:36.574Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2306,14 +2306,6 @@
 
 📒 A tool for exploring the possible values of the RBC components prop.
 
-## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
-
-⚖️ 50
-
-🏷 
-
-📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
-
 ## [github-releases](https://github.com/TomasHubelbauer/github-releases)
 
 ⚖️ 52
@@ -2361,6 +2353,14 @@
 🏷 ado, azure-devops
 
 📒 ADO bookmarklet
+
+## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+
+⚖️ 63
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
 ## [phone-organizer](https://github.com/TomasHubelbauer/phone-organizer)
 
@@ -2732,7 +2732,7 @@
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
-⚖️ 296
+⚖️ 303
 
 🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
 
@@ -3172,7 +3172,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 9409
+⚖️ 9605
 
 🏷 tomashubelbauer
 

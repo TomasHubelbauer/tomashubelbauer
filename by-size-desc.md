@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-20T22:04:19.567Z
+2023-05-20T23:04:36.576Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -180,7 +180,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 9409
+⚖️ 9605
 
 🏷 tomashubelbauer
 
@@ -620,7 +620,7 @@
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
-⚖️ 296
+⚖️ 303
 
 🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
 
@@ -994,6 +994,14 @@
 
 📒 Phone organizer 3D model
 
+## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+
+⚖️ 63
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
+
 ## [ado-bookmarklet](https://github.com/TomasHubelbauer/ado-bookmarklet)
 
 ⚖️ 59
@@ -1041,14 +1049,6 @@
 🏷 github, github-api, github-releases
 
 📒 Monitors GitHub Releases of projects I star on GitHub and sends a single daily digest email
-
-## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
-
-⚖️ 50
-
-🏷 
-
-📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
 ## [rbc-components](https://github.com/TomasHubelbauer/rbc-components)
 
