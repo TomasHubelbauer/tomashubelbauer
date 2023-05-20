@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-05-20T08:05:04.617Z
+2023-05-20T09:04:19.841Z
+
+## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+
+⚖️ 2023-05-20T08:33:18Z
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-20T07:06:25Z
+⚖️ 2023-05-20T08:07:02Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
 
 📒 My personal website
-
-## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
-
-⚖️ 2023-05-20T00:39:59Z
-
-🏷 
-
-📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
 ## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
 
