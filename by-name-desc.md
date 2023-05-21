@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-21T17:04:15.653Z
+2023-05-21T18:05:00.752Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1113,6 +1113,14 @@
 🏷 powershell
 
 📒 Show/hide file extensions in Explorer using PowerShell
+
+## [podman](https://github.com/TomasHubelbauer/podman)
+
+⚖️ podman
+
+🏷 
+
+📒 null
 
 ## [pnpm-config-defaults](https://github.com/TomasHubelbauer/pnpm-config-defaults)
 
@@ -2289,6 +2297,14 @@
 🏷 git
 
 📒 Demonstrating wiping files from Git history
+
+## [git-dot-ds_store-global-ignore](https://github.com/TomasHubelbauer/git-dot-ds_store-global-ignore)
+
+⚖️ git-dot-ds_store-global-ignore
+
+🏷 
+
+📒 null
 
 ## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
 
