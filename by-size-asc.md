@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-05-21T19:04:22.819Z
+2023-05-21T20:05:16.653Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -54,9 +54,9 @@
 
 ⚖️ 1
 
-🏷 
+🏷 dsstore, git, git-ignore, macos
 
-📒 null
+📒 Information on how to hide the infamous .DS_Store macOS file using the global Git ignore configuration option.
 
 ## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
 
@@ -2274,14 +2274,6 @@
 
 📒 Hyper-V PowerShell script for running a script in a temporary VM
 
-## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
-
-⚖️ 43
-
-🏷 
-
-📒 null
-
 ## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
 
 ⚖️ 43
@@ -2290,6 +2282,14 @@
 
 📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
 
+## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
+
+⚖️ 44
+
+🏷 
+
+📒 null
+
 ## [paper](https://github.com/TomasHubelbauer/paper)
 
 ⚖️ 44
@@ -2297,14 +2297,6 @@
 🏷 framework, javascript, library, paper, ui, ux, wc, web-components
 
 📒 JavaScript UI library
-
-## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
-
-⚖️ 45
-
-🏷 
-
-📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
 ## [esm-list-zip](https://github.com/TomasHubelbauer/esm-list-zip)
 
@@ -2353,6 +2345,14 @@
 🏷 adg, dagre, dotviz, graph
 
 📒 A web app for playing around with Dagre charts
+
+## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+
+⚖️ 55
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
 ## [regex](https://github.com/TomasHubelbauer/regex)
 
@@ -2700,7 +2700,7 @@
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
-⚖️ 244
+⚖️ 232
 
 🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
 
@@ -3196,7 +3196,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 11396
+⚖️ 11596
 
 🏷 tomashubelbauer
 

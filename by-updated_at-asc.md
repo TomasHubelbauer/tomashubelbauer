@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-05-21T19:04:22.808Z
+2023-05-21T20:05:16.642Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3354,14 +3354,6 @@
 
 📒 My personal website
 
-## [git-dot-ds_store-global-ignore](https://github.com/TomasHubelbauer/git-dot-ds_store-global-ignore)
-
-⚖️ 2023-05-21T17:06:24Z
-
-🏷 
-
-📒 null
-
 ## [podman](https://github.com/TomasHubelbauer/podman)
 
 ⚖️ 2023-05-21T18:53:41Z
@@ -3369,4 +3361,12 @@
 🏷 containers, docker, podman
 
 📒 My explorations of the Podman container tool, an alternative to Docker.
+
+## [git-dot-ds_store-global-ignore](https://github.com/TomasHubelbauer/git-dot-ds_store-global-ignore)
+
+⚖️ 2023-05-21T19:23:43Z
+
+🏷 dsstore, git, git-ignore, macos
+
+📒 Information on how to hide the infamous .DS_Store macOS file using the global Git ignore configuration option.
 

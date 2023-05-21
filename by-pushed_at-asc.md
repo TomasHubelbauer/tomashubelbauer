@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-05-21T19:04:22.814Z
+2023-05-21T20:05:16.648Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3326,9 +3326,9 @@
 
 ⚖️ 2023-05-21T17:07:07Z
 
-🏷 
+🏷 dsstore, git, git-ignore, macos
 
-📒 null
+📒 Information on how to hide the infamous .DS_Store macOS file using the global Git ignore configuration option.
 
 ## [podman](https://github.com/TomasHubelbauer/podman)
 
@@ -3340,15 +3340,23 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-21T18:06:58Z
+⚖️ 2023-05-21T19:06:20Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
 
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 2023-05-21T19:59:43Z
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
 ## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
 
-⚖️ 2023-05-21T19:02:09Z
+⚖️ 2023-05-21T20:02:42Z
 
 🏷 
 
@@ -3356,17 +3364,9 @@
 
 ## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
 
-⚖️ 2023-05-21T19:03:17Z
+⚖️ 2023-05-21T20:02:55Z
 
 🏷 
 
 📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
-
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 2023-05-21T19:03:59Z
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
 

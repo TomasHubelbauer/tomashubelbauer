@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-05-21T19:04:22.804Z
+2023-05-21T20:05:16.636Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -1070,9 +1070,9 @@
 
 ⚖️ git-dot-ds_store-global-ignore
 
-🏷 
+🏷 dsstore, git, git-ignore, macos
 
-📒 null
+📒 Information on how to hide the infamous .DS_Store macOS file using the global Git ignore configuration option.
 
 ## [git-erase](https://github.com/TomasHubelbauer/git-erase)
 
