@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-05-21T15:04:31.542Z
+2023-05-21T16:05:11.154Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3314,14 +3314,6 @@
 
 📒 null
 
-## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
-
-⚖️ 2023-05-20T21:22:06Z
-
-🏷 
-
-📒 null
-
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
 ⚖️ 2023-05-21T00:17:44Z
@@ -3330,27 +3322,35 @@
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
-## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
-
-⚖️ 2023-05-21T12:57:28Z
-
-🏷 
-
-📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
-
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-21T14:06:50Z
+⚖️ 2023-05-21T15:06:28Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
 
+## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+
+⚖️ 2023-05-21T16:03:49Z
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
+
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
-⚖️ 2023-05-21T14:50:01Z
+⚖️ 2023-05-21T16:04:02Z
 
 🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
 
 📒 My personal website
+
+## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
+
+⚖️ 2023-05-21T16:04:16Z
+
+🏷 
+
+📒 null
 
