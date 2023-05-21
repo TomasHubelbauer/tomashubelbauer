@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-05-21T20:05:16.653Z
+2023-05-21T21:05:08.675Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2346,14 +2346,6 @@
 
 📒 A web app for playing around with Dagre charts
 
-## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
-
-⚖️ 55
-
-🏷 
-
-📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
-
 ## [regex](https://github.com/TomasHubelbauer/regex)
 
 ⚖️ 58
@@ -2361,6 +2353,14 @@
 🏷 regex, regexp
 
 📒 Online JavaScript regex designer with nice code editor and syntax highlighting
+
+## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+
+⚖️ 59
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
 ## [ado-bookmarklet](https://github.com/TomasHubelbauer/ado-bookmarklet)
 
@@ -2698,14 +2698,6 @@
 
 📒 Didactic literate programming
 
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 232
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
-
 ## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
 
 ⚖️ 251
@@ -2721,6 +2713,14 @@
 🏷 markdown
 
 📒 VS Code extension for MarkDown table of contents
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 258
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
 
 ## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
 
