@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-21T22:04:20.753Z
+2023-05-21T23:04:25.656Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -44,7 +44,7 @@
 
 ## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
 
-⚖️ 73136
+⚖️ 73137
 
 🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
 
@@ -994,6 +994,14 @@
 
 📒 Phone organizer 3D model
 
+## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+
+⚖️ 68
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
+
 ## [podman](https://github.com/TomasHubelbauer/podman)
 
 ⚖️ 60
@@ -1001,14 +1009,6 @@
 🏷 containers, docker, podman
 
 📒 My explorations of the Podman container tool, an alternative to Docker.
-
-## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
-
-⚖️ 59
-
-🏷 
-
-📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
 ## [ado-bookmarklet](https://github.com/TomasHubelbauer/ado-bookmarklet)
 
@@ -1076,7 +1076,7 @@
 
 ## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
 
-⚖️ 44
+⚖️ 45
 
 🏷 
 

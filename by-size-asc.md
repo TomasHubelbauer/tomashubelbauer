@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-05-21T22:04:20.751Z
+2023-05-21T23:04:25.654Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2282,14 +2282,6 @@
 
 📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
 
-## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
-
-⚖️ 44
-
-🏷 
-
-📒 null
-
 ## [paper](https://github.com/TomasHubelbauer/paper)
 
 ⚖️ 44
@@ -2297,6 +2289,14 @@
 🏷 framework, javascript, library, paper, ui, ux, wc, web-components
 
 📒 JavaScript UI library
+
+## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
+
+⚖️ 45
+
+🏷 
+
+📒 null
 
 ## [esm-list-zip](https://github.com/TomasHubelbauer/esm-list-zip)
 
@@ -2354,14 +2354,6 @@
 
 📒 Online JavaScript regex designer with nice code editor and syntax highlighting
 
-## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
-
-⚖️ 59
-
-🏷 
-
-📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
-
 ## [ado-bookmarklet](https://github.com/TomasHubelbauer/ado-bookmarklet)
 
 ⚖️ 59
@@ -2377,6 +2369,14 @@
 🏷 containers, docker, podman
 
 📒 My explorations of the Podman container tool, an alternative to Docker.
+
+## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+
+⚖️ 68
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
 ## [phone-organizer](https://github.com/TomasHubelbauer/phone-organizer)
 
@@ -3324,7 +3324,7 @@
 
 ## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
 
-⚖️ 73136
+⚖️ 73137
 
 🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
 
