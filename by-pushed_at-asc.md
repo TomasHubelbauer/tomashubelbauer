@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-05-21T21:05:08.669Z
+2023-05-21T22:04:20.747Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3250,14 +3250,6 @@
 
 📒 An application for generating videos from HTML+JS scenes
 
-## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
-
-⚖️ 2023-05-17T15:01:16Z
-
-🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
-
-📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
-
 ## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
 
 ⚖️ 2023-05-17T23:17:50Z
@@ -3302,9 +3294,9 @@
 
 ⚖️ 2023-05-20T00:33:01Z
 
-🏷 
+🏷 git, git-modules, submodules
 
-📒 null
+📒 A demo submodule used by my other repos.
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
@@ -3338,33 +3330,41 @@
 
 📒 My explorations of the Podman container tool, an alternative to Docker.
 
-## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
-
-⚖️ 2023-05-21T20:02:42Z
-
-🏷 
-
-📒 null
-
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-21T20:07:14Z
+⚖️ 2023-05-21T21:07:06Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
 
+## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
+
+⚖️ 2023-05-21T21:17:49Z
+
+🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
+
+📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
+
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
-⚖️ 2023-05-21T21:01:54Z
+⚖️ 2023-05-21T21:25:30Z
 
 🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
 
 📒 My personal website
 
+## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
+
+⚖️ 2023-05-21T22:02:13Z
+
+🏷 
+
+📒 null
+
 ## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
 
-⚖️ 2023-05-21T21:04:16Z
+⚖️ 2023-05-21T22:04:04Z
 
 🏷 
 

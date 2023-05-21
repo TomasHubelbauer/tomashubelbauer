@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-21T21:05:08.656Z
+2023-05-21T22:04:20.740Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -2310,9 +2310,9 @@
 
 ⚖️ git-demo-submodule
 
-🏷 
+🏷 git, git-modules, submodules
 
-📒 null
+📒 A demo submodule used by my other repos.
 
 ## [git-config](https://github.com/TomasHubelbauer/git-config)
 

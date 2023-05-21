@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-21T21:05:08.678Z
+2023-05-21T22:04:20.753Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -172,7 +172,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 11596
+⚖️ 11795
 
 🏷 tomashubelbauer
 
@@ -642,6 +642,14 @@
 
 📒 XAML-like prop-children in JSX/TSX for React
 
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 265
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
 ## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
 
 ⚖️ 262
@@ -649,14 +657,6 @@
 🏷 akai, apc-mini, launchpad, midi, usb
 
 📒 Akai APCmini launchpad USB/MIDI communication protocol
-
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 258
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
 
 ## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
 
@@ -3022,9 +3022,9 @@
 
 ⚖️ 1
 
-🏷 
+🏷 git, git-modules, submodules
 
-📒 null
+📒 A demo submodule used by my other repos.
 
 ## [git-file-transport](https://github.com/TomasHubelbauer/git-file-transport)
 

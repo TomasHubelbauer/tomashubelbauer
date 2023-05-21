@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2023-05-21T21:05:08.662Z
+2023-05-21T22:04:20.745Z
+
+## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
+
+⚖️ 2023-05-21T21:15:48Z
+
+🏷 git, git-modules, submodules
+
+📒 A demo submodule used by my other repos.
 
 ## [git-dot-ds_store-global-ignore](https://github.com/TomasHubelbauer/git-dot-ds_store-global-ignore)
 
-⚖️ 2023-05-21T19:23:43Z
+⚖️ 2023-05-21T21:15:02Z
 
 🏷 dsstore, git, git-ignore, macos
 
@@ -12,7 +20,7 @@
 
 ## [podman](https://github.com/TomasHubelbauer/podman)
 
-⚖️ 2023-05-21T18:53:41Z
+⚖️ 2023-05-21T21:14:39Z
 
 🏷 containers, docker, podman
 
@@ -345,14 +353,6 @@
 🏷 slack, slack-app, slack-status, spotify
 
 📒 A script for setting the currently playing Spotify song as your Slack status
-
-## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
-
-⚖️ 2023-03-28T22:15:33Z
-
-🏷 
-
-📒 null
 
 ## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
 

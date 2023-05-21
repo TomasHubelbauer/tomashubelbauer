@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-05-21T21:05:08.654Z
+2023-05-21T22:04:20.738Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -1062,9 +1062,9 @@
 
 ⚖️ git-demo-submodule
 
-🏷 
+🏷 git, git-modules, submodules
 
-📒 null
+📒 A demo submodule used by my other repos.
 
 ## [git-dot-ds_store-global-ignore](https://github.com/TomasHubelbauer/git-dot-ds_store-global-ignore)
 

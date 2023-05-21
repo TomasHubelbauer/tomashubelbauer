@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-05-21T21:05:08.660Z
+2023-05-21T22:04:20.743Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3018,14 +3018,6 @@
 
 📒 WebRTC Data Channel demo
 
-## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
-
-⚖️ 2023-03-28T22:15:33Z
-
-🏷 
-
-📒 null
-
 ## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
 
 ⚖️ 2023-03-31T23:09:11Z
@@ -3356,7 +3348,7 @@
 
 ## [podman](https://github.com/TomasHubelbauer/podman)
 
-⚖️ 2023-05-21T18:53:41Z
+⚖️ 2023-05-21T21:14:39Z
 
 🏷 containers, docker, podman
 
@@ -3364,9 +3356,17 @@
 
 ## [git-dot-ds_store-global-ignore](https://github.com/TomasHubelbauer/git-dot-ds_store-global-ignore)
 
-⚖️ 2023-05-21T19:23:43Z
+⚖️ 2023-05-21T21:15:02Z
 
 🏷 dsstore, git, git-ignore, macos
 
 📒 Information on how to hide the infamous .DS_Store macOS file using the global Git ignore configuration option.
+
+## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
+
+⚖️ 2023-05-21T21:15:48Z
+
+🏷 git, git-modules, submodules
+
+📒 A demo submodule used by my other repos.
 

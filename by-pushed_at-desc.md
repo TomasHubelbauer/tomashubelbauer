@@ -1,38 +1,46 @@
 # By `pushed_at` (desc)
 
-2023-05-21T21:05:08.671Z
+2023-05-21T22:04:20.749Z
 
 ## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
 
-⚖️ 2023-05-21T21:04:16Z
+⚖️ 2023-05-21T22:04:04Z
 
 🏷 
 
 📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
+## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
+
+⚖️ 2023-05-21T22:02:13Z
+
+🏷 
+
+📒 null
+
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
-⚖️ 2023-05-21T21:01:54Z
+⚖️ 2023-05-21T21:25:30Z
 
 🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
 
 📒 My personal website
 
+## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
+
+⚖️ 2023-05-21T21:17:49Z
+
+🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
+
+📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
+
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-21T20:07:14Z
+⚖️ 2023-05-21T21:07:06Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
-
-## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
-
-⚖️ 2023-05-21T20:02:42Z
-
-🏷 
-
-📒 null
 
 ## [podman](https://github.com/TomasHubelbauer/podman)
 
@@ -70,9 +78,9 @@
 
 ⚖️ 2023-05-20T00:33:01Z
 
-🏷 
+🏷 git, git-modules, submodules
 
-📒 null
+📒 A demo submodule used by my other repos.
 
 ## [upptime](https://github.com/TomasHubelbauer/upptime)
 
@@ -113,14 +121,6 @@
 🏷 
 
 📒 The repository for high quality TypeScript type definitions.
-
-## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
-
-⚖️ 2023-05-17T15:01:16Z
-
-🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
-
-📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 
 ## [html-video](https://github.com/TomasHubelbauer/html-video)
 
