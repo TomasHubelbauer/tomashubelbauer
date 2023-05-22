@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-05-21T23:04:25.654Z
+2023-05-22T00:13:44.399Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2370,14 +2370,6 @@
 
 📒 My explorations of the Podman container tool, an alternative to Docker.
 
-## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
-
-⚖️ 68
-
-🏷 
-
-📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
-
 ## [phone-organizer](https://github.com/TomasHubelbauer/phone-organizer)
 
 ⚖️ 70
@@ -2401,6 +2393,14 @@
 🏷 supabase, supabase-auth
 
 📒 A demonstration of Supabase Auth
+
+## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+
+⚖️ 75
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
 ## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
 
@@ -2724,7 +2724,7 @@
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
-⚖️ 265
+⚖️ 267
 
 🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
 
@@ -3196,7 +3196,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 11795
+⚖️ 11995
 
 🏷 tomashubelbauer
 
