@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-05-22T16:04:36.775Z
+2023-05-22T18:05:07.022Z
+
+## [liquidjs](https://github.com/TomasHubelbauer/liquidjs)
+
+⚖️ 2023-05-22T17:03:44Z
+
+🏷 
+
+📒 A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-22T15:06:57Z
+⚖️ 2023-05-22T16:06:33Z
 
 🏷 tomashubelbauer
 

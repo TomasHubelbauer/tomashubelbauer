@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-22T16:04:36.766Z
+2023-05-22T18:05:07.013Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1697,6 +1697,14 @@
 🏷 css, figma
 
 📒 Implementing a design idea I had
+
+## [liquidjs](https://github.com/TomasHubelbauer/liquidjs)
+
+⚖️ liquidjs
+
+🏷 
+
+📒 A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
 
 ## [linode-nginx](https://github.com/TomasHubelbauer/linode-nginx)
 

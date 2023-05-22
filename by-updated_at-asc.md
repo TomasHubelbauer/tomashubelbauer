@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-05-22T16:04:36.769Z
+2023-05-22T18:05:07.016Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3369,4 +3369,12 @@
 🏷 git, git-modules, submodules
 
 📒 A demo submodule used by my other repos.
+
+## [liquidjs](https://github.com/TomasHubelbauer/liquidjs)
+
+⚖️ 2023-05-22T16:35:52Z
+
+🏷 
+
+📒 A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
 
