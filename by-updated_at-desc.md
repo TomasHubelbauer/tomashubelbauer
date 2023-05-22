@@ -1,14 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-22T20:04:53.401Z
+2023-05-22T21:04:32.950Z
 
 ## [open-source-encore-2023-05-22](https://github.com/TomasHubelbauer/open-source-encore-2023-05-22)
 
-⚖️ 2023-05-22T19:57:40Z
+⚖️ 2023-05-22T20:23:12Z
 
-🏷 
+🏷 open-source, open-source-encore, playwright
 
-📒 null
+📒 Open Source Encore post about my Playwright test runner forbidOnly mode error message improvement contribution
 
 ## [liquidjs](https://github.com/TomasHubelbauer/liquidjs)
 

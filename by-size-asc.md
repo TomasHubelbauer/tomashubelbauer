@@ -1,14 +1,14 @@
 # By `size` (asc)
 
-2023-05-22T20:04:53.415Z
+2023-05-22T21:04:32.958Z
 
 ## [open-source-encore-2023-05-22](https://github.com/TomasHubelbauer/open-source-encore-2023-05-22)
 
 ⚖️ 0
 
-🏷 
+🏷 open-source, open-source-encore, playwright
 
-📒 null
+📒 Open Source Encore post about my Playwright test runner forbidOnly mode error message improvement contribution
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -3356,7 +3356,7 @@
 
 ## [playwright-1](https://github.com/TomasHubelbauer/playwright-1)
 
-⚖️ 150358
+⚖️ 150273
 
 🏷 
 

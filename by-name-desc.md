@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-22T20:04:53.391Z
+2023-05-22T21:04:32.944Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1262,9 +1262,9 @@
 
 ⚖️ open-source-encore-2023-05-22
 
-🏷 
+🏷 open-source, open-source-encore, playwright
 
-📒 null
+📒 Open Source Encore post about my Playwright test runner forbidOnly mode error message improvement contribution
 
 ## [op1-svg](https://github.com/TomasHubelbauer/op1-svg)
 
