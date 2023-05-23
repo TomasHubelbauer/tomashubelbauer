@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-23T04:05:33.787Z
+2023-05-23T05:05:09.388Z
+
+## [podman](https://github.com/TomasHubelbauer/podman)
+
+⚖️ 2023-05-23T04:46:16Z
+
+🏷 containers, docker, podman
+
+📒 My explorations of the Podman container tool, an alternative to Docker.
 
 ## [open-source-encore-2023-05-22](https://github.com/TomasHubelbauer/open-source-encore-2023-05-22)
 
@@ -33,14 +41,6 @@
 🏷 dsstore, git, git-ignore, macos
 
 📒 Information on how to hide the infamous .DS_Store macOS file using the global Git ignore configuration option.
-
-## [podman](https://github.com/TomasHubelbauer/podman)
-
-⚖️ 2023-05-21T21:14:39Z
-
-🏷 containers, docker, podman
-
-📒 My explorations of the Podman container tool, an alternative to Docker.
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
