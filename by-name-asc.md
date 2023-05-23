@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-05-23T12:05:48.984Z
+2023-05-23T13:06:44.019Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2953,6 +2953,14 @@
 🏷 api, victron
 
 📒 Victron API sample scripts written in Node
+
+## [vscode](https://github.com/TomasHubelbauer/vscode)
+
+⚖️ vscode
+
+🏷 
+
+📒 Visual Studio Code
 
 ## [vscode-bare-extension](https://github.com/TomasHubelbauer/vscode-bare-extension)
 

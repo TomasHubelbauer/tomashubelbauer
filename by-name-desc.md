@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-23T12:05:48.986Z
+2023-05-23T13:06:44.022Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -433,6 +433,14 @@
 🏷 vscode, vscode-extension
 
 📒 Finding the minimal possible VS Code extension
+
+## [vscode](https://github.com/TomasHubelbauer/vscode)
+
+⚖️ vscode
+
+🏷 
+
+📒 Visual Studio Code
 
 ## [vrm-api](https://github.com/TomasHubelbauer/vrm-api)
 
