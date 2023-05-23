@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2023-05-23T18:04:37.642Z
-
-## [open-source-encore-2023-05-23-vs-code](https://github.com/TomasHubelbauer/open-source-encore-2023-05-23-vs-code)
-
-⚖️ 0
-
-🏷 open-source, vs-code, vscode
-
-📒 A post about my investigation into how to add a VS Code feature I've so desired it already had for a long time.
+2023-05-23T19:05:14.737Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -1361,6 +1353,14 @@
 🏷 contenteditable
 
 📒 Making contenteditable less useless
+
+## [open-source-encore-2023-05-23-vs-code](https://github.com/TomasHubelbauer/open-source-encore-2023-05-23-vs-code)
+
+⚖️ 7
+
+🏷 open-source, vs-code, vscode
+
+📒 A post about my investigation into how to add a VS Code feature I've so desired it already had for a long time.
 
 ## [swift-adaptive-storage](https://github.com/TomasHubelbauer/swift-adaptive-storage)
 
@@ -2738,14 +2738,6 @@
 
 📒 Akai APCmini launchpad USB/MIDI communication protocol
 
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 279
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
-
 ## [tsx-xaml-render-props](https://github.com/TomasHubelbauer/tsx-xaml-render-props)
 
 ⚖️ 282
@@ -2753,6 +2745,14 @@
 🏷 jsx, react, render-prop, render-props, tsx, vdom, xaml
 
 📒 XAML-like prop-children in JSX/TSX for React
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 283
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
 
 ## [cable-case](https://github.com/TomasHubelbauer/cable-case)
 
@@ -3212,7 +3212,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 11147
+⚖️ 11350
 
 🏷 tomashubelbauer
 
