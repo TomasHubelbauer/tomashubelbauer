@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-23T16:04:58.913Z
+2023-05-23T17:04:47.358Z
+
+## [open-source-encore-2023-05-23-vs-code](https://github.com/TomasHubelbauer/open-source-encore-2023-05-23-vs-code)
+
+⚖️ 2023-05-23T17:01:37Z
+
+🏷 
+
+📒 null
 
 ## [vscode](https://github.com/TomasHubelbauer/vscode)
 

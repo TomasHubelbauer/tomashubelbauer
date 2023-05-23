@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-23T16:04:58.907Z
+2023-05-23T17:04:47.351Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1265,6 +1265,14 @@
 🏷 map, maps, open-street-map, osm, raster-tiles
 
 📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
+
+## [open-source-encore-2023-05-23-vs-code](https://github.com/TomasHubelbauer/open-source-encore-2023-05-23-vs-code)
+
+⚖️ open-source-encore-2023-05-23-vs-code
+
+🏷 
+
+📒 null
 
 ## [open-source-encore-2023-05-22](https://github.com/TomasHubelbauer/open-source-encore-2023-05-22)
 
