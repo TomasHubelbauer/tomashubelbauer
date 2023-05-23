@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-23T17:04:47.351Z
+2023-05-23T18:04:37.633Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1270,9 +1270,9 @@
 
 ⚖️ open-source-encore-2023-05-23-vs-code
 
-🏷 
+🏷 open-source, vs-code, vscode
 
-📒 null
+📒 A post about my investigation into how to add a VS Code feature I've so desired it already had for a long time.
 
 ## [open-source-encore-2023-05-22](https://github.com/TomasHubelbauer/open-source-encore-2023-05-22)
 

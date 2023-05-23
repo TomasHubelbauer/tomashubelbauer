@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-05-23T17:04:47.348Z
+2023-05-23T18:04:37.629Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2134,9 +2134,9 @@
 
 ⚖️ open-source-encore-2023-05-23-vs-code
 
-🏷 
+🏷 open-source, vs-code, vscode
 
-📒 null
+📒 A post about my investigation into how to add a VS Code feature I've so desired it already had for a long time.
 
 ## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
 
