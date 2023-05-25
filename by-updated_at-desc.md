@@ -1,14 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-25T20:04:44.499Z
+2023-05-25T21:04:56.791Z
 
 ## [open-source-encore-2023-05-25-liquid-js](https://github.com/TomasHubelbauer/open-source-encore-2023-05-25-liquid-js)
 
-⚖️ 2023-05-25T19:58:07Z
+⚖️ 2023-05-25T20:32:20Z
 
-🏷 
+🏷 github-pages, jekyll, liquid, liquidjs, open-source, open-source-encore
 
-📒 null
+📒 A post about my contributions to LiquidJS and a little bit about how I built my site, hubelbauer.net
 
 ## [open-source-encore-2023-05-23-vs-code](https://github.com/TomasHubelbauer/open-source-encore-2023-05-23-vs-code)
 

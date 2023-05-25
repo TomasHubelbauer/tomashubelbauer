@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-05-25T20:04:44.487Z
+2023-05-25T21:04:56.784Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2142,9 +2142,9 @@
 
 ⚖️ open-source-encore-2023-05-25-liquid-js
 
-🏷 
+🏷 github-pages, jekyll, liquid, liquidjs, open-source, open-source-encore
 
-📒 null
+📒 A post about my contributions to LiquidJS and a little bit about how I built my site, hubelbauer.net
 
 ## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
 

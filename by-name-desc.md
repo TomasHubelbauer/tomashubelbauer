@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-25T20:04:44.489Z
+2023-05-25T21:04:56.786Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1270,9 +1270,9 @@
 
 ⚖️ open-source-encore-2023-05-25-liquid-js
 
-🏷 
+🏷 github-pages, jekyll, liquid, liquidjs, open-source, open-source-encore
 
-📒 null
+📒 A post about my contributions to LiquidJS and a little bit about how I built my site, hubelbauer.net
 
 ## [open-source-encore-2023-05-23-vs-code](https://github.com/TomasHubelbauer/open-source-encore-2023-05-23-vs-code)
 
