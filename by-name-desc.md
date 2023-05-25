@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-25T22:04:40.129Z
+2023-05-25T23:04:41.083Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -145,6 +145,14 @@
 🏷 midi, op-1, op1, webusb
 
 📒 Seeing if WebUSB can be used to control the OP-1
+
+## [websaver](https://github.com/TomasHubelbauer/websaver)
+
+⚖️ websaver
+
+🏷 
+
+📒 Automatically exported from code.google.com/p/websaver
 
 ## [webrtc-share-sheet-custom-scheme](https://github.com/TomasHubelbauer/webrtc-share-sheet-custom-scheme)
 
