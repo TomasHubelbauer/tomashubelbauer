@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-05-25T21:04:56.791Z
+2023-05-25T22:04:40.134Z
 
 ## [open-source-encore-2023-05-25-liquid-js](https://github.com/TomasHubelbauer/open-source-encore-2023-05-25-liquid-js)
 
