@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-05-26T00:12:11.871Z
+2023-05-26T01:31:39.803Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2023-05-26T00:18:49Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-25T23:04:48Z
+⚖️ 2023-05-26T00:12:19Z
 
 🏷 tomashubelbauer
 
@@ -49,14 +57,6 @@
 🏷 
 
 📒 A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2023-05-25T00:17:45Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [open-source-encore-2023-05-23-vs-code](https://github.com/TomasHubelbauer/open-source-encore-2023-05-23-vs-code)
 
