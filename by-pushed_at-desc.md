@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-05-27T00:13:29.521Z
+2023-05-27T01:31:39.257Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2023-05-27T00:18:23Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-26T23:05:00Z
+⚖️ 2023-05-27T00:13:35Z
 
 🏷 tomashubelbauer
 
@@ -25,14 +33,6 @@
 🏷 github-pages, jekyll, liquid, liquidjs, open-source, open-source-encore
 
 📒 A post about my contributions to LiquidJS and a little bit about how I built my site, hubelbauer.net
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2023-05-26T00:18:49Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [websaver](https://github.com/TomasHubelbauer/websaver)
 
