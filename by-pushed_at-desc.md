@@ -1,14 +1,30 @@
 # By `pushed_at` (desc)
 
-2023-05-28T20:05:20.391Z
+2023-05-28T21:04:39.620Z
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
-⚖️ 2023-05-28T19:54:41Z
+⚖️ 2023-05-28T20:16:28Z
 
 🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
 
 📒 My personal website
+
+## [supabase-studio-filter-non-empty-array](https://github.com/TomasHubelbauer/supabase-studio-filter-non-empty-array)
+
+⚖️ 2023-05-28T20:14:39Z
+
+🏷 postgres, supabase, supabase-studio
+
+📒 A note on how to filter non-empty array in Supabase Studio
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2023-05-28T20:07:18Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [open-source-encore-2023-05-28-liquid-js](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-liquid-js)
 
@@ -25,14 +41,6 @@
 🏷 
 
 📒 A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2023-05-28T19:06:53Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [open-source-encore-2023-05-28-websaver](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-websaver)
 

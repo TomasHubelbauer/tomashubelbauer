@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-05-28T20:05:20.377Z
+2023-05-28T21:04:39.612Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3457,4 +3457,12 @@
 🏷 github-pages, jekyll, liquid, liquid-js, open-source, open-source-encore
 
 📒 My contribution to LiquidJS and the improvement to its full build experience on macOS.
+
+## [supabase-studio-filter-non-empty-array](https://github.com/TomasHubelbauer/supabase-studio-filter-non-empty-array)
+
+⚖️ 2023-05-28T20:15:50Z
+
+🏷 postgres, supabase, supabase-studio
+
+📒 A note on how to filter non-empty array in Supabase Studio
 

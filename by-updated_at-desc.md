@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-28T20:05:20.381Z
+2023-05-28T21:04:39.616Z
+
+## [supabase-studio-filter-non-empty-array](https://github.com/TomasHubelbauer/supabase-studio-filter-non-empty-array)
+
+⚖️ 2023-05-28T20:15:50Z
+
+🏷 postgres, supabase, supabase-studio
+
+📒 A note on how to filter non-empty array in Supabase Studio
 
 ## [open-source-encore-2023-05-28-liquid-js](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-liquid-js)
 

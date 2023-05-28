@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-05-28T20:05:20.385Z
+2023-05-28T21:04:39.618Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3426,14 +3426,6 @@
 
 📒 My attempts at improving the user-friendliness of WebSaver and getting it to work for my needs.
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2023-05-28T19:06:53Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [liquidjs](https://github.com/TomasHubelbauer/liquidjs)
 
 ⚖️ 2023-05-28T19:26:43Z
@@ -3450,9 +3442,25 @@
 
 📒 My contribution to LiquidJS and the improvement to its full build experience on macOS.
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2023-05-28T20:07:18Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
+## [supabase-studio-filter-non-empty-array](https://github.com/TomasHubelbauer/supabase-studio-filter-non-empty-array)
+
+⚖️ 2023-05-28T20:14:39Z
+
+🏷 postgres, supabase, supabase-studio
+
+📒 A note on how to filter non-empty array in Supabase Studio
+
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
-⚖️ 2023-05-28T19:54:41Z
+⚖️ 2023-05-28T20:16:28Z
 
 🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
 

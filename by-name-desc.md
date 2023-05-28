@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-28T20:05:20.373Z
+2023-05-28T21:04:39.609Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -729,6 +729,14 @@
 🏷 apple-software-update-service, macos, sus, swscan
 
 📒 A downloader from the Apple SoftwareUpdate Service (SUS) also known as SWSCAN
+
+## [supabase-studio-filter-non-empty-array](https://github.com/TomasHubelbauer/supabase-studio-filter-non-empty-array)
+
+⚖️ supabase-studio-filter-non-empty-array
+
+🏷 postgres, supabase, supabase-studio
+
+📒 A note on how to filter non-empty array in Supabase Studio
 
 ## [supabase-auth](https://github.com/TomasHubelbauer/supabase-auth)
 

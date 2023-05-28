@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-05-28T20:05:20.371Z
+2023-05-28T21:04:39.607Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2729,6 +2729,14 @@
 🏷 supabase, supabase-auth
 
 📒 A demonstration of Supabase Auth
+
+## [supabase-studio-filter-non-empty-array](https://github.com/TomasHubelbauer/supabase-studio-filter-non-empty-array)
+
+⚖️ supabase-studio-filter-non-empty-array
+
+🏷 postgres, supabase, supabase-studio
+
+📒 A note on how to filter non-empty array in Supabase Studio
 
 ## [sus-downloader](https://github.com/TomasHubelbauer/sus-downloader)
 
