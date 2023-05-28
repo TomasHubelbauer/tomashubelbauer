@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-05-28T16:05:15.486Z
+2023-05-28T17:05:06.170Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3444,9 +3444,9 @@
 
 ## [open-source-encore-2023-05-28-websaver](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-websaver)
 
-⚖️ 2023-05-28T16:02:41Z
+⚖️ 2023-05-28T16:25:26Z
 
-🏷 
+🏷 mac-os, macos, objective-c, open-source, open-source-encore, screen-saver, xcode
 
-📒 null
+📒 My attempts at improving the user-friendliness of WebSaver and getting it to work for my needs.
 

@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-05-28T16:05:15.466Z
+2023-05-28T17:05:06.154Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2174,9 +2174,9 @@
 
 ⚖️ open-source-encore-2023-05-28-websaver
 
-🏷 
+🏷 mac-os, macos, objective-c, open-source, open-source-encore, screen-saver, xcode
 
-📒 null
+📒 My attempts at improving the user-friendliness of WebSaver and getting it to work for my needs.
 
 ## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
 

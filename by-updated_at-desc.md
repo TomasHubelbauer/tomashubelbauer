@@ -1,14 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-28T16:05:15.487Z
+2023-05-28T17:05:06.172Z
 
 ## [open-source-encore-2023-05-28-websaver](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-websaver)
 
-⚖️ 2023-05-28T16:02:41Z
+⚖️ 2023-05-28T16:25:26Z
 
-🏷 
+🏷 mac-os, macos, objective-c, open-source, open-source-encore, screen-saver, xcode
 
-📒 null
+📒 My attempts at improving the user-friendliness of WebSaver and getting it to work for my needs.
 
 ## [open-source-encore-2023-05-28-jekyll-readme-index](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-jekyll-readme-index)
 

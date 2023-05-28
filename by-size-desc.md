@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-28T16:05:15.495Z
+2023-05-28T17:05:06.182Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -220,7 +220,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 7772
+⚖️ 7975
 
 🏷 tomashubelbauer
 
@@ -588,7 +588,7 @@
 
 ## [websaver](https://github.com/TomasHubelbauer/websaver)
 
-⚖️ 350
+⚖️ 358
 
 🏷 
 
@@ -3398,9 +3398,9 @@
 
 ⚖️ 0
 
-🏷 
+🏷 mac-os, macos, objective-c, open-source, open-source-encore, screen-saver, xcode
 
-📒 null
+📒 My attempts at improving the user-friendliness of WebSaver and getting it to work for my needs.
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
