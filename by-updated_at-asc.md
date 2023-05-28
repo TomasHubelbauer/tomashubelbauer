@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-05-28T19:04:56.032Z
+2023-05-28T20:05:20.377Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3449,4 +3449,12 @@
 🏷 mac-os, macos, objective-c, open-source, open-source-encore, screen-saver, xcode
 
 📒 My attempts at improving the user-friendliness of WebSaver and getting it to work for my needs.
+
+## [open-source-encore-2023-05-28-liquid-js](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-liquid-js)
+
+⚖️ 2023-05-28T19:53:25Z
+
+🏷 github-pages, jekyll, liquid, liquid-js, open-source, open-source-encore
+
+📒 My contribution to LiquidJS and the improvement to its full build experience on macOS.
 

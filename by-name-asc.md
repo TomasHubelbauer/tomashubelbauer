@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-05-28T19:04:56.026Z
+2023-05-28T20:05:20.371Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2169,6 +2169,14 @@
 🏷 github, github-pages, jekyll, open-source, readme, ruby
 
 📒 My contribution to the jekyll-readme-index Jekyll plugin that ships with GitHub Pages out of the box.
+
+## [open-source-encore-2023-05-28-liquid-js](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-liquid-js)
+
+⚖️ open-source-encore-2023-05-28-liquid-js
+
+🏷 github-pages, jekyll, liquid, liquid-js, open-source, open-source-encore
+
+📒 My contribution to LiquidJS and the improvement to its full build experience on macOS.
 
 ## [open-source-encore-2023-05-28-websaver](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-websaver)
 

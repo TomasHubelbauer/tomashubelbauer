@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-28T19:04:56.028Z
+2023-05-28T20:05:20.373Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1281,6 +1281,14 @@
 🏷 mac-os, macos, objective-c, open-source, open-source-encore, screen-saver, xcode
 
 📒 My attempts at improving the user-friendliness of WebSaver and getting it to work for my needs.
+
+## [open-source-encore-2023-05-28-liquid-js](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-liquid-js)
+
+⚖️ open-source-encore-2023-05-28-liquid-js
+
+🏷 github-pages, jekyll, liquid, liquid-js, open-source, open-source-encore
+
+📒 My contribution to LiquidJS and the improvement to its full build experience on macOS.
 
 ## [open-source-encore-2023-05-28-jekyll-readme-index](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-jekyll-readme-index)
 
