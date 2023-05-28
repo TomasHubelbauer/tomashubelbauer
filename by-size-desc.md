@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-28T13:05:08.845Z
+2023-05-28T14:04:43.699Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -220,7 +220,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 7566
+⚖️ 7568
 
 🏷 tomashubelbauer
 
@@ -969,6 +969,14 @@
 🏷 esm, esmodules, export, import, url, vscode, vscode-extension
 
 📒 VS Code extension adding support for ?search and #fragment in ESM module specifiers
+
+## [jekyll-readme-index](https://github.com/TomasHubelbauer/jekyll-readme-index)
+
+⚖️ 78
+
+🏷 
+
+📒 A Jekyll plugin to render a project's README as the site's index.
 
 ## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
 
@@ -1825,6 +1833,14 @@
 🏷 ef-code-first, ef-core, entity-framework, entity-framework-core
 
 📒 A repro showing EF to auto-generating a successive ID after seeding the DB with hardcoded IDs.
+
+## [github-pages-dotgithub-readme](https://github.com/TomasHubelbauer/github-pages-dotgithub-readme)
+
+⚖️ 9
+
+🏷 
+
+📒 null
 
 ## [arduino-am2303](https://github.com/TomasHubelbauer/arduino-am2303)
 
@@ -3370,7 +3386,7 @@
 
 📒 A webcam page for with with He3 as a face camera
 
-## [github-pages-dotgithub-readme](https://github.com/TomasHubelbauer/github-pages-dotgithub-readme)
+## [open-source-encore-2023-05-28-jekyll-readme-index](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-jekyll-readme-index)
 
 ⚖️ 0
 

@@ -1,8 +1,8 @@
 # By `size` (asc)
 
-2023-05-28T13:05:08.841Z
+2023-05-28T14:04:43.697Z
 
-## [github-pages-dotgithub-readme](https://github.com/TomasHubelbauer/github-pages-dotgithub-readme)
+## [open-source-encore-2023-05-28-jekyll-readme-index](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-jekyll-readme-index)
 
 ⚖️ 0
 
@@ -1530,6 +1530,14 @@
 
 📒 A script for extracting 3MF files into 3MF directories
 
+## [github-pages-dotgithub-readme](https://github.com/TomasHubelbauer/github-pages-dotgithub-readme)
+
+⚖️ 9
+
+🏷 
+
+📒 null
+
 ## [arduino-am2303](https://github.com/TomasHubelbauer/arduino-am2303)
 
 ⚖️ 9
@@ -2458,6 +2466,14 @@
 
 📒 An algorithm for the NMEA checksum calculation for Arduino
 
+## [jekyll-readme-index](https://github.com/TomasHubelbauer/jekyll-readme-index)
+
+⚖️ 78
+
+🏷 
+
+📒 A Jekyll plugin to render a project's README as the site's index.
+
 ## [vscode-esm-url](https://github.com/TomasHubelbauer/vscode-esm-url)
 
 ⚖️ 80
@@ -3204,7 +3220,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 7566
+⚖️ 7568
 
 🏷 tomashubelbauer
 

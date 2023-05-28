@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-28T13:05:08.821Z
+2023-05-28T14:04:43.683Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1274,6 +1274,14 @@
 
 📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
 
+## [open-source-encore-2023-05-28-jekyll-readme-index](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-jekyll-readme-index)
+
+⚖️ open-source-encore-2023-05-28-jekyll-readme-index
+
+🏷 
+
+📒 null
+
 ## [open-source-encore-2023-05-25-liquid-js](https://github.com/TomasHubelbauer/open-source-encore-2023-05-25-liquid-js)
 
 ⚖️ open-source-encore-2023-05-25-liquid-js
@@ -1905,6 +1913,14 @@
 🏷 jira
 
 📒 A web app for associating extra information with Jira tickets for personal reference.
+
+## [jekyll-readme-index](https://github.com/TomasHubelbauer/jekyll-readme-index)
+
+⚖️ jekyll-readme-index
+
+🏷 
+
+📒 A Jekyll plugin to render a project's README as the site's index.
 
 ## [isds-backup](https://github.com/TomasHubelbauer/isds-backup)
 

@@ -1,10 +1,26 @@
 # By `pushed_at` (desc)
 
-2023-05-28T13:05:08.837Z
+2023-05-28T14:04:43.694Z
+
+## [open-source-encore-2023-05-28-jekyll-readme-index](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-jekyll-readme-index)
+
+⚖️ 2023-05-28T13:58:48Z
+
+🏷 
+
+📒 null
+
+## [jekyll-readme-index](https://github.com/TomasHubelbauer/jekyll-readme-index)
+
+⚖️ 2023-05-28T13:52:20Z
+
+🏷 
+
+📒 A Jekyll plugin to render a project's README as the site's index.
 
 ## [github-pages-dotgithub-readme](https://github.com/TomasHubelbauer/github-pages-dotgithub-readme)
 
-⚖️ 2023-05-28T12:44:54Z
+⚖️ 2023-05-28T13:23:50Z
 
 🏷 
 
@@ -12,7 +28,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-28T12:05:41Z
+⚖️ 2023-05-28T13:07:07Z
 
 🏷 tomashubelbauer
 
