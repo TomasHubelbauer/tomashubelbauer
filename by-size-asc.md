@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2023-05-28T21:04:39.622Z
-
-## [supabase-studio-filter-non-empty-array](https://github.com/TomasHubelbauer/supabase-studio-filter-non-empty-array)
-
-⚖️ 0
-
-🏷 postgres, supabase, supabase-studio
-
-📒 A note on how to filter non-empty array in Supabase Studio
+2023-05-28T22:04:44.654Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -57,6 +49,14 @@
 🏷 console, node
 
 📒 Overriding console.log in Node
+
+## [supabase-studio-filter-non-empty-array](https://github.com/TomasHubelbauer/supabase-studio-filter-non-empty-array)
+
+⚖️ 1
+
+🏷 postgres, supabase, supabase-studio
+
+📒 A note on how to filter non-empty array in Supabase Studio
 
 ## [git-dot-ds_store-global-ignore](https://github.com/TomasHubelbauer/git-dot-ds_store-global-ignore)
 
@@ -3252,7 +3252,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 8383
+⚖️ 8590
 
 🏷 tomashubelbauer
 

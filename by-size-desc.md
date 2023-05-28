@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-28T21:04:39.625Z
+2023-05-28T22:04:44.657Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -212,7 +212,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 8383
+⚖️ 8590
 
 🏷 tomashubelbauer
 
@@ -3098,6 +3098,14 @@
 
 📒 Notes for using Blender with VS Code
 
+## [supabase-studio-filter-non-empty-array](https://github.com/TomasHubelbauer/supabase-studio-filter-non-empty-array)
+
+⚖️ 1
+
+🏷 postgres, supabase, supabase-studio
+
+📒 A note on how to filter non-empty array in Supabase Studio
+
 ## [git-dot-ds_store-global-ignore](https://github.com/TomasHubelbauer/git-dot-ds_store-global-ignore)
 
 ⚖️ 1
@@ -3409,14 +3417,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [supabase-studio-filter-non-empty-array](https://github.com/TomasHubelbauer/supabase-studio-filter-non-empty-array)
-
-⚖️ 0
-
-🏷 postgres, supabase, supabase-studio
-
-📒 A note on how to filter non-empty array in Supabase Studio
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
