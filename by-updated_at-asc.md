@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-05-28T14:04:43.686Z
+2023-05-28T15:04:35.613Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3436,9 +3436,9 @@
 
 ## [open-source-encore-2023-05-28-jekyll-readme-index](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-jekyll-readme-index)
 
-⚖️ 2023-05-28T13:58:48Z
+⚖️ 2023-05-28T14:14:42Z
 
-🏷 
+🏷 github, github-pages, jekyll, open-source, readme, ruby
 
-📒 null
+📒 My contribution to the jekyll-readme-index Jekyll plugin that ships with GitHub Pages out of the box.
 

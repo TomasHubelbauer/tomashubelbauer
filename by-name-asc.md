@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-05-28T14:04:43.681Z
+2023-05-28T15:04:35.606Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2166,9 +2166,9 @@
 
 ⚖️ open-source-encore-2023-05-28-jekyll-readme-index
 
-🏷 
+🏷 github, github-pages, jekyll, open-source, readme, ruby
 
-📒 null
+📒 My contribution to the jekyll-readme-index Jekyll plugin that ships with GitHub Pages out of the box.
 
 ## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
 
