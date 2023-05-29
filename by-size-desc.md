@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-29T22:04:30.689Z
+2023-05-29T23:04:25.499Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -668,7 +668,7 @@
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
-⚖️ 269
+⚖️ 271
 
 🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
 
@@ -922,6 +922,14 @@
 
 📒 Sample of how to use Vercel geo IP
 
+## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+
+⚖️ 92
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
+
 ## [fragment](https://github.com/TomasHubelbauer/fragment)
 
 ⚖️ 87
@@ -937,14 +945,6 @@
 🏷 todo, todo-comment
 
 📒 A utility to print to-do comments in the current directory recursively.
-
-## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
-
-⚖️ 83
-
-🏷 
-
-📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
 ## [dot-matrix-tester](https://github.com/TomasHubelbauer/dot-matrix-tester)
 

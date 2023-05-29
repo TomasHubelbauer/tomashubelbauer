@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-05-29T22:04:30.687Z
+2023-05-29T23:04:25.496Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2530,14 +2530,6 @@
 
 📒 Onewheel Web Bluetooth
 
-## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
-
-⚖️ 83
-
-🏷 
-
-📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
-
 ## [fragment](https://github.com/TomasHubelbauer/fragment)
 
 ⚖️ 87
@@ -2553,6 +2545,14 @@
 🏷 todo, todo-comment
 
 📒 A utility to print to-do comments in the current directory recursively.
+
+## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+
+⚖️ 92
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
 ## [firebase-firebase-js-sdk-6928](https://github.com/TomasHubelbauer/firebase-firebase-js-sdk-6928)
 
@@ -2804,7 +2804,7 @@
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
-⚖️ 269
+⚖️ 271
 
 🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
 
