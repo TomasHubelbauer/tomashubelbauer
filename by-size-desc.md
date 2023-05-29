@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-29T21:04:23.532Z
+2023-05-29T22:04:30.689Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -54,7 +54,7 @@
 
 ⚖️ 73137
 
-🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
+🏷 fatcow, fatcow-icons, hubelbauer-net, icon-pack, icon-set, icons
 
 📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 
@@ -188,7 +188,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 10861
+⚖️ 11069
 
 🏷 tomashubelbauer
 
@@ -666,6 +666,14 @@
 
 📒 XAML-like prop-children in JSX/TSX for React
 
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 269
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
 ## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
 
 ⚖️ 262
@@ -673,14 +681,6 @@
 🏷 akai, apc-mini, launchpad, midi, usb
 
 📒 Akai APCmini launchpad USB/MIDI communication protocol
-
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 258
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
 
 ## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
 
@@ -938,6 +938,14 @@
 
 📒 A utility to print to-do comments in the current directory recursively.
 
+## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+
+⚖️ 83
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
+
 ## [dot-matrix-tester](https://github.com/TomasHubelbauer/dot-matrix-tester)
 
 ⚖️ 82
@@ -977,14 +985,6 @@
 🏷 
 
 📒 A Jekyll plugin to render a project's README as the site's index.
-
-## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
-
-⚖️ 76
-
-🏷 
-
-📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
 ## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
 
@@ -1833,6 +1833,14 @@
 🏷 ef-code-first, ef-core, entity-framework, entity-framework-core
 
 📒 A repro showing EF to auto-generating a successive ID after seeding the DB with hardcoded IDs.
+
+## [github-token-edit-another-repo](https://github.com/TomasHubelbauer/github-token-edit-another-repo)
+
+⚖️ 9
+
+🏷 github-actions, github-api, github-token
+
+📒 An experiment to see if the GitHub Actions integration PAT can edit repository metadata
 
 ## [github-pages-dotgithub-readme](https://github.com/TomasHubelbauer/github-pages-dotgithub-readme)
 
@@ -3417,14 +3425,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [github-token-edit-another-repo](https://github.com/TomasHubelbauer/github-token-edit-another-repo)
-
-⚖️ 0
-
-🏷 github-actions, github-api, github-token
-
-📒 An experiment to see if the GitHub Actions integration PAT can edit repository metadata
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 

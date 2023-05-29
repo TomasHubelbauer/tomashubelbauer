@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-29T21:04:23.516Z
+2023-05-29T22:04:30.674Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -2550,7 +2550,7 @@
 
 ⚖️ fatcow-icons
 
-🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
+🏷 fatcow, fatcow-icons, hubelbauer-net, icon-pack, icon-set, icons
 
 📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 

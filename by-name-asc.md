@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-05-29T21:04:23.514Z
+2023-05-29T22:04:30.672Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -926,7 +926,7 @@
 
 ⚖️ fatcow-icons
 
-🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
+🏷 fatcow, fatcow-icons, hubelbauer-net, icon-pack, icon-set, icons
 
 📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 

@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-05-29T21:04:23.520Z
+2023-05-29T22:04:30.678Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3194,14 +3194,6 @@
 
 📒 Preview email message files (EML) in VS Code
 
-## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
-
-⚖️ 2023-05-09T07:40:11Z
-
-🏷 fatcow, fatcow-icons, icon-pack, icon-set, icons
-
-📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
-
 ## [html-live-text](https://github.com/TomasHubelbauer/html-live-text)
 
 ⚖️ 2023-05-12T16:56:15Z
@@ -3473,4 +3465,12 @@
 🏷 github-actions, github-api, github-token
 
 📒 An experiment to see if the GitHub Actions integration PAT can edit repository metadata
+
+## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
+
+⚖️ 2023-05-29T21:45:13Z
+
+🏷 fatcow, fatcow-icons, hubelbauer-net, icon-pack, icon-set, icons
+
+📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 
