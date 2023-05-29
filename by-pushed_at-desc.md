@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-05-29T16:05:37.213Z
+2023-05-29T17:04:27.785Z
+
+## [liquidjs](https://github.com/TomasHubelbauer/liquidjs)
+
+⚖️ 2023-05-29T16:57:46Z
+
+🏷 
+
+📒 A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-29T15:06:54Z
+⚖️ 2023-05-29T16:05:46Z
 
 🏷 tomashubelbauer
 
@@ -41,14 +49,6 @@
 🏷 github-pages, jekyll, liquid, liquid-js, open-source, open-source-encore
 
 📒 My contribution to LiquidJS and the improvement to its full build experience on macOS.
-
-## [liquidjs](https://github.com/TomasHubelbauer/liquidjs)
-
-⚖️ 2023-05-28T19:26:43Z
-
-🏷 
-
-📒 A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
 
 ## [open-source-encore-2023-05-28-websaver](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-websaver)
 
