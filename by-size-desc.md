@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-29T20:05:20.217Z
+2023-05-29T21:04:23.532Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -3417,6 +3417,14 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
+
+## [github-token-edit-another-repo](https://github.com/TomasHubelbauer/github-token-edit-another-repo)
+
+⚖️ 0
+
+🏷 github-actions, github-api, github-token
+
+📒 An experiment to see if the GitHub Actions integration PAT can edit repository metadata
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 

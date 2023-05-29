@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-29T20:05:20.208Z
+2023-05-29T21:04:23.522Z
+
+## [github-token-edit-another-repo](https://github.com/TomasHubelbauer/github-token-edit-another-repo)
+
+⚖️ 2023-05-29T20:57:00Z
+
+🏷 github-actions, github-api, github-token
+
+📒 An experiment to see if the GitHub Actions integration PAT can edit repository metadata
 
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 

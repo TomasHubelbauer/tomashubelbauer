@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-05-29T20:05:20.196Z
+2023-05-29T21:04:23.514Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -1321,6 +1321,14 @@
 🏷 github, tar, tarball
 
 📒 Example of extracting a GitHub tarball with Node
+
+## [github-token-edit-another-repo](https://github.com/TomasHubelbauer/github-token-edit-another-repo)
+
+⚖️ github-token-edit-another-repo
+
+🏷 github-actions, github-api, github-token
+
+📒 An experiment to see if the GitHub Actions integration PAT can edit repository metadata
 
 ## [globe-design](https://github.com/TomasHubelbauer/globe-design)
 

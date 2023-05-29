@@ -1,10 +1,34 @@
 # By `pushed_at` (desc)
 
-2023-05-29T20:05:20.212Z
+2023-05-29T21:04:23.527Z
+
+## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+
+⚖️ 2023-05-29T21:03:32Z
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 2023-05-29T20:57:41Z
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
+## [github-token-edit-another-repo](https://github.com/TomasHubelbauer/github-token-edit-another-repo)
+
+⚖️ 2023-05-29T20:56:21Z
+
+🏷 github-actions, github-api, github-token
+
+📒 An experiment to see if the GitHub Actions integration PAT can edit repository metadata
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-29T19:06:22Z
+⚖️ 2023-05-29T20:07:18Z
 
 🏷 tomashubelbauer
 
@@ -25,14 +49,6 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 2023-05-28T20:16:28Z
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
 
 ## [supabase-studio-filter-non-empty-array](https://github.com/TomasHubelbauer/supabase-studio-filter-non-empty-array)
 
@@ -129,14 +145,6 @@
 🏷 open-source, open-source-encore, playwright
 
 📒 Open Source Encore post about my Playwright test runner forbidOnly mode error message improvement contribution
-
-## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
-
-⚖️ 2023-05-22T20:20:46Z
-
-🏷 
-
-📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
 ## [github-actions-auto-gitmodules](https://github.com/TomasHubelbauer/github-actions-auto-gitmodules)
 

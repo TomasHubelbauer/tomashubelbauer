@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-05-29T20:05:20.211Z
+2023-05-29T21:04:23.526Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3330,14 +3330,6 @@
 
 📒 null
 
-## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
-
-⚖️ 2023-05-22T20:20:46Z
-
-🏷 
-
-📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
-
 ## [open-source-encore-2023-05-22](https://github.com/TomasHubelbauer/open-source-encore-2023-05-22)
 
 ⚖️ 2023-05-23T07:48:30Z
@@ -3434,14 +3426,6 @@
 
 📒 A note on how to filter non-empty array in Supabase Studio
 
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 2023-05-28T20:16:28Z
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
-
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
 ⚖️ 2023-05-29T00:16:50Z
@@ -3460,9 +3444,33 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-05-29T19:06:22Z
+⚖️ 2023-05-29T20:07:18Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [github-token-edit-another-repo](https://github.com/TomasHubelbauer/github-token-edit-another-repo)
+
+⚖️ 2023-05-29T20:56:21Z
+
+🏷 github-actions, github-api, github-token
+
+📒 An experiment to see if the GitHub Actions integration PAT can edit repository metadata
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 2023-05-29T20:57:41Z
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
+## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
+
+⚖️ 2023-05-29T21:03:32Z
+
+🏷 
+
+📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
