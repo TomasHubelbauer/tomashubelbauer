@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-05-28T23:04:51.382Z
+2023-05-29T00:13:09.550Z
 
 ## [supabase-studio-filter-non-empty-array](https://github.com/TomasHubelbauer/supabase-studio-filter-non-empty-array)
 
