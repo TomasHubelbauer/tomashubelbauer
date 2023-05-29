@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-05-29T00:13:09.566Z
+2023-05-29T01:32:50.798Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -3226,14 +3226,6 @@
 
 📒 Arduino LED dot-matrix display QR code
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 6836
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [lyrics](https://github.com/TomasHubelbauer/lyrics)
 
 ⚖️ 6863
@@ -3241,6 +3233,14 @@
 🏷 electron, lrc, lyrics, spotify
 
 📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 6876
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
 
@@ -3268,7 +3268,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 8795
+⚖️ 8798
 
 🏷 tomashubelbauer
 
