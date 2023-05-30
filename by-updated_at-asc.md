@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-05-30T15:04:58.557Z
+2023-05-30T16:04:48.281Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3473,4 +3473,12 @@
 🏷 akai, apc-mini, launchpad, midi, usb
 
 📒 Akai APCmini launchpad USB/MIDI communication protocol
+
+## [jekyll](https://github.com/TomasHubelbauer/jekyll)
+
+⚖️ 2023-05-30T15:31:43Z
+
+🏷 
+
+📒 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 

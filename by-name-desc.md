@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-05-30T15:04:58.552Z
+2023-05-30T16:04:48.277Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1945,6 +1945,14 @@
 🏷 
 
 📒 A Jekyll plugin to render a project's README as the site's index.
+
+## [jekyll](https://github.com/TomasHubelbauer/jekyll)
+
+⚖️ jekyll
+
+🏷 
+
+📒 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## [isds-backup](https://github.com/TomasHubelbauer/isds-backup)
 

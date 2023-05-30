@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-05-30T15:04:58.572Z
+2023-05-30T16:04:48.294Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -81,6 +81,14 @@
 🏷 screencast, screenshot, svg
 
 📒 SVG screencast - animated SVG files from screenshots using CSS animations
+
+## [jekyll](https://github.com/TomasHubelbauer/jekyll)
+
+⚖️ 55898
+
+🏷 
+
+📒 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## [code-extension-screencast](https://github.com/TomasHubelbauer/code-extension-screencast)
 

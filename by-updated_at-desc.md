@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-30T15:04:58.559Z
+2023-05-30T16:04:48.285Z
+
+## [jekyll](https://github.com/TomasHubelbauer/jekyll)
+
+⚖️ 2023-05-30T15:31:43Z
+
+🏷 
+
+📒 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
 
