@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-05-30T14:04:59.692Z
+2023-05-30T15:04:58.559Z
+
+## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
+
+⚖️ 2023-05-30T14:32:17Z
+
+🏷 akai, apc-mini, launchpad, midi, usb
+
+📒 Akai APCmini launchpad USB/MIDI communication protocol
 
 ## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
 
@@ -257,14 +265,6 @@
 🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
 
 📒 Brother P-touch D600 label maker USB communication with P-touch Editor
-
-## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
-
-⚖️ 2023-05-12T20:45:34Z
-
-🏷 akai, apc-mini, launchpad, midi, usb
-
-📒 Akai APCmini launchpad USB/MIDI communication protocol
 
 ## [web-midi](https://github.com/TomasHubelbauer/web-midi)
 
