@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2023-06-02T21:04:37.455Z
-
-## [open-source-encore-2023-05-30-jekyll](https://github.com/TomasHubelbauer/open-source-encore-2023-05-30-jekyll)
-
-⚖️ 0
-
-🏷 config-yml, jekyll, open-source, open-source-encore, ruby
-
-📒 An account of my contribution to the Jekyll project documentation to clarify the Exclude and Include configuration options' behavior.
+2023-06-02T22:04:44.468Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -641,6 +633,14 @@
 🏷 blender, vscode
 
 📒 Notes for using Blender with VS Code
+
+## [open-source-encore-2023-05-30-jekyll](https://github.com/TomasHubelbauer/open-source-encore-2023-05-30-jekyll)
+
+⚖️ 3
+
+🏷 config-yml, jekyll, open-source, open-source-encore, ruby
+
+📒 An account of my contribution to the Jekyll project documentation to clarify the Exclude and Include configuration options' behavior.
 
 ## [open-source-encore-2023-05-28-liquid-js](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-liquid-js)
 
@@ -2812,7 +2812,7 @@
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
-⚖️ 271
+⚖️ 278
 
 🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
 
@@ -3292,7 +3292,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 10214
+⚖️ 10423
 
 🏷 tomashubelbauer
 
@@ -3404,7 +3404,7 @@
 
 ## [jekyll](https://github.com/TomasHubelbauer/jekyll)
 
-⚖️ 55975
+⚖️ 55984
 
 🏷 
 
