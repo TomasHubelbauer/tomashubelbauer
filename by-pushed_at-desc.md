@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-06-02T18:05:24.399Z
+2023-06-02T19:04:35.878Z
+
+## [liquidjs](https://github.com/TomasHubelbauer/liquidjs)
+
+⚖️ 2023-06-02T18:46:33Z
+
+🏷 
+
+📒 A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-06-02T17:05:17Z
+⚖️ 2023-06-02T18:05:34Z
 
 🏷 tomashubelbauer
 
@@ -49,14 +57,6 @@
 🏷 github-actions, github-api, github-token
 
 📒 An experiment to see if the GitHub Actions integration PAT can edit repository metadata
-
-## [liquidjs](https://github.com/TomasHubelbauer/liquidjs)
-
-⚖️ 2023-05-29T17:46:12Z
-
-🏷 
-
-📒 A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
 
 ## [supabase-studio-filter-non-empty-array](https://github.com/TomasHubelbauer/supabase-studio-filter-non-empty-array)
 
