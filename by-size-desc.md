@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-06-02T20:04:53.119Z
+2023-06-02T21:04:37.459Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -3433,6 +3433,14 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
+
+## [open-source-encore-2023-05-30-jekyll](https://github.com/TomasHubelbauer/open-source-encore-2023-05-30-jekyll)
+
+⚖️ 0
+
+🏷 config-yml, jekyll, open-source, open-source-encore, ruby
+
+📒 An account of my contribution to the Jekyll project documentation to clarify the Exclude and Include configuration options' behavior.
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 

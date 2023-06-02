@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-06-02T20:04:53.104Z
+2023-06-02T21:04:37.439Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2201,6 +2201,14 @@
 🏷 mac-os, macos, objective-c, open-source, open-source-encore, screen-saver, xcode
 
 📒 My attempts at improving the user-friendliness of WebSaver and getting it to work for my needs.
+
+## [open-source-encore-2023-05-30-jekyll](https://github.com/TomasHubelbauer/open-source-encore-2023-05-30-jekyll)
+
+⚖️ open-source-encore-2023-05-30-jekyll
+
+🏷 config-yml, jekyll, open-source, open-source-encore, ruby
+
+📒 An account of my contribution to the Jekyll project documentation to clarify the Exclude and Include configuration options' behavior.
 
 ## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
 

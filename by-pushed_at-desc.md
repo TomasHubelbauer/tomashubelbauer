@@ -1,6 +1,38 @@
 # By `pushed_at` (desc)
 
-2023-06-02T20:04:53.115Z
+2023-06-02T21:04:37.452Z
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 2023-06-02T20:46:21Z
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
+## [open-source-encore-2023-05-30-jekyll](https://github.com/TomasHubelbauer/open-source-encore-2023-05-30-jekyll)
+
+⚖️ 2023-06-02T20:42:19Z
+
+🏷 config-yml, jekyll, open-source, open-source-encore, ruby
+
+📒 An account of my contribution to the Jekyll project documentation to clarify the Exclude and Include configuration options' behavior.
+
+## [jekyll](https://github.com/TomasHubelbauer/jekyll)
+
+⚖️ 2023-06-02T20:20:49Z
+
+🏷 
+
+📒 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2023-06-02T20:06:50Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [liquidjs](https://github.com/TomasHubelbauer/liquidjs)
 
@@ -10,14 +42,6 @@
 
 📒 A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2023-06-02T19:04:43Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
 ⚖️ 2023-06-02T00:20:21Z
@@ -25,22 +49,6 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [jekyll](https://github.com/TomasHubelbauer/jekyll)
-
-⚖️ 2023-05-30T15:34:50Z
-
-🏷 
-
-📒 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
-
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 2023-05-29T21:58:03Z
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
 
 ## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
 

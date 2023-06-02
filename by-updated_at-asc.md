@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-06-02T20:04:53.109Z
+2023-06-02T21:04:37.445Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3481,4 +3481,12 @@
 🏷 headphone-button, headphones-button, headset, javascript, trrs-jack, web-audio, webaudio-api
 
 📒 Detecting headphones button press in JavaScript using the Web Audio API
+
+## [open-source-encore-2023-05-30-jekyll](https://github.com/TomasHubelbauer/open-source-encore-2023-05-30-jekyll)
+
+⚖️ 2023-06-02T20:43:19Z
+
+🏷 config-yml, jekyll, open-source, open-source-encore, ruby
+
+📒 An account of my contribution to the Jekyll project documentation to clarify the Exclude and Include configuration options' behavior.
 

@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-06-02T20:04:53.110Z
+2023-06-02T21:04:37.447Z
+
+## [open-source-encore-2023-05-30-jekyll](https://github.com/TomasHubelbauer/open-source-encore-2023-05-30-jekyll)
+
+⚖️ 2023-06-02T20:43:19Z
+
+🏷 config-yml, jekyll, open-source, open-source-encore, ruby
+
+📒 An account of my contribution to the Jekyll project documentation to clarify the Exclude and Include configuration options' behavior.
 
 ## [js-headset-button](https://github.com/TomasHubelbauer/js-headset-button)
 
