@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-06-02T11:04:58.388Z
+2023-06-02T12:06:00.588Z
+
+## [js-headset-button](https://github.com/TomasHubelbauer/js-headset-button)
+
+⚖️ 2023-06-02T11:43:46Z
+
+🏷 headphone-button, headphones-button, headset, javascript, trrs-jack, web-audio, webaudio-api
+
+📒 Detecting headphones button press in JavaScript using the Web Audio API
 
 ## [jekyll](https://github.com/TomasHubelbauer/jekyll)
 
@@ -2481,14 +2489,6 @@
 🏷 mapsforge
 
 📒 MapsForge JavaScript parser
-
-## [js-headset-button](https://github.com/TomasHubelbauer/js-headset-button)
-
-⚖️ 2022-04-16T13:36:27Z
-
-🏷 headphone-button, headphones-button, headset, javascript, trrs-jack, web-audio, webaudio-api
-
-📒 Detecting headphones button press in JavaScript using the Web Audio API
 
 ## [jira-annotate](https://github.com/TomasHubelbauer/jira-annotate)
 

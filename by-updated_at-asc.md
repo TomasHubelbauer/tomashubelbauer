@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-06-02T11:04:58.384Z
+2023-06-02T12:06:00.586Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -993,14 +993,6 @@
 🏷 jira
 
 📒 A web app for associating extra information with Jira tickets for personal reference.
-
-## [js-headset-button](https://github.com/TomasHubelbauer/js-headset-button)
-
-⚖️ 2022-04-16T13:36:27Z
-
-🏷 headphone-button, headphones-button, headset, javascript, trrs-jack, web-audio, webaudio-api
-
-📒 Detecting headphones button press in JavaScript using the Web Audio API
 
 ## [mapsforge](https://github.com/TomasHubelbauer/mapsforge)
 
@@ -3481,4 +3473,12 @@
 🏷 
 
 📒 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
+
+## [js-headset-button](https://github.com/TomasHubelbauer/js-headset-button)
+
+⚖️ 2023-06-02T11:43:46Z
+
+🏷 headphone-button, headphones-button, headset, javascript, trrs-jack, web-audio, webaudio-api
+
+📒 Detecting headphones button press in JavaScript using the Web Audio API
 
