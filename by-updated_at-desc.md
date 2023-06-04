@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-06-04T14:04:33.313Z
+2023-06-04T15:04:57.206Z
 
 ## [nextra-mermaid](https://github.com/TomasHubelbauer/nextra-mermaid)
 
