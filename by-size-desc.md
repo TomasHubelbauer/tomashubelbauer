@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-06-04T13:05:29.624Z
+2023-06-04T14:04:33.321Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -204,7 +204,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 9258
+⚖️ 9467
 
 🏷 tomashubelbauer
 
@@ -969,6 +969,14 @@
 🏷 onewheel, web-ble, web-bluetooth, web-bluetooth-api
 
 📒 Onewheel Web Bluetooth
+
+## [nextra-mermaid](https://github.com/TomasHubelbauer/nextra-mermaid)
+
+⚖️ 81
+
+🏷 
+
+📒 null
 
 ## [3mf-zip-uncompressed](https://github.com/TomasHubelbauer/3mf-zip-uncompressed)
 
@@ -3441,14 +3449,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [nextra-mermaid](https://github.com/TomasHubelbauer/nextra-mermaid)
-
-⚖️ 0
-
-🏷 
-
-📒 null
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 

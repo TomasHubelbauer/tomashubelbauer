@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2023-06-04T13:05:29.621Z
-
-## [nextra-mermaid](https://github.com/TomasHubelbauer/nextra-mermaid)
-
-⚖️ 0
-
-🏷 
-
-📒 null
+2023-06-04T14:04:33.319Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2522,6 +2514,14 @@
 
 📒 VS Code extension adding support for ?search and #fragment in ESM module specifiers
 
+## [nextra-mermaid](https://github.com/TomasHubelbauer/nextra-mermaid)
+
+⚖️ 81
+
+🏷 
+
+📒 null
+
 ## [3mf-zip-uncompressed](https://github.com/TomasHubelbauer/3mf-zip-uncompressed)
 
 ⚖️ 81
@@ -3292,7 +3292,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 9258
+⚖️ 9467
 
 🏷 tomashubelbauer
 
