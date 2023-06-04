@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-06-04T12:05:14.075Z
+2023-06-04T13:05:29.608Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3489,4 +3489,12 @@
 🏷 config-yml, jekyll, open-source, open-source-encore, ruby
 
 📒 An account of my contribution to the Jekyll project documentation to clarify the Exclude and Include configuration options' behavior.
+
+## [nextra-mermaid](https://github.com/TomasHubelbauer/nextra-mermaid)
+
+⚖️ 2023-06-04T12:25:33Z
+
+🏷 
+
+📒 null
 

@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-06-04T12:05:14.090Z
+2023-06-04T13:05:29.624Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -3441,6 +3441,14 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
+
+## [nextra-mermaid](https://github.com/TomasHubelbauer/nextra-mermaid)
+
+⚖️ 0
+
+🏷 
+
+📒 null
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 

@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-06-04T12:05:14.070Z
+2023-06-04T13:05:29.602Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1585,6 +1585,14 @@
 🏷 lets-encrypt, nginx
 
 📒 NGinx Let's Encrypt information
+
+## [nextra-mermaid](https://github.com/TomasHubelbauer/nextra-mermaid)
+
+⚖️ nextra-mermaid
+
+🏷 
+
+📒 null
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 

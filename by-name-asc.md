@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-06-04T12:05:14.067Z
+2023-06-04T13:05:29.599Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -1905,6 +1905,14 @@
 🏷 
 
 📒 The React Framework
+
+## [nextra-mermaid](https://github.com/TomasHubelbauer/nextra-mermaid)
+
+⚖️ nextra-mermaid
+
+🏷 
+
+📒 null
 
 ## [nginx-lets-encrypt](https://github.com/TomasHubelbauer/nginx-lets-encrypt)
 

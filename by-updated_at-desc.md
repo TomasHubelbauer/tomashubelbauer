@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-06-04T12:05:14.080Z
+2023-06-04T13:05:29.613Z
+
+## [nextra-mermaid](https://github.com/TomasHubelbauer/nextra-mermaid)
+
+⚖️ 2023-06-04T12:25:33Z
+
+🏷 
+
+📒 null
 
 ## [open-source-encore-2023-05-30-jekyll](https://github.com/TomasHubelbauer/open-source-encore-2023-05-30-jekyll)
 
