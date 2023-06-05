@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-06-05T12:05:57.485Z
+2023-06-05T13:07:16.735Z
+
+## [jekyll](https://github.com/TomasHubelbauer/jekyll)
+
+⚖️ 2023-06-05T12:45:55Z
+
+🏷 
+
+📒 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-06-05T11:06:37Z
+⚖️ 2023-06-05T12:06:08Z
 
 🏷 tomashubelbauer
 
@@ -49,14 +57,6 @@
 🏷 config-yml, jekyll, open-source, open-source-encore, ruby
 
 📒 An account of my contribution to the Jekyll project documentation to clarify the Exclude and Include configuration options' behavior.
-
-## [jekyll](https://github.com/TomasHubelbauer/jekyll)
-
-⚖️ 2023-06-02T20:20:49Z
-
-🏷 
-
-📒 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
 
