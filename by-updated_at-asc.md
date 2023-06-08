@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-06-08T09:05:45.595Z
+2023-06-08T10:05:08.336Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3002,14 +3002,6 @@
 
 📒 NextJS URL imports
 
-## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
-
-⚖️ 2023-03-26T11:34:34Z
-
-🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
-
-📒 WebRTC Data Channel demo
-
 ## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
 
 ⚖️ 2023-03-31T23:09:11Z
@@ -3497,4 +3489,12 @@
 🏷 
 
 📒 null
+
+## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
+
+⚖️ 2023-06-08T09:40:16Z
+
+🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
+
+📒 WebRTC Data Channel demo
 
