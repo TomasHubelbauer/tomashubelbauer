@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-06-08T14:04:42.560Z
+2023-06-08T15:04:45.907Z
+
+## [vscode-markdown-table-format](https://github.com/TomasHubelbauer/vscode-markdown-table-format)
+
+⚖️ 2023-06-08T14:14:23Z
+
+🏷 intellisense, markdown, table, vscode, vscode-extension, vscode-plugin
+
+📒 Formats tables in MarkDown documents when using the Format Document editor context menu option in VS Code.
 
 ## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
 
@@ -969,14 +977,6 @@
 🏷 
 
 📒 null
-
-## [vscode-markdown-table-format](https://github.com/TomasHubelbauer/vscode-markdown-table-format)
-
-⚖️ 2022-09-02T02:47:05Z
-
-🏷 intellisense, markdown, table, vscode, vscode-extension, vscode-plugin
-
-📒 Formats tables in MarkDown documents when using the Format Document editor context menu option in VS Code.
 
 ## [handoff](https://github.com/TomasHubelbauer/handoff)
 

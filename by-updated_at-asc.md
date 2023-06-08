@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-06-08T14:04:42.559Z
+2023-06-08T15:04:45.903Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2522,14 +2522,6 @@
 
 📒 null
 
-## [vscode-markdown-table-format](https://github.com/TomasHubelbauer/vscode-markdown-table-format)
-
-⚖️ 2022-09-02T02:47:05Z
-
-🏷 intellisense, markdown, table, vscode, vscode-extension, vscode-plugin
-
-📒 Formats tables in MarkDown documents when using the Format Document editor context menu option in VS Code.
-
 ## [arduino-am2303](https://github.com/TomasHubelbauer/arduino-am2303)
 
 ⚖️ 2022-09-16T19:15:01Z
@@ -3497,4 +3489,12 @@
 🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
 
 📒 WebRTC Data Channel demo
+
+## [vscode-markdown-table-format](https://github.com/TomasHubelbauer/vscode-markdown-table-format)
+
+⚖️ 2023-06-08T14:14:23Z
+
+🏷 intellisense, markdown, table, vscode, vscode-extension, vscode-plugin
+
+📒 Formats tables in MarkDown documents when using the Format Document editor context menu option in VS Code.
 
