@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-06-10T00:12:36.369Z
+2023-06-10T01:32:59.364Z
 
 ## [vscode-markdown-table-format](https://github.com/TomasHubelbauer/vscode-markdown-table-format)
 
