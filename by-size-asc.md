@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-06-11T09:04:47.510Z
+2023-06-11T10:05:11.033Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -3172,7 +3172,7 @@
 
 ## [selfie](https://github.com/TomasHubelbauer/selfie)
 
-⚖️ 2962
+⚖️ 2844
 
 🏷 getdisplaymedia, html2canvas, screenshot, self-screenshot, selfie
 
@@ -3300,7 +3300,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 10568
+⚖️ 10777
 
 🏷 tomashubelbauer
 

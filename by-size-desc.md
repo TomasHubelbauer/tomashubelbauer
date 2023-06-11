@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-06-11T09:04:47.512Z
+2023-06-11T10:05:11.036Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -196,7 +196,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 10568
+⚖️ 10777
 
 🏷 tomashubelbauer
 
@@ -324,7 +324,7 @@
 
 ## [selfie](https://github.com/TomasHubelbauer/selfie)
 
-⚖️ 2962
+⚖️ 2844
 
 🏷 getdisplaymedia, html2canvas, screenshot, self-screenshot, selfie
 
