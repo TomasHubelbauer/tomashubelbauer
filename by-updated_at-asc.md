@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-06-11T08:05:10.629Z
+2023-06-11T09:04:47.496Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3066,14 +3066,6 @@
 
 📒 Thinking about using Web Bluetooth for WebRTC SDP exchange
 
-## [selfie](https://github.com/TomasHubelbauer/selfie)
-
-⚖️ 2023-04-19T02:15:57Z
-
-🏷 getdisplaymedia, html2canvas, screenshot, self-screenshot, selfie
-
-📒 A library for capturing web page self screenshots
-
 ## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
 
 ⚖️ 2023-04-21T18:20:15Z
@@ -3497,4 +3489,12 @@
 🏷 intellisense, markdown, table, vscode, vscode-extension, vscode-plugin
 
 📒 Formats tables in MarkDown documents when using the Format Document editor context menu option in VS Code.
+
+## [selfie](https://github.com/TomasHubelbauer/selfie)
+
+⚖️ 2023-06-11T08:29:46Z
+
+🏷 getdisplaymedia, html2canvas, screenshot, self-screenshot, selfie
+
+📒 A library for capturing web page self screenshots
 

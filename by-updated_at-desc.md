@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-06-11T08:05:10.635Z
+2023-06-11T09:04:47.497Z
+
+## [selfie](https://github.com/TomasHubelbauer/selfie)
+
+⚖️ 2023-06-11T08:29:46Z
+
+🏷 getdisplaymedia, html2canvas, screenshot, self-screenshot, selfie
+
+📒 A library for capturing web page self screenshots
 
 ## [vscode-markdown-table-format](https://github.com/TomasHubelbauer/vscode-markdown-table-format)
 
@@ -425,14 +433,6 @@
 🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
 
 📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
-
-## [selfie](https://github.com/TomasHubelbauer/selfie)
-
-⚖️ 2023-04-19T02:15:57Z
-
-🏷 getdisplaymedia, html2canvas, screenshot, self-screenshot, selfie
-
-📒 A library for capturing web page self screenshots
 
 ## [bt-channel](https://github.com/TomasHubelbauer/bt-channel)
 
