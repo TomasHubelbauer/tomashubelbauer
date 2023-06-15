@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-06-15T22:04:37.108Z
+2023-06-15T23:04:44.672Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
