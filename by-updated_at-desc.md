@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-06-17T09:05:02.437Z
+2023-06-17T10:04:56.130Z
+
+## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
+
+⚖️ 2023-06-17T09:23:13Z
+
+🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
+
+📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -737,14 +745,6 @@
 🏷 terminal, vscode
 
 📒 VS Code launch tasks from a compound debugger configuration in individual but split terminals in the Integrated Terminal pane
-
-## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
-
-⚖️ 2023-01-14T03:05:28Z
-
-🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
-
-📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
 
 ## [timestamper](https://github.com/TomasHubelbauer/timestamper)
 
