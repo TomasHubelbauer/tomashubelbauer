@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-06-20T19:04:42.603Z
+2023-06-20T20:04:56.439Z
+
+## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
+
+⚖️ 2023-06-20T19:25:02Z
+
+🏷 
+
+📒 null
 
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 

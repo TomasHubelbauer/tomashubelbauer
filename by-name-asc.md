@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-06-20T19:04:42.577Z
+2023-06-20T20:04:56.431Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2673,6 +2673,14 @@
 🏷 getdisplaymedia, html2canvas, screenshot, self-screenshot, selfie
 
 📒 A library for capturing web page self screenshots
+
+## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
+
+⚖️ sencor-scg-2052wh-cap
+
+🏷 
+
+📒 null
 
 ## [shapefile](https://github.com/TomasHubelbauer/shapefile)
 

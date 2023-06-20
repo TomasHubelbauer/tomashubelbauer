@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-06-20T19:04:42.600Z
+2023-06-20T20:04:56.435Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3497,4 +3497,12 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
+
+## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
+
+⚖️ 2023-06-20T19:25:02Z
+
+🏷 
+
+📒 null
 

@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-06-20T19:04:42.612Z
+2023-06-20T20:04:56.450Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -3449,6 +3449,14 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
+
+## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
+
+⚖️ 0
+
+🏷 
+
+📒 null
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 

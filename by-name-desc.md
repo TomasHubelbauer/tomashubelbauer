@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-06-20T19:04:42.596Z
+2023-06-20T20:04:56.433Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -825,6 +825,14 @@
 🏷 shapefile
 
 📒 Information about the Shapefile format
+
+## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
+
+⚖️ sencor-scg-2052wh-cap
+
+🏷 
+
+📒 null
 
 ## [selfie](https://github.com/TomasHubelbauer/selfie)
 
