@@ -1,14 +1,22 @@
 # By `pushed_at` (desc)
 
-2023-06-20T21:04:54.560Z
+2023-06-20T22:05:20.168Z
 
-## [openscad-quarter-donut](https://github.com/TomasHubelbauer/openscad-quarter-donut)
+## [openscad-quarter-circle-torus](https://github.com/TomasHubelbauer/openscad-quarter-circle-torus)
 
-⚖️ 2023-06-20T20:53:24Z
+⚖️ 2023-06-20T21:52:23Z
 
-🏷 
+🏷 circle, csg, geometry, openscad, openscad-module, torus
 
-📒 null
+📒 A set of OpenSCAD modules for generating geometries of quarter-profile circles and tori including their inverted variants
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2023-06-20T21:06:49Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
 
@@ -17,14 +25,6 @@
 🏷 coffee-grinder, openscad, scg-2052wh, sencor
 
 📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2023-06-20T20:06:53Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 

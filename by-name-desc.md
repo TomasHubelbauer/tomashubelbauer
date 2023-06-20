@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-06-20T21:04:54.550Z
+2023-06-20T22:05:20.153Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1290,13 +1290,13 @@
 
 📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
 
-## [openscad-quarter-donut](https://github.com/TomasHubelbauer/openscad-quarter-donut)
+## [openscad-quarter-circle-torus](https://github.com/TomasHubelbauer/openscad-quarter-circle-torus)
 
-⚖️ openscad-quarter-donut
+⚖️ openscad-quarter-circle-torus
 
-🏷 
+🏷 circle, csg, geometry, openscad, openscad-module, torus
 
-📒 null
+📒 A set of OpenSCAD modules for generating geometries of quarter-profile circles and tori including their inverted variants
 
 ## [open-source-encore-2023-05-30-jekyll](https://github.com/TomasHubelbauer/open-source-encore-2023-05-30-jekyll)
 

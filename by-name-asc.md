@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-06-20T21:04:54.547Z
+2023-06-20T22:05:20.126Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2218,13 +2218,13 @@
 
 📒 An account of my contribution to the Jekyll project documentation to clarify the Exclude and Include configuration options' behavior.
 
-## [openscad-quarter-donut](https://github.com/TomasHubelbauer/openscad-quarter-donut)
+## [openscad-quarter-circle-torus](https://github.com/TomasHubelbauer/openscad-quarter-circle-torus)
 
-⚖️ openscad-quarter-donut
+⚖️ openscad-quarter-circle-torus
 
-🏷 
+🏷 circle, csg, geometry, openscad, openscad-module, torus
 
-📒 null
+📒 A set of OpenSCAD modules for generating geometries of quarter-profile circles and tori including their inverted variants
 
 ## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
 

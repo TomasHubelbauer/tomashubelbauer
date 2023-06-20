@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-06-20T21:04:54.565Z
+2023-06-20T22:05:20.176Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -188,7 +188,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 13125
+⚖️ 13336
 
 🏷 tomashubelbauer
 
@@ -1209,6 +1209,14 @@
 🏷 git-notes, github-actions, github-issues
 
 📒 A script for storing GitHub Issues in Git notes.
+
+## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
+
+⚖️ 32
+
+🏷 coffee-grinder, openscad, scg-2052wh, sencor
+
+📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
 
 ## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
 
@@ -3450,21 +3458,13 @@
 
 📒 A webcam page for with with He3 as a face camera
 
-## [openscad-quarter-donut](https://github.com/TomasHubelbauer/openscad-quarter-donut)
+## [openscad-quarter-circle-torus](https://github.com/TomasHubelbauer/openscad-quarter-circle-torus)
 
 ⚖️ 0
 
-🏷 
+🏷 circle, csg, geometry, openscad, openscad-module, torus
 
-📒 null
-
-## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
-
-⚖️ 0
-
-🏷 coffee-grinder, openscad, scg-2052wh, sencor
-
-📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
+📒 A set of OpenSCAD modules for generating geometries of quarter-profile circles and tori including their inverted variants
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 

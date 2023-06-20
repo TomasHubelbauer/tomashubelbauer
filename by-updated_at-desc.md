@@ -1,14 +1,14 @@
 # By `updated_at` (desc)
 
-2023-06-20T21:04:54.556Z
+2023-06-20T22:05:20.160Z
 
-## [openscad-quarter-donut](https://github.com/TomasHubelbauer/openscad-quarter-donut)
+## [openscad-quarter-circle-torus](https://github.com/TomasHubelbauer/openscad-quarter-circle-torus)
 
-⚖️ 2023-06-20T20:53:24Z
+⚖️ 2023-06-20T21:54:00Z
 
-🏷 
+🏷 circle, csg, geometry, openscad, openscad-module, torus
 
-📒 null
+📒 A set of OpenSCAD modules for generating geometries of quarter-profile circles and tori including their inverted variants
 
 ## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
 

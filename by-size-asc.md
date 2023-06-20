@@ -1,22 +1,14 @@
 # By `size` (asc)
 
-2023-06-20T21:04:54.563Z
+2023-06-20T22:05:20.171Z
 
-## [openscad-quarter-donut](https://github.com/TomasHubelbauer/openscad-quarter-donut)
-
-⚖️ 0
-
-🏷 
-
-📒 null
-
-## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
+## [openscad-quarter-circle-torus](https://github.com/TomasHubelbauer/openscad-quarter-circle-torus)
 
 ⚖️ 0
 
-🏷 coffee-grinder, openscad, scg-2052wh, sencor
+🏷 circle, csg, geometry, openscad, openscad-module, torus
 
-📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
+📒 A set of OpenSCAD modules for generating geometries of quarter-profile circles and tori including their inverted variants
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2274,6 +2266,14 @@
 
 📒 Research into how (if at all) the iOS Photos app processes / strips image metadata.
 
+## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
+
+⚖️ 32
+
+🏷 coffee-grinder, openscad, scg-2052wh, sencor
+
+📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
+
 ## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
 
 ⚖️ 32
@@ -3324,7 +3324,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 13125
+⚖️ 13336
 
 🏷 tomashubelbauer
 
