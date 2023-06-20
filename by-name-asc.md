@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-06-20T20:04:56.431Z
+2023-06-20T21:04:54.547Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2218,6 +2218,14 @@
 
 📒 An account of my contribution to the Jekyll project documentation to clarify the Exclude and Include configuration options' behavior.
 
+## [openscad-quarter-donut](https://github.com/TomasHubelbauer/openscad-quarter-donut)
+
+⚖️ openscad-quarter-donut
+
+🏷 
+
+📒 null
+
 ## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
 
 ⚖️ osm-raster-map
@@ -2678,9 +2686,9 @@
 
 ⚖️ sencor-scg-2052wh-cap
 
-🏷 
+🏷 coffee-grinder, openscad, scg-2052wh, sencor
 
-📒 null
+📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
 
 ## [shapefile](https://github.com/TomasHubelbauer/shapefile)
 

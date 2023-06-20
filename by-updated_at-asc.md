@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-06-20T20:04:56.435Z
+2023-06-20T21:04:54.553Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3500,7 +3500,15 @@
 
 ## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
 
-⚖️ 2023-06-20T19:25:02Z
+⚖️ 2023-06-20T20:42:47Z
+
+🏷 coffee-grinder, openscad, scg-2052wh, sencor
+
+📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
+
+## [openscad-quarter-donut](https://github.com/TomasHubelbauer/openscad-quarter-donut)
+
+⚖️ 2023-06-20T20:53:24Z
 
 🏷 
 

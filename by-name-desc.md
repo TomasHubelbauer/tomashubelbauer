@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-06-20T20:04:56.433Z
+2023-06-20T21:04:54.550Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -830,9 +830,9 @@
 
 ⚖️ sencor-scg-2052wh-cap
 
-🏷 
+🏷 coffee-grinder, openscad, scg-2052wh, sencor
 
-📒 null
+📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
 
 ## [selfie](https://github.com/TomasHubelbauer/selfie)
 
@@ -1289,6 +1289,14 @@
 🏷 map, maps, open-street-map, osm, raster-tiles
 
 📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
+
+## [openscad-quarter-donut](https://github.com/TomasHubelbauer/openscad-quarter-donut)
+
+⚖️ openscad-quarter-donut
+
+🏷 
+
+📒 null
 
 ## [open-source-encore-2023-05-30-jekyll](https://github.com/TomasHubelbauer/open-source-encore-2023-05-30-jekyll)
 

@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-06-20T20:04:56.442Z
+2023-06-20T21:04:54.559Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3492,7 +3492,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-06-20T19:06:38Z
+⚖️ 2023-06-20T20:06:53Z
 
 🏷 tomashubelbauer
 
@@ -3500,7 +3500,15 @@
 
 ## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
 
-⚖️ 2023-06-20T19:27:59Z
+⚖️ 2023-06-20T20:41:35Z
+
+🏷 coffee-grinder, openscad, scg-2052wh, sencor
+
+📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
+
+## [openscad-quarter-donut](https://github.com/TomasHubelbauer/openscad-quarter-donut)
+
+⚖️ 2023-06-20T20:53:24Z
 
 🏷 
 

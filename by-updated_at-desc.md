@@ -1,14 +1,22 @@
 # By `updated_at` (desc)
 
-2023-06-20T20:04:56.439Z
+2023-06-20T21:04:54.556Z
 
-## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
+## [openscad-quarter-donut](https://github.com/TomasHubelbauer/openscad-quarter-donut)
 
-⚖️ 2023-06-20T19:25:02Z
+⚖️ 2023-06-20T20:53:24Z
 
 🏷 
 
 📒 null
+
+## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
+
+⚖️ 2023-06-20T20:42:47Z
+
+🏷 coffee-grinder, openscad, scg-2052wh, sencor
+
+📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
 
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
