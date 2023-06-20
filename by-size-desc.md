@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-06-20T22:05:20.176Z
+2023-06-20T23:04:53.121Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -513,6 +513,14 @@
 🏷 es-modules, esm, photopea, uzip, uzipjs, zip
 
 📒 ESM package of the UZIP.js module by Photopea
+
+## [openscad-quarter-circle-torus](https://github.com/TomasHubelbauer/openscad-quarter-circle-torus)
+
+⚖️ 517
+
+🏷 circle, csg, geometry, openscad, openscad-module, torus
+
+📒 A set of OpenSCAD modules for generating geometries of quarter-profile circles and tori including their inverted variants
 
 ## [vscode-week-number](https://github.com/TomasHubelbauer/vscode-week-number)
 
@@ -3457,14 +3465,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [openscad-quarter-circle-torus](https://github.com/TomasHubelbauer/openscad-quarter-circle-torus)
-
-⚖️ 0
-
-🏷 circle, csg, geometry, openscad, openscad-module, torus
-
-📒 A set of OpenSCAD modules for generating geometries of quarter-profile circles and tori including their inverted variants
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 

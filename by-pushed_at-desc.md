@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-06-20T22:05:20.168Z
+2023-06-20T23:04:53.116Z
+
+## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
+
+⚖️ 2023-06-20T22:29:08Z
+
+🏷 coffee-grinder, openscad, scg-2052wh, sencor
+
+📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
 
 ## [openscad-quarter-circle-torus](https://github.com/TomasHubelbauer/openscad-quarter-circle-torus)
 
-⚖️ 2023-06-20T21:52:23Z
+⚖️ 2023-06-20T22:08:49Z
 
 🏷 circle, csg, geometry, openscad, openscad-module, torus
 
@@ -12,19 +20,11 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-06-20T21:06:49Z
+⚖️ 2023-06-20T22:07:17Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
-
-## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
-
-⚖️ 2023-06-20T20:41:35Z
-
-🏷 coffee-grinder, openscad, scg-2052wh, sencor
-
-📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 

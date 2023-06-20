@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2023-06-20T22:05:20.171Z
-
-## [openscad-quarter-circle-torus](https://github.com/TomasHubelbauer/openscad-quarter-circle-torus)
-
-⚖️ 0
-
-🏷 circle, csg, geometry, openscad, openscad-module, torus
-
-📒 A set of OpenSCAD modules for generating geometries of quarter-profile circles and tori including their inverted variants
+2023-06-20T23:04:53.119Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -3001,6 +2993,14 @@
 🏷 markdown, vscode, vscode-extension, vscode-plugin, week-calendar
 
 📒 A VS Code extension showing the number of the current week in the IDE status bar
+
+## [openscad-quarter-circle-torus](https://github.com/TomasHubelbauer/openscad-quarter-circle-torus)
+
+⚖️ 517
+
+🏷 circle, csg, geometry, openscad, openscad-module, torus
+
+📒 A set of OpenSCAD modules for generating geometries of quarter-profile circles and tori including their inverted variants
 
 ## [esm-uzip-js](https://github.com/TomasHubelbauer/esm-uzip-js)
 
