@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-06-21T09:05:45.908Z
+2023-06-21T10:05:19.022Z
+
+## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
+
+⚖️ 2023-06-21T09:57:03Z
+
+🏷 coffee-grinder, openscad, scg-2052wh, sencor
+
+📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-06-21T08:07:19Z
+⚖️ 2023-06-21T09:07:41Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
-
-⚖️ 2023-06-20T22:29:08Z
-
-🏷 coffee-grinder, openscad, scg-2052wh, sencor
-
-📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
 
 ## [openscad-quarter-circle-torus](https://github.com/TomasHubelbauer/openscad-quarter-circle-torus)
 

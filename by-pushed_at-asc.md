@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-06-21T09:05:45.903Z
+2023-06-21T10:05:19.021Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3490,14 +3490,6 @@
 
 📒 A set of OpenSCAD modules for generating geometries of quarter-profile circles and tori including their inverted variants
 
-## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
-
-⚖️ 2023-06-20T22:29:08Z
-
-🏷 coffee-grinder, openscad, scg-2052wh, sencor
-
-📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
-
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
 ⚖️ 2023-06-21T00:17:35Z
@@ -3508,9 +3500,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-06-21T08:07:19Z
+⚖️ 2023-06-21T09:07:41Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
+
+⚖️ 2023-06-21T09:57:03Z
+
+🏷 coffee-grinder, openscad, scg-2052wh, sencor
+
+📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
 
