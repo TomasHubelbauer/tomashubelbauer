@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-06-20T23:04:53.121Z
+2023-06-21T00:13:21.566Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -188,7 +188,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 13336
+⚖️ 13546
 
 🏷 tomashubelbauer
 
@@ -778,6 +778,14 @@
 
 📒 The chromatic abberation effect implemented in HTML canvas
 
+## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
+
+⚖️ 170
+
+🏷 coffee-grinder, openscad, scg-2052wh, sencor
+
+📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
+
 ## [indexed-db](https://github.com/TomasHubelbauer/indexed-db)
 
 ⚖️ 162
@@ -1217,14 +1225,6 @@
 🏷 git-notes, github-actions, github-issues
 
 📒 A script for storing GitHub Issues in Git notes.
-
-## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
-
-⚖️ 32
-
-🏷 coffee-grinder, openscad, scg-2052wh, sencor
-
-📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
 
 ## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
 

@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-06-20T23:04:53.119Z
+2023-06-21T00:13:21.564Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2258,14 +2258,6 @@
 
 📒 Research into how (if at all) the iOS Photos app processes / strips image metadata.
 
-## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
-
-⚖️ 32
-
-🏷 coffee-grinder, openscad, scg-2052wh, sencor
-
-📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
-
 ## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
 
 ⚖️ 32
@@ -2737,6 +2729,14 @@
 🏷 indexed-db, local-storage, todo, todo-app, todo-list
 
 📒 An IndexedDB exploration repository
+
+## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
+
+⚖️ 170
+
+🏷 coffee-grinder, openscad, scg-2052wh, sencor
+
+📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
 
 ## [canvas-chromatic-aberration](https://github.com/TomasHubelbauer/canvas-chromatic-aberration)
 
@@ -3324,7 +3324,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 13336
+⚖️ 13546
 
 🏷 tomashubelbauer
 
