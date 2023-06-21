@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-06-21T00:13:21.562Z
+2023-06-21T01:32:47.610Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2023-06-21T00:17:35Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-06-20T23:06:49Z
+⚖️ 2023-06-21T00:15:18Z
 
 🏷 tomashubelbauer
 
@@ -25,14 +33,6 @@
 🏷 circle, csg, geometry, openscad, openscad-module, torus
 
 📒 A set of OpenSCAD modules for generating geometries of quarter-profile circles and tori including their inverted variants
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2023-06-20T00:19:03Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [selfie](https://github.com/TomasHubelbauer/selfie)
 
