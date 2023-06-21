@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-06-21T10:05:19.026Z
+2023-06-21T11:05:20.809Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2730,14 +2730,6 @@
 
 📒 An IndexedDB exploration repository
 
-## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
-
-⚖️ 170
-
-🏷 coffee-grinder, openscad, scg-2052wh, sencor
-
-📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
-
 ## [canvas-chromatic-aberration](https://github.com/TomasHubelbauer/canvas-chromatic-aberration)
 
 ⚖️ 171
@@ -2913,6 +2905,14 @@
 🏷 
 
 📒 Automatically exported from code.google.com/p/websaver
+
+## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
+
+⚖️ 369
+
+🏷 coffee-grinder, openscad, scg-2052wh, sencor
+
+📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
 
 ## [week-planner](https://github.com/TomasHubelbauer/week-planner)
 
@@ -3308,7 +3308,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 9245
+⚖️ 9456
 
 🏷 tomashubelbauer
 

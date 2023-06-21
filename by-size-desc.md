@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-06-21T10:05:19.028Z
+2023-06-21T11:05:20.812Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -204,7 +204,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 9245
+⚖️ 9456
 
 🏷 tomashubelbauer
 
@@ -602,6 +602,14 @@
 
 📒 A one-off utility for graphical week planning
 
+## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
+
+⚖️ 369
+
+🏷 coffee-grinder, openscad, scg-2052wh, sencor
+
+📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
+
 ## [websaver](https://github.com/TomasHubelbauer/websaver)
 
 ⚖️ 358
@@ -777,14 +785,6 @@
 🏷 canvas, chromatic-abberation, html
 
 📒 The chromatic abberation effect implemented in HTML canvas
-
-## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
-
-⚖️ 170
-
-🏷 coffee-grinder, openscad, scg-2052wh, sencor
-
-📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
 
 ## [indexed-db](https://github.com/TomasHubelbauer/indexed-db)
 
