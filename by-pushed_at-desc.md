@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-06-22T00:13:42.109Z
+2023-06-22T01:33:04.108Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2023-06-22T00:19:45Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-06-21T23:07:19Z
+⚖️ 2023-06-22T00:15:38Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 coffee-grinder, openscad, scg-2052wh, sencor
 
 📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2023-06-21T00:17:35Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [openscad-quarter-circle-torus](https://github.com/TomasHubelbauer/openscad-quarter-circle-torus)
 
