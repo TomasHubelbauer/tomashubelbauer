@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-06-22T14:05:15.050Z
+2023-06-22T15:05:23.088Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -1530,14 +1530,6 @@
 
 📒 PowerShell 7ZIP downloader
 
-## [ps-inno](https://github.com/TomasHubelbauer/ps-inno)
-
-⚖️ 2022-04-16T23:07:25Z
-
-🏷 inno, inno-extract, inno-setup, innoextract, powershell, ps
-
-📒 PowerShell InnoExtract installer
-
 ## [ps-remoting](https://github.com/TomasHubelbauer/ps-remoting)
 
 ⚖️ 2022-04-16T23:07:52Z
@@ -2978,14 +2970,6 @@
 
 📒 A script for setting the currently playing Spotify song as your Slack status
 
-## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
-
-⚖️ 2023-04-06T08:12:37Z
-
-🏷 ntlite, powershell, ps
-
-📒 PowerShell NTLite installer
-
 ## [js-array-groups](https://github.com/TomasHubelbauer/js-array-groups)
 
 ⚖️ 2023-04-11T15:28:57Z
@@ -3513,4 +3497,20 @@
 🏷 op-1, op1, teenage-engineering, threejs, webgl
 
 📒 An OP-1 model in ThreeJS
+
+## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
+
+⚖️ 2023-06-22T14:24:07Z
+
+🏷 ntlite, powershell, ps
+
+📒 PowerShell NTLite installer
+
+## [ps-inno](https://github.com/TomasHubelbauer/ps-inno)
+
+⚖️ 2023-06-22T14:25:04Z
+
+🏷 inno, inno-extract, inno-setup, innoextract, powershell, ps
+
+📒 PowerShell InnoExtract installer
 

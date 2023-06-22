@@ -1,6 +1,22 @@
 # By `updated_at` (desc)
 
-2023-06-22T14:05:15.068Z
+2023-06-22T15:05:23.090Z
+
+## [ps-inno](https://github.com/TomasHubelbauer/ps-inno)
+
+⚖️ 2023-06-22T14:25:04Z
+
+🏷 inno, inno-extract, inno-setup, innoextract, powershell, ps
+
+📒 PowerShell InnoExtract installer
+
+## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
+
+⚖️ 2023-06-22T14:24:07Z
+
+🏷 ntlite, powershell, ps
+
+📒 PowerShell NTLite installer
 
 ## [three-op-1](https://github.com/TomasHubelbauer/three-op-1)
 
@@ -529,14 +545,6 @@
 🏷 array, javascript
 
 📒 JavaScript Split Array Into Groups of the Same Size
-
-## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
-
-⚖️ 2023-04-06T08:12:37Z
-
-🏷 ntlite, powershell, ps
-
-📒 PowerShell NTLite installer
 
 ## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
 
@@ -1977,14 +1985,6 @@
 🏷 powershell, remoting
 
 📒 PowerShell remoting with Windows Sandbox
-
-## [ps-inno](https://github.com/TomasHubelbauer/ps-inno)
-
-⚖️ 2022-04-16T23:07:25Z
-
-🏷 inno, inno-extract, inno-setup, innoextract, powershell, ps
-
-📒 PowerShell InnoExtract installer
 
 ## [ps-7zip](https://github.com/TomasHubelbauer/ps-7zip)
 
