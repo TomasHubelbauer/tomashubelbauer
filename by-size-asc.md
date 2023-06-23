@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-06-23T13:09:10.677Z
+2023-06-23T14:05:36.931Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -50,7 +50,7 @@
 
 📒 Overriding console.log in Node
 
-## [openapi-zapier-fieldschema](https://github.com/TomasHubelbauer/openapi-zapier-fieldschema)
+## [postgrest-openapi-zapier-fieldschema](https://github.com/TomasHubelbauer/postgrest-openapi-zapier-fieldschema)
 
 ⚖️ 1
 

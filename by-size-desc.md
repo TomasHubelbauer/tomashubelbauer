@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-06-23T13:09:10.680Z
+2023-06-23T14:05:36.934Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -3146,7 +3146,7 @@
 
 📒 Notes for using Blender with VS Code
 
-## [openapi-zapier-fieldschema](https://github.com/TomasHubelbauer/openapi-zapier-fieldschema)
+## [postgrest-openapi-zapier-fieldschema](https://github.com/TomasHubelbauer/postgrest-openapi-zapier-fieldschema)
 
 ⚖️ 1
 
