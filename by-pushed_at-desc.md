@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-06-23T11:04:48.175Z
+2023-06-23T12:06:31.900Z
+
+## [openapi-zapier-fieldschema](https://github.com/TomasHubelbauer/openapi-zapier-fieldschema)
+
+⚖️ 2023-06-23T11:36:44Z
+
+🏷 fieldschema, openapi, postgrest, zapier
+
+📒 Postgrest OpenAPI to Zapier FieldSchema mapper
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-06-23T10:06:47Z
+⚖️ 2023-06-23T11:06:44Z
 
 🏷 tomashubelbauer
 

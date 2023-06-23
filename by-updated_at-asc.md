@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-06-23T11:04:48.168Z
+2023-06-23T12:06:31.893Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3513,4 +3513,12 @@
 🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
 
 📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
+
+## [openapi-zapier-fieldschema](https://github.com/TomasHubelbauer/openapi-zapier-fieldschema)
+
+⚖️ 2023-06-23T11:37:13Z
+
+🏷 fieldschema, openapi, postgrest, zapier
+
+📒 Postgrest OpenAPI to Zapier FieldSchema mapper
 

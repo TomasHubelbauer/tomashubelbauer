@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-06-23T11:04:48.163Z
+2023-06-23T12:06:31.865Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2217,6 +2217,14 @@
 🏷 config-yml, jekyll, open-source, open-source-encore, ruby
 
 📒 An account of my contribution to the Jekyll project documentation to clarify the Exclude and Include configuration options' behavior.
+
+## [openapi-zapier-fieldschema](https://github.com/TomasHubelbauer/openapi-zapier-fieldschema)
+
+⚖️ openapi-zapier-fieldschema
+
+🏷 fieldschema, openapi, postgrest, zapier
+
+📒 Postgrest OpenAPI to Zapier FieldSchema mapper
 
 ## [openscad-quarter-circle-torus](https://github.com/TomasHubelbauer/openscad-quarter-circle-torus)
 
