@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-06-24T00:15:34.268Z
+2023-06-24T01:33:12.900Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2023-06-24T00:19:46Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-06-23T23:06:43Z
+⚖️ 2023-06-24T00:17:31Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 fieldschema, openapi, postgrest, zapier
 
 📒 Postgrest OpenAPI to Zapier FieldSchema mapper
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2023-06-23T00:21:11Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
 
