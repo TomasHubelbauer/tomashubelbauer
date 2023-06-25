@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-06-25T22:05:35.742Z
+2023-06-25T23:04:56.289Z
+
+## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
+
+⚖️ 2023-06-25T22:15:44Z
+
+🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
+
+📒 3D SVG projection and animation
 
 ## [postgrest-openapi-zapier-fieldschema](https://github.com/TomasHubelbauer/postgrest-openapi-zapier-fieldschema)
 
@@ -921,14 +929,6 @@
 🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
 
 📒 Notes about my solar experiments
-
-## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
-
-⚖️ 2022-10-03T20:45:33Z
-
-🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
-
-📒 3D SVG projection and animation
 
 ## [esm-import-map](https://github.com/TomasHubelbauer/esm-import-map)
 

@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-06-25T22:05:35.738Z
+2023-06-25T23:04:56.271Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2594,14 +2594,6 @@
 
 📒 An experiment with ES import maps.
 
-## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
-
-⚖️ 2022-10-03T20:45:33Z
-
-🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
-
-📒 3D SVG projection and animation
-
 ## [solar](https://github.com/TomasHubelbauer/solar)
 
 ⚖️ 2022-10-10T09:17:21Z
@@ -3521,4 +3513,12 @@
 🏷 fieldschema, openapi, postgrest, zapier
 
 📒 Postgrest OpenAPI to Zapier FieldSchema mapper
+
+## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
+
+⚖️ 2023-06-25T22:15:44Z
+
+🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
+
+📒 3D SVG projection and animation
 
