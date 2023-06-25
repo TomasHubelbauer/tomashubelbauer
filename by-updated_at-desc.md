@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-06-25T14:04:47.510Z
+2023-06-25T15:05:34.482Z
 
 ## [postgrest-openapi-zapier-fieldschema](https://github.com/TomasHubelbauer/postgrest-openapi-zapier-fieldschema)
 
