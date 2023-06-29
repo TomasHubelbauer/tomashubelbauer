@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2023-06-29T17:04:57.054Z
-
-## [apps-and-services](https://github.com/TomasHubelbauer/apps-and-services)
-
-⚖️ 0
-
-🏷 
-
-📒 null
+2023-06-29T18:12:30.393Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -57,6 +49,14 @@
 🏷 console, node
 
 📒 Overriding console.log in Node
+
+## [apps-and-services](https://github.com/TomasHubelbauer/apps-and-services)
+
+⚖️ 1
+
+🏷 
+
+📒 null
 
 ## [supabase-studio-filter-non-empty-array](https://github.com/TomasHubelbauer/supabase-studio-filter-non-empty-array)
 
@@ -3324,7 +3324,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 8956
+⚖️ 9166
 
 🏷 tomashubelbauer
 
