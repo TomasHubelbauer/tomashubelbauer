@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-06-29T15:05:04.654Z
+2023-06-29T16:05:02.073Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -81,6 +81,14 @@
 🏷 appium
 
 📒 My notes about Appium
+
+## [apps-and-services](https://github.com/TomasHubelbauer/apps-and-services)
+
+⚖️ apps-and-services
+
+🏷 
+
+📒 null
 
 ## [arduino-am2303](https://github.com/TomasHubelbauer/arduino-am2303)
 
