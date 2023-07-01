@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-07-01T21:04:48.710Z
+2023-07-01T22:04:53.355Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3114,14 +3114,6 @@
 
 📒 OP-1 working with web MIDI
 
-## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
-
-⚖️ 2023-05-13T16:48:34Z
-
-🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
-
-📒 Brother P-touch D600 label maker USB communication with P-touch Editor
-
 ## [upptime.js.org](https://github.com/TomasHubelbauer/upptime.js.org)
 
 ⚖️ 2023-05-16T14:02:57Z
@@ -3529,4 +3521,12 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
+## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
+
+⚖️ 2023-07-01T22:01:18Z
+
+🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
+
+📒 Brother P-touch D600 label maker USB communication with P-touch Editor
 

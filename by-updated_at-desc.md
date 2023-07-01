@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-07-01T21:04:48.714Z
+2023-07-01T22:04:53.359Z
+
+## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
+
+⚖️ 2023-07-01T22:01:18Z
+
+🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
+
+📒 Brother P-touch D600 label maker USB communication with P-touch Editor
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
@@ -409,14 +417,6 @@
 🏷 
 
 📒 ⬆️📝 Documentation and landing page for Upptime
-
-## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
-
-⚖️ 2023-05-13T16:48:34Z
-
-🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
-
-📒 Brother P-touch D600 label maker USB communication with P-touch Editor
 
 ## [web-midi](https://github.com/TomasHubelbauer/web-midi)
 
