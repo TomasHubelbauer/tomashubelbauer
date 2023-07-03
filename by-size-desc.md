@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-07-03T19:04:46.152Z
+2023-07-03T20:05:55.913Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -186,14 +186,6 @@
 
 📒 Preview email message files (EML) in VS Code
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 13904
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [playwright-pdf](https://github.com/TomasHubelbauer/playwright-pdf)
 
 ⚖️ 12262
@@ -209,6 +201,14 @@
 🏷 html, loader, loading-animation, loading-indicator, ui, ux, ux-experiment
 
 📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 8874
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
