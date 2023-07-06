@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-07-06T03:17:47.572Z
+2023-07-06T04:06:00.564Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -202,6 +202,14 @@
 
 📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 9180
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
 ⚖️ 9019
@@ -209,14 +217,6 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 8968
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [web-midi](https://github.com/TomasHubelbauer/web-midi)
 
