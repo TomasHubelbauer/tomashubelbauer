@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-07-06T10:05:54.659Z
+2023-07-06T11:04:53.767Z
+
+## [github-pages-local-storage](https://github.com/TomasHubelbauer/github-pages-local-storage)
+
+⚖️ 2023-07-06T10:37:59Z
+
+🏷 github-pages, local-storage
+
+📒 An ES module library for separating localStorage on GitHub Pages not by origin but by path name.
 
 ## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
 
@@ -945,14 +953,6 @@
 🏷 es, es-modules, esm, import-maps
 
 📒 An experiment with ES import maps.
-
-## [github-pages-local-storage](https://github.com/TomasHubelbauer/github-pages-local-storage)
-
-⚖️ 2022-09-30T13:32:22Z
-
-🏷 github-pages, local-storage
-
-📒 An ES module library for separating localStorage on GitHub Pages not by origin but by path name.
 
 ## [day-planner](https://github.com/TomasHubelbauer/day-planner)
 

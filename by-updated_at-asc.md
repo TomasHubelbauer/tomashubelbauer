@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-07-06T10:05:54.641Z
+2023-07-06T11:04:53.765Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2578,14 +2578,6 @@
 
 📒 A one-off utility for graphical day planning
 
-## [github-pages-local-storage](https://github.com/TomasHubelbauer/github-pages-local-storage)
-
-⚖️ 2022-09-30T13:32:22Z
-
-🏷 github-pages, local-storage
-
-📒 An ES module library for separating localStorage on GitHub Pages not by origin but by path name.
-
 ## [esm-import-map](https://github.com/TomasHubelbauer/esm-import-map)
 
 ⚖️ 2022-09-30T21:12:22Z
@@ -3529,4 +3521,12 @@
 🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
 
 📒 Brother P-touch D600 label maker USB communication with P-touch Editor
+
+## [github-pages-local-storage](https://github.com/TomasHubelbauer/github-pages-local-storage)
+
+⚖️ 2023-07-06T10:37:59Z
+
+🏷 github-pages, local-storage
+
+📒 An ES module library for separating localStorage on GitHub Pages not by origin but by path name.
 
