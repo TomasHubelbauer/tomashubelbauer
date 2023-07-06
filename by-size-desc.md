@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-07-06T09:05:52.393Z
+2023-07-06T10:05:54.681Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -194,6 +194,14 @@
 
 📒 Using Playwright Firefox to scrape PDFs
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 9827
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [html-live-text](https://github.com/TomasHubelbauer/html-live-text)
 
 ⚖️ 9764
@@ -201,14 +209,6 @@
 🏷 html, loader, loading-animation, loading-indicator, ui, ux, ux-experiment
 
 📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 9603
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
