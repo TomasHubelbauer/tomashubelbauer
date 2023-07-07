@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-07-07T00:15:46.040Z
+2023-07-07T01:33:20.360Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -196,7 +196,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 11309
+⚖️ 11311
 
 🏷 tomashubelbauer
 
@@ -209,14 +209,6 @@
 🏷 html, loader, loading-animation, loading-indicator, ui, ux, ux-experiment
 
 📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 9019
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [web-midi](https://github.com/TomasHubelbauer/web-midi)
 
@@ -241,6 +233,14 @@
 🏷 
 
 📒 GitHub Action to send LGTM reaction
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 7125
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [lyrics](https://github.com/TomasHubelbauer/lyrics)
 
