@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-07-07T14:05:36.296Z
+2023-07-07T15:05:26.583Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3506,14 +3506,6 @@
 
 📒 null
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2023-07-01T07:15:16Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
 
 ⚖️ 2023-07-01T22:01:18Z
@@ -3529,4 +3521,12 @@
 🏷 github-pages, local-storage
 
 📒 An ES module library for separating localStorage on GitHub Pages not by origin but by path name.
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2023-07-07T14:19:40Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 

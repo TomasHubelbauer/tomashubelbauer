@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-07-07T14:05:36.301Z
+2023-07-07T15:05:26.588Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2023-07-07T14:19:40Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [github-pages-local-storage](https://github.com/TomasHubelbauer/github-pages-local-storage)
 
@@ -17,14 +25,6 @@
 🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
 
 📒 Brother P-touch D600 label maker USB communication with P-touch Editor
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2023-07-01T07:15:16Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [apps-and-services](https://github.com/TomasHubelbauer/apps-and-services)
 
