@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-07-12T20:05:37.129Z
+2023-07-12T21:05:14.228Z
+
+## [vscode-email-viewer](https://github.com/TomasHubelbauer/vscode-email-viewer)
+
+⚖️ 2023-07-12T20:45:18Z
+
+🏷 email, email-parsing, eml, eml-files, preview, vscode, vscode-extension, vscode-preview
+
+📒 Preview email message files (EML) in VS Code
 
 ## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
 
@@ -441,14 +449,6 @@
 🏷 html, loader, loading-animation, loading-indicator, ui, ux, ux-experiment
 
 📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
-
-## [vscode-email-viewer](https://github.com/TomasHubelbauer/vscode-email-viewer)
-
-⚖️ 2023-05-08T15:11:00Z
-
-🏷 email, email-parsing, eml, eml-files, preview, vscode, vscode-extension, vscode-preview
-
-📒 Preview email message files (EML) in VS Code
 
 ## [live-cards](https://github.com/TomasHubelbauer/live-cards)
 
