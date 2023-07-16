@@ -1,22 +1,6 @@
 # By `size` (asc)
 
-2023-07-16T11:05:18.836Z
-
-## [git-submodule-track-branch](https://github.com/TomasHubelbauer/git-submodule-track-branch)
-
-⚖️ 0
-
-🏷 
-
-📒 null
-
-## [git-submodule-track-branch-sub](https://github.com/TomasHubelbauer/git-submodule-track-branch-sub)
-
-⚖️ 0
-
-🏷 
-
-📒 A submodule used in https://github.com/TomasHubelbauer/git-submodule-track-branch
+2023-07-16T12:05:56.231Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -393,6 +377,14 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
+
+## [git-submodule-track-branch-sub](https://github.com/TomasHubelbauer/git-submodule-track-branch-sub)
+
+⚖️ 2
+
+🏷 
+
+📒 A submodule used in https://github.com/TomasHubelbauer/git-submodule-track-branch
 
 ## [open-source-encore-2023-05-28-jekyll-readme-index](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-jekyll-readme-index)
 
@@ -1145,6 +1137,14 @@
 🏷 3d, 3d-modeling, 3d-modelling, blender, merge-faces
 
 📒 My research into merging faces in Blender
+
+## [git-submodule-track-branch](https://github.com/TomasHubelbauer/git-submodule-track-branch)
+
+⚖️ 5
+
+🏷 
+
+📒 null
 
 ## [open-source-encore-2023-05-22](https://github.com/TomasHubelbauer/open-source-encore-2023-05-22)
 
@@ -3356,7 +3356,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 13742
+⚖️ 13952
 
 🏷 tomashubelbauer
 

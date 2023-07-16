@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-07-16T11:05:18.839Z
+2023-07-16T12:05:56.233Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -188,7 +188,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 13742
+⚖️ 13952
 
 🏷 tomashubelbauer
 
@@ -2250,6 +2250,14 @@
 
 📒 Making contenteditable less useless
 
+## [git-submodule-track-branch](https://github.com/TomasHubelbauer/git-submodule-track-branch)
+
+⚖️ 5
+
+🏷 
+
+📒 null
+
 ## [open-source-encore-2023-05-22](https://github.com/TomasHubelbauer/open-source-encore-2023-05-22)
 
 ⚖️ 5
@@ -2890,6 +2898,14 @@
 
 📒 A demonstration of setting desktop wallpaper and background color using Batch
 
+## [git-submodule-track-branch-sub](https://github.com/TomasHubelbauer/git-submodule-track-branch-sub)
+
+⚖️ 2
+
+🏷 
+
+📒 A submodule used in https://github.com/TomasHubelbauer/git-submodule-track-branch
+
 ## [open-source-encore-2023-05-28-jekyll-readme-index](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-jekyll-readme-index)
 
 ⚖️ 2
@@ -3481,22 +3497,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [git-submodule-track-branch](https://github.com/TomasHubelbauer/git-submodule-track-branch)
-
-⚖️ 0
-
-🏷 
-
-📒 null
-
-## [git-submodule-track-branch-sub](https://github.com/TomasHubelbauer/git-submodule-track-branch-sub)
-
-⚖️ 0
-
-🏷 
-
-📒 A submodule used in https://github.com/TomasHubelbauer/git-submodule-track-branch
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
