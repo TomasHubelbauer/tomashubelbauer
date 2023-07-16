@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-07-16T10:05:09.021Z
+2023-07-16T11:05:18.822Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3529,4 +3529,20 @@
 🏷 email, email-parsing, eml, eml-files, preview, vscode, vscode-extension, vscode-preview
 
 📒 Preview email message files (EML) in VS Code
+
+## [git-submodule-track-branch](https://github.com/TomasHubelbauer/git-submodule-track-branch)
+
+⚖️ 2023-07-16T10:16:40Z
+
+🏷 
+
+📒 null
+
+## [git-submodule-track-branch-sub](https://github.com/TomasHubelbauer/git-submodule-track-branch-sub)
+
+⚖️ 2023-07-16T10:22:19Z
+
+🏷 
+
+📒 A submodule used in https://github.com/TomasHubelbauer/git-submodule-track-branch
 

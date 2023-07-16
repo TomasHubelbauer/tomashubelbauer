@@ -1,6 +1,22 @@
 # By `updated_at` (desc)
 
-2023-07-16T10:05:09.025Z
+2023-07-16T11:05:18.828Z
+
+## [git-submodule-track-branch-sub](https://github.com/TomasHubelbauer/git-submodule-track-branch-sub)
+
+⚖️ 2023-07-16T10:22:19Z
+
+🏷 
+
+📒 A submodule used in https://github.com/TomasHubelbauer/git-submodule-track-branch
+
+## [git-submodule-track-branch](https://github.com/TomasHubelbauer/git-submodule-track-branch)
+
+⚖️ 2023-07-16T10:16:40Z
+
+🏷 
+
+📒 null
 
 ## [vscode-email-viewer](https://github.com/TomasHubelbauer/vscode-email-viewer)
 

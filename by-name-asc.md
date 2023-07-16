@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-07-16T10:05:09.015Z
+2023-07-16T11:05:18.816Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -1113,6 +1113,22 @@
 🏷 git, gitmodules, submodule
 
 📒 Investigating if a Git submodule can be added by hand
+
+## [git-submodule-track-branch](https://github.com/TomasHubelbauer/git-submodule-track-branch)
+
+⚖️ git-submodule-track-branch
+
+🏷 
+
+📒 null
+
+## [git-submodule-track-branch-sub](https://github.com/TomasHubelbauer/git-submodule-track-branch-sub)
+
+⚖️ git-submodule-track-branch-sub
+
+🏷 
+
+📒 A submodule used in https://github.com/TomasHubelbauer/git-submodule-track-branch
 
 ## [git-worktree](https://github.com/TomasHubelbauer/git-worktree)
 

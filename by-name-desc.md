@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-07-16T10:05:09.017Z
+2023-07-16T11:05:18.819Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -2413,6 +2413,22 @@
 ## [git-worktree](https://github.com/TomasHubelbauer/git-worktree)
 
 ⚖️ git-worktree
+
+🏷 
+
+📒 null
+
+## [git-submodule-track-branch-sub](https://github.com/TomasHubelbauer/git-submodule-track-branch-sub)
+
+⚖️ git-submodule-track-branch-sub
+
+🏷 
+
+📒 A submodule used in https://github.com/TomasHubelbauer/git-submodule-track-branch
+
+## [git-submodule-track-branch](https://github.com/TomasHubelbauer/git-submodule-track-branch)
+
+⚖️ git-submodule-track-branch
 
 🏷 
 
