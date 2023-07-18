@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-07-18T10:04:59.812Z
+2023-07-18T11:05:02.330Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2442,14 +2442,6 @@
 
 📒 Implementing a design idea I had
 
-## [vscode-zip-file-system](https://github.com/TomasHubelbauer/vscode-zip-file-system)
-
-⚖️ 2022-06-17T06:42:47Z
-
-🏷 archive, filesystem, vscode, vscode-extension, zip, zipfile
-
-📒 Provides a context menu option to mount ZIP archives as a virtual file system in the VS Code Explorer pane.
-
 ## [instagram](https://github.com/TomasHubelbauer/instagram)
 
 ⚖️ 2022-06-26T17:29:06Z
@@ -3545,4 +3537,12 @@
 🏷 
 
 📒 A submodule used in https://github.com/TomasHubelbauer/git-submodule-track-branch
+
+## [vscode-zip-file-system](https://github.com/TomasHubelbauer/vscode-zip-file-system)
+
+⚖️ 2023-07-18T10:46:19Z
+
+🏷 archive, filesystem, vscode, vscode-extension, zip, zipfile
+
+📒 Provides a context menu option to mount ZIP archives as a virtual file system in the VS Code Explorer pane.
 
