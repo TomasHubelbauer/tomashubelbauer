@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-07-19T15:05:13.560Z
+2023-07-19T16:05:34.329Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2274,14 +2274,6 @@
 
 📒 Demonstrating the use of reader to display a progress of fetch download
 
-## [github-pages-custom-domain](https://github.com/TomasHubelbauer/github-pages-custom-domain)
-
-⚖️ 2022-04-28T08:47:28Z
-
-🏷 custom-domain, github-pages
-
-📒 A quick and concise guide on how to set up GitHub Pages with a custom domain
-
 ## [macos-date-time](https://github.com/TomasHubelbauer/macos-date-time)
 
 ⚖️ 2022-04-28T08:49:43Z
@@ -3545,4 +3537,12 @@
 🏷 archive, filesystem, vscode, vscode-extension, zip, zipfile
 
 📒 Provides a context menu option to mount ZIP archives as a virtual file system in the VS Code Explorer pane.
+
+## [github-pages-custom-domain](https://github.com/TomasHubelbauer/github-pages-custom-domain)
+
+⚖️ 2023-07-19T15:19:55Z
+
+🏷 custom-domain, github-pages
+
+📒 A quick and concise guide on how to set up GitHub Pages with a custom domain
 

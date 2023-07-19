@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-07-19T15:05:13.564Z
+2023-07-19T16:05:34.334Z
+
+## [github-pages-custom-domain](https://github.com/TomasHubelbauer/github-pages-custom-domain)
+
+⚖️ 2023-07-19T15:19:55Z
+
+🏷 custom-domain, github-pages
+
+📒 A quick and concise guide on how to set up GitHub Pages with a custom domain
 
 ## [vscode-zip-file-system](https://github.com/TomasHubelbauer/vscode-zip-file-system)
 
@@ -1265,14 +1273,6 @@
 🏷 am-pm, clock, date-and-time, date-time, g11n, i14n, l10n, mac-os, meridian
 
 📒 My findings about macOS date and time settings
-
-## [github-pages-custom-domain](https://github.com/TomasHubelbauer/github-pages-custom-domain)
-
-⚖️ 2022-04-28T08:47:28Z
-
-🏷 custom-domain, github-pages
-
-📒 A quick and concise guide on how to set up GitHub Pages with a custom domain
 
 ## [fetch-download-progress](https://github.com/TomasHubelbauer/fetch-download-progress)
 
