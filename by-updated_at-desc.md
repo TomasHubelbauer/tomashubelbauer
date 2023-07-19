@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-07-19T00:24:14.661Z
+2023-07-19T01:38:30.554Z
 
 ## [vscode-zip-file-system](https://github.com/TomasHubelbauer/vscode-zip-file-system)
 
