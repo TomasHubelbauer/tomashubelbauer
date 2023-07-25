@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-07-25T21:05:30.271Z
+2023-07-25T22:05:24.730Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2322,14 +2322,6 @@
 
 📒 AirDrop based WebRTC signaling channel
 
-## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
-
-⚖️ 2022-04-28T08:56:10Z
-
-🏷 nmea, wokwi
-
-📒 Simulating my NMEA checksum sketch using the Wokwi Arduino simulator
-
 ## [js-qr-scanner-library-comparison](https://github.com/TomasHubelbauer/js-qr-scanner-library-comparison)
 
 ⚖️ 2022-04-28T09:03:32Z
@@ -3545,4 +3537,12 @@
 🏷 custom-domain, github-pages
 
 📒 A quick and concise guide on how to set up GitHub Pages with a custom domain
+
+## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
+
+⚖️ 2023-07-25T21:10:25Z
+
+🏷 nmea, wokwi
+
+📒 Simulating my NMEA checksum sketch using the Wokwi Arduino simulator
 

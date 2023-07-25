@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-07-25T21:05:30.273Z
+2023-07-25T22:05:24.732Z
+
+## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
+
+⚖️ 2023-07-25T21:10:25Z
+
+🏷 nmea, wokwi
+
+📒 Simulating my NMEA checksum sketch using the Wokwi Arduino simulator
 
 ## [github-pages-custom-domain](https://github.com/TomasHubelbauer/github-pages-custom-domain)
 
@@ -1217,14 +1225,6 @@
 🏷 benchmark, comparison, qr, qr-code, qr-codes, qrcode, qrcode-reader, qrcode-scanner
 
 📒 A comparison of JavaScript QR scanner libraries
-
-## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
-
-⚖️ 2022-04-28T08:56:10Z
-
-🏷 nmea, wokwi
-
-📒 Simulating my NMEA checksum sketch using the Wokwi Arduino simulator
 
 ## [webrtc-airdrop](https://github.com/TomasHubelbauer/webrtc-airdrop)
 
