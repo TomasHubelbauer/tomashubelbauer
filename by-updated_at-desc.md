@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-07-26T07:06:02.128Z
+2023-07-26T08:05:34.076Z
+
+## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
+
+⚖️ 2023-07-26T07:30:10Z
+
+🏷 git, git-modules, submodules
+
+📒 A demo submodule used by my other repos.
 
 ## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
 
@@ -361,14 +369,6 @@
 🏷 
 
 📒 A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
-
-## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
-
-⚖️ 2023-05-21T21:15:48Z
-
-🏷 git, git-modules, submodules
-
-📒 A demo submodule used by my other repos.
 
 ## [git-dot-ds_store-global-ignore](https://github.com/TomasHubelbauer/git-dot-ds_store-global-ignore)
 

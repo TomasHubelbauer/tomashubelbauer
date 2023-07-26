@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-07-26T07:06:02.125Z
+2023-07-26T08:05:34.074Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3178,14 +3178,6 @@
 
 📒 Information on how to hide the infamous .DS_Store macOS file using the global Git ignore configuration option.
 
-## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
-
-⚖️ 2023-05-21T21:15:48Z
-
-🏷 git, git-modules, submodules
-
-📒 A demo submodule used by my other repos.
-
 ## [liquidjs](https://github.com/TomasHubelbauer/liquidjs)
 
 ⚖️ 2023-05-22T16:35:52Z
@@ -3545,4 +3537,12 @@
 🏷 nmea, wokwi
 
 📒 Simulating my NMEA checksum sketch using the Wokwi Arduino simulator
+
+## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
+
+⚖️ 2023-07-26T07:30:10Z
+
+🏷 git, git-modules, submodules
+
+📒 A demo submodule used by my other repos.
 
