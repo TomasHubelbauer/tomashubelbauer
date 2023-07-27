@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-07-27T17:05:36.013Z
+2023-07-27T18:05:21.814Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3474,14 +3474,6 @@
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
-## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
-
-⚖️ 2023-07-09T17:54:31Z
-
-🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
-
-📒 Raspberry Pi Pico mouse jiggler
-
 ## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
 
 ⚖️ 2023-07-11T15:53:18Z
@@ -3545,4 +3537,12 @@
 🏷 git, git-modules, submodules
 
 📒 A demo submodule used by my other repos.
+
+## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
+
+⚖️ 2023-07-27T17:20:00Z
+
+🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
+
+📒 Raspberry Pi Pico mouse jiggler
 

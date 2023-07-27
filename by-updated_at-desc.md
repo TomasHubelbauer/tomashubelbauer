@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-07-27T17:05:36.017Z
+2023-07-27T18:05:21.820Z
+
+## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
+
+⚖️ 2023-07-27T17:20:00Z
+
+🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
+
+📒 Raspberry Pi Pico mouse jiggler
 
 ## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
 
@@ -65,14 +73,6 @@
 🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
 
 📒 3D SVG projection and animation
-
-## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
-
-⚖️ 2023-07-09T17:54:31Z
-
-🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
-
-📒 Raspberry Pi Pico mouse jiggler
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
