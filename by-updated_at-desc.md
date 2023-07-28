@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-07-28T07:05:15.056Z
+2023-07-28T08:05:09.510Z
+
+## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
+
+⚖️ 2023-07-28T08:02:18Z
+
+🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
+
+📒 WebRTC Data Channel demo
 
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
@@ -193,14 +201,6 @@
 🏷 intellisense, markdown, table, vscode, vscode-extension, vscode-plugin
 
 📒 Formats tables in MarkDown documents when using the Format Document editor context menu option in VS Code.
-
-## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
-
-⚖️ 2023-06-08T09:40:16Z
-
-🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
-
-📒 WebRTC Data Channel demo
 
 ## [nextra-mermaid](https://github.com/TomasHubelbauer/nextra-mermaid)
 
