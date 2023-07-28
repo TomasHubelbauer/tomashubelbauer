@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-07-28T21:05:49.449Z
+2023-07-28T22:05:02.845Z
+
+## [windows-sandbox-script](https://github.com/TomasHubelbauer/windows-sandbox-script)
+
+⚖️ 2023-07-28T21:28:01Z
+
+🏷 windows-sandbox, wsb
+
+📒 Windows Sandbox exploration
 
 ## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
 
@@ -793,14 +801,6 @@
 🏷 cheatsheet, kb, knowledge-base, windows-sandbox, wsb, wsb-launcher
 
 📒 My knowledge base about the Windows Sandbox
-
-## [windows-sandbox-script](https://github.com/TomasHubelbauer/windows-sandbox-script)
-
-⚖️ 2023-02-24T03:22:08Z
-
-🏷 windows-sandbox, wsb
-
-📒 Windows Sandbox exploration
 
 ## [qr-channel](https://github.com/TomasHubelbauer/qr-channel)
 
