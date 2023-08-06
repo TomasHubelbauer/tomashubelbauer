@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-08-06T19:05:05.091Z
+2023-08-06T20:06:05.909Z
+
+## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
+
+⚖️ 2023-08-06T19:15:56Z
+
+🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
+
+📒 A WebRTC data channel establishment with QR codes used for signaling channel.
 
 ## [onewheel-charger](https://github.com/TomasHubelbauer/onewheel-charger)
 
@@ -433,14 +441,6 @@
 🏷 
 
 📒 The React Framework
-
-## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
-
-⚖️ 2023-05-19T13:14:19Z
-
-🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
-
-📒 A WebRTC data channel establishment with QR codes used for signaling channel.
 
 ## [safari-offline](https://github.com/TomasHubelbauer/safari-offline)
 

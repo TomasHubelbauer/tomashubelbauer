@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-08-06T19:05:05.086Z
+2023-08-06T20:06:05.902Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3106,14 +3106,6 @@
 
 📒 An example of a fully ofline web app running in iOS Safari
 
-## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
-
-⚖️ 2023-05-19T13:14:19Z
-
-🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
-
-📒 A WebRTC data channel establishment with QR codes used for signaling channel.
-
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
 ⚖️ 2023-05-19T15:57:39Z
@@ -3545,4 +3537,12 @@
 🏷 charger, onewheel, onewheel-charger, onewheel-pint, onewheel-xr
 
 📒 Onewheel Pint and +XR charger specs and connector pinouts
+
+## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
+
+⚖️ 2023-08-06T19:15:56Z
+
+🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
+
+📒 A WebRTC data channel establishment with QR codes used for signaling channel.
 
