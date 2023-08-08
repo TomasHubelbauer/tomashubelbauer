@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-08-08T12:06:55.146Z
+2023-08-08T13:06:34.722Z
+
+## [analog-panel-meter](https://github.com/TomasHubelbauer/analog-panel-meter)
+
+⚖️ 2023-08-08T12:18:35Z
+
+🏷 
+
+📒 null
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-08-08T11:07:28Z
+⚖️ 2023-08-08T12:08:51Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [analog-panel-meter](https://github.com/TomasHubelbauer/analog-panel-meter)
-
-⚖️ 2023-08-07T15:15:20Z
-
-🏷 
-
-📒 null
 
 ## [git-submodule-track-branch](https://github.com/TomasHubelbauer/git-submodule-track-branch)
 
