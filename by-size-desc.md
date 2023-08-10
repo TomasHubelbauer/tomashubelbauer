@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-08-10T00:14:25.143Z
+2023-08-10T01:32:44.662Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -186,6 +186,14 @@
 
 📒 Preview email message files (EML) in VS Code
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 12397
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [playwright-pdf](https://github.com/TomasHubelbauer/playwright-pdf)
 
 ⚖️ 12262
@@ -194,14 +202,6 @@
 
 📒 Using Playwright Firefox to scrape PDFs
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 12175
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [html-live-text](https://github.com/TomasHubelbauer/html-live-text)
 
 ⚖️ 9764
@@ -209,6 +209,14 @@
 🏷 html, loader, loading-animation, loading-indicator, ui, ux, ux-experiment
 
 📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 8808
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [web-midi](https://github.com/TomasHubelbauer/web-midi)
 
@@ -225,14 +233,6 @@
 🏷 css, layout, merry-go-round
 
 📒 CSS solution for a "merry-go-round" style sliding showcase
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 8739
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
 
