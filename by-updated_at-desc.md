@@ -1,6 +1,22 @@
 # By `updated_at` (desc)
 
-2023-08-11T19:05:11.214Z
+2023-08-11T20:05:47.937Z
+
+## [wiringbits.github.io](https://github.com/TomasHubelbauer/wiringbits.github.io)
+
+⚖️ 2023-08-11T19:52:47Z
+
+🏷 
+
+📒 The wiringbits website and blog
+
+## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
+
+⚖️ 2023-08-11T19:22:41Z
+
+🏷 
+
+📒 null
 
 ## [analog-panel-meter](https://github.com/TomasHubelbauer/analog-panel-meter)
 

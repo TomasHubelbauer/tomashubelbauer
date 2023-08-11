@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-08-11T19:05:11.204Z
+2023-08-11T20:05:47.924Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -1017,6 +1017,14 @@
 🏷 cors, file-protocol, firefox
 
 📒 Notes of working around CORS with Firefox localhost file: protocol
+
+## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
+
+⚖️ firefox-permanent-unsigned-extension
+
+🏷 
+
+📒 null
 
 ## [firefox-youtube-buddy](https://github.com/TomasHubelbauer/firefox-youtube-buddy)
 
@@ -3481,6 +3489,14 @@
 🏷 
 
 📒 A list of things I plan on looking into.
+
+## [wiringbits.github.io](https://github.com/TomasHubelbauer/wiringbits.github.io)
+
+⚖️ wiringbits.github.io
+
+🏷 
+
+📒 The wiringbits website and blog
 
 ## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
 

@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-08-11T19:05:11.209Z
+2023-08-11T20:05:47.927Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -73,6 +73,14 @@
 🏷 nmea, wokwi
 
 📒 Simulating my NMEA checksum sketch using the Wokwi Arduino simulator
+
+## [wiringbits.github.io](https://github.com/TomasHubelbauer/wiringbits.github.io)
+
+⚖️ wiringbits.github.io
+
+🏷 
+
+📒 The wiringbits website and blog
 
 ## [wip](https://github.com/TomasHubelbauer/wip)
 
@@ -2533,6 +2541,14 @@
 ## [firefox-youtube-buddy](https://github.com/TomasHubelbauer/firefox-youtube-buddy)
 
 ⚖️ firefox-youtube-buddy
+
+🏷 
+
+📒 null
+
+## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
+
+⚖️ firefox-permanent-unsigned-extension
 
 🏷 
 

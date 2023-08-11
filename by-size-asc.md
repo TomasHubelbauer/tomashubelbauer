@@ -1,6 +1,14 @@
 # By `size` (asc)
 
-2023-08-11T19:05:11.226Z
+2023-08-11T20:05:47.946Z
+
+## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
+
+⚖️ 0
+
+🏷 
+
+📒 null
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -3314,6 +3322,14 @@
 
 📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
+## [wiringbits.github.io](https://github.com/TomasHubelbauer/wiringbits.github.io)
+
+⚖️ 7616
+
+🏷 
+
+📒 The wiringbits website and blog
+
 ## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
 
 ⚖️ 8275
@@ -3356,7 +3372,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 11387
+⚖️ 11599
 
 🏷 tomashubelbauer
 

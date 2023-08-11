@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-08-11T19:05:11.246Z
+2023-08-11T20:05:47.949Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -196,7 +196,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 11387
+⚖️ 11599
 
 🏷 tomashubelbauer
 
@@ -241,6 +241,14 @@
 🏷 
 
 📒 GitHub Action to send LGTM reaction
+
+## [wiringbits.github.io](https://github.com/TomasHubelbauer/wiringbits.github.io)
+
+⚖️ 7616
+
+🏷 
+
+📒 The wiringbits website and blog
 
 ## [lyrics](https://github.com/TomasHubelbauer/lyrics)
 
@@ -3505,6 +3513,14 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
+
+## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
+
+⚖️ 0
+
+🏷 
+
+📒 null
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
