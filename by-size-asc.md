@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2023-08-11T21:05:27.201Z
-
-## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
-
-⚖️ 0
-
-🏷 
-
-📒 null
+2023-08-11T22:05:01.004Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2722,6 +2714,14 @@
 
 📒 A router for CRA which uses location.hash
 
+## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
+
+⚖️ 148
+
+🏷 
+
+📒 null
+
 ## [cra-location-search-router](https://github.com/TomasHubelbauer/cra-location-search-router)
 
 ⚖️ 149
@@ -3372,7 +3372,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 11599
+⚖️ 11813
 
 🏷 tomashubelbauer
 

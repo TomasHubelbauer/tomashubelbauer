@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-08-11T21:05:27.204Z
+2023-08-11T22:05:01.006Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -196,7 +196,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 11599
+⚖️ 11813
 
 🏷 tomashubelbauer
 
@@ -849,6 +849,14 @@
 🏷 cra, create-react-app, location-search
 
 📒 A router for CRA which uses location.search
+
+## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
+
+⚖️ 148
+
+🏷 
+
+📒 null
 
 ## [rbc-week-empty-area](https://github.com/TomasHubelbauer/rbc-week-empty-area)
 
@@ -3513,14 +3521,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
-
-⚖️ 0
-
-🏷 
-
-📒 null
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
