@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-08-12T20:05:07.849Z
+2023-08-12T21:04:50.296Z
 
 ## [firefox-hn-hide-domain](https://github.com/TomasHubelbauer/firefox-hn-hide-domain)
 

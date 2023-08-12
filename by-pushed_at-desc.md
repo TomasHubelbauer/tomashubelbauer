@@ -1,10 +1,10 @@
 # By `pushed_at` (desc)
 
-2023-08-12T20:05:07.846Z
+2023-08-12T21:04:50.294Z
 
 ## [firefox-hn-hide-domain](https://github.com/TomasHubelbauer/firefox-hn-hide-domain)
 
-⚖️ 2023-08-12T20:02:55Z
+⚖️ 2023-08-12T21:01:32Z
 
 🏷 
 
@@ -12,7 +12,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-08-12T19:06:41Z
+⚖️ 2023-08-12T20:07:05Z
 
 🏷 tomashubelbauer
 
