@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-08-12T19:04:43.731Z
+2023-08-12T20:05:07.835Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -2557,6 +2557,14 @@
 ## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
 
 ⚖️ firefox-permanent-unsigned-extension
+
+🏷 
+
+📒 null
+
+## [firefox-hn-hide-domain](https://github.com/TomasHubelbauer/firefox-hn-hide-domain)
+
+⚖️ firefox-hn-hide-domain
 
 🏷 
 

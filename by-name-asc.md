@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-08-12T19:04:43.729Z
+2023-08-12T20:05:07.833Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -1017,6 +1017,14 @@
 🏷 cors, file-protocol, firefox
 
 📒 Notes of working around CORS with Firefox localhost file: protocol
+
+## [firefox-hn-hide-domain](https://github.com/TomasHubelbauer/firefox-hn-hide-domain)
+
+⚖️ firefox-hn-hide-domain
+
+🏷 
+
+📒 null
 
 ## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
 
