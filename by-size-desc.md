@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-08-12T17:04:47.440Z
+2023-08-12T18:05:10.232Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -850,6 +850,14 @@
 
 📒 Testing RBC (React Big Calendar) with CRA (Create React App)
 
+## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
+
+⚖️ 149
+
+🏷 
+
+📒 null
+
 ## [cra-location-search-router](https://github.com/TomasHubelbauer/cra-location-search-router)
 
 ⚖️ 149
@@ -857,14 +865,6 @@
 🏷 cra, create-react-app, location-search
 
 📒 A router for CRA which uses location.search
-
-## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
-
-⚖️ 148
-
-🏷 
-
-📒 null
 
 ## [rbc-week-empty-area](https://github.com/TomasHubelbauer/rbc-week-empty-area)
 
