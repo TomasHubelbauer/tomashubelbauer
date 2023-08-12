@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-08-12T07:05:38.711Z
+2023-08-12T08:06:16.668Z
+
+## [github-actions](https://github.com/TomasHubelbauer/github-actions)
+
+⚖️ 2023-08-12T07:44:15Z
+
+🏷 cd, ci, ci-cd, github, github-actions
+
+📒 Infromation and tips regarding GitHub Actions
 
 ## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
 
@@ -921,14 +929,6 @@
 🏷 3mf
 
 📒 A script for extracting 3MF files into 3MF directories
-
-## [github-actions](https://github.com/TomasHubelbauer/github-actions)
-
-⚖️ 2022-12-05T11:45:29Z
-
-🏷 cd, ci, ci-cd, github, github-actions
-
-📒 Infromation and tips regarding GitHub Actions
 
 ## [github-linguist](https://github.com/TomasHubelbauer/github-linguist)
 

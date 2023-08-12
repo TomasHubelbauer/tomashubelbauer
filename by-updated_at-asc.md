@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-08-12T07:05:38.706Z
+2023-08-12T08:06:16.659Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2642,14 +2642,6 @@
 
 📒 A .gitattributes file which makes MarkDown files appear in the Linguist language stats bar
 
-## [github-actions](https://github.com/TomasHubelbauer/github-actions)
-
-⚖️ 2022-12-05T11:45:29Z
-
-🏷 cd, ci, ci-cd, github, github-actions
-
-📒 Infromation and tips regarding GitHub Actions
-
 ## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
 
 ⚖️ 2022-12-14T02:55:40Z
@@ -3569,4 +3561,12 @@
 🏷 
 
 📒 null
+
+## [github-actions](https://github.com/TomasHubelbauer/github-actions)
+
+⚖️ 2023-08-12T07:44:15Z
+
+🏷 cd, ci, ci-cd, github, github-actions
+
+📒 Infromation and tips regarding GitHub Actions
 
