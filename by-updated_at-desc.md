@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-08-11T23:04:59.162Z
+2023-08-12T00:11:33.572Z
 
 ## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
 
