@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-08-12T16:05:01.655Z
+2023-08-12T17:04:47.435Z
+
+## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
+
+⚖️ 2023-08-12T16:10:06Z
+
+🏷 
+
+📒 null
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-08-12T15:07:47Z
+⚖️ 2023-08-12T16:06:58Z
 
 🏷 tomashubelbauer
 
@@ -33,14 +41,6 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
-
-⚖️ 2023-08-11T20:23:01Z
-
-🏷 
-
-📒 null
 
 ## [analog-panel-meter](https://github.com/TomasHubelbauer/analog-panel-meter)
 
