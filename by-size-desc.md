@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-08-12T10:05:07.570Z
+2023-08-12T11:05:30.896Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -153,6 +153,14 @@
 🏷 blender, light-box
 
 📒 Blender light box model
+
+## [solvespace](https://github.com/TomasHubelbauer/solvespace)
+
+⚖️ 21662
+
+🏷 
+
+📒 Parametric 2d/3d CAD
 
 ## [blender-gargantua](https://github.com/TomasHubelbauer/blender-gargantua)
 

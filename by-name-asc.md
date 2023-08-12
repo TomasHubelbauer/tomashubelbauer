@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-08-12T10:05:07.551Z
+2023-08-12T11:05:30.871Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2769,6 +2769,14 @@
 🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
 
 📒 Notes about my solar experiments
+
+## [solvespace](https://github.com/TomasHubelbauer/solvespace)
+
+⚖️ solvespace
+
+🏷 
+
+📒 Parametric 2d/3d CAD
 
 ## [speedtest](https://github.com/TomasHubelbauer/speedtest)
 

@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-08-12T10:05:07.554Z
+2023-08-12T11:05:30.873Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -801,6 +801,14 @@
 🏷 fast, netflix, ookla, speed-test, speedtest
 
 📒 Speed test solution based on scraping Netflix and Ookla speed tests
+
+## [solvespace](https://github.com/TomasHubelbauer/solvespace)
+
+⚖️ solvespace
+
+🏷 
+
+📒 Parametric 2d/3d CAD
 
 ## [solar](https://github.com/TomasHubelbauer/solar)
 
