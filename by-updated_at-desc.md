@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-08-13T11:05:20.237Z
+2023-08-13T12:06:25.464Z
 
 ## [firefox-hn-hide-domain](https://github.com/TomasHubelbauer/firefox-hn-hide-domain)
 
