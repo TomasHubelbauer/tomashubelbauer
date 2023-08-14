@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-08-14T11:05:31.345Z
+2023-08-14T12:06:21.141Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3490,14 +3490,6 @@
 
 📒 A demo submodule used by my other repos.
 
-## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
-
-⚖️ 2023-07-27T17:20:00Z
-
-🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
-
-📒 Raspberry Pi Pico mouse jiggler
-
 ## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
 
 ⚖️ 2023-07-28T08:02:18Z
@@ -3585,4 +3577,12 @@
 🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
 
 📒 3D SVG projection and animation
+
+## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
+
+⚖️ 2023-08-14T11:06:54Z
+
+🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
+
+📒 Raspberry Pi Pico mouse jiggler
 
