@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-08-28T19:05:04.013Z
+2023-08-28T20:05:16.505Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3258,14 +3258,6 @@
 
 📒 An experiment to see if the GitHub Actions integration PAT can edit repository metadata
 
-## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
-
-⚖️ 2023-05-29T21:45:13Z
-
-🏷 fatcow, fatcow-icons, hubelbauer-net, icon-pack, icon-set, icons
-
-📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
-
 ## [jekyll](https://github.com/TomasHubelbauer/jekyll)
 
 ⚖️ 2023-05-30T15:31:43Z
@@ -3585,4 +3577,12 @@
 🏷 akai, apc-mini, launchpad, midi, usb
 
 📒 Akai APCmini launchpad USB/MIDI communication protocol
+
+## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
+
+⚖️ 2023-08-28T19:39:17Z
+
+🏷 fatcow, fatcow-icons, hubelbauer-net, icon-pack, icon-set, icons
+
+📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 
