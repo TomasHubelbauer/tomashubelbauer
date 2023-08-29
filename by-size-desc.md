@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-08-29T08:05:48.585Z
+2023-08-29T09:05:22.602Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -196,7 +196,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 13310
+⚖️ 13524
 
 🏷 tomashubelbauer
 
@@ -2282,6 +2282,14 @@
 
 📒 Making contenteditable less useless
 
+## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
+
+⚖️ 5
+
+🏷 
+
+📒 null
+
 ## [git-submodule-track-branch](https://github.com/TomasHubelbauer/git-submodule-track-branch)
 
 ⚖️ 5
@@ -2441,14 +2449,6 @@
 🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
-
-## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
-
-⚖️ 4
-
-🏷 
-
-📒 null
 
 ## [node-esm-loader-repro](https://github.com/TomasHubelbauer/node-esm-loader-repro)
 
