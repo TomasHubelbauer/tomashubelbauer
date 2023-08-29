@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-08-29T00:13:12.715Z
+2023-08-29T01:26:12.657Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -3338,14 +3338,6 @@
 
 📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 7530
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [wiringbits.github.io](https://github.com/TomasHubelbauer/wiringbits.github.io)
 
 ⚖️ 7616
@@ -3353,6 +3345,14 @@
 🏷 
 
 📒 The wiringbits website and blog
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 7617
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
 
@@ -3396,7 +3396,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 12667
+⚖️ 12669
 
 🏷 tomashubelbauer
 
