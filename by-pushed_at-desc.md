@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-08-30T13:06:09.879Z
+2023-08-30T14:06:10.105Z
+
+## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
+
+⚖️ 2023-08-30T14:05:31Z
+
+🏷 
+
+📒 null
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-08-30T12:08:14Z
+⚖️ 2023-08-30T13:08:07Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
-
-⚖️ 2023-08-29T09:36:50Z
-
-🏷 
-
-📒 null
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
