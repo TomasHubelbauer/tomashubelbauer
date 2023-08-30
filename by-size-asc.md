@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-08-30T14:06:10.109Z
+2023-08-30T15:06:07.957Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -1426,14 +1426,6 @@
 
 📒 Making contenteditable less useless
 
-## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
-
-⚖️ 7
-
-🏷 
-
-📒 null
-
 ## [open-source-encore-2023-05-28-websaver](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-websaver)
 
 ⚖️ 7
@@ -1985,6 +1977,14 @@
 🏷 100mbps, open-street-map, osm, prague, prague-geodata
 
 📒 Attempting to compress the OSM data to 100 MB and seeing what fits
+
+## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
+
+⚖️ 16
+
+🏷 
+
+📒 null
 
 ## [web-certificates](https://github.com/TomasHubelbauer/web-certificates)
 
