@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-08-30T11:05:49.403Z
+2023-08-30T12:06:16.926Z
+
+## [qr-channel](https://github.com/TomasHubelbauer/qr-channel)
+
+⚖️ 2023-08-30T11:51:36Z
+
+🏷 data-channel, ice, javascript, peer-connection, qr-channel, qr-code, qrcode, sdp, webrtc, webrtc-datachannel, webrtc-demo
+
+📒 WebRTC data channel peer connection establishment using QR codes for trickle ICE exchange.
 
 ## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
 
@@ -865,14 +873,6 @@
 🏷 cheatsheet, kb, knowledge-base, windows-sandbox, wsb, wsb-launcher
 
 📒 My knowledge base about the Windows Sandbox
-
-## [qr-channel](https://github.com/TomasHubelbauer/qr-channel)
-
-⚖️ 2023-02-20T04:54:52Z
-
-🏷 data-channel, ice, javascript, peer-connection, qr-channel, qr-code, qrcode, sdp, webrtc, webrtc-datachannel, webrtc-demo
-
-📒 WebRTC data channel peer connection establishment using QR codes for trickle ICE exchange.
 
 ## [pdf-scrape](https://github.com/TomasHubelbauer/pdf-scrape)
 

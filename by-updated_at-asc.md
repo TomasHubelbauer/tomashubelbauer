@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-08-30T11:05:49.399Z
+2023-08-30T12:06:16.922Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2722,14 +2722,6 @@
 
 📒 Demonstrating PDF text and image extraction with correct bounds
 
-## [qr-channel](https://github.com/TomasHubelbauer/qr-channel)
-
-⚖️ 2023-02-20T04:54:52Z
-
-🏷 data-channel, ice, javascript, peer-connection, qr-channel, qr-code, qrcode, sdp, webrtc, webrtc-datachannel, webrtc-demo
-
-📒 WebRTC data channel peer connection establishment using QR codes for trickle ICE exchange.
-
 ## [wsb-kb](https://github.com/TomasHubelbauer/wsb-kb)
 
 ⚖️ 2023-02-24T03:22:10Z
@@ -3593,4 +3585,12 @@
 🏷 
 
 📒 null
+
+## [qr-channel](https://github.com/TomasHubelbauer/qr-channel)
+
+⚖️ 2023-08-30T11:51:36Z
+
+🏷 data-channel, ice, javascript, peer-connection, qr-channel, qr-code, qrcode, sdp, webrtc, webrtc-datachannel, webrtc-demo
+
+📒 WebRTC data channel peer connection establishment using QR codes for trickle ICE exchange.
 
