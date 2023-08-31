@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-08-31T11:05:46.909Z
+2023-08-31T12:06:29.858Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -94,7 +94,7 @@
 
 ⚖️ apple-notes-database
 
-🏷 
+🏷 apple-notes, apple-script
 
 📒 null
 

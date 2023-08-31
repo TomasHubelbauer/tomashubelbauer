@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-08-31T11:05:46.911Z
+2023-08-31T12:06:29.860Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -3502,7 +3502,7 @@
 
 ⚖️ apple-notes-database
 
-🏷 
+🏷 apple-notes, apple-script
 
 📒 null
 
