@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-08-31T15:06:08.810Z
+2023-08-31T16:05:47.492Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -196,7 +196,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 13820
+⚖️ 14032
 
 🏷 tomashubelbauer
 
@@ -1194,6 +1194,14 @@
 
 📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
 
+## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
+
+⚖️ 42
+
+🏷 apple-notes, apple-script
+
+📒 null
+
 ## [hyperv](https://github.com/TomasHubelbauer/hyperv)
 
 ⚖️ 42
@@ -1313,14 +1321,6 @@
 🏷 ios, ios-app, swift, webrtc, webview
 
 📒 A demonstration of using WebRTC to achieve communication between an iOS application and a web page
-
-## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
-
-⚖️ 29
-
-🏷 apple-notes, apple-script
-
-📒 null
 
 ## [vscode-bare-extension](https://github.com/TomasHubelbauer/vscode-bare-extension)
 

@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-08-31T15:06:08.807Z
+2023-08-31T16:05:47.489Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2266,14 +2266,6 @@
 
 📒 Trying to lay out and cluster prices and product images in a supermarket PDF
 
-## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
-
-⚖️ 29
-
-🏷 apple-notes, apple-script
-
-📒 null
-
 ## [vscode-bare-extension](https://github.com/TomasHubelbauer/vscode-bare-extension)
 
 ⚖️ 29
@@ -2393,6 +2385,14 @@
 🏷 map, maps, open-street-map, osm, raster-tiles
 
 📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
+
+## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
+
+⚖️ 42
+
+🏷 apple-notes, apple-script
+
+📒 null
 
 ## [hyperv](https://github.com/TomasHubelbauer/hyperv)
 
@@ -3396,7 +3396,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 13820
+⚖️ 14032
 
 🏷 tomashubelbauer
 
