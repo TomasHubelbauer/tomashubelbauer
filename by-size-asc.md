@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-08-31T12:06:29.875Z
+2023-08-31T13:06:13.731Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2170,14 +2170,6 @@
 
 📒 EF provider operating on JSON files
 
-## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
-
-⚖️ 25
-
-🏷 apple-notes, apple-script
-
-📒 null
-
 ## [html-data-view-box](https://github.com/TomasHubelbauer/html-data-view-box)
 
 ⚖️ 25
@@ -2273,6 +2265,14 @@
 🏷 albert, ocr, pdf
 
 📒 Trying to lay out and cluster prices and product images in a supermarket PDF
+
+## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
+
+⚖️ 29
+
+🏷 apple-notes, apple-script
+
+📒 null
 
 ## [vscode-bare-extension](https://github.com/TomasHubelbauer/vscode-bare-extension)
 
@@ -3396,7 +3396,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 13604
+⚖️ 13606
 
 🏷 tomashubelbauer
 
