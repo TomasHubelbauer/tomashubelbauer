@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-08-31T17:05:16.517Z
+2023-08-31T18:05:20.862Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2386,14 +2386,6 @@
 
 📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
 
-## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
-
-⚖️ 42
-
-🏷 apple-notes, apple-script
-
-📒 null
-
 ## [hyperv](https://github.com/TomasHubelbauer/hyperv)
 
 ⚖️ 42
@@ -2441,6 +2433,14 @@
 🏷 rbc, react-big-calendar
 
 📒 A tool for exploring the possible values of the RBC components prop.
+
+## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
+
+⚖️ 50
+
+🏷 apple-notes, apple-script
+
+📒 null
 
 ## [github-releases](https://github.com/TomasHubelbauer/github-releases)
 

@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-08-31T17:05:16.520Z
+2023-08-31T18:05:20.864Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -1154,6 +1154,14 @@
 
 📒 Monitors GitHub Releases of projects I star on GitHub and sends a single daily digest email
 
+## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
+
+⚖️ 50
+
+🏷 apple-notes, apple-script
+
+📒 null
+
 ## [rbc-components](https://github.com/TomasHubelbauer/rbc-components)
 
 ⚖️ 49
@@ -1193,14 +1201,6 @@
 🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
 
 📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
-
-## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
-
-⚖️ 42
-
-🏷 apple-notes, apple-script
-
-📒 null
 
 ## [hyperv](https://github.com/TomasHubelbauer/hyperv)
 
