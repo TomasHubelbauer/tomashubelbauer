@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-09-01T00:14:00.553Z
+2023-09-01T01:28:25.878Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2023-09-01T00:22:16Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-08-31T23:07:45Z
+⚖️ 2023-09-01T00:15:57Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 apple-notes, apple-script
 
 📒 null
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2023-08-31T00:18:08Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 

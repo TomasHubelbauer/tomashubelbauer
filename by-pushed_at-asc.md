@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-09-01T00:14:00.550Z
+2023-09-01T01:28:25.877Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3570,14 +3570,6 @@
 
 📒 My personal website
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2023-08-31T00:18:08Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
 
 ⚖️ 2023-08-31T16:25:59Z
@@ -3588,9 +3580,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-08-31T23:07:45Z
+⚖️ 2023-09-01T00:15:57Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2023-09-01T00:22:16Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
