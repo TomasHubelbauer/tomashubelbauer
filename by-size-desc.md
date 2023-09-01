@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-09-01T10:05:43.278Z
+2023-09-01T11:05:05.355Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -1098,6 +1098,14 @@
 
 📒 Phone organizer 3D model
 
+## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
+
+⚖️ 62
+
+🏷 apple-notes, apple-script
+
+📒 null
+
 ## [podman](https://github.com/TomasHubelbauer/podman)
 
 ⚖️ 60
@@ -1153,14 +1161,6 @@
 🏷 github, github-api, github-releases
 
 📒 Monitors GitHub Releases of projects I star on GitHub and sends a single daily digest email
-
-## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
-
-⚖️ 50
-
-🏷 apple-notes, apple-script
-
-📒 null
 
 ## [rbc-components](https://github.com/TomasHubelbauer/rbc-components)
 
