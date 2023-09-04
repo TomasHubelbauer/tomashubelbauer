@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-09-04T17:05:15.607Z
+2023-09-04T18:05:52.007Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -986,14 +986,6 @@
 
 📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
 
-## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
-
-⚖️ 89
-
-🏷 apple-notes, apple-script
-
-📒 null
-
 ## [fragment](https://github.com/TomasHubelbauer/fragment)
 
 ⚖️ 87
@@ -1193,6 +1185,14 @@
 🏷 framework, javascript, library, paper, ui, ux, wc, web-components
 
 📒 JavaScript UI library
+
+## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
+
+⚖️ 43
+
+🏷 apple-notes, apple-script
+
+📒 null
 
 ## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
 

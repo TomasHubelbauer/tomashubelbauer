@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-09-04T17:05:15.605Z
+2023-09-04T18:05:52.004Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2394,6 +2394,14 @@
 
 📒 Hyper-V PowerShell script for running a script in a temporary VM
 
+## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
+
+⚖️ 43
+
+🏷 apple-notes, apple-script
+
+📒 null
+
 ## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
 
 ⚖️ 43
@@ -2601,14 +2609,6 @@
 🏷 todo, todo-comment
 
 📒 A utility to print to-do comments in the current directory recursively.
-
-## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
-
-⚖️ 89
-
-🏷 apple-notes, apple-script
-
-📒 null
 
 ## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
 
