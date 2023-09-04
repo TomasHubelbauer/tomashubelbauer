@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-09-04T16:05:22.324Z
+2023-09-04T17:05:15.605Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2490,14 +2490,6 @@
 
 📒 My explorations of the Podman container tool, an alternative to Docker.
 
-## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
-
-⚖️ 63
-
-🏷 apple-notes, apple-script
-
-📒 null
-
 ## [phone-organizer](https://github.com/TomasHubelbauer/phone-organizer)
 
 ⚖️ 70
@@ -2609,6 +2601,14 @@
 🏷 todo, todo-comment
 
 📒 A utility to print to-do comments in the current directory recursively.
+
+## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
+
+⚖️ 89
+
+🏷 apple-notes, apple-script
+
+📒 null
 
 ## [github-action-auto-git-modules](https://github.com/TomasHubelbauer/github-action-auto-git-modules)
 
@@ -3396,7 +3396,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 13341
+⚖️ 13555
 
 🏷 tomashubelbauer
 
