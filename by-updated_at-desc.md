@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-09-04T10:06:04.679Z
+2023-09-04T11:05:10.422Z
+
+## [webrtc-airdrop](https://github.com/TomasHubelbauer/webrtc-airdrop)
+
+⚖️ 2023-09-04T10:42:50Z
+
+🏷 airdrop, data-channel, signaling-channel, webrtc
+
+📒 AirDrop based WebRTC signaling channel
 
 ## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
 
@@ -1273,14 +1281,6 @@
 🏷 benchmark, comparison, qr, qr-code, qr-codes, qrcode, qrcode-reader, qrcode-scanner
 
 📒 A comparison of JavaScript QR scanner libraries
-
-## [webrtc-airdrop](https://github.com/TomasHubelbauer/webrtc-airdrop)
-
-⚖️ 2022-04-28T08:55:33Z
-
-🏷 airdrop, data-channel, signaling-channel, webrtc
-
-📒 AirDrop based WebRTC signaling channel
 
 ## [vso-shortlink](https://github.com/TomasHubelbauer/vso-shortlink)
 
