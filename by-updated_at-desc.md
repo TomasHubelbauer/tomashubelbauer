@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-09-05T04:05:17.521Z
+2023-09-05T05:05:16.084Z
+
+## [edge](https://github.com/TomasHubelbauer/edge)
+
+⚖️ 2023-09-05T04:38:25Z
+
+🏷 edge, tab-discarding
+
+📒 Information on how to disable tab discarding in Edge
 
 ## [webrtc-airdrop](https://github.com/TomasHubelbauer/webrtc-airdrop)
 
@@ -3505,14 +3513,6 @@
 🏷 animation, svg
 
 📒 An SVG animation showing a stroke in the shape of an rising arc.
-
-## [edge](https://github.com/TomasHubelbauer/edge)
-
-⚖️ 2021-04-01T21:13:17Z
-
-🏷 edge, tab-discarding
-
-📒 Information on how to disable tab discarding in Edge
 
 ## [css-post-grid-design](https://github.com/TomasHubelbauer/css-post-grid-design)
 

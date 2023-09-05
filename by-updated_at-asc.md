@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-09-05T04:05:17.517Z
+2023-09-05T05:05:16.082Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -81,14 +81,6 @@
 🏷 css
 
 📒 My practice redesign of the Stein landing page I liked
-
-## [edge](https://github.com/TomasHubelbauer/edge)
-
-⚖️ 2021-04-01T21:13:17Z
-
-🏷 edge, tab-discarding
-
-📒 Information on how to disable tab discarding in Edge
 
 ## [svg-arc-angle](https://github.com/TomasHubelbauer/svg-arc-angle)
 
@@ -3593,4 +3585,12 @@
 🏷 airdrop, data-channel, signaling-channel, webrtc
 
 📒 AirDrop based WebRTC signaling channel
+
+## [edge](https://github.com/TomasHubelbauer/edge)
+
+⚖️ 2023-09-05T04:38:25Z
+
+🏷 edge, tab-discarding
+
+📒 Information on how to disable tab discarding in Edge
 
