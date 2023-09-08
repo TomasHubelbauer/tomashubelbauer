@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-09-08T08:05:29.805Z
+2023-09-08T09:05:47.207Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3562,14 +3562,6 @@
 
 📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 
-## [qr-channel](https://github.com/TomasHubelbauer/qr-channel)
-
-⚖️ 2023-08-30T11:51:36Z
-
-🏷 data-channel, ice, javascript, peer-connection, qr-channel, qr-code, qrcode, sdp, webrtc, webrtc-datachannel, webrtc-demo
-
-📒 WebRTC data channel peer connection establishment using QR codes for trickle ICE exchange.
-
 ## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
 
 ⚖️ 2023-09-01T12:27:05Z
@@ -3593,4 +3585,12 @@
 🏷 edge, tab-discarding
 
 📒 Information on how to disable tab discarding in Edge
+
+## [qr-channel](https://github.com/TomasHubelbauer/qr-channel)
+
+⚖️ 2023-09-08T08:20:17Z
+
+🏷 data-channel, ice, javascript, peer-connection, qr-channel, qr-code, qrcode, sdp, webrtc, webrtc-datachannel, webrtc-demo
+
+📒 WebRTC data channel peer connection establishment using QR codes for trickle ICE exchange.
 

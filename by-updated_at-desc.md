@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-09-08T08:05:29.809Z
+2023-09-08T09:05:47.209Z
+
+## [qr-channel](https://github.com/TomasHubelbauer/qr-channel)
+
+⚖️ 2023-09-08T08:20:17Z
+
+🏷 data-channel, ice, javascript, peer-connection, qr-channel, qr-code, qrcode, sdp, webrtc, webrtc-datachannel, webrtc-demo
+
+📒 WebRTC data channel peer connection establishment using QR codes for trickle ICE exchange.
 
 ## [edge](https://github.com/TomasHubelbauer/edge)
 
@@ -25,14 +33,6 @@
 🏷 apple-notes, apple-script
 
 📒 null
-
-## [qr-channel](https://github.com/TomasHubelbauer/qr-channel)
-
-⚖️ 2023-08-30T11:51:36Z
-
-🏷 data-channel, ice, javascript, peer-connection, qr-channel, qr-code, qrcode, sdp, webrtc, webrtc-datachannel, webrtc-demo
-
-📒 WebRTC data channel peer connection establishment using QR codes for trickle ICE exchange.
 
 ## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
 
