@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-09-10T00:14:01.294Z
+2023-09-10T01:28:22.218Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -180,7 +180,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 16280
+⚖️ 16492
 
 🏷 tomashubelbauer
 
@@ -234,6 +234,14 @@
 
 📒 CSS solution for a "merry-go-round" style sliding showcase
 
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 8275
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
 ## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
 
 ⚖️ 8275
@@ -241,14 +249,6 @@
 🏷 
 
 📒 GitHub Action to send LGTM reaction
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 8261
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [wiringbits.github.io](https://github.com/TomasHubelbauer/wiringbits.github.io)
 
