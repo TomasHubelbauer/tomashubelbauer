@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-09-13T11:06:00.763Z
+2023-09-13T12:06:37.354Z
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 2023-09-13T11:50:50Z
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
 
@@ -721,14 +729,6 @@
 🏷 array, javascript
 
 📒 JavaScript Split Array Into Groups of the Same Size
-
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 2023-03-31T23:09:11Z
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
 

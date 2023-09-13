@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-09-13T11:06:00.760Z
+2023-09-13T12:06:37.350Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2866,14 +2866,6 @@
 
 📒 NextJS URL imports
 
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 2023-03-31T23:09:11Z
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
-
 ## [js-array-groups](https://github.com/TomasHubelbauer/js-array-groups)
 
 ⚖️ 2023-04-11T15:28:57Z
@@ -3593,4 +3585,12 @@
 🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
 
 📒 3D SVG projection and animation
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 2023-09-13T11:50:50Z
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 
