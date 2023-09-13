@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-09-13T20:05:17.433Z
+2023-09-13T21:05:16.971Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3002,14 +3002,6 @@
 
 📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
 
-## [web-midi](https://github.com/TomasHubelbauer/web-midi)
-
-⚖️ 2023-05-12T20:45:09Z
-
-🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
-
-📒 OP-1 working with web MIDI
-
 ## [upptime.js.org](https://github.com/TomasHubelbauer/upptime.js.org)
 
 ⚖️ 2023-05-16T14:02:57Z
@@ -3593,4 +3585,12 @@
 🏷 slack, slack-app, slack-status, spotify
 
 📒 A script for setting the currently playing Spotify song as your Slack status
+
+## [web-midi](https://github.com/TomasHubelbauer/web-midi)
+
+⚖️ 2023-09-13T20:20:40Z
+
+🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
+
+📒 OP-1 working with web MIDI
 

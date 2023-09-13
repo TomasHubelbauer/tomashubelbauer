@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-09-13T20:05:17.437Z
+2023-09-13T21:05:16.973Z
+
+## [web-midi](https://github.com/TomasHubelbauer/web-midi)
+
+⚖️ 2023-09-13T20:20:40Z
+
+🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
+
+📒 OP-1 working with web MIDI
 
 ## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
 
@@ -585,14 +593,6 @@
 🏷 
 
 📒 ⬆️📝 Documentation and landing page for Upptime
-
-## [web-midi](https://github.com/TomasHubelbauer/web-midi)
-
-⚖️ 2023-05-12T20:45:09Z
-
-🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
-
-📒 OP-1 working with web MIDI
 
 ## [html-live-text](https://github.com/TomasHubelbauer/html-live-text)
 
