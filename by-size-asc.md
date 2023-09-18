@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-09-18T00:13:51.450Z
+2023-09-18T01:26:53.044Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -3354,14 +3354,6 @@
 
 📒 GitHub Action to send LGTM reaction
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 8750
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [css-merry-go-round](https://github.com/TomasHubelbauer/css-merry-go-round)
 
 ⚖️ 8766
@@ -3377,6 +3369,14 @@
 🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
 
 📒 OP-1 working with web MIDI
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 8831
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [html-live-text](https://github.com/TomasHubelbauer/html-live-text)
 
@@ -3396,7 +3396,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 15341
+⚖️ 15343
 
 🏷 tomashubelbauer
 

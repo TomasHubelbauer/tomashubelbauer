@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-09-18T00:13:51.455Z
+2023-09-18T01:26:53.046Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -196,7 +196,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 15341
+⚖️ 15343
 
 🏷 tomashubelbauer
 
@@ -218,6 +218,14 @@
 
 📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
 
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 8831
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
 ## [web-midi](https://github.com/TomasHubelbauer/web-midi)
 
 ⚖️ 8781
@@ -233,14 +241,6 @@
 🏷 css, layout, merry-go-round
 
 📒 CSS solution for a "merry-go-round" style sliding showcase
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 8750
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
 
