@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-09-20T08:06:39.918Z
+2023-09-20T09:05:42.314Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3018,14 +3018,6 @@
 
 📒 The repository for high quality TypeScript type definitions.
 
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2023-05-18T16:43:02Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
-
 ## [playwright-test-only](https://github.com/TomasHubelbauer/playwright-test-only)
 
 ⚖️ 2023-05-18T19:41:24Z
@@ -3593,4 +3585,12 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2023-09-20T08:31:50Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
