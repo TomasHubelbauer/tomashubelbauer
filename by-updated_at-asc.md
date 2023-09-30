@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-09-30T18:05:41.362Z
+2023-09-30T19:06:09.073Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3578,14 +3578,6 @@
 
 📒 OP-1 working with web MIDI
 
-## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
-
-⚖️ 2023-09-17T12:00:12Z
-
-🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
-
-📒 Raspberry Pi Pico mouse jiggler
-
 ## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
 
 ⚖️ 2023-09-20T08:31:50Z
@@ -3593,4 +3585,12 @@
 🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
 
 📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
+
+## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
+
+⚖️ 2023-09-30T18:11:50Z
+
+🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
+
+📒 Raspberry Pi Pico mouse jiggler
 

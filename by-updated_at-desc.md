@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-09-30T18:05:41.366Z
+2023-09-30T19:06:09.079Z
+
+## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
+
+⚖️ 2023-09-30T18:11:50Z
+
+🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
+
+📒 Raspberry Pi Pico mouse jiggler
 
 ## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
 
@@ -9,14 +17,6 @@
 🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
 
 📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
-
-## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
-
-⚖️ 2023-09-17T12:00:12Z
-
-🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
-
-📒 Raspberry Pi Pico mouse jiggler
 
 ## [web-midi](https://github.com/TomasHubelbauer/web-midi)
 
