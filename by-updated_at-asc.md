@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-10-10T23:05:40.829Z
+2023-10-11T00:13:11.168Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3250,14 +3250,6 @@
 
 📒 Formats tables in MarkDown documents when using the Format Document editor context menu option in VS Code.
 
-## [selfie](https://github.com/TomasHubelbauer/selfie)
-
-⚖️ 2023-06-11T08:29:46Z
-
-🏷 getdisplaymedia, html2canvas, screenshot, self-screenshot, selfie
-
-📒 A library for capturing web page self screenshots
-
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
 ⚖️ 2023-06-13T17:07:44Z
@@ -3593,4 +3585,12 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
+
+## [selfie](https://github.com/TomasHubelbauer/selfie)
+
+⚖️ 2023-10-11T00:11:48Z
+
+🏷 getdisplaymedia, html2canvas, screenshot, self-screenshot, selfie
+
+📒 A library for capturing web page self screenshots
 

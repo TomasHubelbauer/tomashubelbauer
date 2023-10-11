@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-10-10T23:05:40.830Z
+2023-10-11T00:13:11.172Z
+
+## [selfie](https://github.com/TomasHubelbauer/selfie)
+
+⚖️ 2023-10-11T00:11:48Z
+
+🏷 getdisplaymedia, html2canvas, screenshot, self-screenshot, selfie
+
+📒 A library for capturing web page self screenshots
 
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
@@ -337,14 +345,6 @@
 🏷 
 
 📒 null
-
-## [selfie](https://github.com/TomasHubelbauer/selfie)
-
-⚖️ 2023-06-11T08:29:46Z
-
-🏷 getdisplaymedia, html2canvas, screenshot, self-screenshot, selfie
-
-📒 A library for capturing web page self screenshots
 
 ## [vscode-markdown-table-format](https://github.com/TomasHubelbauer/vscode-markdown-table-format)
 
