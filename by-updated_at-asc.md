@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-10-12T07:06:26.638Z
+2023-10-12T08:05:58.818Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3330,14 +3330,6 @@
 
 📒 null
 
-## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
-
-⚖️ 2023-07-01T22:01:18Z
-
-🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
-
-📒 Brother P-touch D600 label maker USB communication with P-touch Editor
-
 ## [github-pages-local-storage](https://github.com/TomasHubelbauer/github-pages-local-storage)
 
 ⚖️ 2023-07-06T10:37:59Z
@@ -3593,4 +3585,12 @@
 🏷 getdisplaymedia, html2canvas, screenshot, self-screenshot, selfie
 
 📒 A library for capturing web page self screenshots
+
+## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
+
+⚖️ 2023-10-12T07:51:04Z
+
+🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
+
+📒 Brother P-touch D600 label maker USB communication with P-touch Editor
 

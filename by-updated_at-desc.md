@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-10-12T07:06:26.642Z
+2023-10-12T08:05:58.819Z
+
+## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
+
+⚖️ 2023-10-12T07:51:04Z
+
+🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
+
+📒 Brother P-touch D600 label maker USB communication with P-touch Editor
 
 ## [selfie](https://github.com/TomasHubelbauer/selfie)
 
@@ -257,14 +265,6 @@
 🏷 github-pages, local-storage
 
 📒 An ES module library for separating localStorage on GitHub Pages not by origin but by path name.
-
-## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
-
-⚖️ 2023-07-01T22:01:18Z
-
-🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
-
-📒 Brother P-touch D600 label maker USB communication with P-touch Editor
 
 ## [apps-and-services](https://github.com/TomasHubelbauer/apps-and-services)
 
