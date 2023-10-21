@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-10-21T04:06:47.449Z
+2023-10-21T05:06:21.288Z
 
 ## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
 
