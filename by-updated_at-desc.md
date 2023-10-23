@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-10-23T07:28:45.810Z
+2023-10-23T08:07:18.097Z
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2023-10-23T07:57:26Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
 ## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
 
@@ -25,14 +33,6 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
-
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2023-09-20T08:31:50Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
 ## [web-midi](https://github.com/TomasHubelbauer/web-midi)
 

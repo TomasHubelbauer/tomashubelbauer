@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-10-23T07:28:45.807Z
+2023-10-23T08:07:18.093Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3562,14 +3562,6 @@
 
 📒 OP-1 working with web MIDI
 
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2023-09-20T08:31:50Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
-
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
 ⚖️ 2023-09-30T18:11:50Z
@@ -3593,4 +3585,12 @@
 🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
 
 📒 Brother P-touch D600 label maker USB communication with P-touch Editor
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2023-10-23T07:57:26Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
