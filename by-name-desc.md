@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-10-31T21:06:33.624Z
+2023-10-31T22:05:51.185Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -865,6 +865,14 @@
 🏷 macos, printscreen, screen-recording, screencast, screenshot, shortcut, windows
 
 📒 Screenshot shortcuts
+
+## [screencast-card](https://github.com/TomasHubelbauer/screencast-card)
+
+⚖️ screencast-card
+
+🏷 
+
+📒 null
 
 ## [scrape-github-invoices](https://github.com/TomasHubelbauer/scrape-github-invoices)
 
