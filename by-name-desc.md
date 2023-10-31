@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-10-31T22:05:51.185Z
+2023-10-31T23:05:55.834Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -870,9 +870,9 @@
 
 ⚖️ screencast-card
 
-🏷 
+🏷 notes, screen-recording, screencast, web-app
 
-📒 null
+📒 A utility web app for displaying notes / tips / comments during an A/V-less screencast or screen recording. Intended to be used as a boomark or a pinned tab.
 
 ## [scrape-github-invoices](https://github.com/TomasHubelbauer/scrape-github-invoices)
 

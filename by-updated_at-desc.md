@@ -1,14 +1,14 @@
 # By `updated_at` (desc)
 
-2023-10-31T22:05:51.211Z
+2023-10-31T23:05:55.850Z
 
 ## [screencast-card](https://github.com/TomasHubelbauer/screencast-card)
 
-⚖️ 2023-10-31T21:51:37Z
+⚖️ 2023-10-31T22:45:22Z
 
-🏷 
+🏷 notes, screen-recording, screencast, web-app
 
-📒 null
+📒 A utility web app for displaying notes / tips / comments during an A/V-less screencast or screen recording. Intended to be used as a boomark or a pinned tab.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 

@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-10-31T22:05:51.188Z
+2023-10-31T23:05:55.846Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3596,9 +3596,9 @@
 
 ## [screencast-card](https://github.com/TomasHubelbauer/screencast-card)
 
-⚖️ 2023-10-31T21:51:37Z
+⚖️ 2023-10-31T22:45:22Z
 
-🏷 
+🏷 notes, screen-recording, screencast, web-app
 
-📒 null
+📒 A utility web app for displaying notes / tips / comments during an A/V-less screencast or screen recording. Intended to be used as a boomark or a pinned tab.
 

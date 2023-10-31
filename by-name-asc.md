@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-10-31T22:05:51.180Z
+2023-10-31T23:05:55.832Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2734,9 +2734,9 @@
 
 ⚖️ screencast-card
 
-🏷 
+🏷 notes, screen-recording, screencast, web-app
 
-📒 null
+📒 A utility web app for displaying notes / tips / comments during an A/V-less screencast or screen recording. Intended to be used as a boomark or a pinned tab.
 
 ## [screenshot-shortcuts](https://github.com/TomasHubelbauer/screenshot-shortcuts)
 
