@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-11-02T00:13:19.574Z
+2023-11-02T01:27:12.329Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2023-11-02T00:19:54Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-11-01T23:08:26Z
+⚖️ 2023-11-02T00:15:16Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 notes, screen-recording, screencast, web-app
 
 📒 A utility web app for displaying notes / tips / comments during an A/V-less screencast or screen recording. Intended to be used as a boomark or a pinned tab.
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2023-11-01T00:25:33Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
