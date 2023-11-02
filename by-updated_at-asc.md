@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-11-02T10:06:02.713Z
+2023-11-02T11:06:23.116Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3578,14 +3578,6 @@
 
 📒 Brother P-touch D600 label maker USB communication with P-touch Editor
 
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2023-10-23T07:57:26Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
-
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
 ⚖️ 2023-10-29T15:13:47Z
@@ -3601,4 +3593,12 @@
 🏷 notes, screen-recording, screencast, web-app
 
 📒 A utility web app for displaying notes / tips / comments during an A/V-less screencast or screen recording. Intended to be used as a boomark or a pinned tab.
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2023-11-02T10:58:13Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
