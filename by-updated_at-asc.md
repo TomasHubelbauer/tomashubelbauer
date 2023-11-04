@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-11-04T21:05:39.828Z
+2023-11-04T22:06:27.633Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3596,7 +3596,7 @@
 
 ## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
 
-⚖️ 2023-11-02T10:58:13Z
+⚖️ 2023-11-04T21:18:28Z
 
 🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
 
