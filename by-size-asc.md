@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-11-14T10:06:06.468Z
+2023-11-14T11:05:45.044Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2386,14 +2386,6 @@
 
 📒 Youtube subscription downloader for offline viewing
 
-## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
-
-⚖️ 41
-
-🏷 map, maps, open-street-map, osm, raster-tiles
-
-📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
-
 ## [hyperv](https://github.com/TomasHubelbauer/hyperv)
 
 ⚖️ 42
@@ -2441,6 +2433,14 @@
 🏷 es-modules, esm, zip
 
 📒 An ESM package for extracting the list of entries from a ZIP archive by URL using range requests for minimal bandwidth use.
+
+## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
+
+⚖️ 49
+
+🏷 map, maps, open-street-map, osm, raster-tiles
+
+📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
 
 ## [rbc-components](https://github.com/TomasHubelbauer/rbc-components)
 
@@ -3404,7 +3404,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 14456
+⚖️ 14669
 
 🏷 tomashubelbauer
 

@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-11-14T10:06:06.471Z
+2023-11-14T11:05:45.046Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -196,7 +196,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 14456
+⚖️ 14669
 
 🏷 tomashubelbauer
 
@@ -1154,6 +1154,14 @@
 
 📒 Monitors GitHub Releases of projects I star on GitHub and sends a single daily digest email
 
+## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
+
+⚖️ 49
+
+🏷 map, maps, open-street-map, osm, raster-tiles
+
+📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
+
 ## [rbc-components](https://github.com/TomasHubelbauer/rbc-components)
 
 ⚖️ 49
@@ -1209,14 +1217,6 @@
 🏷 hyper-v, sandbox, virtual-machine, vm
 
 📒 Hyper-V PowerShell script for running a script in a temporary VM
-
-## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
-
-⚖️ 41
-
-🏷 map, maps, open-street-map, osm, raster-tiles
-
-📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
