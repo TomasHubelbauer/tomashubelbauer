@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-11-14T09:05:52.228Z
+2023-11-14T10:06:06.465Z
+
+## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
+
+⚖️ 2023-11-14T09:13:39Z
+
+🏷 map, maps, open-street-map, osm, raster-tiles
+
+📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-11-14T08:08:39Z
+⚖️ 2023-11-14T09:07:49Z
 
 🏷 tomashubelbauer
 
@@ -1105,14 +1113,6 @@
 🏷 powershell
 
 📒 Creating and updating scheduled tasks using PowerShell
-
-## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
-
-⚖️ 2022-04-28T08:51:28Z
-
-🏷 map, maps, open-street-map, osm, raster-tiles
-
-📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
 
 ## [op1-svg](https://github.com/TomasHubelbauer/op1-svg)
 
