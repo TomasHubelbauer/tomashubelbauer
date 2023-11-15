@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-11-15T00:13:46.815Z
+2023-11-15T01:29:23.711Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2023-11-15T00:16:28Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-11-14T23:07:51Z
+⚖️ 2023-11-15T00:15:45Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 map, maps, open-street-map, osm, raster-tiles
 
 📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2023-11-14T00:16:10Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [screencast-card](https://github.com/TomasHubelbauer/screencast-card)
 
