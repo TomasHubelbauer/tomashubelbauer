@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-11-17T19:05:44.887Z
+2023-11-17T20:06:06.568Z
+
+## [instagram](https://github.com/TomasHubelbauer/instagram)
+
+⚖️ 2023-11-17T19:32:58Z
+
+🏷 instagram, scraper
+
+📒 Scrapes Instagram stats and emails the report.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
@@ -1185,14 +1193,6 @@
 🏷 esm, esmodules, export, import, url, vscode, vscode-extension
 
 📒 VS Code extension adding support for ?search and #fragment in ESM module specifiers
-
-## [instagram](https://github.com/TomasHubelbauer/instagram)
-
-⚖️ 2022-06-26T17:29:06Z
-
-🏷 instagram, scraper
-
-📒 Scrapes Instagram stats and emails the report.
 
 ## [list-sections-groups](https://github.com/TomasHubelbauer/list-sections-groups)
 
