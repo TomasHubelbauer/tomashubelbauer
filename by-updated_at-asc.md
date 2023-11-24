@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-11-24T00:13:45.975Z
+2023-11-24T01:28:28.952Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -1065,14 +1065,6 @@
 🏷 javascript, service-worker, transpiler, typescript
 
 📒 A demo repository for the Service Worker JavaScript to TypeScript Transpiler script
-
-## [sw-js-to-ts-transpiler](https://github.com/TomasHubelbauer/sw-js-to-ts-transpiler)
-
-⚖️ 2022-04-16T13:47:46Z
-
-🏷 javascript, service-worker, transpiler, typescript
-
-📒 A service worker script for transpiling TypeScript to JavaScript on-the-fly
 
 ## [svg-editor](https://github.com/TomasHubelbauer/svg-editor)
 
@@ -3601,4 +3593,12 @@
 🏷 instagram, scraper
 
 📒 Scrapes Instagram stats and emails the report.
+
+## [sw-js-to-ts-transpiler](https://github.com/TomasHubelbauer/sw-js-to-ts-transpiler)
+
+⚖️ 2023-11-24T01:27:13Z
+
+🏷 javascript, service-worker, transpiler, typescript
+
+📒 A service worker script for transpiling TypeScript to JavaScript on-the-fly
 

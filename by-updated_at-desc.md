@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-11-24T00:13:45.977Z
+2023-11-24T01:28:28.954Z
+
+## [sw-js-to-ts-transpiler](https://github.com/TomasHubelbauer/sw-js-to-ts-transpiler)
+
+⚖️ 2023-11-24T01:27:13Z
+
+🏷 javascript, service-worker, transpiler, typescript
+
+📒 A service worker script for transpiling TypeScript to JavaScript on-the-fly
 
 ## [instagram](https://github.com/TomasHubelbauer/instagram)
 
@@ -2529,14 +2537,6 @@
 🏷 svg, svg-editor
 
 📒 SVG Editor
-
-## [sw-js-to-ts-transpiler](https://github.com/TomasHubelbauer/sw-js-to-ts-transpiler)
-
-⚖️ 2022-04-16T13:47:46Z
-
-🏷 javascript, service-worker, transpiler, typescript
-
-📒 A service worker script for transpiling TypeScript to JavaScript on-the-fly
 
 ## [sw-js-to-ts-transpiler-demo](https://github.com/TomasHubelbauer/sw-js-to-ts-transpiler-demo)
 

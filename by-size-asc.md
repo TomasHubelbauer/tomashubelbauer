@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-11-24T00:13:45.984Z
+2023-11-24T01:28:28.959Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -3388,7 +3388,7 @@
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
-⚖️ 11034
+⚖️ 11080
 
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
@@ -3420,7 +3420,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 17819
+⚖️ 17820
 
 🏷 tomashubelbauer
 
