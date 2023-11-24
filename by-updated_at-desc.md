@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-11-24T19:05:45.613Z
+2023-11-24T20:06:00.506Z
+
+## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
+
+⚖️ 2023-11-24T19:32:48Z
+
+🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
+
+📒 WebRTC Data Channel demo
 
 ## [sw-js-to-ts-transpiler](https://github.com/TomasHubelbauer/sw-js-to-ts-transpiler)
 
@@ -209,14 +217,6 @@
 🏷 windows-sandbox, wsb
 
 📒 Windows Sandbox exploration
-
-## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
-
-⚖️ 2023-07-28T08:02:18Z
-
-🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
-
-📒 WebRTC Data Channel demo
 
 ## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
 

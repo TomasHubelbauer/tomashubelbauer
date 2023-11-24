@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-11-24T19:05:45.611Z
+2023-11-24T20:06:00.505Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3386,14 +3386,6 @@
 
 📒 A demo submodule used by my other repos.
 
-## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
-
-⚖️ 2023-07-28T08:02:18Z
-
-🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
-
-📒 WebRTC Data Channel demo
-
 ## [windows-sandbox-script](https://github.com/TomasHubelbauer/windows-sandbox-script)
 
 ⚖️ 2023-07-28T21:28:01Z
@@ -3601,4 +3593,12 @@
 🏷 javascript, service-worker, transpiler, typescript
 
 📒 A service worker script for transpiling TypeScript to JavaScript on-the-fly
+
+## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
+
+⚖️ 2023-11-24T19:32:48Z
+
+🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
+
+📒 WebRTC Data Channel demo
 
