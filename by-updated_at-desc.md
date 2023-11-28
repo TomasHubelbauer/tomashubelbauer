@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-11-28T02:17:08.289Z
+2023-11-28T03:06:18.361Z
+
+## [openscad-quarter-circle-torus](https://github.com/TomasHubelbauer/openscad-quarter-circle-torus)
+
+⚖️ 2023-11-28T03:04:43Z
+
+🏷 circle, csg, geometry, openscad, openscad-module, torus
+
+📒 A set of OpenSCAD modules for generating geometries of quarter-profile circles and tori including their inverted variants
 
 ## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
 
@@ -337,14 +345,6 @@
 🏷 op-1, op1, teenage-engineering, threejs, webgl
 
 📒 An OP-1 model in ThreeJS
-
-## [openscad-quarter-circle-torus](https://github.com/TomasHubelbauer/openscad-quarter-circle-torus)
-
-⚖️ 2023-06-20T21:54:00Z
-
-🏷 circle, csg, geometry, openscad, openscad-module, torus
-
-📒 A set of OpenSCAD modules for generating geometries of quarter-profile circles and tori including their inverted variants
 
 ## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
 
