@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-12-02T17:05:55.382Z
+2023-12-02T18:06:09.018Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -172,7 +172,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 18352
+⚖️ 18567
 
 🏷 tomashubelbauer
 
