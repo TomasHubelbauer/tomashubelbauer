@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-12-02T22:05:51.545Z
+2023-12-02T23:06:18.047Z
+
+## [openscad-aesthetic-cube](https://github.com/TomasHubelbauer/openscad-aesthetic-cube)
+
+⚖️ 2023-12-02T22:59:37Z
+
+🏷 openscad, openscad-module
+
+📒 A cube with configurable features (faces, edges and corners).
 
 ## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
 

@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-12-02T22:05:51.543Z
+2023-12-02T23:06:18.045Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3601,4 +3601,12 @@
 🏷 akai, apc-mini, launchpad, midi, usb
 
 📒 Akai APCmini launchpad USB/MIDI communication protocol
+
+## [openscad-aesthetic-cube](https://github.com/TomasHubelbauer/openscad-aesthetic-cube)
+
+⚖️ 2023-12-02T22:59:37Z
+
+🏷 openscad, openscad-module
+
+📒 A cube with configurable features (faces, edges and corners).
 

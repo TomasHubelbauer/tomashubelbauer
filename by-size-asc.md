@@ -1,6 +1,14 @@
 # By `size` (asc)
 
-2023-12-02T22:05:51.552Z
+2023-12-02T23:06:18.055Z
+
+## [openscad-aesthetic-cube](https://github.com/TomasHubelbauer/openscad-aesthetic-cube)
+
+⚖️ 0
+
+🏷 openscad, openscad-module
+
+📒 A cube with configurable features (faces, edges and corners).
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 

@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-12-02T22:05:51.547Z
+2023-12-02T23:06:18.050Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3596,9 +3596,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-12-02T21:07:44Z
+⚖️ 2023-12-02T22:07:48Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [openscad-aesthetic-cube](https://github.com/TomasHubelbauer/openscad-aesthetic-cube)
+
+⚖️ 2023-12-02T22:58:57Z
+
+🏷 openscad, openscad-module
+
+📒 A cube with configurable features (faces, edges and corners).
 

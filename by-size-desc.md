@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-12-02T22:05:51.554Z
+2023-12-02T23:06:18.057Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -3553,6 +3553,14 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
+
+## [openscad-aesthetic-cube](https://github.com/TomasHubelbauer/openscad-aesthetic-cube)
+
+⚖️ 0
+
+🏷 openscad, openscad-module
+
+📒 A cube with configurable features (faces, edges and corners).
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 

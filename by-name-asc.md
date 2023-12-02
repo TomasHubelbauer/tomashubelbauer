@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2023-12-02T22:05:51.530Z
+2023-12-02T23:06:18.032Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2273,6 +2273,14 @@
 🏷 config-yml, jekyll, open-source, open-source-encore, ruby
 
 📒 An account of my contribution to the Jekyll project documentation to clarify the Exclude and Include configuration options' behavior.
+
+## [openscad-aesthetic-cube](https://github.com/TomasHubelbauer/openscad-aesthetic-cube)
+
+⚖️ openscad-aesthetic-cube
+
+🏷 openscad, openscad-module
+
+📒 A cube with configurable features (faces, edges and corners).
 
 ## [openscad-quarter-circle-torus](https://github.com/TomasHubelbauer/openscad-quarter-circle-torus)
 

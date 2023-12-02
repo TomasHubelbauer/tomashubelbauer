@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2023-12-02T22:05:51.549Z
+2023-12-02T23:06:18.051Z
+
+## [openscad-aesthetic-cube](https://github.com/TomasHubelbauer/openscad-aesthetic-cube)
+
+⚖️ 2023-12-02T22:58:57Z
+
+🏷 openscad, openscad-module
+
+📒 A cube with configurable features (faces, edges and corners).
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-12-02T21:07:44Z
+⚖️ 2023-12-02T22:07:48Z
 
 🏷 tomashubelbauer
 

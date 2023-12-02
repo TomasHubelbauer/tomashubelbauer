@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-12-02T22:05:51.532Z
+2023-12-02T23:06:18.041Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1329,6 +1329,14 @@
 🏷 circle, csg, geometry, openscad, openscad-module, torus
 
 📒 A set of OpenSCAD modules for generating geometries of quarter-profile circles and tori including their inverted variants
+
+## [openscad-aesthetic-cube](https://github.com/TomasHubelbauer/openscad-aesthetic-cube)
+
+⚖️ openscad-aesthetic-cube
+
+🏷 openscad, openscad-module
+
+📒 A cube with configurable features (faces, edges and corners).
 
 ## [open-source-encore-2023-05-30-jekyll](https://github.com/TomasHubelbauer/open-source-encore-2023-05-30-jekyll)
 
