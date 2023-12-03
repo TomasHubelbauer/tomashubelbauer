@@ -1,6 +1,22 @@
 # By `pushed_at` (desc)
 
-2023-12-03T00:15:14.560Z
+2023-12-03T01:31:50.395Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2023-12-03T00:17:47Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2023-12-03T00:17:12Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [openscad-aesthetic-cube](https://github.com/TomasHubelbauer/openscad-aesthetic-cube)
 
@@ -9,22 +25,6 @@
 🏷 openscad, openscad-module
 
 📒 A cube with configurable features (faces, edges and corners).
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2023-12-02T23:08:13Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2023-12-02T00:17:07Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
 
