@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-12-03T22:05:50.445Z
+2023-12-03T23:06:02.500Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3604,9 +3604,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-12-03T21:07:48Z
+⚖️ 2023-12-03T22:07:46Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
+
+⚖️ 2023-12-03T23:02:45Z
+
+🏷 advent-of-code, advent-of-code-2023, aoc, elixir
+
+📒 My Elixir Advent of Code 2023 puzzle solutions.
 

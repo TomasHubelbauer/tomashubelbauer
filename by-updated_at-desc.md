@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-12-03T22:05:50.436Z
+2023-12-03T23:06:02.498Z
+
+## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
+
+⚖️ 2023-12-03T23:03:20Z
+
+🏷 advent-of-code, advent-of-code-2023, aoc, elixir
+
+📒 My Elixir Advent of Code 2023 puzzle solutions.
 
 ## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
 

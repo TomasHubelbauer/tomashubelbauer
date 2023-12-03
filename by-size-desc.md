@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-12-03T22:05:50.450Z
+2023-12-03T23:06:02.507Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -3561,6 +3561,14 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
+
+## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
+
+⚖️ 0
+
+🏷 advent-of-code, advent-of-code-2023, aoc, elixir
+
+📒 My Elixir Advent of Code 2023 puzzle solutions.
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 

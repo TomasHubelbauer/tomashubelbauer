@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-12-03T22:05:50.435Z
+2023-12-03T23:06:02.496Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3609,4 +3609,12 @@
 🏷 akai, apc-mini, launchpad, midi, usb
 
 📒 Akai APCmini launchpad USB/MIDI communication protocol
+
+## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
+
+⚖️ 2023-12-03T23:03:20Z
+
+🏷 advent-of-code, advent-of-code-2023, aoc, elixir
+
+📒 My Elixir Advent of Code 2023 puzzle solutions.
 

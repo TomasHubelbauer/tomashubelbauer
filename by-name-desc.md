@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2023-12-03T22:05:50.432Z
+2023-12-03T23:06:02.494Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -3529,6 +3529,14 @@
 🏷 appium
 
 📒 My notes about Appium
+
+## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
+
+⚖️ aoc-2023-elixir
+
+🏷 advent-of-code, advent-of-code-2023, aoc, elixir
+
+📒 My Elixir Advent of Code 2023 puzzle solutions.
 
 ## [analog-panel-meter](https://github.com/TomasHubelbauer/analog-panel-meter)
 
