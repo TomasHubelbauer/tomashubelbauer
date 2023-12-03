@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-12-02T23:06:18.057Z
+2023-12-03T00:15:14.564Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -164,7 +164,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 18997
+⚖️ 19214
 
 🏷 tomashubelbauer
 
@@ -1033,6 +1033,14 @@
 🏷 3mf, diff, git, store, zip
 
 📒 An experiment in seeing how no-compression ZIP file will diff in Git
+
+## [openscad-aesthetic-cube](https://github.com/TomasHubelbauer/openscad-aesthetic-cube)
+
+⚖️ 80
+
+🏷 openscad, openscad-module
+
+📒 A cube with configurable features (faces, edges and corners).
 
 ## [vscode-esm-url](https://github.com/TomasHubelbauer/vscode-esm-url)
 
@@ -3553,14 +3561,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [openscad-aesthetic-cube](https://github.com/TomasHubelbauer/openscad-aesthetic-cube)
-
-⚖️ 0
-
-🏷 openscad, openscad-module
-
-📒 A cube with configurable features (faces, edges and corners).
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
