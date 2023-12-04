@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-12-04T12:07:42.702Z
+2023-12-04T13:07:40.163Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -1882,14 +1882,6 @@
 
 📒 An experiment in determining if pwsh runs PowerShell Core on Windows in Azure Pipelines.
 
-## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
-
-⚖️ 13
-
-🏷 advent-of-code, advent-of-code-2023, aoc, elixir
-
-📒 My Elixir Advent of Code 2023 puzzle solutions.
-
 ## [screencast-card](https://github.com/TomasHubelbauer/screencast-card)
 
 ⚖️ 13
@@ -2065,6 +2057,14 @@
 🏷 camera
 
 📒 My notes on a choice of camera to buy.
+
+## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
+
+⚖️ 18
+
+🏷 advent-of-code, advent-of-code-2023, aoc, elixir
+
+📒 My Elixir Advent of Code 2023 puzzle solutions.
 
 ## [html-video-frame-extractor](https://github.com/TomasHubelbauer/html-video-frame-extractor)
 
@@ -3436,7 +3436,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 17556
+⚖️ 17773
 
 🏷 tomashubelbauer
 

@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-12-04T12:07:42.705Z
+2023-12-04T13:07:40.166Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -180,7 +180,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 17556
+⚖️ 17773
 
 🏷 tomashubelbauer
 
@@ -1538,6 +1538,14 @@
 
 📒 A milestone calculation JavaScript algorithm
 
+## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
+
+⚖️ 18
+
+🏷 advent-of-code, advent-of-code-2023, aoc, elixir
+
+📒 My Elixir Advent of Code 2023 puzzle solutions.
+
 ## [html-video-frame-extractor](https://github.com/TomasHubelbauer/html-video-frame-extractor)
 
 ⚖️ 18
@@ -1705,14 +1713,6 @@
 🏷 spotify, spotify-for-artists
 
 📒 Scrapes Spotify for Artists and sends an email digest
-
-## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
-
-⚖️ 13
-
-🏷 advent-of-code, advent-of-code-2023, aoc, elixir
-
-📒 My Elixir Advent of Code 2023 puzzle solutions.
 
 ## [screencast-card](https://github.com/TomasHubelbauer/screencast-card)
 
