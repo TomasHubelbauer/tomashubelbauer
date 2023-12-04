@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-12-04T20:06:27.368Z
+2023-12-04T21:06:01.563Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -1338,6 +1338,14 @@
 
 📒 Finding the minimal possible VS Code extension
 
+## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
+
+⚖️ 28
+
+🏷 advent-of-code, advent-of-code-2023, aoc, elixir
+
+📒 My Elixir Advent of Code 2023 puzzle solutions.
+
 ## [webrtc-airdrop](https://github.com/TomasHubelbauer/webrtc-airdrop)
 
 ⚖️ 28
@@ -1537,14 +1545,6 @@
 🏷 algorithm, calculation, calculator, javascript, leaderboard, leaderboards, milestone, milestones
 
 📒 A milestone calculation JavaScript algorithm
-
-## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
-
-⚖️ 18
-
-🏷 advent-of-code, advent-of-code-2023, aoc, elixir
-
-📒 My Elixir Advent of Code 2023 puzzle solutions.
 
 ## [html-video-frame-extractor](https://github.com/TomasHubelbauer/html-video-frame-extractor)
 

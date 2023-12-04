@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-12-04T20:06:27.366Z
+2023-12-04T21:06:01.560Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2058,14 +2058,6 @@
 
 📒 My notes on a choice of camera to buy.
 
-## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
-
-⚖️ 18
-
-🏷 advent-of-code, advent-of-code-2023, aoc, elixir
-
-📒 My Elixir Advent of Code 2023 puzzle solutions.
-
 ## [html-video-frame-extractor](https://github.com/TomasHubelbauer/html-video-frame-extractor)
 
 ⚖️ 18
@@ -2265,6 +2257,14 @@
 🏷 binary, binary-numbers, javascript
 
 📒 JavaScript functions and demonstrations regarding binary numbers
+
+## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
+
+⚖️ 28
+
+🏷 advent-of-code, advent-of-code-2023, aoc, elixir
+
+📒 My Elixir Advent of Code 2023 puzzle solutions.
 
 ## [webrtc-airdrop](https://github.com/TomasHubelbauer/webrtc-airdrop)
 
