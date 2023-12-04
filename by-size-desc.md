@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-12-03T23:06:02.507Z
+2023-12-04T00:14:33.393Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -180,7 +180,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 16259
+⚖️ 16475
 
 🏷 tomashubelbauer
 
@@ -1705,6 +1705,14 @@
 🏷 spotify, spotify-for-artists
 
 📒 Scrapes Spotify for Artists and sends an email digest
+
+## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
+
+⚖️ 13
+
+🏷 advent-of-code, advent-of-code-2023, aoc, elixir
+
+📒 My Elixir Advent of Code 2023 puzzle solutions.
 
 ## [screencast-card](https://github.com/TomasHubelbauer/screencast-card)
 
@@ -3561,14 +3569,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
-
-⚖️ 0
-
-🏷 advent-of-code, advent-of-code-2023, aoc, elixir
-
-📒 My Elixir Advent of Code 2023 puzzle solutions.
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 

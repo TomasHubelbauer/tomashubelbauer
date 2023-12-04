@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2023-12-03T23:06:02.505Z
-
-## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
-
-⚖️ 0
-
-🏷 advent-of-code, advent-of-code-2023, aoc, elixir
-
-📒 My Elixir Advent of Code 2023 puzzle solutions.
+2023-12-04T00:14:33.389Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -1890,6 +1882,14 @@
 
 📒 An experiment in determining if pwsh runs PowerShell Core on Windows in Azure Pipelines.
 
+## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
+
+⚖️ 13
+
+🏷 advent-of-code, advent-of-code-2023, aoc, elixir
+
+📒 My Elixir Advent of Code 2023 puzzle solutions.
+
 ## [screencast-card](https://github.com/TomasHubelbauer/screencast-card)
 
 ⚖️ 13
@@ -3436,7 +3436,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 16259
+⚖️ 16475
 
 🏷 tomashubelbauer
 
