@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-12-04T22:05:56.066Z
+2023-12-04T23:05:59.915Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -1226,6 +1226,14 @@
 
 📒 Hyper-V PowerShell script for running a script in a temporary VM
 
+## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
+
+⚖️ 40
+
+🏷 advent-of-code, advent-of-code-2023, aoc, elixir
+
+📒 My Elixir Advent of Code 2023 puzzle solutions.
+
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
 ⚖️ 40
@@ -1337,14 +1345,6 @@
 🏷 vscode, vscode-extension
 
 📒 Finding the minimal possible VS Code extension
-
-## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
-
-⚖️ 28
-
-🏷 advent-of-code, advent-of-code-2023, aoc, elixir
-
-📒 My Elixir Advent of Code 2023 puzzle solutions.
 
 ## [webrtc-airdrop](https://github.com/TomasHubelbauer/webrtc-airdrop)
 

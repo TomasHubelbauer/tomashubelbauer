@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-12-04T22:05:56.065Z
+2023-12-04T23:05:59.912Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2258,14 +2258,6 @@
 
 📒 JavaScript functions and demonstrations regarding binary numbers
 
-## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
-
-⚖️ 28
-
-🏷 advent-of-code, advent-of-code-2023, aoc, elixir
-
-📒 My Elixir Advent of Code 2023 puzzle solutions.
-
 ## [webrtc-airdrop](https://github.com/TomasHubelbauer/webrtc-airdrop)
 
 ⚖️ 28
@@ -2385,6 +2377,14 @@
 🏷 hotp, ice, nat, otp, sdp, totp, web-server, webrtc, webrtc-data-channel
 
 📒 An idea for serving sites from a home server through a WebRTC based frame site
+
+## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
+
+⚖️ 40
+
+🏷 advent-of-code, advent-of-code-2023, aoc, elixir
+
+📒 My Elixir Advent of Code 2023 puzzle solutions.
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
