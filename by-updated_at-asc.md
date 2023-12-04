@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-12-04T15:06:03.470Z
+2023-12-04T16:06:20.162Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2674,14 +2674,6 @@
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
 
-## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
-
-⚖️ 2023-02-03T23:13:35Z
-
-🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
-
-📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
-
 ## [pdf-scrape](https://github.com/TomasHubelbauer/pdf-scrape)
 
 ⚖️ 2023-02-13T19:13:33Z
@@ -3617,4 +3609,12 @@
 🏷 advent-of-code, advent-of-code-2023, aoc, elixir
 
 📒 My Elixir Advent of Code 2023 puzzle solutions.
+
+## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
+
+⚖️ 2023-12-04T15:26:41Z
+
+🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
+
+📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
 
