@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-12-05T11:05:57.640Z
+2023-12-05T12:07:31.529Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -1202,6 +1202,14 @@
 
 📒 JavaScript UI library
 
+## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
+
+⚖️ 43
+
+🏷 advent-of-code, advent-of-code-2023, aoc, elixir
+
+📒 My Elixir Advent of Code 2023 puzzle solutions.
+
 ## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
 
 ⚖️ 43
@@ -1225,14 +1233,6 @@
 🏷 hyper-v, sandbox, virtual-machine, vm
 
 📒 Hyper-V PowerShell script for running a script in a temporary VM
-
-## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
-
-⚖️ 40
-
-🏷 advent-of-code, advent-of-code-2023, aoc, elixir
-
-📒 My Elixir Advent of Code 2023 puzzle solutions.
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 

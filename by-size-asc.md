@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-12-05T11:05:57.639Z
+2023-12-05T12:07:31.527Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -2378,14 +2378,6 @@
 
 📒 An idea for serving sites from a home server through a WebRTC based frame site
 
-## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
-
-⚖️ 40
-
-🏷 advent-of-code, advent-of-code-2023, aoc, elixir
-
-📒 My Elixir Advent of Code 2023 puzzle solutions.
-
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
 ⚖️ 40
@@ -2401,6 +2393,14 @@
 🏷 hyper-v, sandbox, virtual-machine, vm
 
 📒 Hyper-V PowerShell script for running a script in a temporary VM
+
+## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
+
+⚖️ 43
+
+🏷 advent-of-code, advent-of-code-2023, aoc, elixir
+
+📒 My Elixir Advent of Code 2023 puzzle solutions.
 
 ## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
 
