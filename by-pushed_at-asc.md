@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2023-12-05T10:06:10.996Z
+2023-12-05T11:05:57.635Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3594,14 +3594,6 @@
 
 📒 A cube with configurable features (faces, edges and corners).
 
-## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
-
-⚖️ 2023-12-04T21:39:56Z
-
-🏷 advent-of-code, advent-of-code-2023, aoc, elixir
-
-📒 My Elixir Advent of Code 2023 puzzle solutions.
-
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
 ⚖️ 2023-12-05T00:16:44Z
@@ -3612,9 +3604,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2023-12-05T09:08:16Z
+⚖️ 2023-12-05T10:08:07Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
+
+⚖️ 2023-12-05T10:56:48Z
+
+🏷 advent-of-code, advent-of-code-2023, aoc, elixir
+
+📒 My Elixir Advent of Code 2023 puzzle solutions.
 
