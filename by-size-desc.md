@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-12-06T12:07:23.944Z
+2023-12-06T13:07:50.194Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -1162,6 +1162,14 @@
 
 📒 Monitors GitHub Releases of projects I star on GitHub and sends a single daily digest email
 
+## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
+
+⚖️ 51
+
+🏷 advent-of-code, advent-of-code-2023, aoc, elixir
+
+📒 My Elixir Advent of Code 2023 puzzle solutions.
+
 ## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
 
 ⚖️ 49
@@ -1201,14 +1209,6 @@
 🏷 framework, javascript, library, paper, ui, ux, wc, web-components
 
 📒 JavaScript UI library
-
-## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
-
-⚖️ 43
-
-🏷 advent-of-code, advent-of-code-2023, aoc, elixir
-
-📒 My Elixir Advent of Code 2023 puzzle solutions.
 
 ## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
 

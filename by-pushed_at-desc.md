@@ -1,6 +1,14 @@
 # By `pushed_at` (desc)
 
-2023-12-06T12:07:23.940Z
+2023-12-06T13:07:50.183Z
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2023-12-06T12:09:15Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
 
@@ -9,14 +17,6 @@
 🏷 advent-of-code, advent-of-code-2023, aoc, elixir
 
 📒 My Elixir Advent of Code 2023 puzzle solutions.
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2023-12-06T11:06:30Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
