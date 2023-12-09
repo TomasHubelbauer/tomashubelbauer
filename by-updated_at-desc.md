@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-12-08T23:06:14.590Z
+2023-12-09T00:14:14.297Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
