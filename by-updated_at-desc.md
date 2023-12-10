@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-12-10T18:06:29.099Z
+2023-12-10T19:05:49.288Z
+
+## [fastmail](https://github.com/TomasHubelbauer/fastmail)
+
+⚖️ 2023-12-10T18:08:02Z
+
+🏷 api-token, email, fastmail, fastmail-api, sieve
+
+📒 My exploration of the Fastmail API
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -1113,14 +1121,6 @@
 🏷 week-planner
 
 📒 A one-off utility for graphical week planning
-
-## [fastmail](https://github.com/TomasHubelbauer/fastmail)
-
-⚖️ 2022-09-28T08:40:10Z
-
-🏷 api-token, email, fastmail, fastmail-api, sieve
-
-📒 My exploration of the Fastmail API
 
 ## [pi-pico-rest-cpu-temp](https://github.com/TomasHubelbauer/pi-pico-rest-cpu-temp)
 

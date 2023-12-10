@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-12-10T18:06:29.097Z
+2023-12-10T19:05:49.286Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2498,14 +2498,6 @@
 
 📒 A Pi Pico script for collecting CPU temperature reading in Supabase using a Deno function
 
-## [fastmail](https://github.com/TomasHubelbauer/fastmail)
-
-⚖️ 2022-09-28T08:40:10Z
-
-🏷 api-token, email, fastmail, fastmail-api, sieve
-
-📒 My exploration of the Fastmail API
-
 ## [week-planner](https://github.com/TomasHubelbauer/week-planner)
 
 ⚖️ 2022-09-29T22:48:01Z
@@ -3617,4 +3609,12 @@
 🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
 
 📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
+
+## [fastmail](https://github.com/TomasHubelbauer/fastmail)
+
+⚖️ 2023-12-10T18:08:02Z
+
+🏷 api-token, email, fastmail, fastmail-api, sieve
+
+📒 My exploration of the Fastmail API
 
