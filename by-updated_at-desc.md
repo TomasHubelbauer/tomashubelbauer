@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-12-11T18:06:31.530Z
+2023-12-11T19:06:00.836Z
+
+## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
+
+⚖️ 2023-12-11T18:17:02Z
+
+🏷 hacker-news, tailwind
+
+📒 Hacker News redesigned using Tailwind for practice
 
 ## [workers-formdata](https://github.com/TomasHubelbauer/workers-formdata)
 
@@ -857,14 +865,6 @@
 🏷 
 
 📒 null
-
-## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
-
-⚖️ 2023-03-07T13:37:57Z
-
-🏷 hacker-news, tailwind
-
-📒 Hacker News redesigned using Tailwind for practice
 
 ## [git-worktree](https://github.com/TomasHubelbauer/git-worktree)
 
