@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-12-12T17:06:13.402Z
+2023-12-12T18:06:56.436Z
+
+## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
+
+⚖️ 2023-12-12T17:06:52Z
+
+🏷 akai, apc-mini, launchpad, midi, usb
+
+📒 Akai APCmini launchpad USB/MIDI communication protocol
 
 ## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
 
@@ -41,14 +49,6 @@
 🏷 advent-of-code, advent-of-code-2023, aoc, elixir
 
 📒 My Elixir Advent of Code 2023 puzzle solutions.
-
-## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
-
-⚖️ 2023-12-03T07:01:30Z
-
-🏷 akai, apc-mini, launchpad, midi, usb
-
-📒 Akai APCmini launchpad USB/MIDI communication protocol
 
 ## [openscad-aesthetic-cube](https://github.com/TomasHubelbauer/openscad-aesthetic-cube)
 
