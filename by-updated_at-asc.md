@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-12-13T12:07:40.378Z
+2023-12-13T13:07:59.213Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -1633,14 +1633,6 @@
 🏷 email, markdown, regex-pattern, vscode, vscode-extension, vscode-plugin
 
 📒 VS Code extension to highlight email addresses in MarkDown
-
-## [vscode-markdown-jira-links](https://github.com/TomasHubelbauer/vscode-markdown-jira-links)
-
-⚖️ 2022-04-16T23:24:26Z
-
-🏷 jira, markdown, vscode, vscode-extension
-
-📒 VS Code extension to highlight Jira links in MarkDown
 
 ## [vscode-markdown-table-of-contents](https://github.com/TomasHubelbauer/vscode-markdown-table-of-contents)
 
@@ -3617,4 +3609,12 @@
 🏷 akai, apc-mini, launchpad, midi, usb
 
 📒 Akai APCmini launchpad USB/MIDI communication protocol
+
+## [vscode-markdown-jira-links](https://github.com/TomasHubelbauer/vscode-markdown-jira-links)
+
+⚖️ 2023-12-13T12:50:42Z
+
+🏷 jira, markdown, vscode, vscode-extension
+
+📒 VS Code extension to highlight Jira links in MarkDown
 

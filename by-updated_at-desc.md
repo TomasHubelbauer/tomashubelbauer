@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-12-13T12:07:40.380Z
+2023-12-13T13:07:59.217Z
+
+## [vscode-markdown-jira-links](https://github.com/TomasHubelbauer/vscode-markdown-jira-links)
+
+⚖️ 2023-12-13T12:50:42Z
+
+🏷 jira, markdown, vscode, vscode-extension
+
+📒 VS Code extension to highlight Jira links in MarkDown
 
 ## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
 
@@ -1977,14 +1985,6 @@
 🏷 markdown
 
 📒 VS Code extension for MarkDown table of contents
-
-## [vscode-markdown-jira-links](https://github.com/TomasHubelbauer/vscode-markdown-jira-links)
-
-⚖️ 2022-04-16T23:24:26Z
-
-🏷 jira, markdown, vscode, vscode-extension
-
-📒 VS Code extension to highlight Jira links in MarkDown
 
 ## [vscode-markdown-email-link](https://github.com/TomasHubelbauer/vscode-markdown-email-link)
 
