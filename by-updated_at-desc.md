@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2023-12-13T13:07:59.217Z
+2023-12-13T14:09:03.201Z
 
 ## [vscode-markdown-jira-links](https://github.com/TomasHubelbauer/vscode-markdown-jira-links)
 
