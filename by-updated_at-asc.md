@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-12-13T20:06:14.788Z
+2023-12-13T21:06:59.421Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3242,14 +3242,6 @@
 
 📒 PowerShell InnoExtract installer
 
-## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
-
-⚖️ 2023-06-22T15:12:21Z
-
-🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
-
-📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
-
 ## [postgrest-openapi-zapier-fieldschema](https://github.com/TomasHubelbauer/postgrest-openapi-zapier-fieldschema)
 
 ⚖️ 2023-06-23T13:21:28Z
@@ -3617,4 +3609,12 @@
 🏷 jira, markdown, vscode, vscode-extension
 
 📒 VS Code extension to highlight Jira links in MarkDown
+
+## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
+
+⚖️ 2023-12-13T21:01:50Z
+
+🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
+
+📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
 

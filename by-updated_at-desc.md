@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-12-13T20:06:14.796Z
+2023-12-13T21:06:59.423Z
+
+## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
+
+⚖️ 2023-12-13T21:01:50Z
+
+🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
+
+📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
 
 ## [vscode-markdown-jira-links](https://github.com/TomasHubelbauer/vscode-markdown-jira-links)
 
@@ -369,14 +377,6 @@
 🏷 fieldschema, openapi, postgrest, zapier
 
 📒 Postgrest OpenAPI to Zapier FieldSchema mapper
-
-## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
-
-⚖️ 2023-06-22T15:12:21Z
-
-🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
-
-📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
 
 ## [ps-inno](https://github.com/TomasHubelbauer/ps-inno)
 
