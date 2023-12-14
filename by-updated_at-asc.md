@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-12-13T23:06:31.515Z
+2023-12-14T00:14:29.380Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3498,14 +3498,6 @@
 
 📒 A utility web app for displaying notes / tips / comments during an A/V-less screencast or screen recording. Intended to be used as a boomark or a pinned tab.
 
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2023-11-06T14:53:51Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
-
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
 ⚖️ 2023-11-17T00:56:42Z
@@ -3617,4 +3609,12 @@
 🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
 
 📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2023-12-14T00:08:35Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 

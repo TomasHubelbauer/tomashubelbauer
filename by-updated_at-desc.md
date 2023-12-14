@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-12-13T23:06:31.516Z
+2023-12-14T00:14:29.381Z
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2023-12-14T00:08:35Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
 ## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
 
@@ -113,14 +121,6 @@
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
-
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2023-11-06T14:53:51Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
 ## [screencast-card](https://github.com/TomasHubelbauer/screencast-card)
 
