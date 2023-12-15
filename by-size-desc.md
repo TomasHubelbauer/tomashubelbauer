@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2023-12-15T00:14:55.465Z
+2023-12-15T01:30:37.125Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -180,7 +180,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 17773
+⚖️ 17987
 
 🏷 tomashubelbauer
 
@@ -210,6 +210,14 @@
 
 📒 Using Playwright Firefox to scrape PDFs
 
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 9810
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
 ## [html-live-text](https://github.com/TomasHubelbauer/html-live-text)
 
 ⚖️ 9764
@@ -217,14 +225,6 @@
 🏷 html, loader, loading-animation, loading-indicator, ui, ux, ux-experiment
 
 📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 9753
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [web-midi](https://github.com/TomasHubelbauer/web-midi)
 
