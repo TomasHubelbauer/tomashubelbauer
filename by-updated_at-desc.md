@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-12-16T15:06:06.659Z
+2023-12-16T16:06:16.437Z
+
+## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
+
+⚖️ 2023-12-16T15:09:16Z
+
+🏷 ntlite, powershell, ps
+
+📒 PowerShell NTLite installer
 
 ## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
 
@@ -385,14 +393,6 @@
 🏷 inno, inno-extract, inno-setup, innoextract, powershell, ps
 
 📒 PowerShell InnoExtract installer
-
-## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
-
-⚖️ 2023-06-22T14:24:07Z
-
-🏷 ntlite, powershell, ps
-
-📒 PowerShell NTLite installer
 
 ## [three-op-1](https://github.com/TomasHubelbauer/three-op-1)
 
