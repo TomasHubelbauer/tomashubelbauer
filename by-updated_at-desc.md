@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-12-20T21:06:08.648Z
+2023-12-20T22:06:20.505Z
+
+## [onewheel-web-bluetooth](https://github.com/TomasHubelbauer/onewheel-web-bluetooth)
+
+⚖️ 2023-12-20T21:08:01Z
+
+🏷 onewheel, web-ble, web-bluetooth, web-bluetooth-api
+
+📒 Onewheel Web Bluetooth
 
 ## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
 
@@ -1193,14 +1201,6 @@
 🏷 browser, javascript, tsc, typescript
 
 📒 Using the TypeScript API in the browser
-
-## [onewheel-web-bluetooth](https://github.com/TomasHubelbauer/onewheel-web-bluetooth)
-
-⚖️ 2022-07-24T22:33:52Z
-
-🏷 onewheel, web-ble, web-bluetooth, web-bluetooth-api
-
-📒 Onewheel Web Bluetooth
 
 ## [ef-json-provider](https://github.com/TomasHubelbauer/ef-json-provider)
 

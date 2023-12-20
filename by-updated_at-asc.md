@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-12-20T21:06:08.646Z
+2023-12-20T22:06:20.503Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2418,14 +2418,6 @@
 
 📒 EF provider operating on JSON files
 
-## [onewheel-web-bluetooth](https://github.com/TomasHubelbauer/onewheel-web-bluetooth)
-
-⚖️ 2022-07-24T22:33:52Z
-
-🏷 onewheel, web-ble, web-bluetooth, web-bluetooth-api
-
-📒 Onewheel Web Bluetooth
-
 ## [typescript-in-browser](https://github.com/TomasHubelbauer/typescript-in-browser)
 
 ⚖️ 2022-08-08T02:36:48Z
@@ -3617,4 +3609,12 @@
 🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
 
 📒 WebRTC Data Channel demo
+
+## [onewheel-web-bluetooth](https://github.com/TomasHubelbauer/onewheel-web-bluetooth)
+
+⚖️ 2023-12-20T21:08:01Z
+
+🏷 onewheel, web-ble, web-bluetooth, web-bluetooth-api
+
+📒 Onewheel Web Bluetooth
 
