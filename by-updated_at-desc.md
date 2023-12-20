@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-12-20T03:06:03.183Z
+2023-12-20T04:06:10.112Z
+
+## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
+
+⚖️ 2023-12-20T03:25:02Z
+
+🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
+
+📒 WebRTC Data Channel demo
 
 ## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
 
@@ -97,14 +105,6 @@
 🏷 circle, csg, geometry, openscad, openscad-module, torus
 
 📒 A set of OpenSCAD modules for generating geometries of quarter-profile circles and tori including their inverted variants
-
-## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
-
-⚖️ 2023-11-24T19:32:48Z
-
-🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
-
-📒 WebRTC Data Channel demo
 
 ## [sw-js-to-ts-transpiler](https://github.com/TomasHubelbauer/sw-js-to-ts-transpiler)
 
