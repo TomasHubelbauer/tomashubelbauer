@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2023-12-29T22:06:11.312Z
+2023-12-29T23:06:15.755Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
