@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2023-12-30T19:06:21.459Z
+2023-12-30T20:06:13.408Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3442,14 +3442,6 @@
 
 📒 A script for setting the currently playing Spotify song as your Slack status
 
-## [web-midi](https://github.com/TomasHubelbauer/web-midi)
-
-⚖️ 2023-09-13T20:20:40Z
-
-🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
-
-📒 OP-1 working with web MIDI
-
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
 ⚖️ 2023-09-30T18:11:50Z
@@ -3617,4 +3609,12 @@
 🏷 onewheel, web-ble, web-bluetooth, web-bluetooth-api
 
 📒 Onewheel Web Bluetooth
+
+## [web-midi](https://github.com/TomasHubelbauer/web-midi)
+
+⚖️ 2023-12-30T19:46:25Z
+
+🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
+
+📒 OP-1 working with web MIDI
 

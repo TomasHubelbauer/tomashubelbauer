@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2023-12-30T19:06:21.461Z
+2023-12-30T20:06:13.409Z
+
+## [web-midi](https://github.com/TomasHubelbauer/web-midi)
+
+⚖️ 2023-12-30T19:46:25Z
+
+🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
+
+📒 OP-1 working with web MIDI
 
 ## [onewheel-web-bluetooth](https://github.com/TomasHubelbauer/onewheel-web-bluetooth)
 
@@ -169,14 +177,6 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
-
-## [web-midi](https://github.com/TomasHubelbauer/web-midi)
-
-⚖️ 2023-09-13T20:20:40Z
-
-🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
-
-📒 OP-1 working with web MIDI
 
 ## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
 
