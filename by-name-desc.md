@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2024-01-02T16:06:35.255Z
+2024-01-02T17:06:12.543Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -2657,6 +2657,14 @@
 🏷 fetch, range-request
 
 📒 A demonstration of using fetch to do a range request and seeing if GitHub Pages support them
+
+## [fetch-localhost](https://github.com/TomasHubelbauer/fetch-localhost)
+
+⚖️ fetch-localhost
+
+🏷 
+
+📒 null
 
 ## [fetch-download-progress](https://github.com/TomasHubelbauer/fetch-download-progress)
 

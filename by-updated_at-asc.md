@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-01-02T16:06:35.259Z
+2024-01-02T17:06:12.545Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3594,14 +3594,6 @@
 
 📒 PowerShell NTLite installer
 
-## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
-
-⚖️ 2023-12-20T03:25:02Z
-
-🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
-
-📒 WebRTC Data Channel demo
-
 ## [onewheel-web-bluetooth](https://github.com/TomasHubelbauer/onewheel-web-bluetooth)
 
 ⚖️ 2023-12-20T21:08:01Z
@@ -3633,4 +3625,20 @@
 🏷 
 
 📒 null
+
+## [fetch-localhost](https://github.com/TomasHubelbauer/fetch-localhost)
+
+⚖️ 2024-01-02T16:33:17Z
+
+🏷 
+
+📒 null
+
+## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
+
+⚖️ 2024-01-02T16:36:00Z
+
+🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
+
+📒 WebRTC Data Channel demo
 

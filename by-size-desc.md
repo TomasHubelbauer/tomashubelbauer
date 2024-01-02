@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-01-02T16:06:35.272Z
+2024-01-02T17:06:12.555Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -3577,6 +3577,14 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
+
+## [fetch-localhost](https://github.com/TomasHubelbauer/fetch-localhost)
+
+⚖️ 0
+
+🏷 
+
+📒 null
 
 ## [macos-screen-recording-detect](https://github.com/TomasHubelbauer/macos-screen-recording-detect)
 

@@ -1,6 +1,14 @@
 # By `size` (asc)
 
-2024-01-02T16:06:35.269Z
+2024-01-02T17:06:12.553Z
+
+## [fetch-localhost](https://github.com/TomasHubelbauer/fetch-localhost)
+
+⚖️ 0
+
+🏷 
+
+📒 null
 
 ## [macos-screen-recording-detect](https://github.com/TomasHubelbauer/macos-screen-recording-detect)
 

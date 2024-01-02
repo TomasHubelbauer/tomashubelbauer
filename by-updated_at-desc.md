@@ -1,6 +1,22 @@
 # By `updated_at` (desc)
 
-2024-01-02T16:06:35.261Z
+2024-01-02T17:06:12.547Z
+
+## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
+
+⚖️ 2024-01-02T16:36:00Z
+
+🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
+
+📒 WebRTC Data Channel demo
+
+## [fetch-localhost](https://github.com/TomasHubelbauer/fetch-localhost)
+
+⚖️ 2024-01-02T16:33:17Z
+
+🏷 
+
+📒 null
 
 ## [macos-screen-recording-detect](https://github.com/TomasHubelbauer/macos-screen-recording-detect)
 
@@ -33,14 +49,6 @@
 🏷 onewheel, web-ble, web-bluetooth, web-bluetooth-api
 
 📒 Onewheel Web Bluetooth
-
-## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
-
-⚖️ 2023-12-20T03:25:02Z
-
-🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
-
-📒 WebRTC Data Channel demo
 
 ## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
 
