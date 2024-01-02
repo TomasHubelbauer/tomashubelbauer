@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2024-01-02T15:06:14.222Z
+2024-01-02T16:06:35.255Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1793,6 +1793,14 @@
 🏷 mapsforge
 
 📒 MapsForge JavaScript parser
+
+## [macos-screen-recording-detect](https://github.com/TomasHubelbauer/macos-screen-recording-detect)
+
+⚖️ macos-screen-recording-detect
+
+🏷 
+
+📒 null
 
 ## [macos-login-item-shell-script-no-terminal](https://github.com/TomasHubelbauer/macos-login-item-shell-script-no-terminal)
 

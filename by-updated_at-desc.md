@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-01-02T15:06:14.231Z
+2024-01-02T16:06:35.261Z
+
+## [macos-screen-recording-detect](https://github.com/TomasHubelbauer/macos-screen-recording-detect)
+
+⚖️ 2024-01-02T15:46:44Z
+
+🏷 
+
+📒 null
 
 ## [eufy-doorbell-snapshotter](https://github.com/TomasHubelbauer/eufy-doorbell-snapshotter)
 

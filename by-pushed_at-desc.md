@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2024-01-02T15:06:14.235Z
+2024-01-02T16:06:35.266Z
+
+## [macos-screen-recording-detect](https://github.com/TomasHubelbauer/macos-screen-recording-detect)
+
+⚖️ 2024-01-02T15:46:44Z
+
+🏷 
+
+📒 null
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-01-02T14:06:54Z
+⚖️ 2024-01-02T15:06:39Z
 
 🏷 tomashubelbauer
 

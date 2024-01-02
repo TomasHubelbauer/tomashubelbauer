@@ -1,6 +1,14 @@
 # By `size` (asc)
 
-2024-01-02T15:06:14.237Z
+2024-01-02T16:06:35.269Z
+
+## [macos-screen-recording-detect](https://github.com/TomasHubelbauer/macos-screen-recording-detect)
+
+⚖️ 0
+
+🏷 
+
+📒 null
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -3444,7 +3452,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 16982
+⚖️ 17198
 
 🏷 tomashubelbauer
 
