@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-01-03T18:06:50.790Z
+2024-01-03T19:06:07.830Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -1698,14 +1698,6 @@
 
 📒 DOM local storage performance experiment
 
-## [macos-screen-recording-detect](https://github.com/TomasHubelbauer/macos-screen-recording-detect)
-
-⚖️ 10
-
-🏷 
-
-📒 null
-
 ## [firefox-youtube-buddy](https://github.com/TomasHubelbauer/firefox-youtube-buddy)
 
 ⚖️ 10
@@ -1857,6 +1849,14 @@
 🏷 git, kb, knowledge-base, tips-and-tricks
 
 📒 Tips and tricks for using Git
+
+## [macos-screen-recording-detect](https://github.com/TomasHubelbauer/macos-screen-recording-detect)
+
+⚖️ 12
+
+🏷 
+
+📒 null
 
 ## [vso-shortlink](https://github.com/TomasHubelbauer/vso-shortlink)
 
@@ -3476,7 +3476,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 20016
+⚖️ 20233
 
 🏷 tomashubelbauer
 
