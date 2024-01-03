@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-01-03T14:06:14.476Z
+2024-01-03T15:06:13.106Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -1154,14 +1154,6 @@
 
 📒 My research into merging faces in Blender
 
-## [macos-screen-recording-detect](https://github.com/TomasHubelbauer/macos-screen-recording-detect)
-
-⚖️ 5
-
-🏷 
-
-📒 null
-
 ## [git-submodule-track-branch](https://github.com/TomasHubelbauer/git-submodule-track-branch)
 
 ⚖️ 5
@@ -1705,6 +1697,14 @@
 🏷 dom, local-storage
 
 📒 DOM local storage performance experiment
+
+## [macos-screen-recording-detect](https://github.com/TomasHubelbauer/macos-screen-recording-detect)
+
+⚖️ 10
+
+🏷 
+
+📒 null
 
 ## [firefox-youtube-buddy](https://github.com/TomasHubelbauer/firefox-youtube-buddy)
 
@@ -3476,7 +3476,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 19582
+⚖️ 19799
 
 🏷 tomashubelbauer
 

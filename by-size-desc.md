@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-01-03T14:06:14.478Z
+2024-01-03T15:06:13.108Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -164,7 +164,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 19582
+⚖️ 19799
 
 🏷 tomashubelbauer
 
@@ -1858,6 +1858,14 @@
 
 📒 Tips and tricks for using Git
 
+## [macos-screen-recording-detect](https://github.com/TomasHubelbauer/macos-screen-recording-detect)
+
+⚖️ 10
+
+🏷 
+
+📒 null
+
 ## [firefox-youtube-buddy](https://github.com/TomasHubelbauer/firefox-youtube-buddy)
 
 ⚖️ 10
@@ -2321,14 +2329,6 @@
 🏷 contenteditable
 
 📒 Making contenteditable less useless
-
-## [macos-screen-recording-detect](https://github.com/TomasHubelbauer/macos-screen-recording-detect)
-
-⚖️ 5
-
-🏷 
-
-📒 null
 
 ## [git-submodule-track-branch](https://github.com/TomasHubelbauer/git-submodule-track-branch)
 
