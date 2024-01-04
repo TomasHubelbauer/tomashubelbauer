@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-01-04T19:06:14.757Z
+2024-01-04T20:06:14.868Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3442,14 +3442,6 @@
 
 📒 A script for setting the currently playing Spotify song as your Slack status
 
-## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
-
-⚖️ 2023-09-30T18:11:50Z
-
-🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
-
-📒 Raspberry Pi Pico mouse jiggler
-
 ## [selfie](https://github.com/TomasHubelbauer/selfie)
 
 ⚖️ 2023-10-11T00:11:48Z
@@ -3641,4 +3633,12 @@
 🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
 
 📒 WebRTC Data Channel demo
+
+## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
+
+⚖️ 2024-01-04T19:12:29Z
+
+🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
+
+📒 Raspberry Pi Pico mouse jiggler
 
