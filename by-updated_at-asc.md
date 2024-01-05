@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-01-05T20:06:16.128Z
+2024-01-05T21:06:10.160Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2642,14 +2642,6 @@
 
 📒 Previews video files in VS Code using the custom editors proposed API
 
-## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
-
-⚖️ 2023-02-02T12:24:07Z
-
-🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
-
-📒 KalorickeTabulky.cz Node/browser JavaScript API
-
 ## [pdf-scrape](https://github.com/TomasHubelbauer/pdf-scrape)
 
 ⚖️ 2023-02-13T19:13:33Z
@@ -3641,4 +3633,12 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
+
+## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
+
+⚖️ 2024-01-05T20:55:57Z
+
+🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
+
+📒 KalorickeTabulky.cz Node/browser JavaScript API
 
