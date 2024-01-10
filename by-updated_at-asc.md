@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-01-10T16:06:35.409Z
+2024-01-10T17:06:47.408Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3530,14 +3530,6 @@
 
 📒 Hacker News redesigned using Tailwind for practice
 
-## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
-
-⚖️ 2023-12-12T17:06:52Z
-
-🏷 akai, apc-mini, launchpad, midi, usb
-
-📒 Akai APCmini launchpad USB/MIDI communication protocol
-
 ## [vscode-markdown-jira-links](https://github.com/TomasHubelbauer/vscode-markdown-jira-links)
 
 ⚖️ 2023-12-13T12:50:42Z
@@ -3577,14 +3569,6 @@
 🏷 onewheel, web-ble, web-bluetooth, web-bluetooth-api
 
 📒 Onewheel Web Bluetooth
-
-## [web-midi](https://github.com/TomasHubelbauer/web-midi)
-
-⚖️ 2023-12-30T19:46:25Z
-
-🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
-
-📒 OP-1 working with web MIDI
 
 ## [eufy-doorbell-snapshotter](https://github.com/TomasHubelbauer/eufy-doorbell-snapshotter)
 
@@ -3641,4 +3625,20 @@
 🏷 windows-sandbox, wsb
 
 📒 Windows Sandbox exploration
+
+## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
+
+⚖️ 2024-01-10T16:20:10Z
+
+🏷 akai, apc-mini, launchpad, midi, usb
+
+📒 Akai APCmini launchpad USB/MIDI communication protocol
+
+## [web-midi](https://github.com/TomasHubelbauer/web-midi)
+
+⚖️ 2024-01-10T16:20:20Z
+
+🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
+
+📒 OP-1 working with web MIDI
 

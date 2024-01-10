@@ -1,6 +1,22 @@
 # By `updated_at` (desc)
 
-2024-01-10T16:06:35.412Z
+2024-01-10T17:06:47.411Z
+
+## [web-midi](https://github.com/TomasHubelbauer/web-midi)
+
+⚖️ 2024-01-10T16:20:20Z
+
+🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
+
+📒 OP-1 working with web MIDI
+
+## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
+
+⚖️ 2024-01-10T16:20:10Z
+
+🏷 akai, apc-mini, launchpad, midi, usb
+
+📒 Akai APCmini launchpad USB/MIDI communication protocol
 
 ## [windows-sandbox-script](https://github.com/TomasHubelbauer/windows-sandbox-script)
 
@@ -58,14 +74,6 @@
 
 📒 null
 
-## [web-midi](https://github.com/TomasHubelbauer/web-midi)
-
-⚖️ 2023-12-30T19:46:25Z
-
-🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
-
-📒 OP-1 working with web MIDI
-
 ## [onewheel-web-bluetooth](https://github.com/TomasHubelbauer/onewheel-web-bluetooth)
 
 ⚖️ 2023-12-20T21:08:01Z
@@ -105,14 +113,6 @@
 🏷 jira, markdown, vscode, vscode-extension
 
 📒 VS Code extension to highlight Jira links in MarkDown
-
-## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
-
-⚖️ 2023-12-12T17:06:52Z
-
-🏷 akai, apc-mini, launchpad, midi, usb
-
-📒 Akai APCmini launchpad USB/MIDI communication protocol
 
 ## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
 
