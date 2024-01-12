@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-01-12T10:06:23.661Z
+2024-01-12T11:06:11.028Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3370,14 +3370,6 @@
 
 📒 null
 
-## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
-
-⚖️ 2023-08-28T19:39:17Z
-
-🏷 fatcow, fatcow-icons, hubelbauer-net, icon-pack, icon-set, icons
-
-📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
-
 ## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
 
 ⚖️ 2023-09-01T12:27:05Z
@@ -3641,4 +3633,12 @@
 🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
 
 📒 OP-1 working with web MIDI
+
+## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
+
+⚖️ 2024-01-12T10:50:01Z
+
+🏷 fatcow, fatcow-icons, hubelbauer-net, icon-pack, icon-set, icons
+
+📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 

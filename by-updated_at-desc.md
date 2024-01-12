@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-01-12T10:06:23.665Z
+2024-01-12T11:06:11.029Z
+
+## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
+
+⚖️ 2024-01-12T10:50:01Z
+
+🏷 fatcow, fatcow-icons, hubelbauer-net, icon-pack, icon-set, icons
+
+📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 
 ## [web-midi](https://github.com/TomasHubelbauer/web-midi)
 
@@ -265,14 +273,6 @@
 🏷 apple-notes, apple-script
 
 📒 null
-
-## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
-
-⚖️ 2023-08-28T19:39:17Z
-
-🏷 fatcow, fatcow-icons, hubelbauer-net, icon-pack, icon-set, icons
-
-📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
 
 ## [firefox-hn-hide-domain](https://github.com/TomasHubelbauer/firefox-hn-hide-domain)
 
