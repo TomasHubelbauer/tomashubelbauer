@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-01-12T13:07:40.539Z
+2024-01-12T14:06:17.308Z
+
+## [node-puppeteer-apng](https://github.com/TomasHubelbauer/node-puppeteer-apng)
+
+⚖️ 2024-01-12T13:17:59Z
+
+🏷 animated-gif, animated-png, apng, javascript, node, node-library, node-module, png, puppeteer, screencast
+
+📒 A JavaScript library for recording screencasts of URLs or Puppeteer sessions to APNG
 
 ## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
 
@@ -857,14 +865,6 @@
 🏷 
 
 📒 null
-
-## [node-puppeteer-apng](https://github.com/TomasHubelbauer/node-puppeteer-apng)
-
-⚖️ 2023-03-13T11:14:49Z
-
-🏷 animated-gif, animated-png, apng, javascript, node, node-library, node-module, png, puppeteer, screencast
-
-📒 A JavaScript library for recording screencasts of URLs or Puppeteer sessions to APNG
 
 ## [vrm-api](https://github.com/TomasHubelbauer/vrm-api)
 
