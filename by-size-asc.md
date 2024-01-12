@@ -1,6 +1,14 @@
 # By `size` (asc)
 
-2024-01-12T22:06:12.928Z
+2024-01-12T23:06:13.335Z
+
+## [jsx-service-worker](https://github.com/TomasHubelbauer/jsx-service-worker)
+
+⚖️ 0
+
+🏷 
+
+📒 null
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 

@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2024-01-12T22:06:12.917Z
+2024-01-12T23:06:13.324Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1897,6 +1897,14 @@
 🏷 jsx, react, react-dom, tsx
 
 📒 JSX/TSX cheatsheet
+
+## [jsx-service-worker](https://github.com/TomasHubelbauer/jsx-service-worker)
+
+⚖️ jsx-service-worker
+
+🏷 
+
+📒 null
 
 ## [json-to-json_build_object](https://github.com/TomasHubelbauer/json-to-json_build_object)
 
