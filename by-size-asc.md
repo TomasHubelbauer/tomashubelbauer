@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-01-13T01:30:18.906Z
+2024-01-13T02:16:54.044Z
 
 ## [jsx-service-worker](https://github.com/TomasHubelbauer/jsx-service-worker)
 
