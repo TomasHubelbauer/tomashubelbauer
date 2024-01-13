@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-01-13T02:16:54.046Z
+2024-01-13T03:06:23.997Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -180,7 +180,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 16731
+⚖️ 16947
 
 🏷 tomashubelbauer
 
@@ -2986,6 +2986,14 @@
 
 📒 A demonstration of setting desktop wallpaper and background color using Batch
 
+## [jsx-service-worker](https://github.com/TomasHubelbauer/jsx-service-worker)
+
+⚖️ 2
+
+🏷 
+
+📒 null
+
 ## [firefox-hn-hide-domain](https://github.com/TomasHubelbauer/firefox-hn-hide-domain)
 
 ⚖️ 2
@@ -3593,14 +3601,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [jsx-service-worker](https://github.com/TomasHubelbauer/jsx-service-worker)
-
-⚖️ 0
-
-🏷 
-
-📒 null
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 

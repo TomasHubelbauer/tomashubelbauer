@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2024-01-13T02:16:54.044Z
-
-## [jsx-service-worker](https://github.com/TomasHubelbauer/jsx-service-worker)
-
-⚖️ 0
-
-🏷 
-
-📒 null
+2024-01-13T03:06:23.995Z
 
 ## [node-test-runner-mock-fetch](https://github.com/TomasHubelbauer/node-test-runner-mock-fetch)
 
@@ -385,6 +377,14 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
+
+## [jsx-service-worker](https://github.com/TomasHubelbauer/jsx-service-worker)
+
+⚖️ 2
+
+🏷 
+
+📒 null
 
 ## [firefox-hn-hide-domain](https://github.com/TomasHubelbauer/firefox-hn-hide-domain)
 
@@ -3468,7 +3468,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 16731
+⚖️ 16947
 
 🏷 tomashubelbauer
 
