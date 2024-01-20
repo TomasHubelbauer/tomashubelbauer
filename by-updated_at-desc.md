@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2024-01-20T20:06:20.581Z
+2024-01-20T21:06:22.056Z
 
 ## [node-puppeteer-apng](https://github.com/TomasHubelbauer/node-puppeteer-apng)
 
