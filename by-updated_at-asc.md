@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-01-29T18:06:40.149Z
+2024-01-29T19:06:22.328Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3386,14 +3386,6 @@
 
 📒 WebRTC data channel peer connection establishment using QR codes for trickle ICE exchange.
 
-## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
-
-⚖️ 2023-09-11T03:45:41Z
-
-🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
-
-📒 3D SVG projection and animation
-
 ## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
 
 ⚖️ 2023-09-13T11:50:50Z
@@ -3649,4 +3641,12 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
+
+## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
+
+⚖️ 2024-01-29T18:53:00Z
+
+🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
+
+📒 3D SVG projection and animation
 
