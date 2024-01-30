@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-01-30T21:06:45.740Z
+2024-01-30T22:06:31.500Z
+
+## [cf-workers-deploy](https://github.com/TomasHubelbauer/cf-workers-deploy)
+
+⚖️ 2024-01-30T21:42:05Z
+
+🏷 cloudflare, cloudflare-kv, cloudflare-worker, cloudflare-workers, cloudflare-workers-kv, wrangler
+
+📒 A Node package for deploying a script to CloudFlare Workers without the use of Wrangler
 
 ## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
 
@@ -1961,14 +1969,6 @@
 🏷 cra, create-react-app, puppeteer
 
 📒 Testing CRA (Create React App) with Puppeteer
-
-## [cf-workers-deploy](https://github.com/TomasHubelbauer/cf-workers-deploy)
-
-⚖️ 2022-04-17T09:51:03Z
-
-🏷 cloudflare, cloudflare-kv, cloudflare-worker, cloudflare-workers, cloudflare-workers-kv, wrangler
-
-📒 A Node package for deploying a script to CloudFlare Workers without the use of Wrangler
 
 ## [esm-dataview-getvarint](https://github.com/TomasHubelbauer/esm-dataview-getvarint)
 

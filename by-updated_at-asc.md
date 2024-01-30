@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-01-30T21:06:45.738Z
+2024-01-30T22:06:31.499Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -1681,14 +1681,6 @@
 🏷 javascript, library, protobuf, sqlite, varint
 
 📒 ESM (and non-ESM) JavaScript varint library
-
-## [cf-workers-deploy](https://github.com/TomasHubelbauer/cf-workers-deploy)
-
-⚖️ 2022-04-17T09:51:03Z
-
-🏷 cloudflare, cloudflare-kv, cloudflare-worker, cloudflare-workers, cloudflare-workers-kv, wrangler
-
-📒 A Node package for deploying a script to CloudFlare Workers without the use of Wrangler
 
 ## [cra-test-puppeteer](https://github.com/TomasHubelbauer/cra-test-puppeteer)
 
@@ -3649,4 +3641,12 @@
 🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
 
 📒 3D SVG projection and animation
+
+## [cf-workers-deploy](https://github.com/TomasHubelbauer/cf-workers-deploy)
+
+⚖️ 2024-01-30T21:42:05Z
+
+🏷 cloudflare, cloudflare-kv, cloudflare-worker, cloudflare-workers, cloudflare-workers-kv, wrangler
+
+📒 A Node package for deploying a script to CloudFlare Workers without the use of Wrangler
 
