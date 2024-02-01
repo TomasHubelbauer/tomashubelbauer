@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-02-01T13:13:10.389Z
+2024-02-01T14:09:51.337Z
+
+## [vscode-email-viewer](https://github.com/TomasHubelbauer/vscode-email-viewer)
+
+⚖️ 2024-02-01T13:20:20Z
+
+🏷 email, email-parsing, eml, eml-files, preview, vscode, vscode-extension, vscode-preview
+
+📒 Preview email message files (EML) in VS Code
 
 ## [cf-workers-deploy](https://github.com/TomasHubelbauer/cf-workers-deploy)
 
@@ -417,14 +425,6 @@
 🏷 
 
 📒 null
-
-## [vscode-email-viewer](https://github.com/TomasHubelbauer/vscode-email-viewer)
-
-⚖️ 2023-07-12T20:45:18Z
-
-🏷 email, email-parsing, eml, eml-files, preview, vscode, vscode-extension, vscode-preview
-
-📒 Preview email message files (EML) in VS Code
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 

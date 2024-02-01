@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-02-01T13:13:10.387Z
+2024-02-01T14:09:51.335Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3226,14 +3226,6 @@
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
-## [vscode-email-viewer](https://github.com/TomasHubelbauer/vscode-email-viewer)
-
-⚖️ 2023-07-12T20:45:18Z
-
-🏷 email, email-parsing, eml, eml-files, preview, vscode, vscode-extension, vscode-preview
-
-📒 Preview email message files (EML) in VS Code
-
 ## [git-submodule-track-branch](https://github.com/TomasHubelbauer/git-submodule-track-branch)
 
 ⚖️ 2023-07-16T10:16:40Z
@@ -3649,4 +3641,12 @@
 🏷 cloudflare, cloudflare-kv, cloudflare-worker, cloudflare-workers, cloudflare-workers-kv, wrangler
 
 📒 A Node package for deploying a script to CloudFlare Workers without the use of Wrangler
+
+## [vscode-email-viewer](https://github.com/TomasHubelbauer/vscode-email-viewer)
+
+⚖️ 2024-02-01T13:20:20Z
+
+🏷 email, email-parsing, eml, eml-files, preview, vscode, vscode-extension, vscode-preview
+
+📒 Preview email message files (EML) in VS Code
 
