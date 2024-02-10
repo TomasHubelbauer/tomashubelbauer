@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-02-10T15:06:42.977Z
+2024-02-10T16:07:26.769Z
+
+## [moment-tz-conversion](https://github.com/TomasHubelbauer/moment-tz-conversion)
+
+⚖️ 2024-02-10T15:53:26Z
+
+🏷 moment, timezone, timezone-conversion
+
+📒 Moment time zone conversion demonstration
 
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
@@ -1713,14 +1721,6 @@
 🏷 email, email-template, email-template-generator, eml
 
 📒 A Node package for generating EML using HTML snippets and EML helpers
-
-## [moment-tz-conversion](https://github.com/TomasHubelbauer/moment-tz-conversion)
-
-⚖️ 2022-04-17T10:01:21Z
-
-🏷 moment, timezone, timezone-conversion
-
-📒 Moment time zone conversion demonstration
 
 ## [keytar-vscode-extension](https://github.com/TomasHubelbauer/keytar-vscode-extension)
 
