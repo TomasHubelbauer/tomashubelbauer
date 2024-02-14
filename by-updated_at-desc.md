@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-02-14T00:14:33.214Z
+2024-02-14T01:27:32.551Z
+
+## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
+
+⚖️ 2024-02-14T00:37:53Z
+
+🏷 
+
+📒 null
 
 ## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
 
-⚖️ 2024-02-13T23:46:01Z
+⚖️ 2024-02-14T00:34:21Z
 
 🏷 
 
@@ -361,14 +369,6 @@
 🏷 cd, ci, ci-cd, github, github-actions
 
 📒 Infromation and tips regarding GitHub Actions
-
-## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
-
-⚖️ 2023-08-11T20:07:14Z
-
-🏷 
-
-📒 null
 
 ## [wiringbits.github.io](https://github.com/TomasHubelbauer/wiringbits.github.io)
 
