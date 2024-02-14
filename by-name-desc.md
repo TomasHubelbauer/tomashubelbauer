@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2024-02-14T08:07:17.638Z
+2024-02-14T09:06:53.483Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -3366,9 +3366,9 @@
 
 ⚖️ bun-reverse-proxy
 
-🏷 
+🏷 bun, javascript, proxy-server, reverse-proxy, reverse-proxy-server, typescript
 
-📒 null
+📒 Bun reverse proxy
 
 ## [bt-channel](https://github.com/TomasHubelbauer/bt-channel)
 
