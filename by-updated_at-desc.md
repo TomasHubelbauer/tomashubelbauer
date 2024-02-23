@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-02-23T10:06:50.268Z
+2024-02-23T11:06:40.898Z
+
+## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
+
+⚖️ 2024-02-23T10:33:41Z
+
+🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
+
+📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
 
 ## [pglite-test](https://github.com/TomasHubelbauer/pglite-test)
 
@@ -249,14 +257,6 @@
 🏷 api-token, email, fastmail, fastmail-api, sieve
 
 📒 My exploration of the Fastmail API
-
-## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
-
-⚖️ 2023-12-04T15:26:41Z
-
-🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
-
-📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
 
 ## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
 

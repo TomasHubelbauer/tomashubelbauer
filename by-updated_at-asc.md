@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-02-23T10:06:50.266Z
+2024-02-23T11:06:40.896Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3410,14 +3410,6 @@
 
 📒 My Elixir Advent of Code 2023 puzzle solutions.
 
-## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
-
-⚖️ 2023-12-04T15:26:41Z
-
-🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
-
-📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
-
 ## [fastmail](https://github.com/TomasHubelbauer/fastmail)
 
 ⚖️ 2023-12-10T18:08:02Z
@@ -3665,4 +3657,12 @@
 🏷 pglite, postgres
 
 📒 null
+
+## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
+
+⚖️ 2024-02-23T10:33:41Z
+
+🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
+
+📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
 
