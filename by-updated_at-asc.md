@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-02-25T07:06:42.002Z
+2024-02-25T08:06:51.273Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -1121,14 +1121,6 @@
 🏷 editor, web-components
 
 📒 An editor web component which reports the specific changes of its value
-
-## [web-gps-tracker](https://github.com/TomasHubelbauer/web-gps-tracker)
-
-⚖️ 2022-04-16T13:53:15Z
-
-🏷 geolocation, geolocation-api, gps, gps-location, gps-tracker
-
-📒 A web-based GPS tracker demo displaying GPS location records as they come
 
 ## [webgl-exploration](https://github.com/TomasHubelbauer/webgl-exploration)
 
@@ -3665,4 +3657,12 @@
 🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
 
 📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
+
+## [web-gps-tracker](https://github.com/TomasHubelbauer/web-gps-tracker)
+
+⚖️ 2024-02-25T07:33:03Z
+
+🏷 geolocation, geolocation-api, gps, gps-location, gps-tracker
+
+📒 A web-based GPS tracker demo displaying GPS location records as they come
 

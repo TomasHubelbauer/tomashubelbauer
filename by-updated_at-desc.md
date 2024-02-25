@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-02-25T07:06:42.003Z
+2024-02-25T08:06:51.275Z
+
+## [web-gps-tracker](https://github.com/TomasHubelbauer/web-gps-tracker)
+
+⚖️ 2024-02-25T07:33:03Z
+
+🏷 geolocation, geolocation-api, gps, gps-location, gps-tracker
+
+📒 A web-based GPS tracker demo displaying GPS location records as they come
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -2537,14 +2545,6 @@
 🏷 webgl
 
 📒 WebGL exploration
-
-## [web-gps-tracker](https://github.com/TomasHubelbauer/web-gps-tracker)
-
-⚖️ 2022-04-16T13:53:15Z
-
-🏷 geolocation, geolocation-api, gps, gps-location, gps-tracker
-
-📒 A web-based GPS tracker demo displaying GPS location records as they come
 
 ## [wc-editor](https://github.com/TomasHubelbauer/wc-editor)
 
