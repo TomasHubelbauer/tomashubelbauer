@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-03-01T00:16:06.027Z
+2024-03-01T01:30:47.442Z
 
 ## [pglite-test](https://github.com/TomasHubelbauer/pglite-test)
 
@@ -3458,14 +3458,6 @@
 
 📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 12262
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [playwright-pdf](https://github.com/TomasHubelbauer/playwright-pdf)
 
 ⚖️ 12262
@@ -3473,6 +3465,14 @@
 🏷 firefox, pdf, playwright, puppeteer, scraping
 
 📒 Using Playwright Firefox to scrape PDFs
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 12391
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [vscode-email-viewer](https://github.com/TomasHubelbauer/vscode-email-viewer)
 
@@ -3508,7 +3508,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 19402
+⚖️ 19404
 
 🏷 tomashubelbauer
 
