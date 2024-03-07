@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-03-07T08:06:54.369Z
+2024-03-07T10:07:15.291Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2306,14 +2306,6 @@
 
 📒 My Arduino Wokwi sketch for a tester of dot matrix displays
 
-## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
-
-⚖️ 2022-05-08T18:08:27Z
-
-🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
-
-📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
-
 ## [regex](https://github.com/TomasHubelbauer/regex)
 
 ⚖️ 2022-05-22T09:02:38Z
@@ -3673,4 +3665,12 @@
 🏷 github-pages, local-storage
 
 📒 An ES module library for separating localStorage on GitHub Pages not by origin but by path name.
+
+## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
+
+⚖️ 2024-03-07T08:12:51Z
+
+🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
+
+📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
 

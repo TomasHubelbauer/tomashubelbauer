@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-03-07T08:06:54.371Z
+2024-03-07T10:07:15.294Z
+
+## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
+
+⚖️ 2024-03-07T08:12:51Z
+
+🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
+
+📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
 
 ## [github-pages-local-storage](https://github.com/TomasHubelbauer/github-pages-local-storage)
 
@@ -1361,14 +1369,6 @@
 🏷 regex, regexp
 
 📒 Online JavaScript regex designer with nice code editor and syntax highlighting
-
-## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
-
-⚖️ 2022-05-08T18:08:27Z
-
-🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
-
-📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
 
 ## [dot-matrix-tester](https://github.com/TomasHubelbauer/dot-matrix-tester)
 
