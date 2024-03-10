@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-03-10T21:06:40.785Z
+2024-03-10T22:06:57.777Z
+
+## [bun-firefox-history](https://github.com/TomasHubelbauer/bun-firefox-history)
+
+⚖️ 2024-03-10T21:54:49Z
+
+🏷 
+
+📒 null
 
 ## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
 
