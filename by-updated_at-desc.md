@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-03-13T05:06:38.033Z
+2024-03-13T06:07:18.154Z
+
+## [moment-tz-conversion](https://github.com/TomasHubelbauer/moment-tz-conversion)
+
+⚖️ 2024-03-13T05:34:23Z
+
+🏷 moment, timezone, timezone-conversion
+
+📒 Moment time zone conversion demonstration
 
 ## [eufy-doorbell-snapshotter](https://github.com/TomasHubelbauer/eufy-doorbell-snapshotter)
 
@@ -137,14 +145,6 @@
 🏷 
 
 📒 null
-
-## [moment-tz-conversion](https://github.com/TomasHubelbauer/moment-tz-conversion)
-
-⚖️ 2024-02-12T09:40:22Z
-
-🏷 moment, timezone, timezone-conversion
-
-📒 Moment time zone conversion demonstration
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
