@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-03-18T00:15:35.173Z
+2024-03-18T01:27:43.353Z
 
 ## [pglite-test](https://github.com/TomasHubelbauer/pglite-test)
 
@@ -3466,6 +3466,14 @@
 
 📒 A demo of an idea for a UI textual element indicating it is reloading using a masking animation.
 
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 11016
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
 ## [playwright-pdf](https://github.com/TomasHubelbauer/playwright-pdf)
 
 ⚖️ 12262
@@ -3473,14 +3481,6 @@
 🏷 firefox, pdf, playwright, puppeteer, scraping
 
 📒 Using Playwright Firefox to scrape PDFs
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 13539
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [vscode-email-viewer](https://github.com/TomasHubelbauer/vscode-email-viewer)
 
@@ -3514,14 +3514,6 @@
 
 📒 Blender recreation of the Gargantua black hole from Interstellar
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 21528
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [solvespace](https://github.com/TomasHubelbauer/solvespace)
 
 ⚖️ 21662
@@ -3529,6 +3521,14 @@
 🏷 
 
 📒 Parametric 2d/3d CAD
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 21744
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [blender-light-box](https://github.com/TomasHubelbauer/blender-light-box)
 
