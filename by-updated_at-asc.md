@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-03-19T04:07:08.159Z
+2024-03-19T05:06:49.620Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3410,14 +3410,6 @@
 
 📒 VS Code extension to highlight Jira links in MarkDown
 
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2023-12-14T00:08:35Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
-
 ## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
 
 ⚖️ 2023-12-16T15:09:16Z
@@ -3681,4 +3673,12 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2024-03-19T04:07:22Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
