@@ -1,6 +1,22 @@
 # By `updated_at` (desc)
 
-2024-03-20T20:07:49.653Z
+2024-03-20T21:07:29.646Z
+
+## [onewheel-web-bluetooth](https://github.com/TomasHubelbauer/onewheel-web-bluetooth)
+
+⚖️ 2024-03-20T21:06:19Z
+
+🏷 onewheel, web-ble, web-bluetooth, web-bluetooth-api
+
+📒 Onewheel Web Bluetooth
+
+## [contenteditable](https://github.com/TomasHubelbauer/contenteditable)
+
+⚖️ 2024-03-20T20:25:56Z
+
+🏷 contenteditable
+
+📒 Making contenteditable less useless
 
 ## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
 
@@ -257,14 +273,6 @@
 🏷 
 
 📒 null
-
-## [onewheel-web-bluetooth](https://github.com/TomasHubelbauer/onewheel-web-bluetooth)
-
-⚖️ 2023-12-20T21:08:01Z
-
-🏷 onewheel, web-ble, web-bluetooth, web-bluetooth-api
-
-📒 Onewheel Web Bluetooth
 
 ## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
 
@@ -3081,14 +3089,6 @@
 🏷 contenteditable, focus
 
 📒 Researching a contenteditable focus issue
-
-## [contenteditable](https://github.com/TomasHubelbauer/contenteditable)
-
-⚖️ 2022-04-16T12:45:08Z
-
-🏷 contenteditable
-
-📒 Making contenteditable less useless
 
 ## [cannon-three](https://github.com/TomasHubelbauer/cannon-three)
 
