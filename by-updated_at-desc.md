@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-03-22T10:07:02.703Z
+2024-03-22T11:06:53.689Z
+
+## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
+
+⚖️ 2024-03-22T11:04:08Z
+
+🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
+
+📒 A WebRTC data channel establishment with QR codes used for signaling channel.
 
 ## [contenteditable](https://github.com/TomasHubelbauer/contenteditable)
 
@@ -441,14 +449,6 @@
 🏷 
 
 📒 null
-
-## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
-
-⚖️ 2023-08-06T19:15:56Z
-
-🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
-
-📒 A WebRTC data channel establishment with QR codes used for signaling channel.
 
 ## [onewheel-charger](https://github.com/TomasHubelbauer/onewheel-charger)
 
