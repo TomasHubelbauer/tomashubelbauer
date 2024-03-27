@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-03-27T19:06:33.477Z
+2024-03-27T20:07:02.834Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3306,14 +3306,6 @@
 
 📒 WebRTC data channel peer connection establishment using QR codes for trickle ICE exchange.
 
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 2023-09-13T11:50:50Z
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
-
 ## [selfie](https://github.com/TomasHubelbauer/selfie)
 
 ⚖️ 2023-10-11T00:11:48Z
@@ -3681,4 +3673,12 @@
 🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
 
 📒 A WebRTC data channel establishment with QR codes used for signaling channel.
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 2024-03-27T19:48:18Z
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 
