@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-03-30T06:07:19.164Z
+2024-03-30T08:07:26.161Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3586,14 +3586,6 @@
 
 📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
 
-## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
-
-⚖️ 2024-03-08T16:50:47Z
-
-🏷 bun, javascript, proxy-server, reverse-proxy, reverse-proxy-server, typescript
-
-📒 Bun reverse proxy
-
 ## [bun-firefox-history](https://github.com/TomasHubelbauer/bun-firefox-history)
 
 ⚖️ 2024-03-10T21:54:49Z
@@ -3681,4 +3673,12 @@
 🏷 slack, slack-app, slack-status, spotify
 
 📒 A script for setting the currently playing Spotify song as your Slack status
+
+## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
+
+⚖️ 2024-03-30T06:29:34Z
+
+🏷 bun, javascript, proxy-server, reverse-proxy, reverse-proxy-server, typescript
+
+📒 Bun reverse proxy
 

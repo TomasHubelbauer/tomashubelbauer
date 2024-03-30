@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-03-30T06:07:19.168Z
+2024-03-30T08:07:26.163Z
+
+## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
+
+⚖️ 2024-03-30T06:29:34Z
+
+🏷 bun, javascript, proxy-server, reverse-proxy, reverse-proxy-server, typescript
+
+📒 Bun reverse proxy
 
 ## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
 
@@ -89,14 +97,6 @@
 🏷 
 
 📒 null
-
-## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
-
-⚖️ 2024-03-08T16:50:47Z
-
-🏷 bun, javascript, proxy-server, reverse-proxy, reverse-proxy-server, typescript
-
-📒 Bun reverse proxy
 
 ## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
 
