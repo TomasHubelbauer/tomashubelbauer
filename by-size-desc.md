@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-04-02T20:07:15.195Z
+2024-04-02T21:07:07.519Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -2634,6 +2634,14 @@
 
 📒 My research into merging faces in Blender
 
+## [bun-runtime-plugin-onResolve-sync-async-import](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-sync-async-import)
+
+⚖️ 3
+
+🏷 
+
+📒 null
+
 ## [fetch-localhost](https://github.com/TomasHubelbauer/fetch-localhost)
 
 ⚖️ 3
@@ -3282,6 +3290,14 @@
 
 📒 Notes for using Blender with VS Code
 
+## [bun-runtime-plugin-onResolve-custom-protocol](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-custom-protocol)
+
+⚖️ 1
+
+🏷 
+
+📒 null
+
 ## [bun-firefox-history](https://github.com/TomasHubelbauer/bun-firefox-history)
 
 ⚖️ 1
@@ -3625,22 +3641,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [bun-runtime-plugin-onResolve-custom-protocol](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-custom-protocol)
-
-⚖️ 0
-
-🏷 
-
-📒 null
-
-## [bun-runtime-plugin-onResolve-sync-async-import](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-sync-async-import)
-
-⚖️ 0
-
-🏷 
-
-📒 null
 
 ## [pglite-test](https://github.com/TomasHubelbauer/pglite-test)
 

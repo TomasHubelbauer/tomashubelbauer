@@ -1,22 +1,6 @@
 # By `size` (asc)
 
-2024-04-02T20:07:15.193Z
-
-## [bun-runtime-plugin-onResolve-custom-protocol](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-custom-protocol)
-
-⚖️ 0
-
-🏷 
-
-📒 null
-
-## [bun-runtime-plugin-onResolve-sync-async-import](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-sync-async-import)
-
-⚖️ 0
-
-🏷 
-
-📒 null
+2024-04-02T21:07:07.517Z
 
 ## [pglite-test](https://github.com/TomasHubelbauer/pglite-test)
 
@@ -73,6 +57,14 @@
 🏷 console, node
 
 📒 Overriding console.log in Node
+
+## [bun-runtime-plugin-onResolve-custom-protocol](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-custom-protocol)
+
+⚖️ 1
+
+🏷 
+
+📒 null
 
 ## [bun-firefox-history](https://github.com/TomasHubelbauer/bun-firefox-history)
 
@@ -713,6 +705,14 @@
 🏷 blender, vscode
 
 📒 Notes for using Blender with VS Code
+
+## [bun-runtime-plugin-onResolve-sync-async-import](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-sync-async-import)
+
+⚖️ 3
+
+🏷 
+
+📒 null
 
 ## [fetch-localhost](https://github.com/TomasHubelbauer/fetch-localhost)
 
