@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-04-06T09:07:47.236Z
+2024-04-06T10:06:45.669Z
+
+## [github-pages-local-storage](https://github.com/TomasHubelbauer/github-pages-local-storage)
+
+⚖️ 2024-04-06T09:29:30Z
+
+🏷 github-pages, local-storage
+
+📒 An ES module library for separating localStorage on GitHub Pages not by origin but by path name.
 
 ## [bun-runtime-plugin-onResolve-custom-protocol](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-custom-protocol)
 
@@ -121,14 +129,6 @@
 🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
 
 📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
-
-## [github-pages-local-storage](https://github.com/TomasHubelbauer/github-pages-local-storage)
-
-⚖️ 2024-03-02T01:16:36Z
-
-🏷 github-pages, local-storage
-
-📒 An ES module library for separating localStorage on GitHub Pages not by origin but by path name.
 
 ## [watchFile-demo](https://github.com/TomasHubelbauer/watchFile-demo)
 
