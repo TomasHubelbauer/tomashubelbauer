@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-04-08T18:08:02.913Z
+2024-04-08T19:07:16.400Z
 
 ## [pglite-test](https://github.com/TomasHubelbauer/pglite-test)
 
@@ -409,14 +409,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
-
-⚖️ 2
-
-🏷 bun, javascript, proxy-server, reverse-proxy, reverse-proxy-server, typescript
-
-📒 Bun reverse proxy
 
 ## [jsx-service-worker](https://github.com/TomasHubelbauer/jsx-service-worker)
 
@@ -1065,6 +1057,14 @@
 🏷 batch, desktop-background, desktop-wallpaper, powershell, wsb
 
 📒 A demonstration of setting desktop wallpaper and background color using Batch
+
+## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
+
+⚖️ 4
+
+🏷 bun, javascript, proxy-server, reverse-proxy, reverse-proxy-server, typescript
+
+📒 Bun reverse proxy
 
 ## [node-esm-loader-repro](https://github.com/TomasHubelbauer/node-esm-loader-repro)
 

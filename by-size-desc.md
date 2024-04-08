@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-04-08T18:08:02.917Z
+2024-04-08T19:07:16.402Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -2490,6 +2490,14 @@
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
 
+## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
+
+⚖️ 4
+
+🏷 bun, javascript, proxy-server, reverse-proxy, reverse-proxy-server, typescript
+
+📒 Bun reverse proxy
+
 ## [node-esm-loader-repro](https://github.com/TomasHubelbauer/node-esm-loader-repro)
 
 ⚖️ 4
@@ -2993,14 +3001,6 @@
 🏷 batch, desktop-background, desktop-wallpaper, powershell, wsb
 
 📒 A demonstration of setting desktop wallpaper and background color using Batch
-
-## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
-
-⚖️ 2
-
-🏷 bun, javascript, proxy-server, reverse-proxy, reverse-proxy-server, typescript
-
-📒 Bun reverse proxy
 
 ## [jsx-service-worker](https://github.com/TomasHubelbauer/jsx-service-worker)
 
