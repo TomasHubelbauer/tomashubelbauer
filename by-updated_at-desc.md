@@ -1,6 +1,6 @@
 # By `updated_at` (desc)
 
-2024-04-12T22:06:51.998Z
+2024-04-12T23:06:59.468Z
 
 ## [bun-throw-after-return](https://github.com/TomasHubelbauer/bun-throw-after-return)
 
