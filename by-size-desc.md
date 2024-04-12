@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-04-12T19:07:22.768Z
+2024-04-12T20:07:22.725Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -3641,6 +3641,14 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
+
+## [bun-throw-after-return](https://github.com/TomasHubelbauer/bun-throw-after-return)
+
+⚖️ 0
+
+🏷 
+
+📒 null
 
 ## [pglite-test](https://github.com/TomasHubelbauer/pglite-test)
 

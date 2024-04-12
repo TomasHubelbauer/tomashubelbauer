@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2024-04-12T19:07:22.753Z
+2024-04-12T20:07:22.709Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -317,6 +317,14 @@
 ## [bun-runtime-plugin-onResolve-sync-async-import](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-sync-async-import)
 
 ⚖️ bun-runtime-plugin-onResolve-sync-async-import
+
+🏷 
+
+📒 null
+
+## [bun-throw-after-return](https://github.com/TomasHubelbauer/bun-throw-after-return)
+
+⚖️ bun-throw-after-return
 
 🏷 
 

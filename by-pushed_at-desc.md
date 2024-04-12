@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2024-04-12T19:07:22.763Z
+2024-04-12T20:07:22.721Z
+
+## [bun-throw-after-return](https://github.com/TomasHubelbauer/bun-throw-after-return)
+
+⚖️ 2024-04-12T20:03:30Z
+
+🏷 
+
+📒 null
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-04-12T17:08:15Z
+⚖️ 2024-04-12T19:07:51Z
 
 🏷 tomashubelbauer
 

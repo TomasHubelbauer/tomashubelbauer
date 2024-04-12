@@ -1,6 +1,14 @@
 # By `size` (asc)
 
-2024-04-12T19:07:22.765Z
+2024-04-12T20:07:22.723Z
+
+## [bun-throw-after-return](https://github.com/TomasHubelbauer/bun-throw-after-return)
+
+⚖️ 0
+
+🏷 
+
+📒 null
 
 ## [pglite-test](https://github.com/TomasHubelbauer/pglite-test)
 

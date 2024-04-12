@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2024-04-12T19:07:22.754Z
+2024-04-12T20:07:22.712Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -3377,6 +3377,14 @@
 🏷 3d-model, 3d-print, stl
 
 📒 A 3D model for a case to wind cables in.
+
+## [bun-throw-after-return](https://github.com/TomasHubelbauer/bun-throw-after-return)
+
+⚖️ bun-throw-after-return
+
+🏷 
+
+📒 null
 
 ## [bun-runtime-plugin-onResolve-sync-async-import](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-sync-async-import)
 

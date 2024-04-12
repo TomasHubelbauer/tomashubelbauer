@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-04-12T19:07:22.759Z
+2024-04-12T20:07:22.717Z
+
+## [bun-throw-after-return](https://github.com/TomasHubelbauer/bun-throw-after-return)
+
+⚖️ 2024-04-12T20:04:58Z
+
+🏷 
+
+📒 null
 
 ## [web-midi](https://github.com/TomasHubelbauer/web-midi)
 

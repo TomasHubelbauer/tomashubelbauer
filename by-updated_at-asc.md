@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-04-12T19:07:22.757Z
+2024-04-12T20:07:22.715Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3697,4 +3697,12 @@
 🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
 
 📒 OP-1 working with web MIDI
+
+## [bun-throw-after-return](https://github.com/TomasHubelbauer/bun-throw-after-return)
+
+⚖️ 2024-04-12T20:04:58Z
+
+🏷 
+
+📒 null
 
