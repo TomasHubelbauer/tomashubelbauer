@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-04-12T21:07:03.796Z
+2024-04-12T22:06:52.006Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -3290,6 +3290,14 @@
 
 📒 Notes for using Blender with VS Code
 
+## [bun-throw-after-return](https://github.com/TomasHubelbauer/bun-throw-after-return)
+
+⚖️ 1
+
+🏷 
+
+📒 null
+
 ## [bun-runtime-plugin-onResolve-custom-protocol](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-custom-protocol)
 
 ⚖️ 1
@@ -3641,14 +3649,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [bun-throw-after-return](https://github.com/TomasHubelbauer/bun-throw-after-return)
-
-⚖️ 0
-
-🏷 
-
-📒 null
 
 ## [pglite-test](https://github.com/TomasHubelbauer/pglite-test)
 

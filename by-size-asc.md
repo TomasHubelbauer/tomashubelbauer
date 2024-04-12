@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2024-04-12T21:07:03.792Z
-
-## [bun-throw-after-return](https://github.com/TomasHubelbauer/bun-throw-after-return)
-
-⚖️ 0
-
-🏷 
-
-📒 null
+2024-04-12T22:06:52.004Z
 
 ## [pglite-test](https://github.com/TomasHubelbauer/pglite-test)
 
@@ -65,6 +57,14 @@
 🏷 console, node
 
 📒 Overriding console.log in Node
+
+## [bun-throw-after-return](https://github.com/TomasHubelbauer/bun-throw-after-return)
+
+⚖️ 1
+
+🏷 
+
+📒 null
 
 ## [bun-runtime-plugin-onResolve-custom-protocol](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-custom-protocol)
 
