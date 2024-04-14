@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2024-04-14T15:24:38.578Z
+2024-04-14T18:21:31.725Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -3413,6 +3413,14 @@
 ## [bun-firefox-history](https://github.com/TomasHubelbauer/bun-firefox-history)
 
 ⚖️ bun-firefox-history
+
+🏷 
+
+📒 null
+
+## [bun-firefox-desktop](https://github.com/TomasHubelbauer/bun-firefox-desktop)
+
+⚖️ bun-firefox-desktop
 
 🏷 
 
