@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-04-17T06:07:28.743Z
+2024-04-17T07:07:06.732Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3522,14 +3522,6 @@
 
 📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
 
-## [web-gps-tracker](https://github.com/TomasHubelbauer/web-gps-tracker)
-
-⚖️ 2024-02-25T07:33:03Z
-
-🏷 geolocation, geolocation-api, gps, gps-location, gps-tracker
-
-📒 A web-based GPS tracker demo displaying GPS location records as they come
-
 ## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
 
 ⚖️ 2024-02-27T17:20:50Z
@@ -3713,4 +3705,12 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
+
+## [web-gps-tracker](https://github.com/TomasHubelbauer/web-gps-tracker)
+
+⚖️ 2024-04-17T06:50:13Z
+
+🏷 geolocation, geolocation-api, gps, gps-location, gps-tracker
+
+📒 A web-based GPS tracker demo displaying GPS location records as they come
 
