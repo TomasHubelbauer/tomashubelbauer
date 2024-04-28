@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-04-27T23:06:53.703Z
+2024-04-28T02:18:17.259Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-04-28T00:18:24Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-04-27T22:08:09Z
+⚖️ 2024-04-27T23:07:06Z
 
 🏷 tomashubelbauer
 
@@ -25,14 +33,6 @@
 🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
 
 📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-04-27T00:16:43Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
 
