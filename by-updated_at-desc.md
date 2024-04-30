@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-04-29T23:06:56.796Z
+2024-04-30T01:29:57.326Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-04-30T00:16:40Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-04-29T22:07:16Z
+⚖️ 2024-04-29T23:07:07Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 
 
 📒 null
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-04-29T00:16:27Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [sreality-video-download](https://github.com/TomasHubelbauer/sreality-video-download)
 
