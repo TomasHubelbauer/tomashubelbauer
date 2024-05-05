@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-05-05T08:07:12.911Z
+2024-05-05T09:08:13.786Z
+
+## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
+
+⚖️ 2024-05-05T08:45:20Z
+
+🏷 apple-notes, apple-script
+
+📒 null
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-05-05T07:07:24Z
+⚖️ 2024-05-05T08:07:25Z
 
 🏷 tomashubelbauer
 
@@ -457,14 +465,6 @@
 🏷 airdrop, data-channel, signaling-channel, webrtc
 
 📒 AirDrop based WebRTC signaling channel
-
-## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
-
-⚖️ 2023-09-01T12:27:05Z
-
-🏷 apple-notes, apple-script
-
-📒 null
 
 ## [firefox-hn-hide-domain](https://github.com/TomasHubelbauer/firefox-hn-hide-domain)
 
