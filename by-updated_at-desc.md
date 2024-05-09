@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-05-09T06:07:31.213Z
+2024-05-09T07:07:27.372Z
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2024-05-09T06:40:46Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-05-09T05:08:10Z
+⚖️ 2024-05-09T06:07:40Z
 
 🏷 tomashubelbauer
 
@@ -201,14 +209,6 @@
 🏷 onewheel, web-ble, web-bluetooth, web-bluetooth-api
 
 📒 Onewheel Web Bluetooth
-
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2024-03-19T04:07:22Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
 ## [moment-tz-conversion](https://github.com/TomasHubelbauer/moment-tz-conversion)
 

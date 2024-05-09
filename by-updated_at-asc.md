@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-05-09T06:07:31.212Z
+2024-05-09T07:07:27.371Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3522,14 +3522,6 @@
 
 📒 Moment time zone conversion demonstration
 
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2024-03-19T04:07:22Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
-
 ## [onewheel-web-bluetooth](https://github.com/TomasHubelbauer/onewheel-web-bluetooth)
 
 ⚖️ 2024-03-20T21:06:19Z
@@ -3724,9 +3716,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-05-09T05:08:10Z
+⚖️ 2024-05-09T06:07:40Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2024-05-09T06:40:46Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
