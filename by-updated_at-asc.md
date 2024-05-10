@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-05-10T02:18:59.180Z
+2024-05-10T03:07:13.207Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3626,14 +3626,6 @@
 
 📒 A web-based GPS tracker demo displaying GPS location records as they come
 
-## [github-pages-local-storage](https://github.com/TomasHubelbauer/github-pages-local-storage)
-
-⚖️ 2024-04-19T00:12:19Z
-
-🏷 github-pages, local-storage
-
-📒 An ES module library for separating localStorage on GitHub Pages not by origin but by path name.
-
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
 ⚖️ 2024-04-19T03:30:00Z
@@ -3724,9 +3716,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-05-10T01:31:15Z
+⚖️ 2024-05-10T02:19:13Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [github-pages-local-storage](https://github.com/TomasHubelbauer/github-pages-local-storage)
+
+⚖️ 2024-05-10T02:34:35Z
+
+🏷 github-pages, local-storage
+
+📒 An ES module library for separating localStorage on GitHub Pages not by origin but by path name.
 
