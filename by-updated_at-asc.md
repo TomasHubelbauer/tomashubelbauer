@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-05-10T00:15:59.141Z
+2024-05-10T01:31:03.084Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3698,14 +3698,6 @@
 
 📒 Preview email message files (EML) in VS Code
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-05-09T00:16:57Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
 
 ⚖️ 2024-05-09T06:40:46Z
@@ -3724,9 +3716,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-05-09T23:07:21Z
+⚖️ 2024-05-10T00:16:13Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-05-10T00:16:53Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
