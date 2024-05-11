@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-05-11T00:15:37.095Z
+2024-05-11T01:30:02.640Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-05-11T00:16:45Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-05-10T23:07:37Z
+⚖️ 2024-05-11T00:15:46Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 github-pages, local-storage
 
 📒 An ES module library for separating localStorage on GitHub Pages not by origin but by path name.
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-05-10T00:16:53Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
 
