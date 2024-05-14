@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-05-14T04:07:26.753Z
+2024-05-14T05:07:09.850Z
+
+## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
+
+⚖️ 2024-05-14T04:18:16Z
+
+🏷 bun, javascript, proxy-server, reverse-proxy, reverse-proxy-server, typescript
+
+📒 Bun reverse proxy
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-05-14T03:08:05Z
+⚖️ 2024-05-14T04:07:40Z
 
 🏷 tomashubelbauer
 
@@ -161,14 +169,6 @@
 🏷 
 
 📒 null
-
-## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
-
-⚖️ 2024-04-07T03:56:43Z
-
-🏷 bun, javascript, proxy-server, reverse-proxy, reverse-proxy-server, typescript
-
-📒 Bun reverse proxy
 
 ## [bun-runtime-plugin-onResolve-sync-async-import](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-sync-async-import)
 
