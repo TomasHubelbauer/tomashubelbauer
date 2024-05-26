@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-05-26T09:07:25.564Z
+2024-05-26T10:08:04.173Z
+
+## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
+
+⚖️ 2024-05-26T09:15:54Z
+
+🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
+
+📒 A WebRTC data channel establishment with QR codes used for signaling channel.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-05-26T08:07:22Z
+⚖️ 2024-05-26T09:07:35Z
 
 🏷 tomashubelbauer
 
@@ -185,14 +193,6 @@
 🏷 slack, slack-app, slack-status, spotify
 
 📒 A script for setting the currently playing Spotify song as your Slack status
-
-## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
-
-⚖️ 2024-03-22T11:04:08Z
-
-🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
-
-📒 A WebRTC data channel establishment with QR codes used for signaling channel.
 
 ## [contenteditable](https://github.com/TomasHubelbauer/contenteditable)
 
