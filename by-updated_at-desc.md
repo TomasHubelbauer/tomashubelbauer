@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-05-31T13:08:24.208Z
+2024-05-31T15:07:23.008Z
+
+## [js-features](https://github.com/TomasHubelbauer/js-features)
+
+⚖️ 2024-05-31T13:50:11Z
+
+🏷 caniuse, features, javascript, js, support
+
+📒 A list of JavaScript features I want to track the support of
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-05-31T12:09:07Z
+⚖️ 2024-05-31T13:08:38Z
 
 🏷 tomashubelbauer
 
@@ -3057,14 +3065,6 @@
 🏷 jsx, react, react-dom, tsx
 
 📒 JSX/TSX cheatsheet
-
-## [js-features](https://github.com/TomasHubelbauer/js-features)
-
-⚖️ 2022-04-16T12:49:42Z
-
-🏷 caniuse, features, javascript, js, support
-
-📒 A list of JavaScript features I want to track the support of
 
 ## [isds-backup](https://github.com/TomasHubelbauer/isds-backup)
 
