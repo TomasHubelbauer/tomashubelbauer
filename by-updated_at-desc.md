@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-05-31T15:07:23.008Z
+2024-05-31T16:07:37.363Z
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-05-31T15:07:34Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [js-features](https://github.com/TomasHubelbauer/js-features)
 
@@ -9,14 +17,6 @@
 🏷 caniuse, features, javascript, js, support
 
 📒 A list of JavaScript features I want to track the support of
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-05-31T13:08:38Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
 
