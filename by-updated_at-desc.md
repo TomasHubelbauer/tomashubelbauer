@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-06-01T00:16:57.071Z
+2024-06-01T01:33:34.449Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-06-01T00:23:30Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-05-31T23:07:33Z
+⚖️ 2024-06-01T00:17:07Z
 
 🏷 tomashubelbauer
 
@@ -25,14 +33,6 @@
 🏷 bun, javascript, proxy-server, reverse-proxy, reverse-proxy-server, typescript
 
 📒 Bun reverse proxy
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-05-31T00:16:40Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
 
