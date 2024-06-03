@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2024-06-03T16:07:40.355Z
+2024-06-03T17:08:06.867Z
+
+## [lyrics](https://github.com/TomasHubelbauer/lyrics)
+
+⚖️ 2024-06-03T16:42:23Z
+
+🏷 electron, lrc, lyrics, spotify
+
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-06-03T15:07:31Z
+⚖️ 2024-06-03T16:07:47Z
 
 🏷 tomashubelbauer
 
@@ -633,14 +641,6 @@
 🏷 
 
 📒 null
-
-## [lyrics](https://github.com/TomasHubelbauer/lyrics)
-
-⚖️ 2023-03-06T14:17:25Z
-
-🏷 electron, lrc, lyrics, spotify
-
-📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
 ## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
 

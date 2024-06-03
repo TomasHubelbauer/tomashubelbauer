@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-06-03T16:07:40.352Z
+2024-06-03T17:08:06.864Z
+
+## [lyrics](https://github.com/TomasHubelbauer/lyrics)
+
+⚖️ 2024-06-03T16:42:26Z
+
+🏷 electron, lrc, lyrics, spotify
+
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-06-03T15:07:35Z
+⚖️ 2024-06-03T16:07:51Z
 
 🏷 tomashubelbauer
 
@@ -1089,14 +1097,6 @@
 🏷 ast, cra, create-react-app, i18n, internationalization, localization, translation
 
 📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
-
-## [lyrics](https://github.com/TomasHubelbauer/lyrics)
-
-⚖️ 2023-03-07T13:37:56Z
-
-🏷 electron, lrc, lyrics, spotify
-
-📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
 ## [hnpopup](https://github.com/TomasHubelbauer/hnpopup)
 
