@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2024-06-03T23:07:42.688Z
+2024-06-04T01:32:52.185Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-06-04T00:17:33Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-06-03T22:08:13Z
+⚖️ 2024-06-03T23:07:53Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 electron, lrc, lyrics, spotify
 
 📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-06-03T00:18:24Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [bun-passthrough-server](https://github.com/TomasHubelbauer/bun-passthrough-server)
 

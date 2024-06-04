@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-06-03T23:07:42.682Z
+2024-06-04T01:32:52.182Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-06-04T00:17:36Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-06-03T22:08:17Z
+⚖️ 2024-06-03T23:07:57Z
 
 🏷 tomashubelbauer
 
@@ -25,14 +33,6 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-06-03T00:18:28Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [js-features](https://github.com/TomasHubelbauer/js-features)
 
