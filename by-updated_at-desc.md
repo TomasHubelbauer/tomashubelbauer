@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-06-05T16:07:27.199Z
+2024-06-05T18:07:34.581Z
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-06-05T16:07:42Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [lyrics](https://github.com/TomasHubelbauer/lyrics)
 
@@ -9,14 +17,6 @@
 🏷 electron, lrc, lyrics, spotify
 
 📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-06-05T13:08:44Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
