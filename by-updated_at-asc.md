@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-06-06T08:08:10.427Z
+2024-06-06T09:08:14.120Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3706,14 +3706,6 @@
 
 📒 Raspberry Pi Pico mouse jiggler
 
-## [lyrics](https://github.com/TomasHubelbauer/lyrics)
-
-⚖️ 2024-06-05T15:11:28Z
-
-🏷 electron, lrc, lyrics, spotify
-
-📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
-
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
 ⚖️ 2024-06-06T00:17:31Z
@@ -3724,9 +3716,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-06-06T07:08:26Z
+⚖️ 2024-06-06T08:08:20Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [lyrics](https://github.com/TomasHubelbauer/lyrics)
+
+⚖️ 2024-06-06T08:41:39Z
+
+🏷 electron, lrc, lyrics, spotify
+
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
