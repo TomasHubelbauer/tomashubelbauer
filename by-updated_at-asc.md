@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-06-06T09:08:14.120Z
+2024-06-06T10:07:24.372Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2450,14 +2450,6 @@
 
 📒 An experiment with ES import maps.
 
-## [solar](https://github.com/TomasHubelbauer/solar)
-
-⚖️ 2022-10-10T09:17:21Z
-
-🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
-
-📒 Notes about my solar experiments
-
 ## [node-extract-zip](https://github.com/TomasHubelbauer/node-extract-zip)
 
 ⚖️ 2022-10-13T19:54:29Z
@@ -3714,14 +3706,6 @@
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-06-06T08:08:20Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [lyrics](https://github.com/TomasHubelbauer/lyrics)
 
 ⚖️ 2024-06-06T08:41:39Z
@@ -3729,4 +3713,20 @@
 🏷 electron, lrc, lyrics, spotify
 
 📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-06-06T09:08:24Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
+## [solar](https://github.com/TomasHubelbauer/solar)
+
+⚖️ 2024-06-06T09:25:29Z
+
+🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
+
+📒 Notes about my solar experiments
 
