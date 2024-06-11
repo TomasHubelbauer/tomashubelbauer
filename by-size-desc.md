@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-06-11T19:07:12.493Z
+2024-06-11T20:07:28.147Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -33,6 +33,14 @@
 🏷 
 
 📒 ⬆️ Free uptime monitor and status page powered by GitHub
+
+## [electron](https://github.com/TomasHubelbauer/electron)
+
+⚖️ 152704
+
+🏷 
+
+📒 :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 ## [playwright-1](https://github.com/TomasHubelbauer/playwright-1)
 
@@ -122,6 +130,14 @@
 
 📒 A comparison of JavaScript QR scanner libraries
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 26629
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [globus](https://github.com/TomasHubelbauer/globus)
 
 ⚖️ 26569
@@ -129,14 +145,6 @@
 🏷 globus, pdf-scraping, puppeteer, puppeteer-firefox
 
 📒 Scrapes the Globus PDF catalogue using Puppeteer
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 26412
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [html-video-scrubber](https://github.com/TomasHubelbauer/html-video-scrubber)
 

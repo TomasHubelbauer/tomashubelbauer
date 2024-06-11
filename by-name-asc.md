@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2024-06-11T19:07:12.476Z
+2024-06-11T20:07:28.131Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -849,6 +849,14 @@
 🏷 ef, ef-core, entity-framework, entity-framework-core, migrations, sqlite
 
 📒 Reproducing an issue with migrations and table rebuilds I had in EF Core SQLite
+
+## [electron](https://github.com/TomasHubelbauer/electron)
+
+⚖️ electron
+
+🏷 
+
+📒 :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 ## [electron-inspect-require](https://github.com/TomasHubelbauer/electron-inspect-require)
 

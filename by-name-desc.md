@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2024-06-11T19:07:12.477Z
+2024-06-11T20:07:28.133Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -2881,6 +2881,14 @@
 🏷 debugger, electron
 
 📒 Trying to figure out how to control an Electron application using the Electron API through the debugger
+
+## [electron](https://github.com/TomasHubelbauer/electron)
+
+⚖️ electron
+
+🏷 
+
+📒 :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 ## [ef-sqlite](https://github.com/TomasHubelbauer/ef-sqlite)
 

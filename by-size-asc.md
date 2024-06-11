@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-06-11T19:07:12.491Z
+2024-06-11T20:07:28.146Z
 
 ## [bun-firefox-desktop](https://github.com/TomasHubelbauer/bun-firefox-desktop)
 
@@ -3594,14 +3594,6 @@
 
 📒 An alternative approach to a video player scrubbar implementation
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 26412
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [globus](https://github.com/TomasHubelbauer/globus)
 
 ⚖️ 26569
@@ -3609,6 +3601,14 @@
 🏷 globus, pdf-scraping, puppeteer, puppeteer-firefox
 
 📒 Scrapes the Globus PDF catalogue using Puppeteer
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 26629
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [js-qr-scanner-library-comparison](https://github.com/TomasHubelbauer/js-qr-scanner-library-comparison)
 
@@ -3697,6 +3697,14 @@
 🏷 
 
 📒 Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
+
+## [electron](https://github.com/TomasHubelbauer/electron)
+
+⚖️ 152704
+
+🏷 
+
+📒 :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 ## [upptime](https://github.com/TomasHubelbauer/upptime)
 
