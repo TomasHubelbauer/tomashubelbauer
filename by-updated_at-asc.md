@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-06-11T20:07:28.135Z
+2024-06-11T22:07:20.290Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3690,14 +3690,6 @@
 
 📒 Raspberry Pi Pico mouse jiggler
 
-## [lyrics](https://github.com/TomasHubelbauer/lyrics)
-
-⚖️ 2024-06-06T08:41:39Z
-
-🏷 electron, lrc, lyrics, spotify
-
-📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
-
 ## [solar](https://github.com/TomasHubelbauer/solar)
 
 ⚖️ 2024-06-06T09:25:29Z
@@ -3722,14 +3714,6 @@
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-06-11T19:07:22Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [electron](https://github.com/TomasHubelbauer/electron)
 
 ⚖️ 2024-06-11T20:06:19Z
@@ -3737,4 +3721,28 @@
 🏷 
 
 📒 :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-06-11T20:07:42Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
+## [electron-lingering-shadow-repro](https://github.com/TomasHubelbauer/electron-lingering-shadow-repro)
+
+⚖️ 2024-06-11T21:15:48Z
+
+🏷 
+
+📒 null
+
+## [lyrics](https://github.com/TomasHubelbauer/lyrics)
+
+⚖️ 2024-06-11T21:44:26Z
+
+🏷 electron, lrc, lyrics, spotify
+
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 

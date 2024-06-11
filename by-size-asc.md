@@ -1,6 +1,14 @@
 # By `size` (asc)
 
-2024-06-11T20:07:28.146Z
+2024-06-11T22:07:20.303Z
+
+## [electron-lingering-shadow-repro](https://github.com/TomasHubelbauer/electron-lingering-shadow-repro)
+
+⚖️ 0
+
+🏷 
+
+📒 null
 
 ## [bun-firefox-desktop](https://github.com/TomasHubelbauer/bun-firefox-desktop)
 
@@ -3468,7 +3476,7 @@
 
 ## [lyrics](https://github.com/TomasHubelbauer/lyrics)
 
-⚖️ 6915
+⚖️ 6942
 
 🏷 electron, lrc, lyrics, spotify
 
@@ -3604,7 +3612,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 26629
+⚖️ 26632
 
 🏷 tomashubelbauer
 
@@ -3700,7 +3708,7 @@
 
 ## [electron](https://github.com/TomasHubelbauer/electron)
 
-⚖️ 152704
+⚖️ 152845
 
 🏷 
 

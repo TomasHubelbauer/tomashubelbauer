@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-06-11T20:07:28.147Z
+2024-06-11T22:07:20.304Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -36,7 +36,7 @@
 
 ## [electron](https://github.com/TomasHubelbauer/electron)
 
-⚖️ 152704
+⚖️ 152845
 
 🏷 
 
@@ -132,7 +132,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 26629
+⚖️ 26632
 
 🏷 tomashubelbauer
 
@@ -268,7 +268,7 @@
 
 ## [lyrics](https://github.com/TomasHubelbauer/lyrics)
 
-⚖️ 6915
+⚖️ 6942
 
 🏷 electron, lrc, lyrics, spotify
 
@@ -3673,6 +3673,14 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
+
+## [electron-lingering-shadow-repro](https://github.com/TomasHubelbauer/electron-lingering-shadow-repro)
+
+⚖️ 0
+
+🏷 
+
+📒 null
 
 ## [bun-firefox-desktop](https://github.com/TomasHubelbauer/bun-firefox-desktop)
 

@@ -1,10 +1,26 @@
 # By `pushed_at` (desc)
 
-2024-06-11T20:07:28.144Z
+2024-06-11T22:07:20.301Z
+
+## [lyrics](https://github.com/TomasHubelbauer/lyrics)
+
+⚖️ 2024-06-11T21:44:23Z
+
+🏷 electron, lrc, lyrics, spotify
+
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
+
+## [electron-lingering-shadow-repro](https://github.com/TomasHubelbauer/electron-lingering-shadow-repro)
+
+⚖️ 2024-06-11T21:15:45Z
+
+🏷 
+
+📒 null
 
 ## [electron](https://github.com/TomasHubelbauer/electron)
 
-⚖️ 2024-06-11T19:49:16Z
+⚖️ 2024-06-11T20:08:30Z
 
 🏷 
 
@@ -12,7 +28,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-06-11T19:07:18Z
+⚖️ 2024-06-11T20:07:38Z
 
 🏷 tomashubelbauer
 
@@ -25,14 +41,6 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [lyrics](https://github.com/TomasHubelbauer/lyrics)
-
-⚖️ 2024-06-06T08:41:36Z
-
-🏷 electron, lrc, lyrics, spotify
-
-📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
 ## [bun-passthrough-server](https://github.com/TomasHubelbauer/bun-passthrough-server)
 

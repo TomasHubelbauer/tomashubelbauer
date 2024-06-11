@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2024-06-11T20:07:28.133Z
+2024-06-11T22:07:20.288Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -2873,6 +2873,14 @@
 🏷 electron, screenshot, selfie
 
 📒 An example of how to make a screenshot of the Electron window viewport
+
+## [electron-lingering-shadow-repro](https://github.com/TomasHubelbauer/electron-lingering-shadow-repro)
+
+⚖️ electron-lingering-shadow-repro
+
+🏷 
+
+📒 null
 
 ## [electron-inspect-require](https://github.com/TomasHubelbauer/electron-inspect-require)
 

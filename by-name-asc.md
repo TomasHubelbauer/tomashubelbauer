@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2024-06-11T20:07:28.131Z
+2024-06-11T22:07:20.287Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -865,6 +865,14 @@
 🏷 debugger, electron
 
 📒 Trying to figure out how to control an Electron application using the Electron API through the debugger
+
+## [electron-lingering-shadow-repro](https://github.com/TomasHubelbauer/electron-lingering-shadow-repro)
+
+⚖️ electron-lingering-shadow-repro
+
+🏷 
+
+📒 null
 
 ## [electron-self-screenshot](https://github.com/TomasHubelbauer/electron-self-screenshot)
 

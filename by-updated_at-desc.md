@@ -1,6 +1,30 @@
 # By `updated_at` (desc)
 
-2024-06-11T20:07:28.137Z
+2024-06-11T22:07:20.292Z
+
+## [lyrics](https://github.com/TomasHubelbauer/lyrics)
+
+⚖️ 2024-06-11T21:44:26Z
+
+🏷 electron, lrc, lyrics, spotify
+
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
+
+## [electron-lingering-shadow-repro](https://github.com/TomasHubelbauer/electron-lingering-shadow-repro)
+
+⚖️ 2024-06-11T21:15:48Z
+
+🏷 
+
+📒 null
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-06-11T20:07:42Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [electron](https://github.com/TomasHubelbauer/electron)
 
@@ -9,14 +33,6 @@
 🏷 
 
 📒 :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-06-11T19:07:22Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
@@ -41,14 +57,6 @@
 🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
 
 📒 Notes about my solar experiments
-
-## [lyrics](https://github.com/TomasHubelbauer/lyrics)
-
-⚖️ 2024-06-06T08:41:39Z
-
-🏷 electron, lrc, lyrics, spotify
-
-📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
