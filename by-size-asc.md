@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-06-11T17:08:02.937Z
+2024-06-11T18:07:49.654Z
 
 ## [bun-firefox-desktop](https://github.com/TomasHubelbauer/bun-firefox-desktop)
 
