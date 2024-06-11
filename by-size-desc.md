@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-06-11T22:07:20.304Z
+2024-06-11T23:07:21.708Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -268,7 +268,7 @@
 
 ## [lyrics](https://github.com/TomasHubelbauer/lyrics)
 
-⚖️ 6942
+⚖️ 6947
 
 🏷 electron, lrc, lyrics, spotify
 
@@ -1177,6 +1177,14 @@
 🏷 github, github-api, github-releases
 
 📒 Monitors GitHub Releases of projects I star on GitHub and sends a single daily digest email
+
+## [electron-lingering-shadow-repro](https://github.com/TomasHubelbauer/electron-lingering-shadow-repro)
+
+⚖️ 51
+
+🏷 
+
+📒 null
 
 ## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
 
@@ -3673,14 +3681,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [electron-lingering-shadow-repro](https://github.com/TomasHubelbauer/electron-lingering-shadow-repro)
-
-⚖️ 0
-
-🏷 
-
-📒 null
 
 ## [bun-firefox-desktop](https://github.com/TomasHubelbauer/bun-firefox-desktop)
 
