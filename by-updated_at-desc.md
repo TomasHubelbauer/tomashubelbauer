@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-06-12T02:19:53.410Z
+2024-06-12T03:07:37.331Z
+
+## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
+
+⚖️ 2024-06-12T02:43:13Z
+
+🏷 bun, javascript, proxy-server, reverse-proxy, reverse-proxy-server, typescript
+
+📒 Bun reverse proxy
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-06-12T01:33:40Z
+⚖️ 2024-06-12T02:20:02Z
 
 🏷 tomashubelbauer
 
@@ -73,14 +81,6 @@
 🏷 caniuse, features, javascript, js, support
 
 📒 A list of JavaScript features I want to track the support of
-
-## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
-
-⚖️ 2024-05-31T08:14:31Z
-
-🏷 bun, javascript, proxy-server, reverse-proxy, reverse-proxy-server, typescript
-
-📒 Bun reverse proxy
 
 ## [github-pages-local-storage](https://github.com/TomasHubelbauer/github-pages-local-storage)
 
