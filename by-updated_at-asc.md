@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-06-11T23:07:21.699Z
+2024-06-12T01:33:30.179Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3706,14 +3706,6 @@
 
 📒 A WebRTC data channel establishment with QR codes used for signaling channel.
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-06-11T00:18:02Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [electron](https://github.com/TomasHubelbauer/electron)
 
 ⚖️ 2024-06-11T20:06:19Z
@@ -3740,9 +3732,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-06-11T22:07:31Z
+⚖️ 2024-06-11T23:07:36Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-06-12T00:18:21Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
