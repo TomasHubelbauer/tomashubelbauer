@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-06-12T15:14:22.716Z
+2024-06-12T16:09:56.537Z
+
+## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
+
+⚖️ 2024-06-12T16:08:06Z
+
+🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
+
+📒 A WebRTC data channel establishment with QR codes used for signaling channel.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-06-12T13:09:17Z
+⚖️ 2024-06-12T15:14:38Z
 
 🏷 tomashubelbauer
 
@@ -49,14 +57,6 @@
 🏷 
 
 📒 :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
-
-⚖️ 2024-06-07T13:26:18Z
-
-🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
-
-📒 A WebRTC data channel establishment with QR codes used for signaling channel.
 
 ## [solar](https://github.com/TomasHubelbauer/solar)
 
