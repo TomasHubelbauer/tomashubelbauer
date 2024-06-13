@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-06-13T21:08:28.799Z
+2024-06-13T22:08:27.327Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -36,7 +36,7 @@
 
 ## [electron](https://github.com/TomasHubelbauer/electron)
 
-⚖️ 152845
+⚖️ 152819
 
 🏷 
 
