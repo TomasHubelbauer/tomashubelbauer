@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-06-16T06:07:38.502Z
+2024-06-16T07:07:51.343Z
 
 ## [bun-firefox-desktop](https://github.com/TomasHubelbauer/bun-firefox-desktop)
 
@@ -3594,14 +3594,6 @@
 
 📒 Previews video files in VS Code using the custom editors proposed API
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 25241
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [html-video-scrubber](https://github.com/TomasHubelbauer/html-video-scrubber)
 
 ⚖️ 25305
@@ -3609,6 +3601,14 @@
 🏷 html-video, scrubbar, scrubber
 
 📒 An alternative approach to a video player scrubbar implementation
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 25461
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [globus](https://github.com/TomasHubelbauer/globus)
 
