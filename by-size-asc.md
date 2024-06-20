@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-06-20T08:08:47.559Z
+2024-06-20T09:07:54.866Z
 
 ## [bun-eval-typescript](https://github.com/TomasHubelbauer/bun-eval-typescript)
 
