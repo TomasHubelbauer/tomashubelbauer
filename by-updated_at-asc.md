@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-07-01T17:07:51.010Z
+2024-07-01T18:08:21.877Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3762,14 +3762,6 @@
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-07-01T16:07:51Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
 
 ⚖️ 2024-07-01T16:10:39Z
@@ -3777,4 +3769,12 @@
 🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
 
 📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-07-01T17:08:00Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
