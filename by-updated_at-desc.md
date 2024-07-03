@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-07-03T20:07:38.152Z
+2024-07-03T21:08:02.571Z
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-07-03T20:07:53Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [canvas-chromatic-aberration](https://github.com/TomasHubelbauer/canvas-chromatic-aberration)
 
@@ -9,14 +17,6 @@
 🏷 canvas, chromatic-abberation, html
 
 📒 The chromatic abberation effect implemented in HTML canvas
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-07-03T19:07:35Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
 
