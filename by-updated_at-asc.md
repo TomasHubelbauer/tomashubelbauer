@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-07-03T19:07:24.589Z
+2024-07-03T20:07:38.151Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -369,14 +369,6 @@
 🏷 blender, vscode
 
 📒 Notes for using Blender with VS Code
-
-## [canvas-chromatic-aberration](https://github.com/TomasHubelbauer/canvas-chromatic-aberration)
-
-⚖️ 2022-04-14T19:50:31Z
-
-🏷 canvas, chromatic-abberation, html
-
-📒 The chromatic abberation effect implemented in HTML canvas
 
 ## [cinestar](https://github.com/TomasHubelbauer/cinestar)
 
@@ -3772,9 +3764,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-07-03T18:08:04Z
+⚖️ 2024-07-03T19:07:35Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [canvas-chromatic-aberration](https://github.com/TomasHubelbauer/canvas-chromatic-aberration)
+
+⚖️ 2024-07-03T19:55:26Z
+
+🏷 canvas, chromatic-abberation, html
+
+📒 The chromatic abberation effect implemented in HTML canvas
 

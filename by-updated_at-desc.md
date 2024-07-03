@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-07-03T19:07:24.592Z
+2024-07-03T20:07:38.152Z
+
+## [canvas-chromatic-aberration](https://github.com/TomasHubelbauer/canvas-chromatic-aberration)
+
+⚖️ 2024-07-03T19:55:26Z
+
+🏷 canvas, chromatic-abberation, html
+
+📒 The chromatic abberation effect implemented in HTML canvas
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-07-03T18:08:04Z
+⚖️ 2024-07-03T19:07:35Z
 
 🏷 tomashubelbauer
 
@@ -3401,14 +3409,6 @@
 🏷 cinema, cinestar
 
 📒 CineStar cinema monitor and premiere reporter
-
-## [canvas-chromatic-aberration](https://github.com/TomasHubelbauer/canvas-chromatic-aberration)
-
-⚖️ 2022-04-14T19:50:31Z
-
-🏷 canvas, chromatic-abberation, html
-
-📒 The chromatic abberation effect implemented in HTML canvas
 
 ## [blender-vscode](https://github.com/TomasHubelbauer/blender-vscode)
 
