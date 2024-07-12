@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2024-07-12T17:07:39.472Z
+2024-07-12T18:08:01.736Z
+
+## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
+
+⚖️ 2024-07-12T17:15:55Z
+
+🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
+
+📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-07-12T16:08:30Z
+⚖️ 2024-07-12T17:07:46Z
 
 🏷 tomashubelbauer
 
@@ -1393,14 +1401,6 @@
 🏷 markright
 
 📒 MarkRight VS Code extension
-
-## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
-
-⚖️ 2022-04-28T08:49:46Z
-
-🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
-
-📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
 
 ## [macos-date-time](https://github.com/TomasHubelbauer/macos-date-time)
 
