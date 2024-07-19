@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-07-19T08:08:23.495Z
+2024-07-19T09:07:41.308Z
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-07-19T08:08:34Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [arduino-nmea](https://github.com/TomasHubelbauer/arduino-nmea)
 
@@ -9,14 +17,6 @@
 🏷 arduino, arduino-library, arduino-sketch, checksum, nmea, nmea-library, nmea-parser
 
 📒 An algorithm for the NMEA checksum calculation for Arduino
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-07-19T07:08:34Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
