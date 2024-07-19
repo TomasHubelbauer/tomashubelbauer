@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-07-19T07:08:21.988Z
+2024-07-19T08:08:23.493Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -345,14 +345,6 @@
 🏷 blender, light-box
 
 📒 Blender light box model
-
-## [arduino-nmea](https://github.com/TomasHubelbauer/arduino-nmea)
-
-⚖️ 2022-04-13T22:51:55Z
-
-🏷 arduino, arduino-library, arduino-sketch, checksum, nmea, nmea-library, nmea-parser
-
-📒 An algorithm for the NMEA checksum calculation for Arduino
 
 ## [blender-merge-faces](https://github.com/TomasHubelbauer/blender-merge-faces)
 
@@ -3780,9 +3772,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-07-19T06:08:43Z
+⚖️ 2024-07-19T07:08:34Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [arduino-nmea](https://github.com/TomasHubelbauer/arduino-nmea)
+
+⚖️ 2024-07-19T07:50:27Z
+
+🏷 arduino, arduino-library, arduino-sketch, checksum, nmea, nmea-library, nmea-parser
+
+📒 An algorithm for the NMEA checksum calculation for Arduino
 
