@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-07-20T00:16:39.286Z
+2024-07-20T01:33:39.338Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-07-20T00:18:07Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-07-19T23:07:50Z
+⚖️ 2024-07-20T00:16:49Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 arduino, arduino-library, arduino-sketch, checksum, nmea, nmea-library, nmea-parser
 
 📒 An algorithm for the NMEA checksum calculation for Arduino
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-07-19T00:18:45Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
 
