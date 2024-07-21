@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-07-21T15:07:30.840Z
+2024-07-21T16:07:43.626Z
+
+## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
+
+⚖️ 2024-07-21T15:15:49Z
+
+🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
+
+📒 KalorickeTabulky.cz Node/browser JavaScript API
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-07-21T14:08:12Z
+⚖️ 2024-07-21T15:07:41Z
 
 🏷 tomashubelbauer
 
@@ -345,14 +353,6 @@
 🏷 
 
 📒 null
-
-## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
-
-⚖️ 2024-03-11T12:40:08Z
-
-🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
-
-📒 KalorickeTabulky.cz Node/browser JavaScript API
 
 ## [bun-firefox-history](https://github.com/TomasHubelbauer/bun-firefox-history)
 
