@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-07-21T23:07:58.722Z
+2024-07-22T01:34:27.278Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-07-22T00:18:48Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-07-21T22:08:12Z
+⚖️ 2024-07-21T23:08:08Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-07-21T00:19:36Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [arduino-nmea](https://github.com/TomasHubelbauer/arduino-nmea)
 
