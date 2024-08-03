@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-08-03T19:07:26.797Z
+2024-08-03T20:07:40.935Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3106,14 +3106,6 @@
 
 📒 Postgrest OpenAPI to Zapier FieldSchema mapper
 
-## [apps-and-services](https://github.com/TomasHubelbauer/apps-and-services)
-
-⚖️ 2023-06-29T16:04:20Z
-
-🏷 
-
-📒 null
-
 ## [git-submodule-track-branch](https://github.com/TomasHubelbauer/git-submodule-track-branch)
 
 ⚖️ 2023-07-16T10:16:40Z
@@ -3650,14 +3642,6 @@
 
 📒 null
 
-## [lyrics](https://github.com/TomasHubelbauer/lyrics)
-
-⚖️ 2024-06-11T21:44:26Z
-
-🏷 electron, lrc, lyrics, spotify
-
-📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
-
 ## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
 
 ⚖️ 2024-06-12T16:08:06Z
@@ -3780,9 +3764,25 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-08-03T18:07:59Z
+⚖️ 2024-08-03T19:19:10Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [lyrics](https://github.com/TomasHubelbauer/lyrics)
+
+⚖️ 2024-08-03T19:19:37Z
+
+🏷 electron, lrc, lyrics, spotify
+
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
+
+## [apps-and-services](https://github.com/TomasHubelbauer/apps-and-services)
+
+⚖️ 2024-08-03T19:20:12Z
+
+🏷 
+
+📒 null
 

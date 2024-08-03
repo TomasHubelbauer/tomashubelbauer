@@ -1,10 +1,26 @@
 # By `updated_at` (desc)
 
-2024-08-03T19:07:26.799Z
+2024-08-03T20:07:40.938Z
+
+## [apps-and-services](https://github.com/TomasHubelbauer/apps-and-services)
+
+⚖️ 2024-08-03T19:20:12Z
+
+🏷 
+
+📒 null
+
+## [lyrics](https://github.com/TomasHubelbauer/lyrics)
+
+⚖️ 2024-08-03T19:19:37Z
+
+🏷 electron, lrc, lyrics, spotify
+
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-08-03T18:07:59Z
+⚖️ 2024-08-03T19:19:10Z
 
 🏷 tomashubelbauer
 
@@ -129,14 +145,6 @@
 🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
 
 📒 A WebRTC data channel establishment with QR codes used for signaling channel.
-
-## [lyrics](https://github.com/TomasHubelbauer/lyrics)
-
-⚖️ 2024-06-11T21:44:26Z
-
-🏷 electron, lrc, lyrics, spotify
-
-📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
 ## [electron-lingering-shadow-repro](https://github.com/TomasHubelbauer/electron-lingering-shadow-repro)
 
@@ -669,14 +677,6 @@
 ## [git-submodule-track-branch](https://github.com/TomasHubelbauer/git-submodule-track-branch)
 
 ⚖️ 2023-07-16T10:16:40Z
-
-🏷 
-
-📒 null
-
-## [apps-and-services](https://github.com/TomasHubelbauer/apps-and-services)
-
-⚖️ 2023-06-29T16:04:20Z
 
 🏷 
 
