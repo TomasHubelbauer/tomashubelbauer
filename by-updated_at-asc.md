@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-08-04T00:18:14.786Z
+2024-08-04T01:34:18.045Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3754,14 +3754,6 @@
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-08-03T00:17:47Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [lyrics](https://github.com/TomasHubelbauer/lyrics)
 
 ⚖️ 2024-08-03T19:19:37Z
@@ -3780,9 +3772,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-08-03T23:07:46Z
+⚖️ 2024-08-04T00:18:27Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-08-04T00:19:37Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
