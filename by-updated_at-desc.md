@@ -1,10 +1,26 @@
 # By `updated_at` (desc)
 
-2024-08-05T20:07:41.134Z
+2024-08-05T21:08:12.406Z
+
+## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
+
+⚖️ 2024-08-05T20:52:41Z
+
+🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
+
+📒 Raspberry Pi Pico mouse jiggler
+
+## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
+
+⚖️ 2024-08-05T20:51:56Z
+
+🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
+
+📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-08-05T19:08:14Z
+⚖️ 2024-08-05T20:07:50Z
 
 🏷 tomashubelbauer
 
@@ -49,14 +65,6 @@
 🏷 arduino, arduino-library, arduino-sketch, checksum, nmea, nmea-library, nmea-parser
 
 📒 An algorithm for the NMEA checksum calculation for Arduino
-
-## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
-
-⚖️ 2024-07-11T13:29:53Z
-
-🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
-
-📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
 
 ## [app-ffmpeg](https://github.com/TomasHubelbauer/app-ffmpeg)
 
@@ -169,14 +177,6 @@
 🏷 mppt, solar, solar-battery, solar-charger, solar-power, solar-system
 
 📒 Notes about my solar experiments
-
-## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
-
-⚖️ 2024-06-03T10:14:06Z
-
-🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
-
-📒 Raspberry Pi Pico mouse jiggler
 
 ## [js-features](https://github.com/TomasHubelbauer/js-features)
 

@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-08-05T20:07:41.133Z
+2024-08-05T21:08:12.398Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3610,14 +3610,6 @@
 
 📒 A list of JavaScript features I want to track the support of
 
-## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
-
-⚖️ 2024-06-03T10:14:06Z
-
-🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
-
-📒 Raspberry Pi Pico mouse jiggler
-
 ## [solar](https://github.com/TomasHubelbauer/solar)
 
 ⚖️ 2024-06-06T09:25:29Z
@@ -3730,14 +3722,6 @@
 
 📒 null
 
-## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
-
-⚖️ 2024-07-11T13:29:53Z
-
-🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
-
-📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
-
 ## [arduino-nmea](https://github.com/TomasHubelbauer/arduino-nmea)
 
 ⚖️ 2024-07-19T07:50:27Z
@@ -3780,9 +3764,25 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-08-05T19:08:14Z
+⚖️ 2024-08-05T20:07:50Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
+
+⚖️ 2024-08-05T20:51:56Z
+
+🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
+
+📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
+
+## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
+
+⚖️ 2024-08-05T20:52:41Z
+
+🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
+
+📒 Raspberry Pi Pico mouse jiggler
 
