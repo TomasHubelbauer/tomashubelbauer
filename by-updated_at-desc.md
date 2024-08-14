@@ -1,22 +1,22 @@
 # By `updated_at` (desc)
 
-2024-08-14T00:17:29.353Z
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-08-13T23:08:03Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
+2024-08-14T01:34:26.036Z
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
-⚖️ 2024-08-13T00:19:10Z
+⚖️ 2024-08-14T00:18:29Z
 
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-08-14T00:17:42Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [onewheel-web-bluetooth](https://github.com/TomasHubelbauer/onewheel-web-bluetooth)
 
