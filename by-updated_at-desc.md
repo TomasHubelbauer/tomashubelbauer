@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-08-16T22:07:49.220Z
+2024-08-16T23:08:23.620Z
+
+## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
+
+⚖️ 2024-08-16T22:30:01Z
+
+🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
+
+📒 A WebRTC data channel establishment with QR codes used for signaling channel.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-08-16T21:11:47Z
+⚖️ 2024-08-16T22:07:58Z
 
 🏷 tomashubelbauer
 
@@ -153,14 +161,6 @@
 🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
 
 📒 3D SVG projection and animation
-
-## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
-
-⚖️ 2024-06-12T16:08:06Z
-
-🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
-
-📒 A WebRTC data channel establishment with QR codes used for signaling channel.
 
 ## [electron-lingering-shadow-repro](https://github.com/TomasHubelbauer/electron-lingering-shadow-repro)
 
