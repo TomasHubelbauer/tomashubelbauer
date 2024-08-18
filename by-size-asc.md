@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-08-18T21:07:42.239Z
+2024-08-18T22:07:36.304Z
 
 ## [bun-eval-typescript](https://github.com/TomasHubelbauer/bun-eval-typescript)
 
@@ -3642,14 +3642,6 @@
 
 📒 An alternative approach to a video player scrubbar implementation
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 26480
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [globus](https://github.com/TomasHubelbauer/globus)
 
 ⚖️ 26569
@@ -3657,6 +3649,14 @@
 🏷 globus, pdf-scraping, puppeteer, puppeteer-firefox
 
 📒 Scrapes the Globus PDF catalogue using Puppeteer
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 26701
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [js-qr-scanner-library-comparison](https://github.com/TomasHubelbauer/js-qr-scanner-library-comparison)
 
