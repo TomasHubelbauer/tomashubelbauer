@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-08-23T11:07:52.903Z
+2024-08-23T13:10:12.584Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2474,14 +2474,6 @@
 
 📒 Didactic literate programming
 
-## [svg-screencast](https://github.com/TomasHubelbauer/svg-screencast)
-
-⚖️ 2022-11-02T14:47:37Z
-
-🏷 screencast, screenshot, svg
-
-📒 SVG screencast - animated SVG files from screenshots using CSS animations
-
 ## [js-milestone](https://github.com/TomasHubelbauer/js-milestone)
 
 ⚖️ 2022-11-16T02:24:29Z
@@ -3780,9 +3772,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-08-23T09:08:02Z
+⚖️ 2024-08-23T11:08:06Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [svg-screencast](https://github.com/TomasHubelbauer/svg-screencast)
+
+⚖️ 2024-08-23T11:46:30Z
+
+🏷 screencast, screenshot, svg
+
+📒 SVG screencast - animated SVG files from screenshots using CSS animations
 

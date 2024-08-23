@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-08-23T11:07:52.906Z
+2024-08-23T13:10:12.585Z
+
+## [svg-screencast](https://github.com/TomasHubelbauer/svg-screencast)
+
+⚖️ 2024-08-23T11:46:30Z
+
+🏷 screencast, screenshot, svg
+
+📒 SVG screencast - animated SVG files from screenshots using CSS animations
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-08-23T09:08:02Z
+⚖️ 2024-08-23T11:08:06Z
 
 🏷 tomashubelbauer
 
@@ -1305,14 +1313,6 @@
 🏷 algorithm, calculation, calculator, javascript, leaderboard, leaderboards, milestone, milestones
 
 📒 A milestone calculation JavaScript algorithm
-
-## [svg-screencast](https://github.com/TomasHubelbauer/svg-screencast)
-
-⚖️ 2022-11-02T14:47:37Z
-
-🏷 screencast, screenshot, svg
-
-📒 SVG screencast - animated SVG files from screenshots using CSS animations
 
 ## [markright](https://github.com/TomasHubelbauer/markright)
 
