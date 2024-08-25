@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-08-25T13:09:12.958Z
+2024-08-25T14:07:47.791Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -138,6 +138,14 @@
 
 📒 Scrapes the Globus PDF catalogue using Puppeteer
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 25399
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [html-video-scrubber](https://github.com/TomasHubelbauer/html-video-scrubber)
 
 ⚖️ 25305
@@ -145,14 +153,6 @@
 🏷 html-video, scrubbar, scrubber
 
 📒 An alternative approach to a video player scrubbar implementation
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 25177
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [vscode-video](https://github.com/TomasHubelbauer/vscode-video)
 
