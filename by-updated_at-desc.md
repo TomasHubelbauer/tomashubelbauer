@@ -1,10 +1,10 @@
 # By `updated_at` (desc)
 
-2024-08-26T00:17:52.007Z
+2024-08-26T02:23:05.526Z
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-08-25T23:08:44Z
+⚖️ 2024-08-26T00:18:01Z
 
 🏷 tomashubelbauer
 
@@ -12,7 +12,7 @@
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
-⚖️ 2024-08-25T00:19:15Z
+⚖️ 2024-08-26T00:17:52Z
 
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
