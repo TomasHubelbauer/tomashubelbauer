@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-08-28T11:07:44.823Z
+2024-08-28T12:09:46.724Z
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-08-28T11:07:56Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
 
@@ -9,14 +17,6 @@
 🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
 
 📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-08-28T08:09:09Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
