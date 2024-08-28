@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-08-28T08:08:57.824Z
+2024-08-28T11:07:44.823Z
+
+## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
+
+⚖️ 2024-08-28T08:34:27Z
+
+🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
+
+📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-08-28T07:08:07Z
+⚖️ 2024-08-28T08:09:09Z
 
 🏷 tomashubelbauer
 
@@ -1073,14 +1081,6 @@
 🏷 json, json-build-array, json-build-object, postgres, sql
 
 📒 A handy tool for converting JSON to json_build_object calls in Postgres SQL
-
-## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
-
-⚖️ 2023-04-12T17:46:02Z
-
-🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
-
-📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
 
 ## [pipe-mount](https://github.com/TomasHubelbauer/pipe-mount)
 
