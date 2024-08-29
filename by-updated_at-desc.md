@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-08-29T13:10:58.603Z
+2024-08-29T14:09:07.874Z
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 2024-08-29T13:40:18Z
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-08-29T12:09:46Z
+⚖️ 2024-08-29T13:11:08Z
 
 🏷 tomashubelbauer
 
@@ -345,14 +353,6 @@
 🏷 
 
 📒 null
-
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 2024-03-27T19:48:18Z
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [contenteditable](https://github.com/TomasHubelbauer/contenteditable)
 

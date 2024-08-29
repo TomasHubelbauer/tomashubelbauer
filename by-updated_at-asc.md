@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-08-29T13:10:58.602Z
+2024-08-29T14:09:07.871Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3434,14 +3434,6 @@
 
 📒 Making contenteditable less useless
 
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 2024-03-27T19:48:18Z
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
-
 ## [bun-runtime-plugin-onResolve-sync-async-import](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-sync-async-import)
 
 ⚖️ 2024-04-02T19:50:38Z
@@ -3780,9 +3772,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-08-29T12:09:46Z
+⚖️ 2024-08-29T13:11:08Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 2024-08-29T13:40:18Z
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
 
