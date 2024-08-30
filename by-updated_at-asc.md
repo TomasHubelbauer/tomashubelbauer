@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-08-30T00:18:05.087Z
+2024-08-30T03:08:19.424Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3754,14 +3754,6 @@
 
 📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-08-29T00:20:40Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
 
 ⚖️ 2024-08-29T09:24:20Z
@@ -3780,9 +3772,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-08-29T23:08:24Z
+⚖️ 2024-08-30T00:18:15Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-08-30T00:20:36Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
