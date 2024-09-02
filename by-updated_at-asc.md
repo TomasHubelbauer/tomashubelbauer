@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-09-02T01:34:57.900Z
+2024-09-02T02:28:17.590Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3770,14 +3770,6 @@
 
 📒 A script for setting the currently playing Spotify song as your Slack status
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-09-02T00:18:51Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
 ⚖️ 2024-09-02T00:23:10Z
@@ -3785,4 +3777,12 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-09-02T01:35:08Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
