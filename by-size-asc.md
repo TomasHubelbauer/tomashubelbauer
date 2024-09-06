@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-09-06T19:08:10.230Z
+2024-09-06T20:08:17.125Z
 
 ## [bun-eval-typescript](https://github.com/TomasHubelbauer/bun-eval-typescript)
 
@@ -3634,14 +3634,6 @@
 
 📒 Previews video files in VS Code using the custom editors proposed API
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 25113
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [html-video-scrubber](https://github.com/TomasHubelbauer/html-video-scrubber)
 
 ⚖️ 25305
@@ -3649,6 +3641,14 @@
 🏷 html-video, scrubbar, scrubber
 
 📒 An alternative approach to a video player scrubbar implementation
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 25333
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [globus](https://github.com/TomasHubelbauer/globus)
 
