@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-09-06T08:08:56.790Z
+2024-09-06T09:08:22.758Z
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2024-09-06T08:14:29Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-06T07:08:13Z
+⚖️ 2024-09-06T08:09:07Z
 
 🏷 tomashubelbauer
 
@@ -257,14 +265,6 @@
 🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
 
 📒 WebRTC Data Channel demo
-
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2024-05-09T06:40:46Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
 ## [vscode-email-viewer](https://github.com/TomasHubelbauer/vscode-email-viewer)
 

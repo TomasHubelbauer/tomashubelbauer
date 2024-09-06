@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-09-06T08:08:56.789Z
+2024-09-06T09:08:22.757Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3522,14 +3522,6 @@
 
 📒 Preview email message files (EML) in VS Code
 
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2024-05-09T06:40:46Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
-
 ## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
 
 ⚖️ 2024-05-09T13:19:41Z
@@ -3780,9 +3772,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-06T07:08:13Z
+⚖️ 2024-09-06T08:09:07Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2024-09-06T08:14:29Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
