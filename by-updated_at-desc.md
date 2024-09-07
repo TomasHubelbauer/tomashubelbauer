@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-09-07T20:07:52.942Z
+2024-09-07T21:08:57.025Z
+
+## [fetch-range-request](https://github.com/TomasHubelbauer/fetch-range-request)
+
+⚖️ 2024-09-07T20:46:38Z
+
+🏷 fetch, range-request
+
+📒 A demonstration of using fetch to do a range request and seeing if GitHub Pages support them
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-07T19:08:20Z
+⚖️ 2024-09-07T20:08:03Z
 
 🏷 tomashubelbauer
 
@@ -1993,14 +2001,6 @@
 🏷 css, flex
 
 📒 An example of how to use flex to space things apart with the same distance
-
-## [fetch-range-request](https://github.com/TomasHubelbauer/fetch-range-request)
-
-⚖️ 2022-04-17T09:56:41Z
-
-🏷 fetch, range-request
-
-📒 A demonstration of using fetch to do a range request and seeing if GitHub Pages support them
 
 ## [esm-uzip-js](https://github.com/TomasHubelbauer/esm-uzip-js)
 
