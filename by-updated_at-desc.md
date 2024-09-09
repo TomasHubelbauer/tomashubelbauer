@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-09-09T00:19:32.928Z
+2024-09-09T01:35:09.920Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-09-09T00:21:54Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-08T23:09:17Z
+⚖️ 2024-09-09T00:19:42Z
 
 🏷 tomashubelbauer
 
@@ -33,14 +41,6 @@
 🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
 
 📒 OP-1 working with web MIDI
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-09-08T00:22:17Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [fetch-range-request](https://github.com/TomasHubelbauer/fetch-range-request)
 
