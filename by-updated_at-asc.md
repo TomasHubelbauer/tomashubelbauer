@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-09-11T00:18:20.594Z
+2024-09-11T01:35:06.276Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3762,14 +3762,6 @@
 
 📒 Seeing if WebUSB can be used to control the OP-1
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-09-10T00:20:44Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [upload-indicator-copy](https://github.com/TomasHubelbauer/upload-indicator-copy)
 
 ⚖️ 2024-09-10T09:14:39Z
@@ -3788,9 +3780,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-10T23:08:29Z
+⚖️ 2024-09-11T00:18:35Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-09-11T00:20:39Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
