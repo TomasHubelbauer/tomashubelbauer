@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-09-12T00:18:32.131Z
+2024-09-12T01:34:57.993Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-09-12T00:21:21Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-11T23:08:26Z
+⚖️ 2024-09-12T00:18:42Z
 
 🏷 tomashubelbauer
 
@@ -25,14 +33,6 @@
 🏷 ntlite, powershell, ps
 
 📒 PowerShell NTLite installer
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-09-11T00:20:39Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
