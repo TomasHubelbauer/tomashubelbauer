@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-09-12T18:09:10.905Z
+2024-09-12T19:07:49.551Z
+
+## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
+
+⚖️ 2024-09-12T18:13:56Z
+
+🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
+
+📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-12T17:08:30Z
+⚖️ 2024-09-12T18:09:22Z
 
 🏷 tomashubelbauer
 
@@ -449,14 +457,6 @@
 🏷 
 
 📒 null
-
-## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
-
-⚖️ 2024-02-23T10:33:41Z
-
-🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
-
-📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
 
 ## [pglite-test](https://github.com/TomasHubelbauer/pglite-test)
 
