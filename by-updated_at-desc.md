@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-09-13T00:18:20.049Z
+2024-09-13T01:35:04.979Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-09-13T00:20:23Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-12T23:08:48Z
+⚖️ 2024-09-13T00:18:30Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
 
 📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-09-12T00:21:21Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [ps-inno](https://github.com/TomasHubelbauer/ps-inno)
 
