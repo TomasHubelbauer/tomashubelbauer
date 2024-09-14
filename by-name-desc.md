@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2024-09-14T09:08:07.484Z
+2024-09-14T10:07:54.556Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1905,6 +1905,14 @@
 🏷 linode, nginx
 
 📒 Setting up NGinx on Linode
+
+## [leveret](https://github.com/TomasHubelbauer/leveret)
+
+⚖️ leveret
+
+🏷 
+
+📒 null
 
 ## [keytar-vscode-extension](https://github.com/TomasHubelbauer/keytar-vscode-extension)
 
