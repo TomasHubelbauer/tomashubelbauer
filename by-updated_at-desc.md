@@ -1,10 +1,26 @@
 # By `updated_at` (desc)
 
-2024-09-15T15:07:51.770Z
+2024-09-15T16:08:15.404Z
+
+## [leveret](https://github.com/TomasHubelbauer/leveret)
+
+⚖️ 2024-09-15T16:00:55Z
+
+🏷 bun, bun-js, canvas, napi-rs, web-browser
+
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
+
+## [jam001](https://github.com/TomasHubelbauer/jam001)
+
+⚖️ 2024-09-15T15:37:32Z
+
+🏷 
+
+📒 null
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-15T13:10:59Z
+⚖️ 2024-09-15T15:08:01Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +33,6 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [leveret](https://github.com/TomasHubelbauer/leveret)
-
-⚖️ 2024-09-14T09:37:41Z
-
-🏷 
-
-📒 null
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 

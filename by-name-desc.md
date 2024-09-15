@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2024-09-15T15:07:51.767Z
+2024-09-15T16:08:15.401Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1910,9 +1910,9 @@
 
 ⚖️ leveret
 
-🏷 
+🏷 bun, bun-js, canvas, napi-rs, web-browser
 
-📒 null
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 
 ## [keytar-vscode-extension](https://github.com/TomasHubelbauer/keytar-vscode-extension)
 
@@ -2089,6 +2089,14 @@
 🏷 
 
 📒 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
+
+## [jam001](https://github.com/TomasHubelbauer/jam001)
+
+⚖️ jam001
+
+🏷 
+
+📒 null
 
 ## [isds-backup](https://github.com/TomasHubelbauer/isds-backup)
 

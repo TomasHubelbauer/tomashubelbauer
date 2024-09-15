@@ -1,14 +1,14 @@
 # By `size` (asc)
 
-2024-09-15T15:07:51.776Z
+2024-09-15T16:08:15.417Z
 
 ## [leveret](https://github.com/TomasHubelbauer/leveret)
 
 ⚖️ 0
 
-🏷 
+🏷 bun, bun-js, canvas, napi-rs, web-browser
 
-📒 null
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 
 ## [bun-eval-typescript](https://github.com/TomasHubelbauer/bun-eval-typescript)
 
@@ -3410,6 +3410,14 @@
 
 📒 A JavaScript parser and renderer of the Garmin maps
 
+## [jam001](https://github.com/TomasHubelbauer/jam001)
+
+⚖️ 2070
+
+🏷 
+
+📒 null
+
 ## [playwright-firefox-mp4](https://github.com/TomasHubelbauer/playwright-firefox-mp4)
 
 ⚖️ 2306
@@ -3668,7 +3676,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 29126
+⚖️ 29346
 
 🏷 tomashubelbauer
 

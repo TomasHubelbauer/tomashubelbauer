@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-09-15T15:07:51.769Z
+2024-09-15T16:08:15.403Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3778,14 +3778,6 @@
 
 📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
 
-## [leveret](https://github.com/TomasHubelbauer/leveret)
-
-⚖️ 2024-09-14T09:37:41Z
-
-🏷 
-
-📒 null
-
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
 ⚖️ 2024-09-15T00:22:47Z
@@ -3796,9 +3788,25 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-15T13:10:59Z
+⚖️ 2024-09-15T15:08:01Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [jam001](https://github.com/TomasHubelbauer/jam001)
+
+⚖️ 2024-09-15T15:37:32Z
+
+🏷 
+
+📒 null
+
+## [leveret](https://github.com/TomasHubelbauer/leveret)
+
+⚖️ 2024-09-15T16:00:55Z
+
+🏷 bun, bun-js, canvas, napi-rs, web-browser
+
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 

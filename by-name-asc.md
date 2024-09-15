@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2024-09-15T15:07:51.766Z
+2024-09-15T16:08:15.400Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -1714,6 +1714,14 @@
 
 📒 Downloads ISDS messages and attachments by using Puppeteer and the Mobilni klic ISDS application to sign in using a QR code and crawl all the boxes and their messages backing up new ones and downloading their attachments.
 
+## [jam001](https://github.com/TomasHubelbauer/jam001)
+
+⚖️ jam001
+
+🏷 
+
+📒 null
+
 ## [jekyll](https://github.com/TomasHubelbauer/jekyll)
 
 ⚖️ jekyll
@@ -1894,9 +1902,9 @@
 
 ⚖️ leveret
 
-🏷 
+🏷 bun, bun-js, canvas, napi-rs, web-browser
 
-📒 null
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 
 ## [linode-nginx](https://github.com/TomasHubelbauer/linode-nginx)
 

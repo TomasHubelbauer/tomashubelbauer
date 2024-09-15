@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-09-15T15:07:51.778Z
+2024-09-15T16:08:15.418Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -132,7 +132,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 29126
+⚖️ 29346
 
 🏷 tomashubelbauer
 
@@ -393,6 +393,14 @@
 🏷 firefox, html-video, playwright
 
 📒 Playwright Firefox MP4 video
+
+## [jam001](https://github.com/TomasHubelbauer/jam001)
+
+⚖️ 2070
+
+🏷 
+
+📒 null
 
 ## [garmin-img](https://github.com/TomasHubelbauer/garmin-img)
 
@@ -3710,9 +3718,9 @@
 
 ⚖️ 0
 
-🏷 
+🏷 bun, bun-js, canvas, napi-rs, web-browser
 
-📒 null
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 
 ## [bun-eval-typescript](https://github.com/TomasHubelbauer/bun-eval-typescript)
 
