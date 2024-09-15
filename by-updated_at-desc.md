@@ -1,22 +1,22 @@
 # By `updated_at` (desc)
 
-2024-09-15T21:07:54.990Z
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-09-15T20:08:21Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
+2024-09-15T22:09:12.506Z
 
 ## [leveret](https://github.com/TomasHubelbauer/leveret)
 
-⚖️ 2024-09-15T19:54:55Z
+⚖️ 2024-09-15T21:46:35Z
 
 🏷 bun, bun-js, canvas, napi-rs, web-browser
 
 📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-09-15T21:08:08Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [jam001](https://github.com/TomasHubelbauer/jam001)
 
