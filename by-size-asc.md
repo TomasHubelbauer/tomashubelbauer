@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-09-15T22:09:12.513Z
+2024-09-15T23:08:14.186Z
 
 ## [bun-eval-typescript](https://github.com/TomasHubelbauer/bun-eval-typescript)
 
@@ -2898,14 +2898,6 @@
 
 📒 A demonstration of a weird behavior of the RBC onRangeChange callback
 
-## [leveret](https://github.com/TomasHubelbauer/leveret)
-
-⚖️ 146
-
-🏷 bun, bun-js, canvas, napi-rs, web-browser
-
-📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
-
 ## [rbc-week-empty-area](https://github.com/TomasHubelbauer/rbc-week-empty-area)
 
 ⚖️ 147
@@ -2953,6 +2945,14 @@
 🏷 cra, create-react-app, puppeteer
 
 📒 Testing CRA (Create React App) with Puppeteer
+
+## [leveret](https://github.com/TomasHubelbauer/leveret)
+
+⚖️ 154
+
+🏷 bun, bun-js, canvas, napi-rs, web-browser
+
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 
 ## [remix](https://github.com/TomasHubelbauer/remix)
 

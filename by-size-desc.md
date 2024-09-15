@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-09-15T22:09:12.515Z
+2024-09-15T23:08:14.188Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -858,6 +858,14 @@
 
 📒 Looking into Remix
 
+## [leveret](https://github.com/TomasHubelbauer/leveret)
+
+⚖️ 154
+
+🏷 bun, bun-js, canvas, napi-rs, web-browser
+
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
+
 ## [cra-test-puppeteer](https://github.com/TomasHubelbauer/cra-test-puppeteer)
 
 ⚖️ 152
@@ -905,14 +913,6 @@
 🏷 cra, create-react-app, location-hash
 
 📒 A router for CRA which uses location.hash
-
-## [leveret](https://github.com/TomasHubelbauer/leveret)
-
-⚖️ 146
-
-🏷 bun, bun-js, canvas, napi-rs, web-browser
-
-📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 
 ## [rbc-range-change](https://github.com/TomasHubelbauer/rbc-range-change)
 
