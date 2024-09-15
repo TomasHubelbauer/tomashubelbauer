@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-09-15T16:08:15.418Z
+2024-09-15T17:07:53.836Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -396,7 +396,7 @@
 
 ## [jam001](https://github.com/TomasHubelbauer/jam001)
 
-⚖️ 2070
+⚖️ 2207
 
 🏷 
 
@@ -905,6 +905,14 @@
 🏷 cra, create-react-app, location-hash
 
 📒 A router for CRA which uses location.hash
+
+## [leveret](https://github.com/TomasHubelbauer/leveret)
+
+⚖️ 146
+
+🏷 bun, bun-js, canvas, napi-rs, web-browser
+
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 
 ## [rbc-range-change](https://github.com/TomasHubelbauer/rbc-range-change)
 
@@ -3713,14 +3721,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [leveret](https://github.com/TomasHubelbauer/leveret)
-
-⚖️ 0
-
-🏷 bun, bun-js, canvas, napi-rs, web-browser
-
-📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 
 ## [bun-eval-typescript](https://github.com/TomasHubelbauer/bun-eval-typescript)
 

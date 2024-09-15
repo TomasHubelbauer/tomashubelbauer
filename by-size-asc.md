@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2024-09-15T16:08:15.417Z
-
-## [leveret](https://github.com/TomasHubelbauer/leveret)
-
-⚖️ 0
-
-🏷 bun, bun-js, canvas, napi-rs, web-browser
-
-📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
+2024-09-15T17:07:53.830Z
 
 ## [bun-eval-typescript](https://github.com/TomasHubelbauer/bun-eval-typescript)
 
@@ -2906,6 +2898,14 @@
 
 📒 A demonstration of a weird behavior of the RBC onRangeChange callback
 
+## [leveret](https://github.com/TomasHubelbauer/leveret)
+
+⚖️ 146
+
+🏷 bun, bun-js, canvas, napi-rs, web-browser
+
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
+
 ## [rbc-week-empty-area](https://github.com/TomasHubelbauer/rbc-week-empty-area)
 
 ⚖️ 147
@@ -3412,7 +3412,7 @@
 
 ## [jam001](https://github.com/TomasHubelbauer/jam001)
 
-⚖️ 2070
+⚖️ 2207
 
 🏷 
 
