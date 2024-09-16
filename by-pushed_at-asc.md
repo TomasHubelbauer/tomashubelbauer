@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2024-09-16T01:35:23.658Z
+2024-09-16T02:32:12.053Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3794,14 +3794,6 @@
 
 📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-09-15T23:08:25Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
 ⚖️ 2024-09-16T00:21:07Z
@@ -3809,4 +3801,12 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-09-16T01:35:30Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
