@@ -1,18 +1,26 @@
 # By `pushed_at` (desc)
 
-2024-09-17T17:07:59.077Z
+2024-09-17T19:07:59.569Z
 
 ## [vscode-local-workspace-extensions](https://github.com/TomasHubelbauer/vscode-local-workspace-extensions)
 
-⚖️ 2024-09-17T16:55:22Z
+⚖️ 2024-09-17T18:53:35Z
 
 🏷 
 
 📒 null
 
+## [vscode-markdown-jira-links](https://github.com/TomasHubelbauer/vscode-markdown-jira-links)
+
+⚖️ 2024-09-17T17:45:38Z
+
+🏷 jira, markdown, vscode, vscode-extension
+
+📒 VS Code extension to highlight Jira links in MarkDown
+
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-17T16:08:37Z
+⚖️ 2024-09-17T17:08:07Z
 
 🏷 tomashubelbauer
 
@@ -1177,14 +1185,6 @@
 🏷 javascript-bookmarklet, shortlink, vso
 
 📒 A JavaScript bookmarklet for VSO shortlink generation without having to deep dive in the VSO UI
-
-## [vscode-markdown-jira-links](https://github.com/TomasHubelbauer/vscode-markdown-jira-links)
-
-⚖️ 2022-04-28T08:54:46Z
-
-🏷 jira, markdown, vscode, vscode-extension
-
-📒 VS Code extension to highlight Jira links in MarkDown
 
 ## [vscode-esm-url](https://github.com/TomasHubelbauer/vscode-esm-url)
 

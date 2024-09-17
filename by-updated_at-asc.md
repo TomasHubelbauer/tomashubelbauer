@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-09-17T17:07:59.071Z
+2024-09-17T19:07:59.563Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3242,14 +3242,6 @@
 
 📒 Hacker News redesigned using Tailwind for practice
 
-## [vscode-markdown-jira-links](https://github.com/TomasHubelbauer/vscode-markdown-jira-links)
-
-⚖️ 2023-12-13T12:50:42Z
-
-🏷 jira, markdown, vscode, vscode-extension
-
-📒 VS Code extension to highlight Jira links in MarkDown
-
 ## [macos-screen-recording-detect](https://github.com/TomasHubelbauer/macos-screen-recording-detect)
 
 ⚖️ 2024-01-02T15:46:44Z
@@ -3804,15 +3796,23 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-17T16:08:41Z
+⚖️ 2024-09-17T17:08:11Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
 
+## [vscode-markdown-jira-links](https://github.com/TomasHubelbauer/vscode-markdown-jira-links)
+
+⚖️ 2024-09-17T17:45:41Z
+
+🏷 jira, markdown, vscode, vscode-extension
+
+📒 VS Code extension to highlight Jira links in MarkDown
+
 ## [vscode-local-workspace-extensions](https://github.com/TomasHubelbauer/vscode-local-workspace-extensions)
 
-⚖️ 2024-09-17T17:00:25Z
+⚖️ 2024-09-17T18:53:38Z
 
 🏷 
 

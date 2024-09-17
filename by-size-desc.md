@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-09-17T17:07:59.086Z
+2024-09-17T19:07:59.573Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -132,7 +132,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 28370
+⚖️ 28593
 
 🏷 tomashubelbauer
 
@@ -1314,6 +1314,14 @@
 
 📒 A script for setting the currently playing Spotify song as your Slack status
 
+## [vscode-markdown-jira-links](https://github.com/TomasHubelbauer/vscode-markdown-jira-links)
+
+⚖️ 37
+
+🏷 jira, markdown, vscode, vscode-extension
+
+📒 VS Code extension to highlight Jira links in MarkDown
+
 ## [wokwi-nmea-checksum](https://github.com/TomasHubelbauer/wokwi-nmea-checksum)
 
 ⚖️ 35
@@ -1321,14 +1329,6 @@
 🏷 nmea, wokwi
 
 📒 Simulating my NMEA checksum sketch using the Wokwi Arduino simulator
-
-## [vscode-markdown-jira-links](https://github.com/TomasHubelbauer/vscode-markdown-jira-links)
-
-⚖️ 35
-
-🏷 jira, markdown, vscode, vscode-extension
-
-📒 VS Code extension to highlight Jira links in MarkDown
 
 ## [github-issues-git-notes-demo](https://github.com/TomasHubelbauer/github-issues-git-notes-demo)
 
@@ -3050,6 +3050,14 @@
 
 📒 A demonstration of setting desktop wallpaper and background color using Batch
 
+## [vscode-local-workspace-extensions](https://github.com/TomasHubelbauer/vscode-local-workspace-extensions)
+
+⚖️ 2
+
+🏷 
+
+📒 null
+
 ## [jsx-service-worker](https://github.com/TomasHubelbauer/jsx-service-worker)
 
 ⚖️ 2
@@ -3721,14 +3729,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [vscode-local-workspace-extensions](https://github.com/TomasHubelbauer/vscode-local-workspace-extensions)
-
-⚖️ 0
-
-🏷 
-
-📒 null
 
 ## [bun-eval-typescript](https://github.com/TomasHubelbauer/bun-eval-typescript)
 

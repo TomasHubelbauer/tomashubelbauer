@@ -1,18 +1,26 @@
 # By `updated_at` (desc)
 
-2024-09-17T17:07:59.072Z
+2024-09-17T19:07:59.566Z
 
 ## [vscode-local-workspace-extensions](https://github.com/TomasHubelbauer/vscode-local-workspace-extensions)
 
-⚖️ 2024-09-17T17:00:25Z
+⚖️ 2024-09-17T18:53:38Z
 
 🏷 
 
 📒 null
 
+## [vscode-markdown-jira-links](https://github.com/TomasHubelbauer/vscode-markdown-jira-links)
+
+⚖️ 2024-09-17T17:45:41Z
+
+🏷 jira, markdown, vscode, vscode-extension
+
+📒 VS Code extension to highlight Jira links in MarkDown
+
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-17T16:08:41Z
+⚖️ 2024-09-17T17:08:11Z
 
 🏷 tomashubelbauer
 
@@ -569,14 +577,6 @@
 🏷 
 
 📒 null
-
-## [vscode-markdown-jira-links](https://github.com/TomasHubelbauer/vscode-markdown-jira-links)
-
-⚖️ 2023-12-13T12:50:42Z
-
-🏷 jira, markdown, vscode, vscode-extension
-
-📒 VS Code extension to highlight Jira links in MarkDown
 
 ## [hn-tailwind](https://github.com/TomasHubelbauer/hn-tailwind)
 

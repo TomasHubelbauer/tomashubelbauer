@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2024-09-17T17:07:59.079Z
-
-## [vscode-local-workspace-extensions](https://github.com/TomasHubelbauer/vscode-local-workspace-extensions)
-
-⚖️ 0
-
-🏷 
-
-📒 null
+2024-09-17T19:07:59.571Z
 
 ## [bun-eval-typescript](https://github.com/TomasHubelbauer/bun-eval-typescript)
 
@@ -481,6 +473,14 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
+
+## [vscode-local-workspace-extensions](https://github.com/TomasHubelbauer/vscode-local-workspace-extensions)
+
+⚖️ 2
+
+🏷 
+
+📒 null
 
 ## [jsx-service-worker](https://github.com/TomasHubelbauer/jsx-service-worker)
 
@@ -2500,7 +2500,7 @@
 
 ## [vscode-markdown-jira-links](https://github.com/TomasHubelbauer/vscode-markdown-jira-links)
 
-⚖️ 35
+⚖️ 37
 
 🏷 jira, markdown, vscode, vscode-extension
 
@@ -3684,7 +3684,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 28370
+⚖️ 28593
 
 🏷 tomashubelbauer
 
