@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-09-17T16:08:30.098Z
+2024-09-17T17:07:59.086Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -3721,6 +3721,14 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
+
+## [vscode-local-workspace-extensions](https://github.com/TomasHubelbauer/vscode-local-workspace-extensions)
+
+⚖️ 0
+
+🏷 
+
+📒 null
 
 ## [bun-eval-typescript](https://github.com/TomasHubelbauer/bun-eval-typescript)
 

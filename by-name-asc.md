@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2024-09-17T16:08:30.079Z
+2024-09-17T17:07:59.068Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -3409,6 +3409,14 @@
 🏷 vscode, vscode-extension
 
 📒 VS Code and VS Code extension API knowledge base
+
+## [vscode-local-workspace-extensions](https://github.com/TomasHubelbauer/vscode-local-workspace-extensions)
+
+⚖️ vscode-local-workspace-extensions
+
+🏷 
+
+📒 null
 
 ## [vscode-markdown-email-link](https://github.com/TomasHubelbauer/vscode-markdown-email-link)
 

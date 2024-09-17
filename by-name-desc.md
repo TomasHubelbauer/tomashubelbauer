@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2024-09-17T16:08:30.080Z
+2024-09-17T17:07:59.069Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -401,6 +401,14 @@
 🏷 email, markdown, regex-pattern, vscode, vscode-extension, vscode-plugin
 
 📒 VS Code extension to highlight email addresses in MarkDown
+
+## [vscode-local-workspace-extensions](https://github.com/TomasHubelbauer/vscode-local-workspace-extensions)
+
+⚖️ vscode-local-workspace-extensions
+
+🏷 
+
+📒 null
 
 ## [vscode-kb](https://github.com/TomasHubelbauer/vscode-kb)
 
