@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-09-18T07:08:16.513Z
+2024-09-18T09:09:17.754Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3794,14 +3794,6 @@
 
 📒 VS Code extension to highlight Jira links in MarkDown
 
-## [vscode-local-workspace-extensions](https://github.com/TomasHubelbauer/vscode-local-workspace-extensions)
-
-⚖️ 2024-09-17T18:53:38Z
-
-🏷 
-
-📒 null
-
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
 ⚖️ 2024-09-18T00:20:05Z
@@ -3812,9 +3804,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-18T06:09:19Z
+⚖️ 2024-09-18T07:08:32Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [vscode-local-workspace-extensions](https://github.com/TomasHubelbauer/vscode-local-workspace-extensions)
+
+⚖️ 2024-09-18T08:21:17Z
+
+🏷 
+
+📒 null
 
