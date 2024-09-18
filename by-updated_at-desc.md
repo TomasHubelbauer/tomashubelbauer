@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-09-17T23:08:57.403Z
+2024-09-18T01:34:50.242Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-09-18T00:20:05Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-17T22:08:07Z
+⚖️ 2024-09-17T23:09:07Z
 
 🏷 tomashubelbauer
 
@@ -25,14 +33,6 @@
 🏷 jira, markdown, vscode, vscode-extension
 
 📒 VS Code extension to highlight Jira links in MarkDown
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-09-17T00:17:52Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [leveret](https://github.com/TomasHubelbauer/leveret)
 
