@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-09-19T21:07:56.932Z
+2024-09-19T22:07:53.856Z
 
 ## [bun-eval-typescript](https://github.com/TomasHubelbauer/bun-eval-typescript)
 
@@ -3026,14 +3026,6 @@
 
 📒 Binding CRA to various host names and subdomains
 
-## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
-
-⚖️ 185
-
-🏷 vscode, vscode-extension
-
-📒 Barebones setup for developing local workspace extensions for VS Code
-
 ## [track-maker](https://github.com/TomasHubelbauer/track-maker)
 
 ⚖️ 191
@@ -3169,6 +3161,14 @@
 🏷 agenda, javascript, task-list, to-do-list
 
 📒 A to-do list
+
+## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
+
+⚖️ 354
+
+🏷 vscode, vscode-extension
+
+📒 Barebones setup for developing local workspace extensions for VS Code
 
 ## [websaver](https://github.com/TomasHubelbauer/websaver)
 

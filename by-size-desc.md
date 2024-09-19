@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-09-19T21:07:56.934Z
+2024-09-19T22:07:53.857Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -666,6 +666,14 @@
 
 📒 Automatically exported from code.google.com/p/websaver
 
+## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
+
+⚖️ 354
+
+🏷 vscode, vscode-extension
+
+📒 Barebones setup for developing local workspace extensions for VS Code
+
 ## [agendum](https://github.com/TomasHubelbauer/agendum)
 
 ⚖️ 348
@@ -801,14 +809,6 @@
 🏷 3d-print, 3d-printing, cad, cam, gcode, openscad, stl
 
 📒 A highly specialized tool for designing tracks for 3D printing channels that hold LED strips for creating wall mounted neon-like logos.
-
-## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
-
-⚖️ 185
-
-🏷 vscode, vscode-extension
-
-📒 Barebones setup for developing local workspace extensions for VS Code
 
 ## [cra-hosts](https://github.com/TomasHubelbauer/cra-hosts)
 
