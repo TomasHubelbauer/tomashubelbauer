@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-09-19T19:07:50.262Z
+2024-09-19T21:07:56.926Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3812,7 +3812,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-19T18:08:48Z
+⚖️ 2024-09-19T19:08:02Z
 
 🏷 tomashubelbauer
 
@@ -3820,9 +3820,17 @@
 
 ## [filelist-weakmap-demo](https://github.com/TomasHubelbauer/filelist-weakmap-demo)
 
-⚖️ 2024-09-19T18:35:18Z
+⚖️ 2024-09-19T19:14:01Z
 
 🏷 
 
 📒 null
+
+## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
+
+⚖️ 2024-09-19T21:05:48Z
+
+🏷 vscode, vscode-extension
+
+📒 Barebones setup for developing local workspace extensions for VS Code
 

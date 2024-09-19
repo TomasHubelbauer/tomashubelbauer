@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-09-19T19:07:50.270Z
+2024-09-19T21:07:56.934Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -132,7 +132,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 27538
+⚖️ 27762
 
 🏷 tomashubelbauer
 
@@ -801,6 +801,14 @@
 🏷 3d-print, 3d-printing, cad, cam, gcode, openscad, stl
 
 📒 A highly specialized tool for designing tracks for 3D printing channels that hold LED strips for creating wall mounted neon-like logos.
+
+## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
+
+⚖️ 185
+
+🏷 vscode, vscode-extension
+
+📒 Barebones setup for developing local workspace extensions for VS Code
 
 ## [cra-hosts](https://github.com/TomasHubelbauer/cra-hosts)
 
@@ -3346,6 +3354,14 @@
 
 📒 Notes for using Blender with VS Code
 
+## [filelist-weakmap-demo](https://github.com/TomasHubelbauer/filelist-weakmap-demo)
+
+⚖️ 1
+
+🏷 
+
+📒 null
+
 ## [upload-indicator-copy](https://github.com/TomasHubelbauer/upload-indicator-copy)
 
 ⚖️ 1
@@ -3729,14 +3745,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [filelist-weakmap-demo](https://github.com/TomasHubelbauer/filelist-weakmap-demo)
-
-⚖️ 0
-
-🏷 
-
-📒 null
 
 ## [bun-eval-typescript](https://github.com/TomasHubelbauer/bun-eval-typescript)
 

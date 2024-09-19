@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2024-09-19T19:07:50.259Z
+2024-09-19T21:07:56.924Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -425,6 +425,14 @@
 🏷 vscode, vscode-extension
 
 📒 A list of VS Code extensions that I made
+
+## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
+
+⚖️ vscode-extension-playground
+
+🏷 vscode, vscode-extension
+
+📒 Barebones setup for developing local workspace extensions for VS Code
 
 ## [vscode-esm-url](https://github.com/TomasHubelbauer/vscode-esm-url)
 

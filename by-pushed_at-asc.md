@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2024-09-19T19:07:50.265Z
+2024-09-19T21:07:56.929Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3812,7 +3812,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-19T18:08:44Z
+⚖️ 2024-09-19T19:07:58Z
 
 🏷 tomashubelbauer
 
@@ -3820,9 +3820,17 @@
 
 ## [filelist-weakmap-demo](https://github.com/TomasHubelbauer/filelist-weakmap-demo)
 
-⚖️ 2024-09-19T18:35:18Z
+⚖️ 2024-09-19T19:13:58Z
 
 🏷 
 
 📒 null
+
+## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
+
+⚖️ 2024-09-19T21:05:45Z
+
+🏷 vscode, vscode-extension
+
+📒 Barebones setup for developing local workspace extensions for VS Code
 

@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2024-09-19T19:07:50.256Z
+2024-09-19T21:07:56.920Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -3401,6 +3401,14 @@
 🏷 esm, esmodules, export, import, url, vscode, vscode-extension
 
 📒 VS Code extension adding support for ?search and #fragment in ESM module specifiers
+
+## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
+
+⚖️ vscode-extension-playground
+
+🏷 vscode, vscode-extension
+
+📒 Barebones setup for developing local workspace extensions for VS Code
 
 ## [vscode-extensions](https://github.com/TomasHubelbauer/vscode-extensions)
 

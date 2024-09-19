@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2024-09-19T19:07:50.268Z
-
-## [filelist-weakmap-demo](https://github.com/TomasHubelbauer/filelist-weakmap-demo)
-
-⚖️ 0
-
-🏷 
-
-📒 null
+2024-09-19T21:07:56.932Z
 
 ## [bun-eval-typescript](https://github.com/TomasHubelbauer/bun-eval-typescript)
 
@@ -97,6 +89,14 @@
 🏷 console, node
 
 📒 Overriding console.log in Node
+
+## [filelist-weakmap-demo](https://github.com/TomasHubelbauer/filelist-weakmap-demo)
+
+⚖️ 1
+
+🏷 
+
+📒 null
 
 ## [upload-indicator-copy](https://github.com/TomasHubelbauer/upload-indicator-copy)
 
@@ -3026,6 +3026,14 @@
 
 📒 Binding CRA to various host names and subdomains
 
+## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
+
+⚖️ 185
+
+🏷 vscode, vscode-extension
+
+📒 Barebones setup for developing local workspace extensions for VS Code
+
 ## [track-maker](https://github.com/TomasHubelbauer/track-maker)
 
 ⚖️ 191
@@ -3692,7 +3700,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 27538
+⚖️ 27762
 
 🏷 tomashubelbauer
 
