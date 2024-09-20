@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-09-20T00:18:34.476Z
+2024-09-20T01:34:43.769Z
 
 ## [bun-eval-typescript](https://github.com/TomasHubelbauer/bun-eval-typescript)
 
@@ -3610,14 +3610,6 @@
 
 📒 Using Playwright Firefox to scrape PDFs
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 15466
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [app-ffmpeg](https://github.com/TomasHubelbauer/app-ffmpeg)
 
 ⚖️ 15471
@@ -3633,6 +3625,14 @@
 🏷 email, email-parsing, eml, eml-files, preview, vscode, vscode-extension, vscode-preview
 
 📒 Preview email message files (EML) in VS Code
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 15586
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [cli](https://github.com/TomasHubelbauer/cli)
 
@@ -3700,7 +3700,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 28206
+⚖️ 28209
 
 🏷 tomashubelbauer
 
