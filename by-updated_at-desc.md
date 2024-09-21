@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-09-21T19:07:33.456Z
+2024-09-21T21:07:39.668Z
+
+## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
+
+⚖️ 2024-09-21T20:40:27Z
+
+🏷 vscode, vscode-extension
+
+📒 Barebones setup for developing local workspace extensions for VS Code
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-21T18:08:17Z
+⚖️ 2024-09-21T19:07:44Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
-
-⚖️ 2024-09-19T21:34:21Z
-
-🏷 vscode, vscode-extension
-
-📒 Barebones setup for developing local workspace extensions for VS Code
 
 ## [filelist-weakmap-demo](https://github.com/TomasHubelbauer/filelist-weakmap-demo)
 
