@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-09-21T21:07:39.674Z
+2024-09-21T22:07:37.685Z
 
 ## [bun-eval-typescript](https://github.com/TomasHubelbauer/bun-eval-typescript)
 
@@ -3162,14 +3162,6 @@
 
 📒 A to-do list
 
-## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
-
-⚖️ 354
-
-🏷 vscode, vscode-extension
-
-📒 Barebones setup for developing local workspace extensions for VS Code
-
 ## [websaver](https://github.com/TomasHubelbauer/websaver)
 
 ⚖️ 358
@@ -3193,6 +3185,14 @@
 🏷 week-planner
 
 📒 A one-off utility for graphical week planning
+
+## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
+
+⚖️ 372
+
+🏷 vscode, vscode-extension
+
+📒 Barebones setup for developing local workspace extensions for VS Code
 
 ## [webgl-op-1](https://github.com/TomasHubelbauer/webgl-op-1)
 

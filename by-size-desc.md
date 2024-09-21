@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-09-21T21:07:39.676Z
+2024-09-21T22:07:37.687Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -642,6 +642,14 @@
 
 📒 A 3D model of Teenage Engineering OP-1 displayed in the browser using WebGL
 
+## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
+
+⚖️ 372
+
+🏷 vscode, vscode-extension
+
+📒 Barebones setup for developing local workspace extensions for VS Code
+
 ## [week-planner](https://github.com/TomasHubelbauer/week-planner)
 
 ⚖️ 370
@@ -665,14 +673,6 @@
 🏷 
 
 📒 Automatically exported from code.google.com/p/websaver
-
-## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
-
-⚖️ 354
-
-🏷 vscode, vscode-extension
-
-📒 Barebones setup for developing local workspace extensions for VS Code
 
 ## [agendum](https://github.com/TomasHubelbauer/agendum)
 
