@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2024-09-21T23:07:43.564Z
+2024-09-22T01:34:57.638Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-09-22T00:22:23Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-21T22:07:45Z
+⚖️ 2024-09-21T23:07:50Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 vscode, vscode-extension
 
 📒 Barebones setup for developing local workspace extensions for VS Code
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-09-21T00:19:59Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [filelist-weakmap-demo](https://github.com/TomasHubelbauer/filelist-weakmap-demo)
 
