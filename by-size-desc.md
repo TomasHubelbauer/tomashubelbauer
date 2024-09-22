@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-09-22T17:08:14.221Z
+2024-09-22T19:07:28.220Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -132,7 +132,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 28555
+⚖️ 28777
 
 🏷 tomashubelbauer
 
@@ -1001,6 +1001,14 @@
 🏷 demo, react, react-redux, react-redux-boilerplate, react-redux-demo, redux, typescript
 
 📒 React+Redux+TypeScript+connect decorator demo
+
+## [image-editor-poc](https://github.com/TomasHubelbauer/image-editor-poc)
+
+⚖️ 105
+
+🏷 
+
+📒 A proof of concept for a basic image editor to display following an image upload.
 
 ## [todo-comments-github-issues](https://github.com/TomasHubelbauer/todo-comments-github-issues)
 
@@ -3745,14 +3753,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [image-editor-poc](https://github.com/TomasHubelbauer/image-editor-poc)
-
-⚖️ 0
-
-🏷 
-
-📒 null
 
 ## [bun-eval-typescript](https://github.com/TomasHubelbauer/bun-eval-typescript)
 

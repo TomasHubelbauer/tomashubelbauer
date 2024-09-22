@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-09-22T17:08:14.212Z
+2024-09-22T19:07:28.210Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3690,14 +3690,6 @@
 
 📒 A WebRTC data channel establishment with QR codes used for signaling channel.
 
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2024-09-06T08:14:29Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
-
 ## [fetch-range-request](https://github.com/TomasHubelbauer/fetch-range-request)
 
 ⚖️ 2024-09-07T20:46:38Z
@@ -3826,19 +3818,27 @@
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
-## [image-editor-poc](https://github.com/TomasHubelbauer/image-editor-poc)
-
-⚖️ 2024-09-22T14:05:24Z
-
-🏷 
-
-📒 null
-
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-22T16:07:53Z
+⚖️ 2024-09-22T17:08:24Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2024-09-22T17:24:30Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
+
+## [image-editor-poc](https://github.com/TomasHubelbauer/image-editor-poc)
+
+⚖️ 2024-09-22T17:57:34Z
+
+🏷 
+
+📒 A proof of concept for a basic image editor to display following an image upload.
 

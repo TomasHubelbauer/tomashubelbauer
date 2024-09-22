@@ -1,14 +1,6 @@
 # By `size` (asc)
 
-2024-09-22T17:08:14.219Z
-
-## [image-editor-poc](https://github.com/TomasHubelbauer/image-editor-poc)
-
-⚖️ 0
-
-🏷 
-
-📒 null
+2024-09-22T19:07:28.218Z
 
 ## [bun-eval-typescript](https://github.com/TomasHubelbauer/bun-eval-typescript)
 
@@ -2842,6 +2834,14 @@
 
 📒 A GitHub Actions action to sync code to-do comments to GitHub issues
 
+## [image-editor-poc](https://github.com/TomasHubelbauer/image-editor-poc)
+
+⚖️ 105
+
+🏷 
+
+📒 A proof of concept for a basic image editor to display following an image upload.
+
 ## [react-redux-typescript-connect-decorator-demo](https://github.com/TomasHubelbauer/react-redux-typescript-connect-decorator-demo)
 
 ⚖️ 113
@@ -3708,7 +3708,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 28555
+⚖️ 28777
 
 🏷 tomashubelbauer
 
