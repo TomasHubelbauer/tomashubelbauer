@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2024-09-23T00:18:56.735Z
+2024-09-23T01:35:08.840Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3818,14 +3818,6 @@
 
 📒 Barebones setup for developing local workspace extensions for VS Code
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-09-22T00:22:23Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [image-editor-poc](https://github.com/TomasHubelbauer/image-editor-poc)
 
 ⚖️ 2024-09-22T17:56:54Z
@@ -3836,9 +3828,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-22T23:08:41Z
+⚖️ 2024-09-23T00:19:03Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-09-23T00:20:51Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
