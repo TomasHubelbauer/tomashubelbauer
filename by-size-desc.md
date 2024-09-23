@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-09-23T18:08:50.730Z
+2024-09-23T19:07:57.851Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -3754,13 +3754,21 @@
 
 📒 A webcam page for with with He3 as a face camera
 
-## [bun-react](https://github.com/TomasHubelbauer/bun-react)
+## [image-editor-poc-react-image-crop](https://github.com/TomasHubelbauer/image-editor-poc-react-image-crop)
 
 ⚖️ 0
 
 🏷 
 
 📒 null
+
+## [bun-react](https://github.com/TomasHubelbauer/bun-react)
+
+⚖️ 0
+
+🏷 
+
+📒 A sample of using TypeScript and React in a Bun server.
 
 ## [image-editor-poc-cropperjs](https://github.com/TomasHubelbauer/image-editor-poc-cropperjs)
 

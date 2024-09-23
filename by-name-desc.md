@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2024-09-23T18:08:50.718Z
+2024-09-23T19:07:57.840Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -2178,6 +2178,14 @@
 
 📒 An IndexedDB exploration repository
 
+## [image-editor-poc-react-image-crop](https://github.com/TomasHubelbauer/image-editor-poc-react-image-crop)
+
+⚖️ image-editor-poc-react-image-crop
+
+🏷 
+
+📒 null
+
 ## [image-editor-poc-cropperjs](https://github.com/TomasHubelbauer/image-editor-poc-cropperjs)
 
 ⚖️ image-editor-poc-cropperjs
@@ -3520,7 +3528,7 @@
 
 🏷 
 
-📒 null
+📒 A sample of using TypeScript and React in a Bun server.
 
 ## [bun-passthrough-server](https://github.com/TomasHubelbauer/bun-passthrough-server)
 
