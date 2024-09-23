@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-09-23T13:12:29.061Z
+2024-09-23T15:08:04.736Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -130,14 +130,6 @@
 
 📒 A comparison of JavaScript QR scanner libraries
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 30569
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [globus](https://github.com/TomasHubelbauer/globus)
 
 ⚖️ 26569
@@ -153,6 +145,14 @@
 🏷 html-video, scrubbar, scrubber
 
 📒 An alternative approach to a video player scrubbar implementation
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 25053
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [vscode-video](https://github.com/TomasHubelbauer/vscode-video)
 
