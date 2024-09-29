@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-09-28T23:07:59.012Z
+2024-09-29T01:35:11.970Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-09-29T00:22:12Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-09-28T22:08:00Z
+⚖️ 2024-09-28T23:08:09Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 charger, onewheel, onewheel-charger, onewheel-pint, onewheel-xr
 
 📒 Onewheel Pint and +XR charger specs and connector pinouts
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-09-28T00:20:16Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [leveret](https://github.com/TomasHubelbauer/leveret)
 
