@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-10-01T15:08:01.429Z
+2024-10-01T16:08:22.171Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3834,14 +3834,6 @@
 
 📒 null
 
-## [leveret](https://github.com/TomasHubelbauer/leveret)
-
-⚖️ 2024-09-27T04:28:47Z
-
-🏷 bun, bun-js, canvas, napi-rs, web-browser
-
-📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
-
 ## [onewheel-charger](https://github.com/TomasHubelbauer/onewheel-charger)
 
 ⚖️ 2024-09-28T08:38:47Z
@@ -3860,7 +3852,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-01T13:13:15Z
+⚖️ 2024-10-01T15:08:18Z
 
 🏷 tomashubelbauer
 
@@ -3868,9 +3860,17 @@
 
 ## [bun-domparser](https://github.com/TomasHubelbauer/bun-domparser)
 
-⚖️ 2024-10-01T13:42:13Z
+⚖️ 2024-10-01T15:19:08Z
 
 🏷 
 
 📒 null
+
+## [leveret](https://github.com/TomasHubelbauer/leveret)
+
+⚖️ 2024-10-01T15:20:11Z
+
+🏷 bun, bun-js, canvas, napi-rs, web-browser
+
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 

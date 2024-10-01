@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2024-10-01T15:08:01.435Z
+2024-10-01T16:08:22.174Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3778,14 +3778,6 @@
 
 📒 null
 
-## [leveret](https://github.com/TomasHubelbauer/leveret)
-
-⚖️ 2024-09-15T21:46:32Z
-
-🏷 bun, bun-js, canvas, napi-rs, web-browser
-
-📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
-
 ## [vscode-markdown-jira-links](https://github.com/TomasHubelbauer/vscode-markdown-jira-links)
 
 ⚖️ 2024-09-17T17:45:38Z
@@ -3860,7 +3852,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-01T13:13:11Z
+⚖️ 2024-10-01T15:08:10Z
 
 🏷 tomashubelbauer
 
@@ -3868,9 +3860,17 @@
 
 ## [bun-domparser](https://github.com/TomasHubelbauer/bun-domparser)
 
-⚖️ 2024-10-01T13:42:13Z
+⚖️ 2024-10-01T15:18:43Z
 
 🏷 
 
 📒 null
+
+## [leveret](https://github.com/TomasHubelbauer/leveret)
+
+⚖️ 2024-10-01T15:19:49Z
+
+🏷 bun, bun-js, canvas, napi-rs, web-browser
+
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 

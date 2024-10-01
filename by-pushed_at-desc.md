@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2024-10-01T15:08:01.436Z
+2024-10-01T16:08:22.175Z
+
+## [leveret](https://github.com/TomasHubelbauer/leveret)
+
+⚖️ 2024-10-01T15:19:49Z
+
+🏷 bun, bun-js, canvas, napi-rs, web-browser
+
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 
 ## [bun-domparser](https://github.com/TomasHubelbauer/bun-domparser)
 
-⚖️ 2024-10-01T13:42:13Z
+⚖️ 2024-10-01T15:18:43Z
 
 🏷 
 
@@ -12,7 +20,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-01T13:13:11Z
+⚖️ 2024-10-01T15:08:10Z
 
 🏷 tomashubelbauer
 
@@ -89,14 +97,6 @@
 🏷 jira, markdown, vscode, vscode-extension
 
 📒 VS Code extension to highlight Jira links in MarkDown
-
-## [leveret](https://github.com/TomasHubelbauer/leveret)
-
-⚖️ 2024-09-15T21:46:32Z
-
-🏷 bun, bun-js, canvas, napi-rs, web-browser
-
-📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 
 ## [jam001](https://github.com/TomasHubelbauer/jam001)
 

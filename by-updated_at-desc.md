@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-10-01T15:08:01.433Z
+2024-10-01T16:08:22.173Z
+
+## [leveret](https://github.com/TomasHubelbauer/leveret)
+
+⚖️ 2024-10-01T15:20:11Z
+
+🏷 bun, bun-js, canvas, napi-rs, web-browser
+
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 
 ## [bun-domparser](https://github.com/TomasHubelbauer/bun-domparser)
 
-⚖️ 2024-10-01T13:42:13Z
+⚖️ 2024-10-01T15:19:08Z
 
 🏷 
 
@@ -12,7 +20,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-01T13:13:15Z
+⚖️ 2024-10-01T15:08:18Z
 
 🏷 tomashubelbauer
 
@@ -33,14 +41,6 @@
 🏷 charger, onewheel, onewheel-charger, onewheel-pint, onewheel-xr
 
 📒 Onewheel Pint and +XR charger specs and connector pinouts
-
-## [leveret](https://github.com/TomasHubelbauer/leveret)
-
-⚖️ 2024-09-27T04:28:47Z
-
-🏷 bun, bun-js, canvas, napi-rs, web-browser
-
-📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 
 ## [image-editor-poc-react-image-crop](https://github.com/TomasHubelbauer/image-editor-poc-react-image-crop)
 
