@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-10-01T20:08:30.252Z
+2024-10-01T21:07:56.650Z
 
 ## [image-editor-poc-cropperjs](https://github.com/TomasHubelbauer/image-editor-poc-cropperjs)
 
