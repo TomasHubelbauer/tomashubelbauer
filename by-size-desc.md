@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-10-01T16:08:22.179Z
+2024-10-01T17:07:51.776Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -850,6 +850,14 @@
 
 📒 An IndexedDB exploration repository
 
+## [leveret](https://github.com/TomasHubelbauer/leveret)
+
+⚖️ 161
+
+🏷 bun, bun-js, canvas, napi-rs, web-browser
+
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
+
 ## [drawer-box](https://github.com/TomasHubelbauer/drawer-box)
 
 ⚖️ 160
@@ -865,14 +873,6 @@
 🏷 remix
 
 📒 Looking into Remix
-
-## [leveret](https://github.com/TomasHubelbauer/leveret)
-
-⚖️ 154
-
-🏷 bun, bun-js, canvas, napi-rs, web-browser
-
-📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 
 ## [cra-test-puppeteer](https://github.com/TomasHubelbauer/cra-test-puppeteer)
 
@@ -3082,6 +3082,14 @@
 
 📒 A demonstration of setting desktop wallpaper and background color using Batch
 
+## [bun-domparser](https://github.com/TomasHubelbauer/bun-domparser)
+
+⚖️ 2
+
+🏷 
+
+📒 null
+
 ## [bun-react](https://github.com/TomasHubelbauer/bun-react)
 
 ⚖️ 2
@@ -3769,14 +3777,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [bun-domparser](https://github.com/TomasHubelbauer/bun-domparser)
-
-⚖️ 0
-
-🏷 
-
-📒 null
 
 ## [image-editor-poc-cropperjs](https://github.com/TomasHubelbauer/image-editor-poc-cropperjs)
 
