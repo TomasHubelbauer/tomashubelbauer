@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-10-04T21:08:10.154Z
+2024-10-04T22:08:03.124Z
+
+## [ef-relationship](https://github.com/TomasHubelbauer/ef-relationship)
+
+⚖️ 2024-10-04T21:20:19Z
+
+🏷 ef, ef-core, entity-framework, entity-framework-core, orm
+
+📒 Exploration into the EF conventions about principal-dependent navigation properties
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-04T20:08:35Z
+⚖️ 2024-10-04T21:08:24Z
 
 🏷 tomashubelbauer
 
@@ -2129,14 +2137,6 @@
 🏷 ef-code-first, ef-core, entity-framework, entity-framework-core
 
 📒 A repro showing EF to auto-generating a successive ID after seeding the DB with hardcoded IDs.
-
-## [ef-relationship](https://github.com/TomasHubelbauer/ef-relationship)
-
-⚖️ 2022-04-17T09:54:30Z
-
-🏷 ef, ef-core, entity-framework, entity-framework-core, orm
-
-📒 Exploration into the EF conventions about principal-dependent navigation properties
 
 ## [ef-implicit-transaction](https://github.com/TomasHubelbauer/ef-implicit-transaction)
 
