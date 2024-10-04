@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-10-04T03:12:23.781Z
+2024-10-04T04:08:40.887Z
+
+## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
+
+⚖️ 2024-10-04T03:34:05Z
+
+🏷 arduino, arduino-qr, dot-matrix, led-matrix, ledcontrol, max7219, qr, qr-code
+
+📒 Arduino LED dot-matrix display QR code
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-04T01:35:29Z
+⚖️ 2024-10-04T03:12:34Z
 
 🏷 tomashubelbauer
 
@@ -1385,14 +1393,6 @@
 🏷 subtitles, timestamps
 
 📒 An application for timestamping audio and video streams for lyrics videos, subtitles etc.
-
-## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
-
-⚖️ 2023-01-09T07:53:50Z
-
-🏷 arduino, arduino-qr, dot-matrix, led-matrix, ledcontrol, max7219, qr, qr-code
-
-📒 Arduino LED dot-matrix display QR code
 
 ## [webrtc-bridge](https://github.com/TomasHubelbauer/webrtc-bridge)
 
