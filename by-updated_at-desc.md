@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-10-05T23:08:04.708Z
+2024-10-06T01:35:19.209Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-10-06T00:21:49Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-05T22:09:06Z
+⚖️ 2024-10-05T23:08:20Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 onewheel
 
 📒 A collection of links relating to the Onewheel
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-10-05T00:20:35Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [ef-relationship](https://github.com/TomasHubelbauer/ef-relationship)
 
