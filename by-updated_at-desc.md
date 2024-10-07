@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-10-07T20:08:12.151Z
+2024-10-07T21:08:07.532Z
+
+## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
+
+⚖️ 2024-10-07T21:05:16Z
+
+🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
+
+📒 3D SVG projection and animation
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-07T19:07:59Z
+⚖️ 2024-10-07T20:08:25Z
 
 🏷 tomashubelbauer
 
@@ -225,14 +233,6 @@
 🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
 
 📒 A WebRTC data channel establishment with QR codes used for signaling channel.
-
-## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
-
-⚖️ 2024-09-02T23:26:23Z
-
-🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
-
-📒 3D SVG projection and animation
 
 ## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
 
