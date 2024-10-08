@@ -1,10 +1,26 @@
 # By `updated_at` (desc)
 
-2024-10-08T21:08:09.419Z
+2024-10-08T22:08:12.240Z
+
+## [leveret](https://github.com/TomasHubelbauer/leveret)
+
+⚖️ 2024-10-08T21:20:49Z
+
+🏷 bun, bun-js, canvas, napi-rs, web-browser
+
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
+
+## [bun-domparser](https://github.com/TomasHubelbauer/bun-domparser)
+
+⚖️ 2024-10-08T21:19:47Z
+
+🏷 
+
+📒 null
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-08T19:07:48Z
+⚖️ 2024-10-08T21:08:25Z
 
 🏷 tomashubelbauer
 
@@ -53,22 +69,6 @@
 ## [image-editor-poc-react-image-crop](https://github.com/TomasHubelbauer/image-editor-poc-react-image-crop)
 
 ⚖️ 2024-10-02T20:52:53Z
-
-🏷 
-
-📒 null
-
-## [leveret](https://github.com/TomasHubelbauer/leveret)
-
-⚖️ 2024-10-01T15:20:11Z
-
-🏷 bun, bun-js, canvas, napi-rs, web-browser
-
-📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
-
-## [bun-domparser](https://github.com/TomasHubelbauer/bun-domparser)
-
-⚖️ 2024-10-01T15:19:08Z
 
 🏷 
 
