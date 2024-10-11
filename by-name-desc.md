@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2024-10-11T19:08:01.577Z
+2024-10-11T20:08:25.114Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1833,6 +1833,14 @@
 🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
 
 📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
+
+## [markdown-mermaid-sequence](https://github.com/TomasHubelbauer/markdown-mermaid-sequence)
+
+⚖️ markdown-mermaid-sequence
+
+🏷 
+
+📒 null
 
 ## [markdown-lsp](https://github.com/TomasHubelbauer/markdown-lsp)
 

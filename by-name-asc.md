@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2024-10-11T19:08:01.574Z
+2024-10-11T20:08:25.113Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2041,6 +2041,14 @@
 🏷 lsp, markdown
 
 📒 A language server for MarkDown.
+
+## [markdown-mermaid-sequence](https://github.com/TomasHubelbauer/markdown-mermaid-sequence)
+
+⚖️ markdown-mermaid-sequence
+
+🏷 
+
+📒 null
 
 ## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
 
