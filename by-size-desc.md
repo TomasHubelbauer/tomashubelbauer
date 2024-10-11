@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-10-11T20:08:25.127Z
+2024-10-11T21:08:48.623Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -33,6 +33,14 @@
 🏷 
 
 📒 ⬆️ Free uptime monitor and status page powered by GitHub
+
+## [mermaid](https://github.com/TomasHubelbauer/mermaid)
+
+⚖️ 239361
+
+🏷 
+
+📒 Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## [electron](https://github.com/TomasHubelbauer/electron)
 
@@ -132,7 +140,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 30100
+⚖️ 30324
 
 🏷 tomashubelbauer
 

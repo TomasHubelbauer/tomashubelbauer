@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2024-10-11T20:08:25.113Z
+2024-10-11T21:08:48.609Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2081,6 +2081,14 @@
 🏷 markright
 
 📒 MarkRight VS Code extension
+
+## [mermaid](https://github.com/TomasHubelbauer/mermaid)
+
+⚖️ mermaid
+
+🏷 
+
+📒 Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## [mic-holder](https://github.com/TomasHubelbauer/mic-holder)
 

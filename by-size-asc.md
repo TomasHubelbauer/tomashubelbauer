@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-10-11T20:08:25.125Z
+2024-10-11T21:08:48.622Z
 
 ## [markdown-mermaid-sequence](https://github.com/TomasHubelbauer/markdown-mermaid-sequence)
 
@@ -3748,7 +3748,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 30100
+⚖️ 30324
 
 🏷 tomashubelbauer
 
@@ -3849,6 +3849,14 @@
 🏷 
 
 📒 :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+## [mermaid](https://github.com/TomasHubelbauer/mermaid)
+
+⚖️ 239361
+
+🏷 
+
+📒 Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## [upptime](https://github.com/TomasHubelbauer/upptime)
 

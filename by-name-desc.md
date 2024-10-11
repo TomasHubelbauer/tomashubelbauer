@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2024-10-11T20:08:25.114Z
+2024-10-11T21:08:48.610Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1801,6 +1801,14 @@
 🏷 3d-model, stl
 
 📒 A Rode NT-USB microphone holder 3D model
+
+## [mermaid](https://github.com/TomasHubelbauer/mermaid)
+
+⚖️ mermaid
+
+🏷 
+
+📒 Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## [markright-vscode](https://github.com/TomasHubelbauer/markright-vscode)
 

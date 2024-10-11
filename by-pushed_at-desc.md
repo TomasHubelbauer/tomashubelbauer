@@ -1,18 +1,26 @@
 # By `pushed_at` (desc)
 
-2024-10-11T20:08:25.123Z
+2024-10-11T21:08:48.620Z
 
 ## [markdown-mermaid-sequence](https://github.com/TomasHubelbauer/markdown-mermaid-sequence)
 
-⚖️ 2024-10-11T19:46:02Z
+⚖️ 2024-10-11T20:46:41Z
 
 🏷 
 
 📒 null
 
+## [mermaid](https://github.com/TomasHubelbauer/mermaid)
+
+⚖️ 2024-10-11T20:27:05Z
+
+🏷 
+
+📒 Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-11T19:08:10Z
+⚖️ 2024-10-11T20:08:32Z
 
 🏷 tomashubelbauer
 
