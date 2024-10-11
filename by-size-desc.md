@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-10-11T21:08:48.623Z
+2024-10-11T23:08:07.507Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -36,7 +36,7 @@
 
 ## [mermaid](https://github.com/TomasHubelbauer/mermaid)
 
-⚖️ 239361
+⚖️ 239382
 
 🏷 
 
@@ -140,7 +140,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 30324
+⚖️ 30327
 
 🏷 tomashubelbauer
 
@@ -3098,6 +3098,14 @@
 
 📒 A demonstration of setting desktop wallpaper and background color using Batch
 
+## [markdown-mermaid-sequence](https://github.com/TomasHubelbauer/markdown-mermaid-sequence)
+
+⚖️ 2
+
+🏷 
+
+📒 null
+
 ## [bun-react](https://github.com/TomasHubelbauer/bun-react)
 
 ⚖️ 2
@@ -3785,14 +3793,6 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
-
-## [markdown-mermaid-sequence](https://github.com/TomasHubelbauer/markdown-mermaid-sequence)
-
-⚖️ 0
-
-🏷 
-
-📒 null
 
 ## [image-editor-poc-cropperjs](https://github.com/TomasHubelbauer/image-editor-poc-cropperjs)
 
