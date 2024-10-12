@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2024-10-11T23:08:07.504Z
+2024-10-12T01:35:09.958Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-10-12T00:19:38Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-11T21:09:00Z
+⚖️ 2024-10-11T23:08:14Z
 
 🏷 tomashubelbauer
 
@@ -25,14 +33,6 @@
 🏷 
 
 📒 Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-10-11T00:20:09Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [leveret](https://github.com/TomasHubelbauer/leveret)
 

@@ -1,10 +1,26 @@
 # By `updated_at` (desc)
 
-2024-10-11T23:08:07.500Z
+2024-10-12T01:35:09.954Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-10-12T00:19:41Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
+## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
+
+⚖️ 2024-10-11T23:47:01Z
+
+🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
+
+📒 3D SVG projection and animation
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-11T21:09:03Z
+⚖️ 2024-10-11T23:08:18Z
 
 🏷 tomashubelbauer
 
@@ -26,14 +42,6 @@
 
 📒 Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-10-11T00:20:13Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [leveret](https://github.com/TomasHubelbauer/leveret)
 
 ⚖️ 2024-10-08T21:20:49Z
@@ -49,14 +57,6 @@
 🏷 
 
 📒 null
-
-## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
-
-⚖️ 2024-10-07T21:05:16Z
-
-🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
-
-📒 3D SVG projection and animation
 
 ## [onewheel](https://github.com/TomasHubelbauer/onewheel)
 
