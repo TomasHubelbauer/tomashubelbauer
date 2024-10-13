@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-10-13T12:09:48.457Z
+2024-10-13T13:11:43.368Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3834,14 +3834,6 @@
 
 📒 A collection of links relating to the Onewheel
 
-## [leveret](https://github.com/TomasHubelbauer/leveret)
-
-⚖️ 2024-10-08T21:20:49Z
-
-🏷 bun, bun-js, canvas, napi-rs, web-browser
-
-📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
-
 ## [mermaid](https://github.com/TomasHubelbauer/mermaid)
 
 ⚖️ 2024-10-11T20:20:58Z
@@ -3874,14 +3866,6 @@
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-10-13T11:08:19Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [bun-domparser](https://github.com/TomasHubelbauer/bun-domparser)
 
 ⚖️ 2024-10-13T12:03:36Z
@@ -3889,4 +3873,20 @@
 🏷 
 
 📒 null
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-10-13T12:10:00Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
+## [leveret](https://github.com/TomasHubelbauer/leveret)
+
+⚖️ 2024-10-13T12:12:11Z
+
+🏷 bun, bun-js, canvas, napi-rs, web-browser
+
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 

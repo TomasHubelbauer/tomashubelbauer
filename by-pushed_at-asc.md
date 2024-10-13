@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2024-10-13T12:09:48.461Z
+2024-10-13T13:11:43.375Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3842,14 +3842,6 @@
 
 📒 null
 
-## [leveret](https://github.com/TomasHubelbauer/leveret)
-
-⚖️ 2024-10-08T21:20:45Z
-
-🏷 bun, bun-js, canvas, napi-rs, web-browser
-
-📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
-
 ## [mermaid](https://github.com/TomasHubelbauer/mermaid)
 
 ⚖️ 2024-10-11T20:27:05Z
@@ -3874,14 +3866,6 @@
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-10-13T11:08:15Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [bun-domparser](https://github.com/TomasHubelbauer/bun-domparser)
 
 ⚖️ 2024-10-13T12:03:32Z
@@ -3889,4 +3873,20 @@
 🏷 
 
 📒 null
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-10-13T12:09:56Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
+## [leveret](https://github.com/TomasHubelbauer/leveret)
+
+⚖️ 2024-10-13T12:12:06Z
+
+🏷 bun, bun-js, canvas, napi-rs, web-browser
+
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 

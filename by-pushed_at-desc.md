@@ -1,6 +1,22 @@
 # By `pushed_at` (desc)
 
-2024-10-13T12:09:48.462Z
+2024-10-13T13:11:43.376Z
+
+## [leveret](https://github.com/TomasHubelbauer/leveret)
+
+⚖️ 2024-10-13T12:12:06Z
+
+🏷 bun, bun-js, canvas, napi-rs, web-browser
+
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-10-13T12:09:56Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [bun-domparser](https://github.com/TomasHubelbauer/bun-domparser)
 
@@ -9,14 +25,6 @@
 🏷 
 
 📒 null
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-10-13T11:08:15Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
@@ -41,14 +49,6 @@
 🏷 
 
 📒 Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-
-## [leveret](https://github.com/TomasHubelbauer/leveret)
-
-⚖️ 2024-10-08T21:20:45Z
-
-🏷 bun, bun-js, canvas, napi-rs, web-browser
-
-📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 
 ## [image-editor-poc-react-image-crop](https://github.com/TomasHubelbauer/image-editor-poc-react-image-crop)
 
