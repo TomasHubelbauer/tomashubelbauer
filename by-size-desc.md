@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-10-13T13:11:43.380Z
+2024-10-13T15:08:27.540Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -140,7 +140,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 28171
+⚖️ 28395
 
 🏷 tomashubelbauer
 
@@ -850,6 +850,14 @@
 
 📒 The chromatic abberation effect implemented in HTML canvas
 
+## [leveret](https://github.com/TomasHubelbauer/leveret)
+
+⚖️ 168
+
+🏷 bun, bun-js, canvas, napi-rs, web-browser
+
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
+
 ## [indexed-db](https://github.com/TomasHubelbauer/indexed-db)
 
 ⚖️ 162
@@ -857,14 +865,6 @@
 🏷 indexed-db, local-storage, todo, todo-app, todo-list
 
 📒 An IndexedDB exploration repository
-
-## [leveret](https://github.com/TomasHubelbauer/leveret)
-
-⚖️ 161
-
-🏷 bun, bun-js, canvas, napi-rs, web-browser
-
-📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 
 ## [drawer-box](https://github.com/TomasHubelbauer/drawer-box)
 

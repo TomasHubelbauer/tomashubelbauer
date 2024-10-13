@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-10-13T13:11:43.368Z
+2024-10-13T15:08:27.530Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3874,14 +3874,6 @@
 
 📒 null
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-10-13T12:10:00Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [leveret](https://github.com/TomasHubelbauer/leveret)
 
 ⚖️ 2024-10-13T12:12:11Z
@@ -3889,4 +3881,12 @@
 🏷 bun, bun-js, canvas, napi-rs, web-browser
 
 📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-10-13T13:11:55Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 

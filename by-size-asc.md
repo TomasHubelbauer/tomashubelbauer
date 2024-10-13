@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-10-13T13:11:43.378Z
+2024-10-13T15:08:27.538Z
 
 ## [image-editor-poc-cropperjs](https://github.com/TomasHubelbauer/image-editor-poc-cropperjs)
 
@@ -3026,14 +3026,6 @@
 
 📒 A 3D model of a plastic drawer box
 
-## [leveret](https://github.com/TomasHubelbauer/leveret)
-
-⚖️ 161
-
-🏷 bun, bun-js, canvas, napi-rs, web-browser
-
-📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
-
 ## [indexed-db](https://github.com/TomasHubelbauer/indexed-db)
 
 ⚖️ 162
@@ -3041,6 +3033,14 @@
 🏷 indexed-db, local-storage, todo, todo-app, todo-list
 
 📒 An IndexedDB exploration repository
+
+## [leveret](https://github.com/TomasHubelbauer/leveret)
+
+⚖️ 168
+
+🏷 bun, bun-js, canvas, napi-rs, web-browser
+
+📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
 
 ## [canvas-chromatic-aberration](https://github.com/TomasHubelbauer/canvas-chromatic-aberration)
 
@@ -3748,7 +3748,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 28171
+⚖️ 28395
 
 🏷 tomashubelbauer
 
