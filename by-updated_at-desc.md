@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-10-14T13:13:15.340Z
+2024-10-14T15:08:26.613Z
+
+## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
+
+⚖️ 2024-10-14T13:50:11Z
+
+🏷 akai, apc-mini, launchpad, midi, usb
+
+📒 Akai APCmini launchpad USB/MIDI communication protocol
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-14T11:08:37Z
+⚖️ 2024-10-14T13:13:28Z
 
 🏷 tomashubelbauer
 
@@ -489,14 +497,6 @@
 🏷 
 
 📒 null
-
-## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
-
-⚖️ 2024-04-23T15:36:52Z
-
-🏷 akai, apc-mini, launchpad, midi, usb
-
-📒 Akai APCmini launchpad USB/MIDI communication protocol
 
 ## [web-gps-tracker](https://github.com/TomasHubelbauer/web-gps-tracker)
 
