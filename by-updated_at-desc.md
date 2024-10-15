@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-10-14T22:08:23.421Z
+2024-10-15T01:35:34.435Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-10-15T00:20:03Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-14T21:08:18Z
+⚖️ 2024-10-14T22:08:34Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 akai, apc-mini, launchpad, midi, usb
 
 📒 Akai APCmini launchpad USB/MIDI communication protocol
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-10-14T00:21:09Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [leveret](https://github.com/TomasHubelbauer/leveret)
 
