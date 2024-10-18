@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-10-17T23:08:50.917Z
+2024-10-18T01:35:37.643Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3866,14 +3866,6 @@
 
 📒 Akai APCmini launchpad USB/MIDI communication protocol
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-10-17T00:20:50Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [mapsforge](https://github.com/TomasHubelbauer/mapsforge)
 
 ⚖️ 2024-10-17T08:42:40Z
@@ -3884,9 +3876,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-17T22:09:34Z
+⚖️ 2024-10-17T23:09:01Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-10-18T00:20:29Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
