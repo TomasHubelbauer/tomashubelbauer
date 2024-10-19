@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-10-19T17:08:34.808Z
+2024-10-19T18:08:46.237Z
+
+## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
+
+⚖️ 2024-10-19T17:34:02Z
+
+🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
+
+📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-19T16:08:43Z
+⚖️ 2024-10-19T17:08:49Z
 
 🏷 tomashubelbauer
 
@@ -369,14 +377,6 @@
 🏷 bun, javascript, proxy-server, reverse-proxy, reverse-proxy-server, typescript
 
 📒 Bun reverse proxy
-
-## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
-
-⚖️ 2024-07-01T16:10:39Z
-
-🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
-
-📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
 
 ## [supabase-to-zod](https://github.com/TomasHubelbauer/supabase-to-zod)
 
