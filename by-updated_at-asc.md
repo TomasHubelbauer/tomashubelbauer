@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-10-20T08:09:50.415Z
+2024-10-20T10:11:29.090Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3730,14 +3730,6 @@
 
 📒 null
 
-## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
-
-⚖️ 2024-09-21T20:40:27Z
-
-🏷 vscode, vscode-extension
-
-📒 Barebones setup for developing local workspace extensions for VS Code
-
 ## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
 
 ⚖️ 2024-09-22T17:24:30Z
@@ -3884,9 +3876,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-20T07:11:10Z
+⚖️ 2024-10-20T08:10:00Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
+
+⚖️ 2024-10-20T09:05:22Z
+
+🏷 vscode, vscode-extension
+
+📒 Barebones setup for developing local workspace extensions for VS Code
 

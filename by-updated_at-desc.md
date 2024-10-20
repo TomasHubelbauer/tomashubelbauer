@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-10-20T08:09:50.416Z
+2024-10-20T10:11:29.091Z
+
+## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
+
+⚖️ 2024-10-20T09:05:22Z
+
+🏷 vscode, vscode-extension
+
+📒 Barebones setup for developing local workspace extensions for VS Code
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-20T07:11:10Z
+⚖️ 2024-10-20T08:10:00Z
 
 🏷 tomashubelbauer
 
@@ -153,14 +161,6 @@
 🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
 
 📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
-
-## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
-
-⚖️ 2024-09-21T20:40:27Z
-
-🏷 vscode, vscode-extension
-
-📒 Barebones setup for developing local workspace extensions for VS Code
 
 ## [filelist-weakmap-demo](https://github.com/TomasHubelbauer/filelist-weakmap-demo)
 
