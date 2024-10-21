@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-10-21T12:10:43.705Z
+2024-10-21T13:13:21.349Z
 
 ## [image-editor-poc-cropperjs](https://github.com/TomasHubelbauer/image-editor-poc-cropperjs)
 
@@ -3610,6 +3610,14 @@
 
 📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
+## [config-lsp](https://github.com/TomasHubelbauer/config-lsp)
+
+⚖️ 7326
+
+🏷 
+
+📒 Finally a LSP for your config files: gitconfig, fstab, aliases, hosts, wireguard, ssh_config, sshd_config, and more to come!
+
 ## [wiringbits.github.io](https://github.com/TomasHubelbauer/wiringbits.github.io)
 
 ⚖️ 7616
@@ -3748,7 +3756,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 29102
+⚖️ 29326
 
 🏷 tomashubelbauer
 

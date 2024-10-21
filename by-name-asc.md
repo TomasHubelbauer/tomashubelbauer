@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2024-10-21T12:10:43.693Z
+2024-10-21T13:13:21.338Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -481,6 +481,14 @@
 🏷 screenshot, vscode, vscode-extension
 
 📒 Demonstrates how to programatically capture a screencast of the VS Code extension host
+
+## [config-lsp](https://github.com/TomasHubelbauer/config-lsp)
+
+⚖️ config-lsp
+
+🏷 
+
+📒 Finally a LSP for your config files: gitconfig, fstab, aliases, hosts, wireguard, ssh_config, sshd_config, and more to come!
 
 ## [contenteditable](https://github.com/TomasHubelbauer/contenteditable)
 

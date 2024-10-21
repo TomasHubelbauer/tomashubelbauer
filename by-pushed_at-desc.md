@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2024-10-21T12:10:43.702Z
+2024-10-21T13:13:21.347Z
+
+## [config-lsp](https://github.com/TomasHubelbauer/config-lsp)
+
+⚖️ 2024-10-21T12:36:47Z
+
+🏷 
+
+📒 Finally a LSP for your config files: gitconfig, fstab, aliases, hosts, wireguard, ssh_config, sshd_config, and more to come!
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-21T11:09:27Z
+⚖️ 2024-10-21T12:10:51Z
 
 🏷 tomashubelbauer
 

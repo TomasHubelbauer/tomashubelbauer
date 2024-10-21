@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-10-21T12:10:43.698Z
+2024-10-21T13:13:21.342Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3884,9 +3884,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-21T11:09:31Z
+⚖️ 2024-10-21T12:10:56Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [config-lsp](https://github.com/TomasHubelbauer/config-lsp)
+
+⚖️ 2024-10-21T12:33:02Z
+
+🏷 
+
+📒 Finally a LSP for your config files: gitconfig, fstab, aliases, hosts, wireguard, ssh_config, sshd_config, and more to come!
 

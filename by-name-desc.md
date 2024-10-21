@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2024-10-21T12:10:43.696Z
+2024-10-21T13:13:21.340Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -3409,6 +3409,14 @@
 🏷 contenteditable
 
 📒 Making contenteditable less useless
+
+## [config-lsp](https://github.com/TomasHubelbauer/config-lsp)
+
+⚖️ config-lsp
+
+🏷 
+
+📒 Finally a LSP for your config files: gitconfig, fstab, aliases, hosts, wireguard, ssh_config, sshd_config, and more to come!
 
 ## [code-extension-screencast](https://github.com/TomasHubelbauer/code-extension-screencast)
 

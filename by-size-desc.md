@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-10-21T12:10:43.707Z
+2024-10-21T13:13:21.351Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -140,7 +140,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 29102
+⚖️ 29326
 
 🏷 tomashubelbauer
 
@@ -281,6 +281,14 @@
 🏷 
 
 📒 The wiringbits website and blog
+
+## [config-lsp](https://github.com/TomasHubelbauer/config-lsp)
+
+⚖️ 7326
+
+🏷 
+
+📒 Finally a LSP for your config files: gitconfig, fstab, aliases, hosts, wireguard, ssh_config, sshd_config, and more to come!
 
 ## [lyrics](https://github.com/TomasHubelbauer/lyrics)
 
