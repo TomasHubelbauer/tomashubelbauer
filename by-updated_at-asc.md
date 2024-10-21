@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-10-21T00:19:56.738Z
+2024-10-21T01:35:47.282Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3858,14 +3858,6 @@
 
 📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-10-20T00:22:08Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
 
 ⚖️ 2024-10-20T09:05:22Z
@@ -3884,9 +3876,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-20T23:09:02Z
+⚖️ 2024-10-21T00:20:07Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-10-21T00:20:50Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
