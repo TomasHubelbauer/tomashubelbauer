@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2024-10-22T15:08:40.393Z
+2024-10-22T16:08:55.125Z
+
+## [vscode-week-number](https://github.com/TomasHubelbauer/vscode-week-number)
+
+⚖️ 2024-10-22T15:23:19Z
+
+🏷 markdown, vscode, vscode-extension, vscode-plugin, week-calendar
+
+📒 A VS Code extension showing the number of the current week in the IDE status bar
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-22T14:08:44Z
+⚖️ 2024-10-22T15:08:49Z
 
 🏷 tomashubelbauer
 
@@ -2177,14 +2185,6 @@
 🏷 custom-elements, esm, javascript, web-components
 
 📒 JavaScript web component / custom element base class which automatically imports the component's stylesheet and defines it in the custom element browser registry.
-
-## [vscode-week-number](https://github.com/TomasHubelbauer/vscode-week-number)
-
-⚖️ 2022-04-14T21:28:49Z
-
-🏷 markdown, vscode, vscode-extension, vscode-plugin, week-calendar
-
-📒 A VS Code extension showing the number of the current week in the IDE status bar
 
 ## [vscode-settings](https://github.com/TomasHubelbauer/vscode-settings)
 

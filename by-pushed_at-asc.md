@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2024-10-22T15:08:40.392Z
+2024-10-22T16:08:55.124Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -1713,14 +1713,6 @@
 🏷 dotfiles, vscode
 
 📒 My preferred VS Code settings
-
-## [vscode-week-number](https://github.com/TomasHubelbauer/vscode-week-number)
-
-⚖️ 2022-04-14T21:28:49Z
-
-🏷 markdown, vscode, vscode-extension, vscode-plugin, week-calendar
-
-📒 A VS Code extension showing the number of the current week in the IDE status bar
 
 ## [wc-base](https://github.com/TomasHubelbauer/wc-base)
 
@@ -3892,9 +3884,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-22T14:08:44Z
+⚖️ 2024-10-22T15:08:49Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [vscode-week-number](https://github.com/TomasHubelbauer/vscode-week-number)
+
+⚖️ 2024-10-22T15:23:19Z
+
+🏷 markdown, vscode, vscode-extension, vscode-plugin, week-calendar
+
+📒 A VS Code extension showing the number of the current week in the IDE status bar
 
