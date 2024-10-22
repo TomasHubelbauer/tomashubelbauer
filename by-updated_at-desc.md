@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-10-22T13:13:06.769Z
+2024-10-22T14:08:32.566Z
+
+## [vscode-week-number](https://github.com/TomasHubelbauer/vscode-week-number)
+
+⚖️ 2024-10-22T13:39:21Z
+
+🏷 markdown, vscode, vscode-extension, vscode-plugin, week-calendar
+
+📒 A VS Code extension showing the number of the current week in the IDE status bar
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-22T12:11:04Z
+⚖️ 2024-10-22T13:13:19Z
 
 🏷 tomashubelbauer
 
@@ -3473,14 +3481,6 @@
 🏷 remember-password
 
 📒 Notes on how to make the "remember user name and password" prompt appear in the browser
-
-## [vscode-week-number](https://github.com/TomasHubelbauer/vscode-week-number)
-
-⚖️ 2022-04-14T21:28:52Z
-
-🏷 markdown, vscode, vscode-extension, vscode-plugin, week-calendar
-
-📒 A VS Code extension showing the number of the current week in the IDE status bar
 
 ## [rgb-to-rgba](https://github.com/TomasHubelbauer/rgb-to-rgba)
 

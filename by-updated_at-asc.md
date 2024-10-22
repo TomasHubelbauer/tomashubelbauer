@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-10-22T13:13:06.766Z
+2024-10-22T14:08:32.565Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -417,14 +417,6 @@
 🏷 javascript, js, rgb, rgba, typedarray, uint8array, uint8clampedarray
 
 📒 JavaScript code for converting RGBA to RGB in Uint8ClampedArray
-
-## [vscode-week-number](https://github.com/TomasHubelbauer/vscode-week-number)
-
-⚖️ 2022-04-14T21:28:52Z
-
-🏷 markdown, vscode, vscode-extension, vscode-plugin, week-calendar
-
-📒 A VS Code extension showing the number of the current week in the IDE status bar
 
 ## [web-remember-credentials](https://github.com/TomasHubelbauer/web-remember-credentials)
 
@@ -3892,9 +3884,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-22T12:11:04Z
+⚖️ 2024-10-22T13:13:19Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [vscode-week-number](https://github.com/TomasHubelbauer/vscode-week-number)
+
+⚖️ 2024-10-22T13:39:21Z
+
+🏷 markdown, vscode, vscode-extension, vscode-plugin, week-calendar
+
+📒 A VS Code extension showing the number of the current week in the IDE status bar
 
