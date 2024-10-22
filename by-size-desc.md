@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-10-22T16:08:55.129Z
+2024-10-22T17:08:17.827Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -588,7 +588,7 @@
 
 ## [vscode-week-number](https://github.com/TomasHubelbauer/vscode-week-number)
 
-⚖️ 503
+⚖️ 504
 
 🏷 markdown, vscode, vscode-extension, vscode-plugin, week-calendar
 
