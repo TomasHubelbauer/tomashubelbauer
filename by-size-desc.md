@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-10-24T23:08:31.795Z
+2024-10-25T02:31:32.242Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -138,14 +138,6 @@
 
 📒 A comparison of JavaScript QR scanner libraries
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 31496
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [globus](https://github.com/TomasHubelbauer/globus)
 
 ⚖️ 26569
@@ -153,6 +145,14 @@
 🏷 globus, pdf-scraping, puppeteer, puppeteer-firefox
 
 📒 Scrapes the Globus PDF catalogue using Puppeteer
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 26166
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [html-video-scrubber](https://github.com/TomasHubelbauer/html-video-scrubber)
 
@@ -228,7 +228,7 @@
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
-⚖️ 14703
+⚖️ 14760
 
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
