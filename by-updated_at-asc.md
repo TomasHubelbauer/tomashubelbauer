@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-10-25T02:31:32.228Z
+2024-10-25T03:14:32.256Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3882,14 +3882,6 @@
 
 📒 A VS Code extension showing the number of the current week in the IDE status bar
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-10-24T23:08:47Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
 ⚖️ 2024-10-25T00:20:47Z
@@ -3897,4 +3889,12 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-10-25T02:31:43Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
