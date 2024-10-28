@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2024-10-28T16:09:05.702Z
+2024-10-28T17:08:31.542Z
+
+## [markright](https://github.com/TomasHubelbauer/markright)
+
+⚖️ 2024-10-28T16:31:17Z
+
+🏷 lab-notebook, literate-programming, markdown, markright, notebook, notebooks
+
+📒 Didactic literate programming
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-28T15:09:02Z
+⚖️ 2024-10-28T16:09:15Z
 
 🏷 tomashubelbauer
 
@@ -1953,14 +1961,6 @@
 🏷 firefox, html-video, playwright
 
 📒 Playwright Firefox MP4 video
-
-## [markright](https://github.com/TomasHubelbauer/markright)
-
-⚖️ 2022-04-15T20:46:10Z
-
-🏷 lab-notebook, literate-programming, markdown, markright, notebook, notebooks
-
-📒 Didactic literate programming
 
 ## [git-filter-branch](https://github.com/TomasHubelbauer/git-filter-branch)
 

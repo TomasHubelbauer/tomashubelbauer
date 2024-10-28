@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-10-28T16:09:05.699Z
+2024-10-28T17:08:31.539Z
+
+## [markright](https://github.com/TomasHubelbauer/markright)
+
+⚖️ 2024-10-28T16:31:21Z
+
+🏷 lab-notebook, literate-programming, markdown, markright, notebook, notebooks
+
+📒 Didactic literate programming
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-10-28T15:09:06Z
+⚖️ 2024-10-28T16:09:19Z
 
 🏷 tomashubelbauer
 
@@ -1473,14 +1481,6 @@
 🏷 algorithm, calculation, calculator, javascript, leaderboard, leaderboards, milestone, milestones
 
 📒 A milestone calculation JavaScript algorithm
-
-## [markright](https://github.com/TomasHubelbauer/markright)
-
-⚖️ 2022-10-29T14:36:32Z
-
-🏷 lab-notebook, literate-programming, markdown, markright, notebook, notebooks
-
-📒 Didactic literate programming
 
 ## [k40](https://github.com/TomasHubelbauer/k40)
 
