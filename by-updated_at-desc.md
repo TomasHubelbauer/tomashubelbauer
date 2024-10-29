@@ -1,6 +1,22 @@
 # By `updated_at` (desc)
 
-2024-10-28T23:08:29.063Z
+2024-10-29T01:35:40.347Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-10-29T00:20:44Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-10-28T23:08:45Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [markright](https://github.com/TomasHubelbauer/markright)
 
@@ -10,14 +26,6 @@
 
 📒 Didactic literate programming
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-10-28T22:08:33Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [ffmpeg-iphone-screen-record](https://github.com/TomasHubelbauer/ffmpeg-iphone-screen-record)
 
 ⚖️ 2024-10-28T17:25:12Z
@@ -25,14 +33,6 @@
 🏷 ffmpeg, idevicescreenshot, iphone, screenshot
 
 📒 FFMPEG iPhone screen recording using screenshots
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-10-28T00:21:27Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [vscode-week-number](https://github.com/TomasHubelbauer/vscode-week-number)
 

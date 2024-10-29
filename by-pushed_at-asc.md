@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2024-10-28T23:08:29.065Z
+2024-10-29T01:35:40.349Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3874,22 +3874,6 @@
 
 📒 A VS Code extension showing the number of the current week in the IDE status bar
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-10-28T00:21:23Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-10-28T22:08:29Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [markright](https://github.com/TomasHubelbauer/markright)
 
 ⚖️ 2024-10-28T23:01:10Z
@@ -3897,4 +3881,20 @@
 🏷 lab-notebook, literate-programming, markdown, markright, notebook, notebooks
 
 📒 Didactic literate programming
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-10-28T23:08:40Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-10-29T00:20:40Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
