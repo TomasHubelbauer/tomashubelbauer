@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-11-01T14:08:22.409Z
+2024-11-01T16:09:10.194Z
+
+## [bun-runtime-plugin-onResolve-custom-protocol](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-custom-protocol)
+
+⚖️ 2024-11-01T15:09:36Z
+
+🏷 
+
+📒 null
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-01T13:12:38Z
+⚖️ 2024-11-01T14:08:33Z
 
 🏷 tomashubelbauer
 
@@ -557,14 +565,6 @@
 ## [bun-throw-after-return](https://github.com/TomasHubelbauer/bun-throw-after-return)
 
 ⚖️ 2024-04-12T20:19:18Z
-
-🏷 
-
-📒 null
-
-## [bun-runtime-plugin-onResolve-custom-protocol](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-custom-protocol)
-
-⚖️ 2024-04-07T19:47:26Z
 
 🏷 
 
