@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-11-03T17:08:15.110Z
+2024-11-03T18:09:02.834Z
+
+## [sqlite-javascript](https://github.com/TomasHubelbauer/sqlite-javascript)
+
+⚖️ 2024-11-03T18:08:46Z
+
+🏷 javascript, sqlite, sqlite-database
+
+📒 SQLite database file parser in pure JavaScript
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-03T16:09:14Z
+⚖️ 2024-11-03T17:08:30Z
 
 🏷 tomashubelbauer
 
@@ -1561,14 +1569,6 @@
 🏷 
 
 📒 A list of things I plan on looking into.
-
-## [sqlite-javascript](https://github.com/TomasHubelbauer/sqlite-javascript)
-
-⚖️ 2022-09-17T06:42:48Z
-
-🏷 javascript, sqlite, sqlite-database
-
-📒 SQLite database file parser in pure JavaScript
 
 ## [temperx232](https://github.com/TomasHubelbauer/temperx232)
 
