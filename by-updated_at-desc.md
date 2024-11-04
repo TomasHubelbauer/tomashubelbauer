@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-11-04T00:20:18.104Z
+2024-11-04T01:36:02.294Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-11-04T00:22:36Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-03T23:09:45Z
+⚖️ 2024-11-04T00:20:30Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 javascript, sqlite, sqlite-database
 
 📒 SQLite database file parser in pure JavaScript
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-11-03T00:23:05Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [bun-runtime-plugin-onResolve-custom-protocol](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-custom-protocol)
 
