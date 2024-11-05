@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-11-05T00:19:20.533Z
+2024-11-05T01:35:38.049Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -140,7 +140,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 29454
+⚖️ 29679
 
 🏷 tomashubelbauer
 
@@ -218,6 +218,14 @@
 
 📒 Preview email message files (EML) in VS Code
 
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 15486
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
 ## [app-ffmpeg](https://github.com/TomasHubelbauer/app-ffmpeg)
 
 ⚖️ 15471
@@ -225,14 +233,6 @@
 🏷 
 
 📒 null
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 15402
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [playwright-pdf](https://github.com/TomasHubelbauer/playwright-pdf)
 
