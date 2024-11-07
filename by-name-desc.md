@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2024-11-07T15:08:44.321Z
+2024-11-07T16:08:59.715Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -41,6 +41,14 @@
 🏷 lockfile, node, npm, yarn, yarn-lock, yarnrc
 
 📒 A note to self about always checking for an unexpected .yarnrc up the path.
+
+## [xperience-by-kentico-kentico-migration-tool](https://github.com/TomasHubelbauer/xperience-by-kentico-kentico-migration-tool)
+
+⚖️ xperience-by-kentico-kentico-migration-tool
+
+🏷 
+
+📒 A customizable tool that migrates older Kentico solutions to the latest version of Xperience by Kentico.
 
 ## [wsb-kb](https://github.com/TomasHubelbauer/wsb-kb)
 

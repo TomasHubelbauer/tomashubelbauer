@@ -1,10 +1,18 @@
 # By `pushed_at` (desc)
 
-2024-11-07T15:08:44.327Z
+2024-11-07T16:08:59.722Z
+
+## [xperience-by-kentico-kentico-migration-tool](https://github.com/TomasHubelbauer/xperience-by-kentico-kentico-migration-tool)
+
+⚖️ 2024-11-07T15:10:21Z
+
+🏷 
+
+📒 A customizable tool that migrates older Kentico solutions to the latest version of Xperience by Kentico.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-07T14:08:31Z
+⚖️ 2024-11-07T15:08:52Z
 
 🏷 tomashubelbauer
 
