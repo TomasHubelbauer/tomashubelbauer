@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-11-08T00:19:21.891Z
+2024-11-08T01:35:27.617Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-11-08T00:20:51Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-07T23:08:54Z
+⚖️ 2024-11-08T00:19:33Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 
 
 📒 A customizable tool that migrates older Kentico solutions to the latest version of Xperience by Kentico.
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-11-07T00:21:21Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [sqlite-javascript](https://github.com/TomasHubelbauer/sqlite-javascript)
 
