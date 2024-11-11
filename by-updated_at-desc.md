@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-11-11T14:08:45.507Z
+2024-11-11T15:08:43.782Z
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2024-11-11T14:53:54Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-11T13:12:46Z
+⚖️ 2024-11-11T14:08:57Z
 
 🏷 tomashubelbauer
 
@@ -225,14 +233,6 @@
 🏷 
 
 📒 A proof of concept for a basic image editor to display following an image upload.
-
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2024-09-22T17:24:30Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
 ## [filelist-weakmap-demo](https://github.com/TomasHubelbauer/filelist-weakmap-demo)
 

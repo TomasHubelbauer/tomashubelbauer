@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-11-11T14:08:45.506Z
+2024-11-11T15:08:43.781Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3674,14 +3674,6 @@
 
 📒 null
 
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2024-09-22T17:24:30Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
-
 ## [image-editor-poc](https://github.com/TomasHubelbauer/image-editor-poc)
 
 ⚖️ 2024-09-22T17:57:34Z
@@ -3900,9 +3892,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-11T13:12:46Z
+⚖️ 2024-11-11T14:08:57Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2024-11-11T14:53:54Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
