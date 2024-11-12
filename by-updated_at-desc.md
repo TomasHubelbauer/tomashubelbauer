@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-11-12T00:19:26.977Z
+2024-11-12T01:35:27.770Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-11-12T00:20:21Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-11T23:08:48Z
+⚖️ 2024-11-12T00:19:39Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
 
 📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-11-11T00:21:19Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [xperience-by-kentico-kentico-migration-tool](https://github.com/TomasHubelbauer/xperience-by-kentico-kentico-migration-tool)
 
