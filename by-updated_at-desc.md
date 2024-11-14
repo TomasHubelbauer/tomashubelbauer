@@ -1,10 +1,10 @@
 # By `updated_at` (desc)
 
-2024-11-14T10:09:13.501Z
+2024-11-14T11:08:29.356Z
 
 ## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
 
-⚖️ 2024-11-14T10:03:34Z
+⚖️ 2024-11-14T10:44:20Z
 
 🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
 
@@ -12,7 +12,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-14T08:10:05Z
+⚖️ 2024-11-14T10:09:29Z
 
 🏷 tomashubelbauer
 
