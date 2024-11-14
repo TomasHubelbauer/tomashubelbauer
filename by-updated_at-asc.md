@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-11-14T08:09:48.078Z
+2024-11-14T10:09:13.490Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3882,14 +3882,6 @@
 
 📒 A customizable tool that migrates older Kentico solutions to the latest version of Xperience by Kentico.
 
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2024-11-11T14:53:54Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
-
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
 ⚖️ 2024-11-14T00:20:24Z
@@ -3900,9 +3892,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-14T07:08:55Z
+⚖️ 2024-11-14T08:10:05Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2024-11-14T10:03:34Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
