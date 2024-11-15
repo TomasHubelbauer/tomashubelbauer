@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-11-15T00:20:32.311Z
+2024-11-15T01:35:58.028Z
 
 ## [image-editor-poc-cropperjs](https://github.com/TomasHubelbauer/image-editor-poc-cropperjs)
 
@@ -3690,14 +3690,6 @@
 
 📒 Preview email message files (EML) in VS Code
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 16057
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [cli](https://github.com/TomasHubelbauer/cli)
 
 ⚖️ 16098
@@ -3705,6 +3697,14 @@
 🏷 
 
 📒 Supabase CLI
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 16107
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [mapsforge](https://github.com/TomasHubelbauer/mapsforge)
 
@@ -3772,7 +3772,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 32332
+⚖️ 32334
 
 🏷 tomashubelbauer
 

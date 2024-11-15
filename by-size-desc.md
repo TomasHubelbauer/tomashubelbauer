@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-11-15T00:20:32.312Z
+2024-11-15T01:35:58.030Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -132,7 +132,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 32332
+⚖️ 32334
 
 🏷 tomashubelbauer
 
@@ -202,6 +202,14 @@
 
 📒 MapsForge JavaScript parser
 
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 16107
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
 ## [cli](https://github.com/TomasHubelbauer/cli)
 
 ⚖️ 16098
@@ -209,14 +217,6 @@
 🏷 
 
 📒 Supabase CLI
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 16057
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [vscode-email-viewer](https://github.com/TomasHubelbauer/vscode-email-viewer)
 

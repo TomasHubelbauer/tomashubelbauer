@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-11-15T00:20:32.304Z
+2024-11-15T01:35:58.017Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3882,14 +3882,6 @@
 
 📒 A customizable tool that migrates older Kentico solutions to the latest version of Xperience by Kentico.
 
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-11-14T00:20:24Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
 ## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
 
 ⚖️ 2024-11-14T10:44:20Z
@@ -3900,9 +3892,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-14T23:09:20Z
+⚖️ 2024-11-15T00:20:43Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-11-15T00:21:39Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
