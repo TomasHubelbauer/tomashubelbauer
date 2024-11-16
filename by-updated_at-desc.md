@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-11-16T14:08:11.379Z
+2024-11-16T15:08:33.856Z
+
+## [cf-workers-deploy](https://github.com/TomasHubelbauer/cf-workers-deploy)
+
+⚖️ 2024-11-16T14:23:18Z
+
+🏷 cloudflare, cloudflare-kv, cloudflare-worker, cloudflare-workers, cloudflare-workers-kv, wrangler
+
+📒 A Node package for deploying a script to CloudFlare Workers without the use of Wrangler
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-16T13:12:16Z
+⚖️ 2024-11-16T14:08:22Z
 
 🏷 tomashubelbauer
 
@@ -657,14 +665,6 @@
 🏷 circle, csg, geometry, openscad, openscad-module, torus
 
 📒 A set of OpenSCAD modules for generating geometries of quarter-profile circles and tori including their inverted variants
-
-## [cf-workers-deploy](https://github.com/TomasHubelbauer/cf-workers-deploy)
-
-⚖️ 2024-01-30T21:42:05Z
-
-🏷 cloudflare, cloudflare-kv, cloudflare-worker, cloudflare-workers, cloudflare-workers-kv, wrangler
-
-📒 A Node package for deploying a script to CloudFlare Workers without the use of Wrangler
 
 ## [node-puppeteer-apng](https://github.com/TomasHubelbauer/node-puppeteer-apng)
 

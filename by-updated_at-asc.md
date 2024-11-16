@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-11-16T14:08:11.376Z
+2024-11-16T15:08:33.855Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3242,14 +3242,6 @@
 
 📒 A JavaScript library for recording screencasts of URLs or Puppeteer sessions to APNG
 
-## [cf-workers-deploy](https://github.com/TomasHubelbauer/cf-workers-deploy)
-
-⚖️ 2024-01-30T21:42:05Z
-
-🏷 cloudflare, cloudflare-kv, cloudflare-worker, cloudflare-workers, cloudflare-workers-kv, wrangler
-
-📒 A Node package for deploying a script to CloudFlare Workers without the use of Wrangler
-
 ## [openscad-quarter-circle-torus](https://github.com/TomasHubelbauer/openscad-quarter-circle-torus)
 
 ⚖️ 2024-02-04T20:42:18Z
@@ -3900,9 +3892,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-16T13:12:16Z
+⚖️ 2024-11-16T14:08:22Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [cf-workers-deploy](https://github.com/TomasHubelbauer/cf-workers-deploy)
+
+⚖️ 2024-11-16T14:23:18Z
+
+🏷 cloudflare, cloudflare-kv, cloudflare-worker, cloudflare-workers, cloudflare-workers-kv, wrangler
+
+📒 A Node package for deploying a script to CloudFlare Workers without the use of Wrangler
 
