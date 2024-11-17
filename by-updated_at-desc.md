@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-11-17T15:08:13.898Z
+2024-11-17T16:08:33.314Z
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-11-17T15:08:26Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [canvas-chromatic-aberration](https://github.com/TomasHubelbauer/canvas-chromatic-aberration)
 
@@ -9,14 +17,6 @@
 🏷 canvas, chromatic-abberation, html
 
 📒 The chromatic abberation effect implemented in HTML canvas
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-11-17T14:08:29Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
