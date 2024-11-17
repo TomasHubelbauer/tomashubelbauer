@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-11-17T14:08:18.470Z
+2024-11-17T15:08:13.897Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3474,14 +3474,6 @@
 
 📒 Bun reverse proxy
 
-## [canvas-chromatic-aberration](https://github.com/TomasHubelbauer/canvas-chromatic-aberration)
-
-⚖️ 2024-07-03T19:55:26Z
-
-🏷 canvas, chromatic-abberation, html
-
-📒 The chromatic abberation effect implemented in HTML canvas
-
 ## [app-ffmpeg](https://github.com/TomasHubelbauer/app-ffmpeg)
 
 ⚖️ 2024-07-09T07:24:01Z
@@ -3900,9 +3892,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-17T13:12:11Z
+⚖️ 2024-11-17T14:08:29Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [canvas-chromatic-aberration](https://github.com/TomasHubelbauer/canvas-chromatic-aberration)
+
+⚖️ 2024-11-17T14:55:29Z
+
+🏷 canvas, chromatic-abberation, html
+
+📒 The chromatic abberation effect implemented in HTML canvas
 
