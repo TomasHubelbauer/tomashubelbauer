@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-11-17T04:08:58.909Z
+2024-11-17T05:08:38.145Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -130,14 +130,6 @@
 
 📒 A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 32417
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [js-qr-scanner-library-comparison](https://github.com/TomasHubelbauer/js-qr-scanner-library-comparison)
 
 ⚖️ 31756
@@ -145,6 +137,14 @@
 🏷 benchmark, comparison, qr, qr-code, qr-codes, qrcode, qrcode-reader, qrcode-scanner
 
 📒 A comparison of JavaScript QR scanner libraries
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 27062
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [globus](https://github.com/TomasHubelbauer/globus)
 
