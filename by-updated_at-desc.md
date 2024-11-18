@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-11-18T00:20:58.659Z
+2024-11-18T01:36:22.312Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-11-18T00:22:05Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-17T23:08:52Z
+⚖️ 2024-11-18T00:21:14Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 canvas, chromatic-abberation, html
 
 📒 The chromatic abberation effect implemented in HTML canvas
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-11-17T00:22:58Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [cf-workers-deploy](https://github.com/TomasHubelbauer/cf-workers-deploy)
 
