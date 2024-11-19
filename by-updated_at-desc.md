@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-11-19T12:11:06.528Z
+2024-11-19T13:14:28.172Z
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-11-19T12:11:23Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
 
@@ -9,14 +17,6 @@
 🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
 
 📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-11-19T10:09:25Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
