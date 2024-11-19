@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-11-19T10:09:11.183Z
+2024-11-19T12:11:06.527Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3778,14 +3778,6 @@
 
 📒 MapsForge JavaScript parser
 
-## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
-
-⚖️ 2024-10-19T17:34:02Z
-
-🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
-
-📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
-
 ## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
 
 ⚖️ 2024-10-20T09:05:22Z
@@ -3900,9 +3892,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-19T08:09:58Z
+⚖️ 2024-11-19T10:09:25Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
+
+⚖️ 2024-11-19T11:07:27Z
+
+🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
+
+📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
 

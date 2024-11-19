@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-11-19T10:09:11.184Z
+2024-11-19T12:11:06.528Z
+
+## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
+
+⚖️ 2024-11-19T11:07:27Z
+
+🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
+
+📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-19T08:09:58Z
+⚖️ 2024-11-19T10:09:25Z
 
 🏷 tomashubelbauer
 
@@ -121,14 +129,6 @@
 🏷 vscode, vscode-extension
 
 📒 Barebones setup for developing local workspace extensions for VS Code
-
-## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
-
-⚖️ 2024-10-19T17:34:02Z
-
-🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
-
-📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
 
 ## [mapsforge](https://github.com/TomasHubelbauer/mapsforge)
 
