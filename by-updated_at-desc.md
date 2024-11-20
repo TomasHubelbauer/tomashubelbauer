@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-11-19T23:08:53.289Z
+2024-11-20T01:35:59.510Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-11-20T00:20:43Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-19T22:09:02Z
+⚖️ 2024-11-19T23:09:06Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
 
 📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-11-19T00:21:19Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [canvas-chromatic-aberration](https://github.com/TomasHubelbauer/canvas-chromatic-aberration)
 
