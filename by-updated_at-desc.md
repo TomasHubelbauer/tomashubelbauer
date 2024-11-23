@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-11-23T14:08:39.488Z
+2024-11-23T15:08:19.101Z
+
+## [rust-wasm-canvas](https://github.com/TomasHubelbauer/rust-wasm-canvas)
+
+⚖️ 2024-11-23T14:54:07Z
+
+🏷 canvas, rust, wasm
+
+📒 Demonstrating drawing to canvas with Rust
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-23T13:12:13Z
+⚖️ 2024-11-23T14:08:54Z
 
 🏷 tomashubelbauer
 
@@ -1985,14 +1993,6 @@
 🏷 github, invoices, puppeteer, scraper, scraping, scraping-websites
 
 📒 Download invoices from the GitHub billing page to your Downloads automatically using Puppeteer.
-
-## [rust-wasm-canvas](https://github.com/TomasHubelbauer/rust-wasm-canvas)
-
-⚖️ 2022-04-17T10:06:06Z
-
-🏷 canvas, rust, wasm
-
-📒 Demonstrating drawing to canvas with Rust
 
 ## [react](https://github.com/TomasHubelbauer/react)
 

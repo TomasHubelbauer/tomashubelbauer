@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-11-23T14:08:39.487Z
+2024-11-23T15:08:19.100Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -1913,14 +1913,6 @@
 🏷 knowledge-base, react
 
 📒 Tips and tricks for using React
-
-## [rust-wasm-canvas](https://github.com/TomasHubelbauer/rust-wasm-canvas)
-
-⚖️ 2022-04-17T10:06:06Z
-
-🏷 canvas, rust, wasm
-
-📒 Demonstrating drawing to canvas with Rust
 
 ## [scrape-github-invoices](https://github.com/TomasHubelbauer/scrape-github-invoices)
 
@@ -3900,9 +3892,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-23T13:12:13Z
+⚖️ 2024-11-23T14:08:54Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [rust-wasm-canvas](https://github.com/TomasHubelbauer/rust-wasm-canvas)
+
+⚖️ 2024-11-23T14:54:07Z
+
+🏷 canvas, rust, wasm
+
+📒 Demonstrating drawing to canvas with Rust
 
