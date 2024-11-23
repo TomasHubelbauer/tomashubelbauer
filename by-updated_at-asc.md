@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-11-23T15:08:19.100Z
+2024-11-23T16:08:41.726Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3890,14 +3890,6 @@
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-11-23T14:08:54Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [rust-wasm-canvas](https://github.com/TomasHubelbauer/rust-wasm-canvas)
 
 ⚖️ 2024-11-23T14:54:07Z
@@ -3905,4 +3897,12 @@
 🏷 canvas, rust, wasm
 
 📒 Demonstrating drawing to canvas with Rust
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-11-23T15:08:31Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
