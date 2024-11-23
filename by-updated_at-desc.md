@@ -1,6 +1,14 @@
 # By `updated_at` (desc)
 
-2024-11-23T01:35:45.705Z
+2024-11-23T02:31:51.750Z
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-11-23T01:36:01Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
@@ -9,14 +17,6 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-11-22T21:08:32Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
 
