@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2024-11-28T00:20:47.470Z
+2024-11-28T01:36:16.213Z
 
 ## [image-editor-poc-cropperjs](https://github.com/TomasHubelbauer/image-editor-poc-cropperjs)
 
@@ -3674,6 +3674,14 @@
 
 📒 Using Playwright Firefox to scrape PDFs
 
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 14792
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
 ## [app-ffmpeg](https://github.com/TomasHubelbauer/app-ffmpeg)
 
 ⚖️ 15471
@@ -3697,14 +3705,6 @@
 🏷 
 
 📒 Supabase CLI
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 17003
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [mapsforge](https://github.com/TomasHubelbauer/mapsforge)
 
@@ -3764,7 +3764,7 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 28037
+⚖️ 28263
 
 🏷 tomashubelbauer
 
