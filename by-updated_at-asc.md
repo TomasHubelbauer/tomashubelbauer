@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-11-28T13:15:07.481Z
+2024-11-28T15:08:52.778Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3218,14 +3218,6 @@
 
 📒 My personal website
 
-## [jsx-service-worker](https://github.com/TomasHubelbauer/jsx-service-worker)
-
-⚖️ 2024-01-13T14:26:30Z
-
-🏷 
-
-📒 null
-
 ## [node-puppeteer-apng](https://github.com/TomasHubelbauer/node-puppeteer-apng)
 
 ⚖️ 2024-01-14T00:00:42Z
@@ -3489,22 +3481,6 @@
 🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
-
-## [lyrics](https://github.com/TomasHubelbauer/lyrics)
-
-⚖️ 2024-08-03T19:19:37Z
-
-🏷 electron, lrc, lyrics, spotify
-
-📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
-
-## [apps-and-services](https://github.com/TomasHubelbauer/apps-and-services)
-
-⚖️ 2024-08-03T19:20:12Z
-
-🏷 
-
-📒 null
 
 ## [onewheel-web-bluetooth](https://github.com/TomasHubelbauer/onewheel-web-bluetooth)
 
@@ -3898,9 +3874,33 @@
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
+## [jsx-service-worker](https://github.com/TomasHubelbauer/jsx-service-worker)
+
+⚖️ 2024-11-28T13:22:09Z
+
+🏷 
+
+📒 null
+
+## [apps-and-services](https://github.com/TomasHubelbauer/apps-and-services)
+
+⚖️ 2024-11-28T13:46:21Z
+
+🏷 
+
+📒 null
+
+## [lyrics](https://github.com/TomasHubelbauer/lyrics)
+
+⚖️ 2024-11-28T13:46:23Z
+
+🏷 electron, lrc, lyrics, spotify
+
+📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
+
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-28T12:11:20Z
+⚖️ 2024-11-28T13:46:24Z
 
 🏷 tomashubelbauer
 
