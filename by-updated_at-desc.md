@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-11-30T21:08:37.929Z
+2024-11-30T22:08:48.944Z
+
+## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
+
+⚖️ 2024-11-30T21:52:45Z
+
+🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
+
+📒 Raspberry Pi Pico mouse jiggler
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-30T19:08:24Z
+⚖️ 2024-11-30T21:08:49Z
 
 🏷 tomashubelbauer
 
@@ -161,14 +169,6 @@
 🏷 
 
 📒 Finally a LSP for your config files: gitconfig, fstab, aliases, hosts, wireguard, ssh_config, sshd_config, and more to come!
-
-## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
-
-⚖️ 2024-10-20T10:14:03Z
-
-🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
-
-📒 Raspberry Pi Pico mouse jiggler
 
 ## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
 
