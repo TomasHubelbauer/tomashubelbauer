@@ -1,6 +1,22 @@
 # By `updated_at` (desc)
 
-2024-11-30T00:20:10.558Z
+2024-11-30T01:36:04.079Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-11-30T00:20:48Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 2024-11-30T00:20:21Z
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [github-issues-git-notes](https://github.com/TomasHubelbauer/github-issues-git-notes)
 
@@ -9,22 +25,6 @@
 🏷 git-notes, github-actions, github-issues
 
 📒 A GitHub Actions action to sync GitHub Issues to Git notes
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 2024-11-29T23:09:01Z
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-11-29T00:21:38Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [lyrics](https://github.com/TomasHubelbauer/lyrics)
 
