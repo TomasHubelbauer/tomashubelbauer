@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-11-30T10:08:28.533Z
+2024-11-30T12:10:24.144Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -1753,14 +1753,6 @@
 🏷 css, flex
 
 📒 An example of how to use flex to space things apart with the same distance
-
-## [garmin-img](https://github.com/TomasHubelbauer/garmin-img)
-
-⚖️ 2022-04-17T09:57:06Z
-
-🏷 garmin
-
-📒 A JavaScript parser and renderer of the Garmin maps
 
 ## [git-erase](https://github.com/TomasHubelbauer/git-erase)
 
@@ -3900,9 +3892,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-30T09:08:45Z
+⚖️ 2024-11-30T10:08:44Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [garmin-img](https://github.com/TomasHubelbauer/garmin-img)
+
+⚖️ 2024-11-30T11:08:58Z
+
+🏷 garmin
+
+📒 A JavaScript parser and renderer of the Garmin maps
 

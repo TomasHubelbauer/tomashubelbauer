@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-11-30T10:08:28.536Z
+2024-11-30T12:10:24.145Z
+
+## [garmin-img](https://github.com/TomasHubelbauer/garmin-img)
+
+⚖️ 2024-11-30T11:08:58Z
+
+🏷 garmin
+
+📒 A JavaScript parser and renderer of the Garmin maps
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-30T09:08:45Z
+⚖️ 2024-11-30T10:08:44Z
 
 🏷 tomashubelbauer
 
@@ -2145,14 +2153,6 @@
 🏷 git
 
 📒 Demonstrating wiping files from Git history
-
-## [garmin-img](https://github.com/TomasHubelbauer/garmin-img)
-
-⚖️ 2022-04-17T09:57:06Z
-
-🏷 garmin
-
-📒 A JavaScript parser and renderer of the Garmin maps
 
 ## [flex-equidistant-children](https://github.com/TomasHubelbauer/flex-equidistant-children)
 
