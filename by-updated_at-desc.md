@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-11-30T23:08:43.855Z
+2024-12-01T01:36:58.747Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-12-01T00:30:00Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-11-30T22:09:09Z
+⚖️ 2024-11-30T23:08:55Z
 
 🏷 tomashubelbauer
 
@@ -25,14 +33,6 @@
 🏷 garmin
 
 📒 A JavaScript parser and renderer of the Garmin maps
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-11-30T00:20:48Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [github-issues-git-notes](https://github.com/TomasHubelbauer/github-issues-git-notes)
 
