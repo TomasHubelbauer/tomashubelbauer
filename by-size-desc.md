@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2024-12-01T13:13:31.783Z
+2024-12-01T14:08:28.610Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
