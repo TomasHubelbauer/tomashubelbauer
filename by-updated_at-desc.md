@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-12-08T10:09:02.208Z
+2024-12-08T11:08:21.569Z
+
+## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
+
+⚖️ 2024-12-08T10:20:15Z
+
+🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
+
+📒 Raspberry Pi Pico mouse jiggler
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-12-08T08:09:53Z
+⚖️ 2024-12-08T10:09:15Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 cinema, csfd, puppeteer, scraper, screening, screenings
 
 📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
-
-## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
-
-⚖️ 2024-11-30T21:52:45Z
-
-🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
-
-📒 Raspberry Pi Pico mouse jiggler
 
 ## [garmin-img](https://github.com/TomasHubelbauer/garmin-img)
 
