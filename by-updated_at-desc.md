@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-12-09T20:09:23.786Z
+2024-12-09T21:08:42.929Z
+
+## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
+
+⚖️ 2024-12-09T20:20:49Z
+
+🏷 akai, apc-mini, launchpad, midi, usb
+
+📒 Akai APCmini launchpad USB/MIDI communication protocol
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-12-09T19:08:51Z
+⚖️ 2024-12-09T20:09:41Z
 
 🏷 tomashubelbauer
 
@@ -185,14 +193,6 @@
 🏷 mapsforge
 
 📒 MapsForge JavaScript parser
-
-## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
-
-⚖️ 2024-10-14T13:50:11Z
-
-🏷 akai, apc-mini, launchpad, midi, usb
-
-📒 Akai APCmini launchpad USB/MIDI communication protocol
 
 ## [leveret](https://github.com/TomasHubelbauer/leveret)
 
