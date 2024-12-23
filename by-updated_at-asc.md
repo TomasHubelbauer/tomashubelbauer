@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2024-12-23T21:08:40.288Z
+2024-12-23T22:08:43.609Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -1937,14 +1937,6 @@
 🏷 spotify, spotify-for-artists
 
 📒 Scrapes Spotify for Artists and sends an email digest
-
-## [sus-downloader](https://github.com/TomasHubelbauer/sus-downloader)
-
-⚖️ 2022-04-17T10:07:14Z
-
-🏷 apple-software-update-service, macos, sus, swscan
-
-📒 A downloader from the Apple SoftwareUpdate Service (SUS) also known as SWSCAN
 
 ## [svg-timeseries](https://github.com/TomasHubelbauer/svg-timeseries)
 
@@ -3900,9 +3892,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-12-23T20:09:15Z
+⚖️ 2024-12-23T21:08:56Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [sus-downloader](https://github.com/TomasHubelbauer/sus-downloader)
+
+⚖️ 2024-12-23T21:13:44Z
+
+🏷 apple-software-update-service, macos, sus, swscan
+
+📒 A downloader from the Apple SoftwareUpdate Service (SUS) also known as SWSCAN
 

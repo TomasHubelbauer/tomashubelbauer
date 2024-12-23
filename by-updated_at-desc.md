@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-12-23T21:08:40.289Z
+2024-12-23T22:08:43.613Z
+
+## [sus-downloader](https://github.com/TomasHubelbauer/sus-downloader)
+
+⚖️ 2024-12-23T21:13:44Z
+
+🏷 apple-software-update-service, macos, sus, swscan
+
+📒 A downloader from the Apple SoftwareUpdate Service (SUS) also known as SWSCAN
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-12-23T20:09:15Z
+⚖️ 2024-12-23T21:08:56Z
 
 🏷 tomashubelbauer
 
@@ -1961,14 +1969,6 @@
 🏷 svg, timeseries
 
 📒 A SVG time series plot SVG string rendering utility function
-
-## [sus-downloader](https://github.com/TomasHubelbauer/sus-downloader)
-
-⚖️ 2022-04-17T10:07:14Z
-
-🏷 apple-software-update-service, macos, sus, swscan
-
-📒 A downloader from the Apple SoftwareUpdate Service (SUS) also known as SWSCAN
 
 ## [spotify-artists](https://github.com/TomasHubelbauer/spotify-artists)
 
