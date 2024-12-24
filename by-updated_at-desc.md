@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2024-12-23T23:08:36.518Z
+2024-12-24T00:20:22.689Z
+
+## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
+
+⚖️ 2024-12-24T00:18:40Z
+
+🏷 cinema, csfd, puppeteer, scraper, screening, screenings
+
+📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2024-12-23T22:08:54Z
+⚖️ 2024-12-23T23:08:52Z
 
 🏷 tomashubelbauer
 
@@ -17,14 +25,6 @@
 🏷 apple-software-update-service, macos, sus, swscan
 
 📒 A downloader from the Apple SoftwareUpdate Service (SUS) also known as SWSCAN
-
-## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
-
-⚖️ 2024-12-23T00:19:19Z
-
-🏷 cinema, csfd, puppeteer, scraper, screening, screenings
-
-📒 Scrapes CSFD.cz for cinema schedules and allows annotating movies with interest level. Notifies about new movies found since the last time.
 
 ## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
 
