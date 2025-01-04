@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2025-01-04T14:08:38.020Z
+2025-01-04T15:08:25.220Z
+
+## [sqlite-javascript](https://github.com/TomasHubelbauer/sqlite-javascript)
+
+⚖️ 2025-01-04T14:34:54Z
+
+🏷 javascript, sqlite, sqlite-database
+
+📒 SQLite database file parser in pure JavaScript
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-01-04T13:11:43Z
+⚖️ 2025-01-04T14:08:48Z
 
 🏷 tomashubelbauer
 
@@ -129,14 +137,6 @@
 🏷 
 
 📒 A customizable tool that migrates older Kentico solutions to the latest version of Xperience by Kentico.
-
-## [sqlite-javascript](https://github.com/TomasHubelbauer/sqlite-javascript)
-
-⚖️ 2024-11-03T18:08:46Z
-
-🏷 javascript, sqlite, sqlite-database
-
-📒 SQLite database file parser in pure JavaScript
 
 ## [bun-runtime-plugin-onResolve-custom-protocol](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-custom-protocol)
 
