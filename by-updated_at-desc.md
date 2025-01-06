@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2025-01-06T22:08:28.009Z
+2025-01-06T23:08:39.955Z
+
+## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
+
+⚖️ 2025-01-06T22:22:40Z
+
+🏷 
+
+📒 null
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-01-06T21:08:47Z
+⚖️ 2025-01-06T22:08:39Z
 
 🏷 tomashubelbauer
 
@@ -687,14 +695,6 @@
 ⚖️ 2024-02-22T18:51:26Z
 
 🏷 pglite, postgres
-
-📒 null
-
-## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
-
-⚖️ 2024-02-14T00:37:53Z
-
-🏷 
 
 📒 null
 
