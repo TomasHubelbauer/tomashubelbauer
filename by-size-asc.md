@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2025-01-08T19:08:27.375Z
+2025-01-08T20:09:25.319Z
 
 ## [image-editor-poc-cropperjs](https://github.com/TomasHubelbauer/image-editor-poc-cropperjs)
 
@@ -3762,6 +3762,14 @@
 
 📒 Scrapes the Globus PDF catalogue using Puppeteer
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 28797
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [js-qr-scanner-library-comparison](https://github.com/TomasHubelbauer/js-qr-scanner-library-comparison)
 
 ⚖️ 31756
@@ -3769,14 +3777,6 @@
 🏷 benchmark, comparison, qr, qr-code, qr-codes, qrcode, qrcode-reader, qrcode-scanner
 
 📒 A comparison of JavaScript QR scanner libraries
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 34399
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [liquidjs](https://github.com/TomasHubelbauer/liquidjs)
 
