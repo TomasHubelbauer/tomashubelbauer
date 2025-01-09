@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2025-01-09T16:09:26.501Z
+2025-01-09T18:09:56.461Z
+
+## [nextra-mermaid](https://github.com/TomasHubelbauer/nextra-mermaid)
+
+⚖️ 2025-01-09T16:25:23Z
+
+🏷 
+
+📒 null
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-01-09T15:09:44Z
+⚖️ 2025-01-09T16:09:43Z
 
 🏷 tomashubelbauer
 
@@ -985,14 +993,6 @@
 🏷 intellisense, markdown, table, vscode, vscode-extension, vscode-plugin
 
 📒 Formats tables in MarkDown documents when using the Format Document editor context menu option in VS Code.
-
-## [nextra-mermaid](https://github.com/TomasHubelbauer/nextra-mermaid)
-
-⚖️ 2023-06-04T13:20:14Z
-
-🏷 
-
-📒 null
 
 ## [open-source-encore-2023-05-30-jekyll](https://github.com/TomasHubelbauer/open-source-encore-2023-05-30-jekyll)
 

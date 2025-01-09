@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2025-01-09T16:09:26.500Z
+2025-01-09T18:09:56.459Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -2914,14 +2914,6 @@
 
 📒 An account of my contribution to the Jekyll project documentation to clarify the Exclude and Include configuration options' behavior.
 
-## [nextra-mermaid](https://github.com/TomasHubelbauer/nextra-mermaid)
-
-⚖️ 2023-06-04T13:20:14Z
-
-🏷 
-
-📒 null
-
 ## [vscode-markdown-table-format](https://github.com/TomasHubelbauer/vscode-markdown-table-format)
 
 ⚖️ 2023-06-08T14:14:23Z
@@ -3900,9 +3892,17 @@
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-01-09T15:09:44Z
+⚖️ 2025-01-09T16:09:43Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [nextra-mermaid](https://github.com/TomasHubelbauer/nextra-mermaid)
+
+⚖️ 2025-01-09T16:25:23Z
+
+🏷 
+
+📒 null
 
