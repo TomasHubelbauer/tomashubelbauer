@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2025-01-10T22:08:24.388Z
+2025-01-10T23:08:35.647Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -2053,6 +2053,14 @@
 ## [markdown-mermaid-sequence](https://github.com/TomasHubelbauer/markdown-mermaid-sequence)
 
 ⚖️ markdown-mermaid-sequence
+
+🏷 
+
+📒 null
+
+## [markdown-shortcut](https://github.com/TomasHubelbauer/markdown-shortcut)
+
+⚖️ markdown-shortcut
 
 🏷 
 
