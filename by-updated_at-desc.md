@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2025-01-13T09:09:38.953Z
+2025-01-13T10:09:26.569Z
+
+## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
+
+⚖️ 2025-01-13T09:21:21Z
+
+🏷 bun, javascript, proxy-server, reverse-proxy, reverse-proxy-server, typescript
+
+📒 Bun reverse proxy
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-01-13T08:10:16Z
+⚖️ 2025-01-13T09:09:50Z
 
 🏷 tomashubelbauer
 
@@ -505,14 +513,6 @@
 🏷 
 
 📒 null
-
-## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
-
-⚖️ 2024-07-03T01:31:17Z
-
-🏷 bun, javascript, proxy-server, reverse-proxy, reverse-proxy-server, typescript
-
-📒 Bun reverse proxy
 
 ## [supabase-to-zod](https://github.com/TomasHubelbauer/supabase-to-zod)
 
