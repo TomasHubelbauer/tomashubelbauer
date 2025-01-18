@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2025-01-18T04:09:00.143Z
+2025-01-18T05:08:38.914Z
+
+## [svg-screencast](https://github.com/TomasHubelbauer/svg-screencast)
+
+⚖️ 2025-01-18T04:23:14Z
+
+🏷 screencast, screenshot, svg
+
+📒 SVG screencast - animated SVG files from screenshots using CSS animations
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-01-18T03:08:55Z
+⚖️ 2025-01-18T04:09:08Z
 
 🏷 tomashubelbauer
 
@@ -465,14 +473,6 @@
 🏷 browser-extension, chrome-extension, edge-extension, firefox-addon, firefox-extension, github, web-extension
 
 📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
-
-## [svg-screencast](https://github.com/TomasHubelbauer/svg-screencast)
-
-⚖️ 2024-08-23T11:46:30Z
-
-🏷 screencast, screenshot, svg
-
-📒 SVG screencast - animated SVG files from screenshots using CSS animations
 
 ## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
 
