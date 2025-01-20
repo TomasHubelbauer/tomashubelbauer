@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2025-01-20T03:10:46.110Z
+2025-01-20T04:09:39.667Z
+
+## [fastmail](https://github.com/TomasHubelbauer/fastmail)
+
+⚖️ 2025-01-20T03:34:25Z
+
+🏷 api-token, email, fastmail, fastmail-api, sieve
+
+📒 My exploration of the Fastmail API
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-01-20T02:29:57Z
+⚖️ 2025-01-20T03:10:55Z
 
 🏷 tomashubelbauer
 
@@ -777,14 +785,6 @@
 🏷 hacker-news, tailwind
 
 📒 Hacker News redesigned using Tailwind for practice
-
-## [fastmail](https://github.com/TomasHubelbauer/fastmail)
-
-⚖️ 2023-12-10T18:08:02Z
-
-🏷 api-token, email, fastmail, fastmail-api, sieve
-
-📒 My exploration of the Fastmail API
 
 ## [aoc-2023-elixir](https://github.com/TomasHubelbauer/aoc-2023-elixir)
 
