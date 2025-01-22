@@ -1,10 +1,18 @@
 # By `updated_at` (desc)
 
-2025-01-22T20:09:11.331Z
+2025-01-22T21:08:27.120Z
+
+## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
+
+⚖️ 2025-01-22T20:53:32Z
+
+🏷 bun, javascript, proxy-server, reverse-proxy, reverse-proxy-server, typescript
+
+📒 Bun reverse proxy
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-01-22T19:08:48Z
+⚖️ 2025-01-22T20:09:24Z
 
 🏷 tomashubelbauer
 
@@ -41,14 +49,6 @@
 🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
 
 📒 3D SVG projection and animation
-
-## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
-
-⚖️ 2025-01-13T09:21:21Z
-
-🏷 bun, javascript, proxy-server, reverse-proxy, reverse-proxy-server, typescript
-
-📒 Bun reverse proxy
 
 ## [markdown-shortcut](https://github.com/TomasHubelbauer/markdown-shortcut)
 
