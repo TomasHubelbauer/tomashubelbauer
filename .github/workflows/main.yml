@@ -31,19 +31,19 @@ jobs:
     
     - name: Upload JSON response artifacts for debugging in case of failure
       if: failure()
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: debugging-artifacts
         path: '*.artifact.json'
     
     - name: Upload the followers.json cache file as an artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: followers.json
         path: followers.json
 
     - name: Upload the repositories.json cache file as an artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: repositories.json
         path: repositories.json
