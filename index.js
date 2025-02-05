@@ -46,6 +46,7 @@ const { artifacts } = await fetch(`${process.env.GITHUB_API_URL}/repos/${process
 console.log('Downloaded', artifacts.length, 'artifacts');
 
 // Recover remembered followers for later comparison and change detection
+console.log(artifacts);
 const staleFollowers = await fetch(artifacts.find(artifact => artifact.name === 'followers.json').archive_download_url, { headers })
   .then(response => response.arrayBuffer())
   .then(arrayBuffer => extract(Buffer.from(arrayBuffer)))
