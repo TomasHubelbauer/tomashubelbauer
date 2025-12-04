@@ -14,10 +14,6 @@ jobs:
           ref: main
           fetch-depth: 0
 
-      - name: Drop history of auto-generated files (readme.md, prs.md issues.md)
-        run: |
-          FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch --force --index-filter "git rm --ignore-unmatch readme.md prs.md issues.md" --prune-empty HEAD
-
       - name: Install Bun
         uses: oven-sh/setup-bun@v2
 
@@ -50,6 +46,10 @@ jobs:
         with:
           name: todos.json
           path: todos.json
+
+      - name: Drop history of auto-generated files (readme.md, prs.md issues.md)
+        run: |
+          FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch --force --index-filter "git rm --ignore-unmatch readme.md prs.md issues.md" --prune-empty HEAD
 
       - name: Commit and force push Git changes back to the workflow repository
         run: |
