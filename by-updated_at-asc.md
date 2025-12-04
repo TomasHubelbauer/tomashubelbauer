@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2025-01-23T13:12:24.364Z
+2025-12-04T23:09:09.777Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -226,14 +226,6 @@
 
 📒 Information on routing multiple domains to the same server with NGinx
 
-## [albert](https://github.com/TomasHubelbauer/albert)
-
-⚖️ 2021-04-06T20:43:25Z
-
-🏷 albert, ocr, pdf
-
-📒 Trying to lay out and cluster prices and product images in a supermarket PDF
-
 ## [js-spread-args](https://github.com/TomasHubelbauer/js-spread-args)
 
 ⚖️ 2021-04-06T21:11:37Z
@@ -249,14 +241,6 @@
 🏷 console, node
 
 📒 Overriding console.log in Node
-
-## [acter](https://github.com/TomasHubelbauer/acter)
-
-⚖️ 2021-04-07T19:53:53Z
-
-🏷 javascript, react
-
-📒 My idea about a UI framework
 
 ## [git](https://github.com/TomasHubelbauer/git)
 
@@ -281,14 +265,6 @@
 🏷 dom, local-storage
 
 📒 DOM local storage performance experiment
-
-## [vscode-markdown-link-suggestions](https://github.com/TomasHubelbauer/vscode-markdown-link-suggestions)
-
-⚖️ 2022-02-11T12:14:42Z
-
-🏷 intellisense, link-checker, markdown, vscode, vscode-extension, vscode-plugin
-
-📒 Suggests workspace files and MarkDown file headers in MarkDown links
 
 ## [github-actions-badge](https://github.com/TomasHubelbauer/github-actions-badge)
 
@@ -458,14 +434,6 @@
 
 📒 Running Electron in XVFB
 
-## [github-actions-wsl](https://github.com/TomasHubelbauer/github-actions-wsl)
-
-⚖️ 2022-04-15T20:31:36Z
-
-🏷 github, github-actions, wsl
-
-📒 Seeing if it is possible to use WSL in Windows based GitHub Actions agents
-
 ## [playwright-github-actions](https://github.com/TomasHubelbauer/playwright-github-actions)
 
 ⚖️ 2022-04-15T20:49:43Z
@@ -490,14 +458,6 @@
 
 📒 Pondering about whether Puppeteer screenshots are deterministic
 
-## [ado-bookmarklet](https://github.com/TomasHubelbauer/ado-bookmarklet)
-
-⚖️ 2022-04-16T11:47:31Z
-
-🏷 ado, azure-devops
-
-📒 ADO bookmarklet
-
 ## [appium](https://github.com/TomasHubelbauer/appium)
 
 ⚖️ 2022-04-16T11:47:46Z
@@ -521,22 +481,6 @@
 🏷 blender
 
 📒 My notes and stuff related to Blender 2.8+.
-
-## [3mf-zip-uncompressed](https://github.com/TomasHubelbauer/3mf-zip-uncompressed)
-
-⚖️ 2022-04-16T12:00:04Z
-
-🏷 3mf, diff, git, store, zip
-
-📒 An experiment in seeing how no-compression ZIP file will diff in Git
-
-## [agendum](https://github.com/TomasHubelbauer/agendum)
-
-⚖️ 2022-04-16T12:38:38Z
-
-🏷 agenda, javascript, task-list, to-do-list
-
-📒 A to-do list
 
 ## [cable-case](https://github.com/TomasHubelbauer/cable-case)
 
@@ -721,14 +665,6 @@
 🏷 3d-print, 3d-printing, cad, cam, gcode, openscad, stl
 
 📒 A highly specialized tool for designing tracks for 3D printing channels that hold LED strips for creating wall mounted neon-like logos.
-
-## [vscode-bare-extension](https://github.com/TomasHubelbauer/vscode-bare-extension)
-
-⚖️ 2022-04-16T12:56:19Z
-
-🏷 vscode, vscode-extension
-
-📒 Finding the minimal possible VS Code extension
 
 ## [vscode-markdown-formatter](https://github.com/TomasHubelbauer/vscode-markdown-formatter)
 
@@ -953,14 +889,6 @@
 🏷 nginx, sites-available
 
 📒 NGinx static website setup
-
-## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
-
-⚖️ 2022-04-16T13:39:33Z
-
-🏷 map, maps, open-street-map, osm, raster-tiles
-
-📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
 
 ## [osm-vector-map](https://github.com/TomasHubelbauer/osm-vector-map)
 
@@ -1898,14 +1826,6 @@
 
 📒 Tips and tricks for using React
 
-## [scrape-github-invoices](https://github.com/TomasHubelbauer/scrape-github-invoices)
-
-⚖️ 2022-04-17T10:06:14Z
-
-🏷 github, invoices, puppeteer, scraper, scraping, scraping-websites
-
-📒 Download invoices from the GitHub billing page to your Downloads automatically using Puppeteer.
-
 ## [shapefile](https://github.com/TomasHubelbauer/shapefile)
 
 ⚖️ 2022-04-17T10:06:22Z
@@ -2001,14 +1921,6 @@
 🏷 binary-compare, fc, windows
 
 📒 Windows Binary Compare using fc
-
-## [windows-safari](https://github.com/TomasHubelbauer/windows-safari)
-
-⚖️ 2022-04-17T10:13:36Z
-
-🏷 debugger, ios, safari-dev-tools, windows-safari
-
-📒 Connecting to the Safari developer tools console from Windows
 
 ## [yarn-justify](https://github.com/TomasHubelbauer/yarn-justify)
 
@@ -2218,14 +2130,6 @@
 
 📒 null
 
-## [sreality-puppeteer-scraper](https://github.com/TomasHubelbauer/sreality-puppeteer-scraper)
-
-⚖️ 2022-06-01T17:51:16Z
-
-🏷 node, nodejs, puppeteer, scraper, sreality, sreality-cz
-
-📒 Scrapes SReality.cs using Puppeteer and reports new and updated posts for a given search.
-
 ## [list-sections-groups](https://github.com/TomasHubelbauer/list-sections-groups)
 
 ⚖️ 2022-06-14T20:53:02Z
@@ -2233,14 +2137,6 @@
 🏷 css, figma
 
 📒 Implementing a design idea I had
-
-## [vscode-esm-url](https://github.com/TomasHubelbauer/vscode-esm-url)
-
-⚖️ 2022-06-29T13:29:18Z
-
-🏷 esm, esmodules, export, import, url, vscode, vscode-extension
-
-📒 VS Code extension adding support for ?search and #fragment in ESM module specifiers
 
 ## [tsserver-esm-url](https://github.com/TomasHubelbauer/tsserver-esm-url)
 
@@ -2386,14 +2282,6 @@
 
 📒 A .gitattributes file which makes MarkDown files appear in the Linguist language stats bar
 
-## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
-
-⚖️ 2022-12-14T02:55:40Z
-
-🏷 3mf
-
-📒 A script for extracting 3MF files into 3MF directories
-
 ## [webrtc-bridge](https://github.com/TomasHubelbauer/webrtc-bridge)
 
 ⚖️ 2022-12-15T06:57:17Z
@@ -2474,14 +2362,6 @@
 
 📒 Supabase CLI
 
-## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
-
-⚖️ 2023-03-07T13:37:56Z
-
-🏷 
-
-📒 GitHub Action to send LGTM reaction
-
 ## [vrm-api](https://github.com/TomasHubelbauer/vrm-api)
 
 ⚖️ 2023-03-07T13:37:57Z
@@ -2498,14 +2378,6 @@
 
 📒 A nascent Swift FileManager wrapper library with some extra smarts.
 
-## [node-apng](https://github.com/TomasHubelbauer/node-apng)
-
-⚖️ 2023-03-07T13:37:57Z
-
-🏷 animated-gif, animated-png, animation, apng, javascript, javascript-library, mng, node, npm, png
-
-📒 A JavaScript library for producing an APNG file from a series of PNG image data buffers
-
 ## [next-13-ssg](https://github.com/TomasHubelbauer/next-13-ssg)
 
 ⚖️ 2023-03-07T13:37:57Z
@@ -2513,14 +2385,6 @@
 🏷 
 
 📒 null
-
-## [mime-multipart](https://github.com/TomasHubelbauer/mime-multipart)
-
-⚖️ 2023-03-07T13:37:57Z
-
-🏷 mime, multipart
-
-📒 JavaScript MIME Multipart Parser
 
 ## [macos-login-item-shell-script-no-terminal](https://github.com/TomasHubelbauer/macos-login-item-shell-script-no-terminal)
 
@@ -2561,14 +2425,6 @@
 🏷 ast, cra, create-react-app, i18n, internationalization, localization, translation
 
 📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
-
-## [150.community](https://github.com/TomasHubelbauer/150.community)
-
-⚖️ 2023-03-18T22:06:28Z
-
-🏷 
-
-📒 null
 
 ## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
 
@@ -2729,14 +2585,6 @@
 🏷 
 
 📒 Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
-
-## [safari-offline](https://github.com/TomasHubelbauer/safari-offline)
-
-⚖️ 2023-05-19T09:31:20Z
-
-🏷 offline-app, offline-first, service-worker
-
-📒 An example of a fully ofline web app running in iOS Safari
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -3010,14 +2858,6 @@
 
 📒 A demo submodule used by my other repos.
 
-## [analog-panel-meter](https://github.com/TomasHubelbauer/analog-panel-meter)
-
-⚖️ 2023-08-07T14:30:13Z
-
-🏷 
-
-📒 null
-
 ## [wiringbits.github.io](https://github.com/TomasHubelbauer/wiringbits.github.io)
 
 ⚖️ 2023-08-11T19:52:47Z
@@ -3082,14 +2922,6 @@
 
 📒 A library for capturing web page self screenshots
 
-## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
-
-⚖️ 2023-10-12T07:51:04Z
-
-🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
-
-📒 Brother P-touch D600 label maker USB communication with P-touch Editor
-
 ## [screencast-card](https://github.com/TomasHubelbauer/screencast-card)
 
 ⚖️ 2023-11-01T09:22:25Z
@@ -3153,38 +2985,6 @@
 🏷 
 
 📒 null
-
-## [windows-sandbox-script](https://github.com/TomasHubelbauer/windows-sandbox-script)
-
-⚖️ 2024-01-05T22:03:20Z
-
-🏷 windows-sandbox, wsb
-
-📒 Windows Sandbox exploration
-
-## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
-
-⚖️ 2024-01-12T10:50:01Z
-
-🏷 fatcow, fatcow-icons, hubelbauer-net, icon-pack, icon-set, icons
-
-📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
-
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 2024-01-12T18:08:43Z
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
-
-## [node-puppeteer-apng](https://github.com/TomasHubelbauer/node-puppeteer-apng)
-
-⚖️ 2024-01-14T00:00:42Z
-
-🏷 animated-gif, animated-png, apng, javascript, node, node-library, node-module, png, puppeteer, screencast
-
-📒 A JavaScript library for recording screencasts of URLs or Puppeteer sessions to APNG
 
 ## [openscad-quarter-circle-torus](https://github.com/TomasHubelbauer/openscad-quarter-circle-torus)
 
@@ -3282,14 +3082,6 @@
 
 📒 null
 
-## [bun-passthrough-server](https://github.com/TomasHubelbauer/bun-passthrough-server)
-
-⚖️ 2024-04-29T19:50:11Z
-
-🏷 
-
-📒 null
-
 ## [apple-notes-database](https://github.com/TomasHubelbauer/apple-notes-database)
 
 ⚖️ 2024-05-05T08:45:20Z
@@ -3313,14 +3105,6 @@
 🏷 email, email-parsing, eml, eml-files, preview, vscode, vscode-extension, vscode-preview
 
 📒 Preview email message files (EML) in VS Code
-
-## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
-
-⚖️ 2024-05-09T13:19:41Z
-
-🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
-
-📒 WebRTC Data Channel demo
 
 ## [github-pages-local-storage](https://github.com/TomasHubelbauer/github-pages-local-storage)
 
@@ -3410,30 +3194,6 @@
 
 📒 An algorithm for the NMEA checksum calculation for Arduino
 
-## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
-
-⚖️ 2024-07-21T15:15:49Z
-
-🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
-
-📒 KalorickeTabulky.cz Node/browser JavaScript API
-
-## [onewheel-web-bluetooth](https://github.com/TomasHubelbauer/onewheel-web-bluetooth)
-
-⚖️ 2024-08-12T15:02:46Z
-
-🏷 onewheel, web-ble, web-bluetooth, web-bluetooth-api
-
-📒 Onewheel Web Bluetooth
-
-## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
-
-⚖️ 2024-08-17T01:17:24Z
-
-🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
-
-📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
-
 ## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
 
 ⚖️ 2024-08-28T08:34:27Z
@@ -3466,14 +3226,6 @@
 
 📒 A demonstration of using fetch to do a range request and seeing if GitHub Pages support them
 
-## [web-midi](https://github.com/TomasHubelbauer/web-midi)
-
-⚖️ 2024-09-08T20:58:08Z
-
-🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
-
-📒 OP-1 working with web MIDI
-
 ## [op1-svg](https://github.com/TomasHubelbauer/op1-svg)
 
 ⚖️ 2024-09-08T20:59:21Z
@@ -3498,14 +3250,6 @@
 
 📒 null
 
-## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
-
-⚖️ 2024-09-11T03:33:44Z
-
-🏷 ntlite, powershell, ps
-
-📒 PowerShell NTLite installer
-
 ## [ps-inno](https://github.com/TomasHubelbauer/ps-inno)
 
 ⚖️ 2024-09-11T03:34:36Z
@@ -3514,14 +3258,6 @@
 
 📒 PowerShell InnoExtract installer
 
-## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
-
-⚖️ 2024-09-12T18:13:56Z
-
-🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
-
-📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
-
 ## [jam001](https://github.com/TomasHubelbauer/jam001)
 
 ⚖️ 2024-09-15T15:37:32Z
@@ -3529,14 +3265,6 @@
 🏷 
 
 📒 null
-
-## [vscode-markdown-jira-links](https://github.com/TomasHubelbauer/vscode-markdown-jira-links)
-
-⚖️ 2024-09-17T17:45:41Z
-
-🏷 jira, markdown, vscode, vscode-extension
-
-📒 VS Code extension to highlight Jira links in MarkDown
 
 ## [vscode-local-workspace-extensions](https://github.com/TomasHubelbauer/vscode-local-workspace-extensions)
 
@@ -3578,14 +3306,6 @@
 
 📒 A sample of using TypeScript and React in a Bun server.
 
-## [onewheel-charger](https://github.com/TomasHubelbauer/onewheel-charger)
-
-⚖️ 2024-09-28T08:38:47Z
-
-🏷 charger, onewheel, onewheel-charger, onewheel-pint, onewheel-xr
-
-📒 Onewheel Pint and +XR charger specs and connector pinouts
-
 ## [image-editor-poc-react-image-crop](https://github.com/TomasHubelbauer/image-editor-poc-react-image-crop)
 
 ⚖️ 2024-10-02T20:52:53Z
@@ -3593,14 +3313,6 @@
 🏷 
 
 📒 null
-
-## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
-
-⚖️ 2024-10-04T03:34:05Z
-
-🏷 arduino, arduino-qr, dot-matrix, led-matrix, ledcontrol, max7219, qr, qr-code
-
-📒 Arduino LED dot-matrix display QR code
 
 ## [ef-relationship](https://github.com/TomasHubelbauer/ef-relationship)
 
@@ -3690,14 +3402,6 @@
 
 📒 A VS Code extension showing the number of the current week in the IDE status bar
 
-## [ffmpeg-iphone-screen-record](https://github.com/TomasHubelbauer/ffmpeg-iphone-screen-record)
-
-⚖️ 2024-10-28T17:25:12Z
-
-🏷 ffmpeg, idevicescreenshot, iphone, screenshot
-
-📒 FFMPEG iPhone screen recording using screenshots
-
 ## [markright](https://github.com/TomasHubelbauer/markright)
 
 ⚖️ 2024-10-28T23:01:14Z
@@ -3722,14 +3426,6 @@
 
 📒 A customizable tool that migrates older Kentico solutions to the latest version of Xperience by Kentico.
 
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2024-11-14T10:44:20Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
-
 ## [cf-workers-deploy](https://github.com/TomasHubelbauer/cf-workers-deploy)
 
 ⚖️ 2024-11-16T14:23:18Z
@@ -3737,22 +3433,6 @@
 🏷 cloudflare, cloudflare-kv, cloudflare-worker, cloudflare-workers, cloudflare-workers-kv, wrangler
 
 📒 A Node package for deploying a script to CloudFlare Workers without the use of Wrangler
-
-## [canvas-chromatic-aberration](https://github.com/TomasHubelbauer/canvas-chromatic-aberration)
-
-⚖️ 2024-11-17T14:55:29Z
-
-🏷 canvas, chromatic-abberation, html
-
-📒 The chromatic abberation effect implemented in HTML canvas
-
-## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
-
-⚖️ 2024-11-19T11:07:27Z
-
-🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
-
-📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
 
 ## [rust-wasm-canvas](https://github.com/TomasHubelbauer/rust-wasm-canvas)
 
@@ -3810,14 +3490,6 @@
 
 📒 A downloader from the Apple SoftwareUpdate Service (SUS) also known as SWSCAN
 
-## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
-
-⚖️ 2024-12-27T00:05:46Z
-
-🏷 akai, apc-mini, launchpad, midi, usb
-
-📒 Akai APCmini launchpad USB/MIDI communication protocol
-
 ## [csfd-digest](https://github.com/TomasHubelbauer/csfd-digest)
 
 ⚖️ 2025-01-04T00:18:10Z
@@ -3833,22 +3505,6 @@
 🏷 javascript, sqlite, sqlite-database
 
 📒 SQLite database file parser in pure JavaScript
-
-## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
-
-⚖️ 2025-01-06T22:22:40Z
-
-🏷 
-
-📒 null
-
-## [workers-formdata](https://github.com/TomasHubelbauer/workers-formdata)
-
-⚖️ 2025-01-08T16:45:33Z
-
-🏷 cloudflare, cloudflare-workers, formdata, multipart
-
-📒 FormData support for Cloudflare Workers
 
 ## [nextra-mermaid](https://github.com/TomasHubelbauer/nextra-mermaid)
 
@@ -3866,49 +3522,577 @@
 
 📒 null
 
-## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
+## [vscode-markdown-link-suggestions](https://github.com/TomasHubelbauer/vscode-markdown-link-suggestions)
 
-⚖️ 2025-01-14T06:49:39Z
+⚖️ 2025-02-13T19:16:41Z
 
-🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
+🏷 intellisense, link-checker, markdown, vscode, vscode-extension, vscode-plugin
 
-📒 3D SVG projection and animation
+📒 Suggests workspace files and MarkDown file headers in MarkDown links
 
-## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
+## [windows-safari](https://github.com/TomasHubelbauer/windows-safari)
 
-⚖️ 2025-01-15T20:22:15Z
+⚖️ 2025-02-15T15:19:13Z
 
-🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
+🏷 debugger, ios, safari-dev-tools, windows-safari
 
-📒 Raspberry Pi Pico mouse jiggler
+📒 Connecting to the Safari developer tools console from Windows
 
-## [svg-screencast](https://github.com/TomasHubelbauer/svg-screencast)
+## [150.community](https://github.com/TomasHubelbauer/150.community)
 
-⚖️ 2025-01-18T04:23:14Z
+⚖️ 2025-02-20T00:01:22Z
 
-🏷 screencast, screenshot, svg
+🏷 
 
-📒 SVG screencast - animated SVG files from screenshots using CSS animations
+📒 null
+
+## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
+
+⚖️ 2025-02-20T00:01:23Z
+
+🏷 3mf
+
+📒 A script for extracting 3MF files into 3MF directories
+
+## [3mf-zip-uncompressed](https://github.com/TomasHubelbauer/3mf-zip-uncompressed)
+
+⚖️ 2025-02-20T00:01:25Z
+
+🏷 3mf, diff, git, store, zip
+
+📒 An experiment in seeing how no-compression ZIP file will diff in Git
+
+## [acter](https://github.com/TomasHubelbauer/acter)
+
+⚖️ 2025-02-20T00:01:26Z
+
+🏷 javascript, react
+
+📒 My idea about a UI framework
+
+## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
+
+⚖️ 2025-02-20T00:01:28Z
+
+🏷 
+
+📒 GitHub Action to send LGTM reaction
+
+## [ado-bookmarklet](https://github.com/TomasHubelbauer/ado-bookmarklet)
+
+⚖️ 2025-02-20T00:01:30Z
+
+🏷 ado, azure-devops
+
+📒 ADO bookmarklet
+
+## [agendum](https://github.com/TomasHubelbauer/agendum)
+
+⚖️ 2025-02-20T00:01:31Z
+
+🏷 agenda, javascript, task-list, to-do-list
+
+📒 A to-do list
+
+## [akai-apc-mini](https://github.com/TomasHubelbauer/akai-apc-mini)
+
+⚖️ 2025-02-20T00:01:33Z
+
+🏷 akai, apc-mini, launchpad, midi, usb
+
+📒 Akai APCmini launchpad USB/MIDI communication protocol
+
+## [albert](https://github.com/TomasHubelbauer/albert)
+
+⚖️ 2025-02-20T00:01:34Z
+
+🏷 albert, ocr, pdf
+
+📒 Trying to lay out and cluster prices and product images in a supermarket PDF
+
+## [analog-panel-meter](https://github.com/TomasHubelbauer/analog-panel-meter)
+
+⚖️ 2025-02-20T00:01:36Z
+
+🏷 
+
+📒 null
+
+## [fetch-http-basic-auth](https://github.com/TomasHubelbauer/fetch-http-basic-auth)
+
+⚖️ 2025-02-22T10:09:50Z
+
+🏷 
+
+📒 null
+
+## [bun-serve-multiple-ports](https://github.com/TomasHubelbauer/bun-serve-multiple-ports)
+
+⚖️ 2025-02-22T15:16:12Z
+
+🏷 
+
+📒 null
+
+## [localhost.run-custom-domain-https](https://github.com/TomasHubelbauer/localhost.run-custom-domain-https)
+
+⚖️ 2025-02-23T10:48:30Z
+
+🏷 
+
+📒 null
+
+## [bun-static-versus-fetch](https://github.com/TomasHubelbauer/bun-static-versus-fetch)
+
+⚖️ 2025-02-23T11:51:43Z
+
+🏷 
+
+📒 null
+
+## [bun-sse](https://github.com/TomasHubelbauer/bun-sse)
+
+⚖️ 2025-02-26T22:28:32Z
+
+🏷 
+
+📒 null
+
+## [bun-hot-.](https://github.com/TomasHubelbauer/bun-hot-.)
+
+⚖️ 2025-02-26T22:38:30Z
+
+🏷 
+
+📒 null
+
+## [canvas-chromatic-aberration](https://github.com/TomasHubelbauer/canvas-chromatic-aberration)
+
+⚖️ 2025-03-06T05:59:06Z
+
+🏷 canvas, chromatic-abberation, html
+
+📒 The chromatic abberation effect implemented in HTML canvas
+
+## [bun-bundle-service-worker](https://github.com/TomasHubelbauer/bun-bundle-service-worker)
+
+⚖️ 2025-03-09T11:55:51Z
+
+🏷 
+
+📒 null
+
+## [node-apng](https://github.com/TomasHubelbauer/node-apng)
+
+⚖️ 2025-04-16T11:29:31Z
+
+🏷 animated-gif, animated-png, animation, apng, javascript, javascript-library, mng, node, npm, png
+
+📒 A JavaScript library for producing an APNG file from a series of PNG image data buffers
+
+## [sreality-puppeteer-scraper](https://github.com/TomasHubelbauer/sreality-puppeteer-scraper)
+
+⚖️ 2025-04-20T18:56:49Z
+
+🏷 node, nodejs, puppeteer, scraper, sreality, sreality-cz
+
+📒 Scrapes SReality.cs using Puppeteer and reports new and updated posts for a given search.
+
+## [markdown-webp](https://github.com/TomasHubelbauer/markdown-webp)
+
+⚖️ 2025-04-24T22:30:20Z
+
+🏷 apng, gif, html-video, markdown, mng, mp4, svg, webp
+
+📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
+
+## [scrape-github-invoices](https://github.com/TomasHubelbauer/scrape-github-invoices)
+
+⚖️ 2025-05-07T10:41:24Z
+
+🏷 github, invoices, puppeteer, scraper, scraping, scraping-websites
+
+📒 Download invoices from the GitHub billing page to your Downloads automatically using Puppeteer.
+
+## [bun-render](https://github.com/TomasHubelbauer/bun-render)
+
+⚖️ 2025-06-02T22:18:56Z
+
+🏷 
+
+📒 null
+
+## [bun-vercel](https://github.com/TomasHubelbauer/bun-vercel)
+
+⚖️ 2025-06-03T19:04:09Z
+
+🏷 
+
+📒 null
+
+## [bun-fly](https://github.com/TomasHubelbauer/bun-fly)
+
+⚖️ 2025-06-03T19:05:49Z
+
+🏷 
+
+📒 null
+
+## [bun-hosting](https://github.com/TomasHubelbauer/bun-hosting)
+
+⚖️ 2025-06-03T19:27:45Z
+
+🏷 
+
+📒 null
+
+## [fatcow-icons](https://github.com/TomasHubelbauer/fatcow-icons)
+
+⚖️ 2025-06-07T20:07:44Z
+
+🏷 fatcow, fatcow-icons, hubelbauer-net, icon-pack, icon-set, icons
+
+📒 FatCow icons v3.9.2 (I was given a permission to host these on GitHub by FatCow support.)
+
+## [bun-passthrough-server](https://github.com/TomasHubelbauer/bun-passthrough-server)
+
+⚖️ 2025-06-08T12:34:56Z
+
+🏷 
+
+📒 null
+
+## [bun](https://github.com/TomasHubelbauer/bun)
+
+⚖️ 2025-06-10T20:35:40Z
+
+🏷 
+
+📒 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+## [bun.report](https://github.com/TomasHubelbauer/bun.report)
+
+⚖️ 2025-06-10T20:41:00Z
+
+🏷 
+
+📒 null
+
+## [onewheel-web-bluetooth](https://github.com/TomasHubelbauer/onewheel-web-bluetooth)
+
+⚖️ 2025-06-13T18:54:19Z
+
+🏷 onewheel, web-ble, web-bluetooth, web-bluetooth-api
+
+📒 Onewheel Web Bluetooth
+
+## [ffmpeg-iphone-screen-record](https://github.com/TomasHubelbauer/ffmpeg-iphone-screen-record)
+
+⚖️ 2025-06-14T16:44:28Z
+
+🏷 ffmpeg, idevicescreenshot, iphone, screenshot
+
+📒 FFMPEG iPhone screen recording using screenshots
+
+## [vscode-bare-extension](https://github.com/TomasHubelbauer/vscode-bare-extension)
+
+⚖️ 2025-06-22T12:32:09Z
+
+🏷 vscode, vscode-extension
+
+📒 Finding the minimal possible VS Code extension
+
+## [vscode-markdown-jira-links](https://github.com/TomasHubelbauer/vscode-markdown-jira-links)
+
+⚖️ 2025-06-23T09:02:00Z
+
+🏷 jira, markdown, vscode, vscode-extension
+
+📒 VS Code extension to highlight Jira links in MarkDown
+
+## [emoji-canvas](https://github.com/TomasHubelbauer/emoji-canvas)
+
+⚖️ 2025-06-26T20:02:13Z
+
+🏷 canvas, emoji, png
+
+📒 A tool for rendering emojis into transparent images.
+
+## [bun-sliplane](https://github.com/TomasHubelbauer/bun-sliplane)
+
+⚖️ 2025-07-04T18:15:13Z
+
+🏷 
+
+📒 null
+
+## [bun-basic-auth-cookie](https://github.com/TomasHubelbauer/bun-basic-auth-cookie)
+
+⚖️ 2025-07-04T19:41:59Z
+
+🏷 
+
+📒 null
+
+## [safari-offline](https://github.com/TomasHubelbauer/safari-offline)
+
+⚖️ 2025-07-04T22:57:48Z
+
+🏷 offline-app, offline-first, service-worker
+
+📒 An example of a fully ofline web app running in iOS Safari
+
+## [web-midi](https://github.com/TomasHubelbauer/web-midi)
+
+⚖️ 2025-07-10T16:13:56Z
+
+🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
+
+📒 OP-1 working with web MIDI
 
 ## [fastmail](https://github.com/TomasHubelbauer/fastmail)
 
-⚖️ 2025-01-20T03:34:25Z
+⚖️ 2025-07-13T15:03:59Z
 
 🏷 api-token, email, fastmail, fastmail-api, sieve
 
 📒 My exploration of the Fastmail API
 
+## [vscode-esm-url](https://github.com/TomasHubelbauer/vscode-esm-url)
+
+⚖️ 2025-07-13T19:52:38Z
+
+🏷 esm, esmodules, export, import, url, vscode, vscode-extension
+
+📒 VS Code extension adding support for ?search and #fragment in ESM module specifiers
+
+## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
+
+⚖️ 2025-07-22T06:38:22Z
+
+🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
+
+📒 WebRTC Data Channel demo
+
+## [obscure-rss](https://github.com/TomasHubelbauer/obscure-rss)
+
+⚖️ 2025-08-11T10:36:51Z
+
+🏷 events, gigs, obscure
+
+📒 Obscure upcoming events RSS
+
+## [cafe-v-lese-rss](https://github.com/TomasHubelbauer/cafe-v-lese-rss)
+
+⚖️ 2025-08-11T11:25:21Z
+
+🏷 
+
+📒 null
+
+## [dsmacku-rss](https://github.com/TomasHubelbauer/dsmacku-rss)
+
+⚖️ 2025-08-11T12:28:40Z
+
+🏷 
+
+📒 null
+
+## [conspiracy-rss](https://github.com/TomasHubelbauer/conspiracy-rss)
+
+⚖️ 2025-08-12T09:14:00Z
+
+🏷 conspiracy, events, gigs
+
+📒 Conspiracy upcoming events RSS
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 2025-08-15T09:57:53Z
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
+## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
+
+⚖️ 2025-08-21T14:25:29Z
+
+🏷 arduino, arduino-qr, dot-matrix, led-matrix, ledcontrol, max7219, qr, qr-code
+
+📒 Arduino LED dot-matrix display QR code
+
+## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
+
+⚖️ 2025-08-29T03:42:44Z
+
+🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
+
+📒 Brother P-touch D600 label maker USB communication with P-touch Editor
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2025-09-03T23:11:54Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
+
+## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
+
+⚖️ 2025-09-04T20:04:35Z
+
+🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
+
+📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
+
+## [node-puppeteer-apng](https://github.com/TomasHubelbauer/node-puppeteer-apng)
+
+⚖️ 2025-09-11T12:06:53Z
+
+🏷 animated-gif, animated-png, apng, javascript, node, node-library, node-module, png, puppeteer, screencast
+
+📒 A JavaScript library for recording screencasts of URLs or Puppeteer sessions to APNG
+
+## [onewheel-charger](https://github.com/TomasHubelbauer/onewheel-charger)
+
+⚖️ 2025-09-24T14:51:46Z
+
+🏷 charger, onewheel, onewheel-charger, onewheel-pint, onewheel-xr
+
+📒 Onewheel Pint and +XR charger specs and connector pinouts
+
+## [bun-mcp](https://github.com/TomasHubelbauer/bun-mcp)
+
+⚖️ 2025-10-04T10:59:00Z
+
+🏷 agent-mode, bun, copilot, copilot-chat, mcp, mcp-server, vs-code, vscode, vscode-copilot-chat
+
+📒 A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
+
+## [github-actions-wsl](https://github.com/TomasHubelbauer/github-actions-wsl)
+
+⚖️ 2025-10-06T09:29:41Z
+
+🏷 github, github-actions, wsl
+
+📒 Seeing if it is possible to use WSL in Windows based GitHub Actions agents
+
+## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
+
+⚖️ 2025-10-06T20:51:42Z
+
+🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
+
+📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
+
+## [cursor-agent-windows](https://github.com/TomasHubelbauer/cursor-agent-windows)
+
+⚖️ 2025-10-10T13:05:03Z
+
+🏷 
+
+📒 null
+
+## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
+
+⚖️ 2025-10-14T10:03:51Z
+
+🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
+
+📒 KalorickeTabulky.cz Node/browser JavaScript API
+
 ## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
 
-⚖️ 2025-01-22T20:53:32Z
+⚖️ 2025-10-23T14:13:24Z
 
 🏷 bun, javascript, proxy-server, reverse-proxy, reverse-proxy-server, typescript
 
 📒 Bun reverse proxy
 
+## [svg-screencast](https://github.com/TomasHubelbauer/svg-screencast)
+
+⚖️ 2025-10-24T13:11:57Z
+
+🏷 screencast, screenshot, svg
+
+📒 SVG screencast - animated SVG files from screenshots using CSS animations
+
+## [ps-ntlite](https://github.com/TomasHubelbauer/ps-ntlite)
+
+⚖️ 2025-10-25T14:18:33Z
+
+🏷 ntlite, powershell, ps
+
+📒 PowerShell NTLite installer
+
+## [mcp-a2a](https://github.com/TomasHubelbauer/mcp-a2a)
+
+⚖️ 2025-10-29T12:08:16Z
+
+🏷 
+
+📒 null
+
+## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
+
+⚖️ 2025-11-04T18:08:07Z
+
+🏷 
+
+📒 null
+
+## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
+
+⚖️ 2025-11-08T19:27:43Z
+
+🏷 map, maps, open-street-map, osm, raster-tiles
+
+📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
+
+## [mime-multipart](https://github.com/TomasHubelbauer/mime-multipart)
+
+⚖️ 2025-11-09T14:18:43Z
+
+🏷 mime, multipart
+
+📒 JavaScript MIME Multipart Parser
+
+## [workers-formdata](https://github.com/TomasHubelbauer/workers-formdata)
+
+⚖️ 2025-11-09T14:27:55Z
+
+🏷 cloudflare, cloudflare-workers, formdata, multipart
+
+📒 FormData support for Cloudflare Workers
+
+## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
+
+⚖️ 2025-11-18T15:11:57Z
+
+🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
+
+📒 3D SVG projection and animation
+
+## [windows-sandbox-script](https://github.com/TomasHubelbauer/windows-sandbox-script)
+
+⚖️ 2025-11-22T13:14:49Z
+
+🏷 windows-sandbox, wsb
+
+📒 Windows Sandbox exploration
+
+## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
+
+⚖️ 2025-11-30T23:31:16Z
+
+🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
+
+📒 Raspberry Pi Pico mouse jiggler
+
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-01-23T12:11:29Z
+⚖️ 2025-12-04T22:16:23Z
 
 🏷 tomashubelbauer
 

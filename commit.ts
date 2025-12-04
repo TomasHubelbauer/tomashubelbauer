@@ -1,4 +1,4 @@
-import name from './name.js';
+import name from './name.ts';
 
 export default function commit(repo, payload) {
   // TODO: Find out a new way to get the commit name

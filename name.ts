@@ -1,4 +1,4 @@
-import login from './login.js';
+import login from './login.ts';
 
 export default function name(name) {
   const [user, repo] = name.split('/');

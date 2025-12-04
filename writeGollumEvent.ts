@@ -1,4 +1,4 @@
-import name from './name.js';
+import name from './name.ts';
 
 // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#gollumevent
 export default function writeGollumEvent(event) {

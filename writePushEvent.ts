@@ -1,4 +1,4 @@
-import commit from './commit.js';
+import commit from './commit.ts';
 
 // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#pushevent
 export default function writePushEvent(event) {

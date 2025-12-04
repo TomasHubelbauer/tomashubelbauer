@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2025-01-23T13:12:24.362Z
+2025-12-04T23:09:09.775Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1498,6 +1498,14 @@
 
 📒 2:43 @ 05:58 (Prague) / 20:58 (Ludwig)
 
+## [obscure-rss](https://github.com/TomasHubelbauer/obscure-rss)
+
+⚖️ obscure-rss
+
+🏷 events, gigs, obscure
+
+📒 Obscure upcoming events RSS
+
 ## [obs](https://github.com/TomasHubelbauer/obs)
 
 ⚖️ obs
@@ -1818,6 +1826,14 @@
 
 📒 Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
+## [mcp-a2a](https://github.com/TomasHubelbauer/mcp-a2a)
+
+⚖️ mcp-a2a
+
+🏷 
+
+📒 null
+
 ## [markright-vscode](https://github.com/TomasHubelbauer/markright-vscode)
 
 ⚖️ markright-vscode
@@ -1921,6 +1937,14 @@
 🏷 language-server-protocol, lsp, vscode
 
 📒 A prototyping repository for the TS Server plugin adding partial support for URL in ESM statements
+
+## [localhost.run-custom-domain-https](https://github.com/TomasHubelbauer/localhost.run-custom-domain-https)
+
+⚖️ localhost.run-custom-domain-https
+
+🏷 
+
+📒 null
 
 ## [live-cards](https://github.com/TomasHubelbauer/live-cards)
 
@@ -2810,6 +2834,14 @@
 
 📒 null
 
+## [fetch-http-basic-auth](https://github.com/TomasHubelbauer/fetch-http-basic-auth)
+
+⚖️ fetch-http-basic-auth
+
+🏷 
+
+📒 null
+
 ## [fetch-download-progress](https://github.com/TomasHubelbauer/fetch-download-progress)
 
 ⚖️ fetch-download-progress
@@ -2945,6 +2977,14 @@
 🏷 javascript, library, protobuf, sqlite, varint
 
 📒 ESM (and non-ESM) JavaScript varint library
+
+## [emoji-canvas](https://github.com/TomasHubelbauer/emoji-canvas)
+
+⚖️ emoji-canvas
+
+🏷 canvas, emoji, png
+
+📒 A tool for rendering emojis into transparent images.
 
 ## [eml-html](https://github.com/TomasHubelbauer/eml-html)
 
@@ -3138,6 +3178,14 @@
 
 📒 Information on how to disable tab discarding in Edge
 
+## [dsmacku-rss](https://github.com/TomasHubelbauer/dsmacku-rss)
+
+⚖️ dsmacku-rss
+
+🏷 
+
+📒 null
+
 ## [drawer-divider](https://github.com/TomasHubelbauer/drawer-divider)
 
 ⚖️ drawer-divider
@@ -3233,6 +3281,14 @@
 🏷 adg, dagre, dotviz, graph
 
 📒 A web app for playing around with Dagre charts
+
+## [cursor-agent-windows](https://github.com/TomasHubelbauer/cursor-agent-windows)
+
+⚖️ cursor-agent-windows
+
+🏷 
+
+📒 null
 
 ## [css-wrap](https://github.com/TomasHubelbauer/css-wrap)
 
@@ -3426,6 +3482,14 @@
 
 📒 Making contenteditable less useless
 
+## [conspiracy-rss](https://github.com/TomasHubelbauer/conspiracy-rss)
+
+⚖️ conspiracy-rss
+
+🏷 conspiracy, events, gigs
+
+📒 Conspiracy upcoming events RSS
+
 ## [config-lsp](https://github.com/TomasHubelbauer/config-lsp)
 
 ⚖️ config-lsp
@@ -3514,6 +3578,14 @@
 
 📒 A 3D model for a camera holder / stand that slots into the gaps in a VESA monitor mount
 
+## [cafe-v-lese-rss](https://github.com/TomasHubelbauer/cafe-v-lese-rss)
+
+⚖️ cafe-v-lese-rss
+
+🏷 
+
+📒 null
+
 ## [cable-case](https://github.com/TomasHubelbauer/cable-case)
 
 ⚖️ cable-case
@@ -3521,6 +3593,14 @@
 🏷 3d-model, 3d-print, stl
 
 📒 A 3D model for a case to wind cables in.
+
+## [bun.report](https://github.com/TomasHubelbauer/bun.report)
+
+⚖️ bun.report
+
+🏷 
+
+📒 null
 
 ## [bun-vm-typescript](https://github.com/TomasHubelbauer/bun-vm-typescript)
 
@@ -3530,9 +3610,49 @@
 
 📒 null
 
+## [bun-vercel](https://github.com/TomasHubelbauer/bun-vercel)
+
+⚖️ bun-vercel
+
+🏷 
+
+📒 null
+
 ## [bun-throw-after-return](https://github.com/TomasHubelbauer/bun-throw-after-return)
 
 ⚖️ bun-throw-after-return
+
+🏷 
+
+📒 null
+
+## [bun-static-versus-fetch](https://github.com/TomasHubelbauer/bun-static-versus-fetch)
+
+⚖️ bun-static-versus-fetch
+
+🏷 
+
+📒 null
+
+## [bun-sse](https://github.com/TomasHubelbauer/bun-sse)
+
+⚖️ bun-sse
+
+🏷 
+
+📒 null
+
+## [bun-sliplane](https://github.com/TomasHubelbauer/bun-sliplane)
+
+⚖️ bun-sliplane
+
+🏷 
+
+📒 null
+
+## [bun-serve-multiple-ports](https://github.com/TomasHubelbauer/bun-serve-multiple-ports)
+
+⚖️ bun-serve-multiple-ports
 
 🏷 
 
@@ -3562,6 +3682,14 @@
 
 📒 Bun reverse proxy
 
+## [bun-render](https://github.com/TomasHubelbauer/bun-render)
+
+⚖️ bun-render
+
+🏷 
+
+📒 null
+
 ## [bun-react](https://github.com/TomasHubelbauer/bun-react)
 
 ⚖️ bun-react
@@ -3578,9 +3706,41 @@
 
 📒 null
 
+## [bun-mcp](https://github.com/TomasHubelbauer/bun-mcp)
+
+⚖️ bun-mcp
+
+🏷 agent-mode, bun, copilot, copilot-chat, mcp, mcp-server, vs-code, vscode, vscode-copilot-chat
+
+📒 A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
+
+## [bun-hot-.](https://github.com/TomasHubelbauer/bun-hot-.)
+
+⚖️ bun-hot-.
+
+🏷 
+
+📒 null
+
+## [bun-hosting](https://github.com/TomasHubelbauer/bun-hosting)
+
+⚖️ bun-hosting
+
+🏷 
+
+📒 null
+
 ## [bun-function-constructor-typescript](https://github.com/TomasHubelbauer/bun-function-constructor-typescript)
 
 ⚖️ bun-function-constructor-typescript
+
+🏷 
+
+📒 null
+
+## [bun-fly](https://github.com/TomasHubelbauer/bun-fly)
+
+⚖️ bun-fly
 
 🏷 
 
@@ -3617,6 +3777,30 @@
 🏷 
 
 📒 null
+
+## [bun-bundle-service-worker](https://github.com/TomasHubelbauer/bun-bundle-service-worker)
+
+⚖️ bun-bundle-service-worker
+
+🏷 
+
+📒 null
+
+## [bun-basic-auth-cookie](https://github.com/TomasHubelbauer/bun-basic-auth-cookie)
+
+⚖️ bun-basic-auth-cookie
+
+🏷 
+
+📒 null
+
+## [bun](https://github.com/TomasHubelbauer/bun)
+
+⚖️ bun
+
+🏷 
+
+📒 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## [bt-channel](https://github.com/TomasHubelbauer/bt-channel)
 

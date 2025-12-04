@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2025-01-23T13:12:24.378Z
+2025-12-04T23:09:09.786Z
 
 ## [next.js](https://github.com/TomasHubelbauer/next.js)
 
@@ -41,6 +41,14 @@
 🏷 
 
 📒 Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+
+## [bun](https://github.com/TomasHubelbauer/bun)
+
+⚖️ 217668
+
+🏷 
+
+📒 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## [electron](https://github.com/TomasHubelbauer/electron)
 
@@ -130,14 +138,6 @@
 
 📒 A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 33855
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [js-qr-scanner-library-comparison](https://github.com/TomasHubelbauer/js-qr-scanner-library-comparison)
 
 ⚖️ 31756
@@ -145,6 +145,14 @@
 🏷 benchmark, comparison, qr, qr-code, qr-codes, qrcode, qrcode-reader, qrcode-scanner
 
 📒 A comparison of JavaScript QR scanner libraries
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 29584
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [globus](https://github.com/TomasHubelbauer/globus)
 
@@ -530,6 +538,14 @@
 
 📒 HN Pop-up lets you quickly glance at a user's profile without leaving the page you're on. You can quickly see a user's bio, karma and account age
 
+## [bun-mcp](https://github.com/TomasHubelbauer/bun-mcp)
+
+⚖️ 829
+
+🏷 agent-mode, bun, copilot, copilot-chat, mcp, mcp-server, vs-code, vscode, vscode-copilot-chat
+
+📒 A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
+
 ## [mic-holder](https://github.com/TomasHubelbauer/mic-holder)
 
 ⚖️ 715
@@ -569,6 +585,14 @@
 🏷 rbc, react-big-calendar
 
 📒 A demonstration of how to make RBC time gutter labels formatted in either 12 or 24 hour format
+
+## [cursor-agent-windows](https://github.com/TomasHubelbauer/cursor-agent-windows)
+
+⚖️ 560
+
+🏷 
+
+📒 null
 
 ## [esm-uzip-js](https://github.com/TomasHubelbauer/esm-uzip-js)
 
@@ -633,6 +657,14 @@
 🏷 email, markdown, regex-pattern, vscode, vscode-extension, vscode-plugin
 
 📒 VS Code extension to highlight email addresses in MarkDown
+
+## [bun-sliplane](https://github.com/TomasHubelbauer/bun-sliplane)
+
+⚖️ 469
+
+🏷 
+
+📒 null
 
 ## [globe-perf](https://github.com/TomasHubelbauer/globe-perf)
 
@@ -738,6 +770,14 @@
 
 📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 312
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
 ## [three-op-1](https://github.com/TomasHubelbauer/three-op-1)
 
 ⚖️ 307
@@ -746,13 +786,13 @@
 
 📒 An OP-1 model in ThreeJS
 
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+## [bun-basic-auth-cookie](https://github.com/TomasHubelbauer/bun-basic-auth-cookie)
 
-⚖️ 303
+⚖️ 305
 
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+🏷 
 
-📒 My personal website
+📒 null
 
 ## [react-icon](https://github.com/TomasHubelbauer/react-icon)
 
@@ -825,6 +865,14 @@
 🏷 3d-model, 3d-printing, stl
 
 📒 A 3D model for a drawer divider
+
+## [bun.report](https://github.com/TomasHubelbauer/bun.report)
+
+⚖️ 199
+
+🏷 
+
+📒 null
 
 ## [track-maker](https://github.com/TomasHubelbauer/track-maker)
 
@@ -1042,6 +1090,14 @@
 
 📒 A proof of concept for a basic image editor to display following an image upload.
 
+## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
+
+⚖️ 99
+
+🏷 map, maps, open-street-map, osm, raster-tiles
+
+📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
+
 ## [todo-comments-github-issues](https://github.com/TomasHubelbauer/todo-comments-github-issues)
 
 ⚖️ 97
@@ -1218,6 +1274,14 @@
 
 📒 ADO bookmarklet
 
+## [bun-static-versus-fetch](https://github.com/TomasHubelbauer/bun-static-versus-fetch)
+
+⚖️ 58
+
+🏷 
+
+📒 null
+
 ## [regex](https://github.com/TomasHubelbauer/regex)
 
 ⚖️ 58
@@ -1225,6 +1289,14 @@
 🏷 regex, regexp
 
 📒 Online JavaScript regex designer with nice code editor and syntax highlighting
+
+## [bun-bundle-service-worker](https://github.com/TomasHubelbauer/bun-bundle-service-worker)
+
+⚖️ 56
+
+🏷 
+
+📒 null
 
 ## [keytar-vscode-extension](https://github.com/TomasHubelbauer/keytar-vscode-extension)
 
@@ -1273,14 +1345,6 @@
 🏷 advent-of-code, advent-of-code-2023, aoc, elixir
 
 📒 My Elixir Advent of Code 2023 puzzle solutions.
-
-## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
-
-⚖️ 49
-
-🏷 map, maps, open-street-map, osm, raster-tiles
-
-📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
 
 ## [rbc-components](https://github.com/TomasHubelbauer/rbc-components)
 
@@ -1337,6 +1401,14 @@
 🏷 hyper-v, sandbox, virtual-machine, vm
 
 📒 Hyper-V PowerShell script for running a script in a temporary VM
+
+## [fetch-http-basic-auth](https://github.com/TomasHubelbauer/fetch-http-basic-auth)
+
+⚖️ 41
+
+🏷 
+
+📒 null
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -2330,6 +2402,14 @@
 
 📒 Using Flirc to control an IR LED strip
 
+## [localhost.run-custom-domain-https](https://github.com/TomasHubelbauer/localhost.run-custom-domain-https)
+
+⚖️ 6
+
+🏷 
+
+📒 null
+
 ## [paper-roll-holder](https://github.com/TomasHubelbauer/paper-roll-holder)
 
 ⚖️ 6
@@ -2610,6 +2690,22 @@
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
 
+## [conspiracy-rss](https://github.com/TomasHubelbauer/conspiracy-rss)
+
+⚖️ 4
+
+🏷 conspiracy, events, gigs
+
+📒 Conspiracy upcoming events RSS
+
+## [bun-hosting](https://github.com/TomasHubelbauer/bun-hosting)
+
+⚖️ 4
+
+🏷 
+
+📒 null
+
 ## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
 
 ⚖️ 4
@@ -2761,6 +2857,22 @@
 🏷 3d, 3d-modeling, 3d-modelling, blender, merge-faces
 
 📒 My research into merging faces in Blender
+
+## [cafe-v-lese-rss](https://github.com/TomasHubelbauer/cafe-v-lese-rss)
+
+⚖️ 3
+
+🏷 
+
+📒 null
+
+## [obscure-rss](https://github.com/TomasHubelbauer/obscure-rss)
+
+⚖️ 3
+
+🏷 events, gigs, obscure
+
+📒 Obscure upcoming events RSS
 
 ## [bun-runtime-plugin-onResolve-sync-async-import](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-sync-async-import)
 
@@ -3122,6 +3234,22 @@
 
 📒 A demonstration of setting desktop wallpaper and background color using Batch
 
+## [emoji-canvas](https://github.com/TomasHubelbauer/emoji-canvas)
+
+⚖️ 2
+
+🏷 canvas, emoji, png
+
+📒 A tool for rendering emojis into transparent images.
+
+## [bun-vercel](https://github.com/TomasHubelbauer/bun-vercel)
+
+⚖️ 2
+
+🏷 
+
+📒 null
+
 ## [markdown-mermaid-sequence](https://github.com/TomasHubelbauer/markdown-mermaid-sequence)
 
 ⚖️ 2
@@ -3426,6 +3554,38 @@
 
 📒 Notes for using Blender with VS Code
 
+## [bun-passthrough-server](https://github.com/TomasHubelbauer/bun-passthrough-server)
+
+⚖️ 1
+
+🏷 
+
+📒 null
+
+## [bun-render](https://github.com/TomasHubelbauer/bun-render)
+
+⚖️ 1
+
+🏷 
+
+📒 null
+
+## [bun-hot-.](https://github.com/TomasHubelbauer/bun-hot-.)
+
+⚖️ 1
+
+🏷 
+
+📒 null
+
+## [bun-sse](https://github.com/TomasHubelbauer/bun-sse)
+
+⚖️ 1
+
+🏷 
+
+📒 null
+
 ## [filelist-weakmap-demo](https://github.com/TomasHubelbauer/filelist-weakmap-demo)
 
 ⚖️ 1
@@ -3435,14 +3595,6 @@
 📒 null
 
 ## [upload-indicator-copy](https://github.com/TomasHubelbauer/upload-indicator-copy)
-
-⚖️ 1
-
-🏷 
-
-📒 null
-
-## [bun-passthrough-server](https://github.com/TomasHubelbauer/bun-passthrough-server)
 
 ⚖️ 1
 
@@ -3817,6 +3969,38 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
+
+## [mcp-a2a](https://github.com/TomasHubelbauer/mcp-a2a)
+
+⚖️ 0
+
+🏷 
+
+📒 null
+
+## [dsmacku-rss](https://github.com/TomasHubelbauer/dsmacku-rss)
+
+⚖️ 0
+
+🏷 
+
+📒 null
+
+## [bun-fly](https://github.com/TomasHubelbauer/bun-fly)
+
+⚖️ 0
+
+🏷 
+
+📒 null
+
+## [bun-serve-multiple-ports](https://github.com/TomasHubelbauer/bun-serve-multiple-ports)
+
+⚖️ 0
+
+🏷 
+
+📒 null
 
 ## [image-editor-poc-cropperjs](https://github.com/TomasHubelbauer/image-editor-poc-cropperjs)
 

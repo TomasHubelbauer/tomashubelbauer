@@ -1,6 +1,6 @@
 import fs from 'fs';
-import headers from './headers.js';
-import reportRateLimit from './reportRateLimit.js';
+import headers from './headers.ts';
+import reportRateLimit from './reportRateLimit.ts';
 
 /**
  * 

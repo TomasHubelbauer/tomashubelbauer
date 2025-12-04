@@ -1,5 +1,5 @@
-import branch from './branch.js';
-import name from './name.js';
+import branch from './branch.ts';
+import name from './name.ts';
 
 // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#createevent
 export default function writeCreateEvent(event) {

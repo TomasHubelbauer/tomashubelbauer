@@ -1,5 +1,5 @@
-import issue from './issue.js';
-import name from './name.js';
+import issue from './issue.ts';
+import name from './name.ts';
 
 // https://docs.github.com/en/developers/webhooks-and-events/github-event-types#issuecommentevent
 export default function writeIssueCommentEvent(event) {

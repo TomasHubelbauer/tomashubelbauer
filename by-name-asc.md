@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2025-01-23T13:12:24.361Z
+2025-12-04T23:09:09.773Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -298,6 +298,30 @@
 
 📒 Thinking about using Web Bluetooth for WebRTC SDP exchange
 
+## [bun](https://github.com/TomasHubelbauer/bun)
+
+⚖️ bun
+
+🏷 
+
+📒 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+## [bun-basic-auth-cookie](https://github.com/TomasHubelbauer/bun-basic-auth-cookie)
+
+⚖️ bun-basic-auth-cookie
+
+🏷 
+
+📒 null
+
+## [bun-bundle-service-worker](https://github.com/TomasHubelbauer/bun-bundle-service-worker)
+
+⚖️ bun-bundle-service-worker
+
+🏷 
+
+📒 null
+
 ## [bun-domparser](https://github.com/TomasHubelbauer/bun-domparser)
 
 ⚖️ bun-domparser
@@ -330,6 +354,14 @@
 
 📒 null
 
+## [bun-fly](https://github.com/TomasHubelbauer/bun-fly)
+
+⚖️ bun-fly
+
+🏷 
+
+📒 null
+
 ## [bun-function-constructor-typescript](https://github.com/TomasHubelbauer/bun-function-constructor-typescript)
 
 ⚖️ bun-function-constructor-typescript
@@ -337,6 +369,30 @@
 🏷 
 
 📒 null
+
+## [bun-hosting](https://github.com/TomasHubelbauer/bun-hosting)
+
+⚖️ bun-hosting
+
+🏷 
+
+📒 null
+
+## [bun-hot-.](https://github.com/TomasHubelbauer/bun-hot-.)
+
+⚖️ bun-hot-.
+
+🏷 
+
+📒 null
+
+## [bun-mcp](https://github.com/TomasHubelbauer/bun-mcp)
+
+⚖️ bun-mcp
+
+🏷 agent-mode, bun, copilot, copilot-chat, mcp, mcp-server, vs-code, vscode, vscode-copilot-chat
+
+📒 A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
 
 ## [bun-passthrough-server](https://github.com/TomasHubelbauer/bun-passthrough-server)
 
@@ -353,6 +409,14 @@
 🏷 
 
 📒 A sample of using TypeScript and React in a Bun server.
+
+## [bun-render](https://github.com/TomasHubelbauer/bun-render)
+
+⚖️ bun-render
+
+🏷 
+
+📒 null
 
 ## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
 
@@ -378,9 +442,49 @@
 
 📒 null
 
+## [bun-serve-multiple-ports](https://github.com/TomasHubelbauer/bun-serve-multiple-ports)
+
+⚖️ bun-serve-multiple-ports
+
+🏷 
+
+📒 null
+
+## [bun-sliplane](https://github.com/TomasHubelbauer/bun-sliplane)
+
+⚖️ bun-sliplane
+
+🏷 
+
+📒 null
+
+## [bun-sse](https://github.com/TomasHubelbauer/bun-sse)
+
+⚖️ bun-sse
+
+🏷 
+
+📒 null
+
+## [bun-static-versus-fetch](https://github.com/TomasHubelbauer/bun-static-versus-fetch)
+
+⚖️ bun-static-versus-fetch
+
+🏷 
+
+📒 null
+
 ## [bun-throw-after-return](https://github.com/TomasHubelbauer/bun-throw-after-return)
 
 ⚖️ bun-throw-after-return
+
+🏷 
+
+📒 null
+
+## [bun-vercel](https://github.com/TomasHubelbauer/bun-vercel)
+
+⚖️ bun-vercel
 
 🏷 
 
@@ -394,6 +498,14 @@
 
 📒 null
 
+## [bun.report](https://github.com/TomasHubelbauer/bun.report)
+
+⚖️ bun.report
+
+🏷 
+
+📒 null
+
 ## [cable-case](https://github.com/TomasHubelbauer/cable-case)
 
 ⚖️ cable-case
@@ -401,6 +513,14 @@
 🏷 3d-model, 3d-print, stl
 
 📒 A 3D model for a case to wind cables in.
+
+## [cafe-v-lese-rss](https://github.com/TomasHubelbauer/cafe-v-lese-rss)
+
+⚖️ cafe-v-lese-rss
+
+🏷 
+
+📒 null
 
 ## [camera-stand](https://github.com/TomasHubelbauer/camera-stand)
 
@@ -489,6 +609,14 @@
 🏷 
 
 📒 Finally a LSP for your config files: gitconfig, fstab, aliases, hosts, wireguard, ssh_config, sshd_config, and more to come!
+
+## [conspiracy-rss](https://github.com/TomasHubelbauer/conspiracy-rss)
+
+⚖️ conspiracy-rss
+
+🏷 conspiracy, events, gigs
+
+📒 Conspiracy upcoming events RSS
 
 ## [contenteditable](https://github.com/TomasHubelbauer/contenteditable)
 
@@ -682,6 +810,14 @@
 
 📒 Displaying advanced CSS wrap options
 
+## [cursor-agent-windows](https://github.com/TomasHubelbauer/cursor-agent-windows)
+
+⚖️ cursor-agent-windows
+
+🏷 
+
+📒 null
+
 ## [dagre](https://github.com/TomasHubelbauer/dagre)
 
 ⚖️ dagre
@@ -777,6 +913,14 @@
 🏷 3d-model, 3d-printing, stl
 
 📒 A 3D model for a drawer divider
+
+## [dsmacku-rss](https://github.com/TomasHubelbauer/dsmacku-rss)
+
+⚖️ dsmacku-rss
+
+🏷 
+
+📒 null
 
 ## [edge](https://github.com/TomasHubelbauer/edge)
 
@@ -970,6 +1114,14 @@
 
 📒 Information about HTML support in EML
 
+## [emoji-canvas](https://github.com/TomasHubelbauer/emoji-canvas)
+
+⚖️ emoji-canvas
+
+🏷 canvas, emoji, png
+
+📒 A tool for rendering emojis into transparent images.
+
 ## [esm-dataview-getvarint](https://github.com/TomasHubelbauer/esm-dataview-getvarint)
 
 ⚖️ esm-dataview-getvarint
@@ -1105,6 +1257,14 @@
 🏷 download-progress, fetch
 
 📒 Demonstrating the use of reader to display a progress of fetch download
+
+## [fetch-http-basic-auth](https://github.com/TomasHubelbauer/fetch-http-basic-auth)
+
+⚖️ fetch-http-basic-auth
+
+🏷 
+
+📒 null
 
 ## [fetch-localhost](https://github.com/TomasHubelbauer/fetch-localhost)
 
@@ -1994,6 +2154,14 @@
 
 📒 null
 
+## [localhost.run-custom-domain-https](https://github.com/TomasHubelbauer/localhost.run-custom-domain-https)
+
+⚖️ localhost.run-custom-domain-https
+
+🏷 
+
+📒 null
+
 ## [lsp-plugin](https://github.com/TomasHubelbauer/lsp-plugin)
 
 ⚖️ lsp-plugin
@@ -2097,6 +2265,14 @@
 🏷 markright
 
 📒 MarkRight VS Code extension
+
+## [mcp-a2a](https://github.com/TomasHubelbauer/mcp-a2a)
+
+⚖️ mcp-a2a
+
+🏷 
+
+📒 null
 
 ## [mermaid](https://github.com/TomasHubelbauer/mermaid)
 
@@ -2417,6 +2593,14 @@
 🏷 obs, open-broadcaster-software
 
 📒 Information about OBS (open broadcaster software) and plugin development for it
+
+## [obscure-rss](https://github.com/TomasHubelbauer/obscure-rss)
+
+⚖️ obscure-rss
+
+🏷 events, gigs, obscure
+
+📒 Obscure upcoming events RSS
 
 ## [ocr](https://github.com/TomasHubelbauer/ocr)
 

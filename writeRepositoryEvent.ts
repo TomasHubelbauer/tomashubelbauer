@@ -1,4 +1,4 @@
-import name from './name.js';
+import name from './name.ts';
 
 // Note that this is a virtual, fake event created above by myself
 export default function writeRepositoryEvent(event) {
