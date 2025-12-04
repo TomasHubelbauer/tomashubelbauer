@@ -23,8 +23,7 @@ jobs:
 
       - name: Run the workflow script using the integration personal access token
         run: |
-          npm install
-          bun test
+          bun install
           bun . ${{github.token}}
 
       - name: Upload JSON response artifacts for debugging in case of failure
