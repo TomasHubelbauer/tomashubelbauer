@@ -47,11 +47,7 @@ jobs:
           name: todos.json
           path: todos.json
 
-      - name: Drop history of auto-generated files (readme.md, prs.md issues.md)
-        run: |
-          FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch --force --index-filter "git rm --ignore-unmatch readme.md prs.md issues.md" --prune-empty HEAD
-
-      - name: Commit and force push Git changes back to the workflow repository
+      - name: Stage the changes to Git
         run: |
           set -e
           set -x
@@ -72,7 +68,16 @@ jobs:
             exit
           fi
 
-          # Commit the staged changes to the workflow repository
+      - name: Drop history of auto-generated files (readme.md, prs.md issues.md)
+        run: |
+          FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch --force --index-filter "git rm --ignore-unmatch readme.md prs.md issues.md" --prune-empty HEAD
+
+      - name: Commit and force push Git changes back to the workflow repository
+        run: |
+          set -e
+          set -x
+
+          # Commit the staged history-less changes to the workflow repository
           git commit -m "Generate the profile repository readme" -m "This commit was automatically generated via GitHub Actions"
 
           # Push the commit to the workflow repository using force since we rewrote history
