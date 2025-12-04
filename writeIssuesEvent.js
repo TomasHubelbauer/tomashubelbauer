@@ -16,6 +16,9 @@ export default function writeIssuesEvent(event) {
     case 'closed': {
       return `🗑🎫 closed${issue(event.payload.issue)}\n  in${name(event.repo.name)}`;
     }
+    case 'labeled': {
+      return `🏷🎫 labeled${issue(event.payload.issue)}\n  in${name(event.repo.name)}`;
+    }
     default: {
       throw new Error(`Unhandled issues event ${event.payload.action}.`);
     }
