@@ -47,11 +47,13 @@ console.log('Downloaded', artifacts.length, 'artifacts');
 
 // Recover remembered followers for later comparison and change detection
 console.log(artifacts);
-const staleFollowers = await fetch(artifacts.find(artifact => artifact.name === 'followers.json').archive_download_url, { headers })
+
+const followersArtifact = artifacts.find(artifact => artifact.name === 'followers.json');
+
+const staleFollowers = followersArtifact ? await fetch(followersArtifact.archive_download_url, { headers })
   .then(response => response.arrayBuffer())
   .then(arrayBuffer => extract(Buffer.from(arrayBuffer)))
-  .then(buffer => JSON.parse(buffer))
-  ;
+  .then(buffer => JSON.parse(buffer)) : [];
 
 // Fetch current followers for later comparison and change detection
 const freshFollowers = await downloadPages(`${process.env.GITHUB_API_URL}/users/${login}/followers?page_page=100`);
@@ -124,15 +126,15 @@ for (const [field, order] of [['name', 'asc'], ['name', 'desc'], ['updated_at', 
       console.log(`Empty '${field}' field:`);
       console.log(a);
     }
-    
+
     // Use strict equality checks not `!field` to accept zeros
     const bField = b[field];
     if (bField === null || bField === undefined) {
       console.log(`Empty '${field}' field:`);
       console.log(b);
     }
-    
-    const sortOrder = `${typeof aField}-${typeof bField}-${order}`; 
+
+    const sortOrder = `${typeof aField}-${typeof bField}-${order}`;
     switch (sortOrder) {
       case 'string-string-asc': return aField.localeCompare(bField);
       case 'string-string-desc': return bField.localeCompare(aField);
@@ -156,18 +158,22 @@ for (const [field, order] of [['name', 'asc'], ['name', 'desc'], ['updated_at', 
   console.groupEnd();
 }
 
-const todos = await fetch(artifacts.find(artifact => artifact.name === 'todos.json').archive_download_url, { headers })
+const todosArtifact = artifacts.find(artifact => artifact.name === 'todos.json');
+
+const todos = todosArtifact ? await fetch(todosArtifact.archive_download_url, { headers })
   .then(response => response.arrayBuffer())
   .then(arrayBuffer => extract(Buffer.from(arrayBuffer)))
-  .then(buffer => JSON.parse(buffer))
-  ;
+  .then(buffer => JSON.parse(buffer)) : [];
+;
 
 // Extract tracked attributes of each repository (used for change detection)
-const _repositories = await fetch(artifacts.find(artifact => artifact.name === 'repositories.json').archive_download_url, { headers })
+const repositoriesArtifact = artifacts.find(artifact => artifact.name === 'repositories.json');
+
+const _repositories = repositoriesArtifact ? await fetch(repositoriesArtifact.archive_download_url, { headers })
   .then(response => response.arrayBuffer())
   .then(arrayBuffer => extract(Buffer.from(arrayBuffer)))
-  .then(buffer => JSON.parse(buffer))
-  ;
+  .then(buffer => JSON.parse(buffer)) : [];
+;
 
 const deletedRepositories = Object.keys(_repositories).filter(name => !repositories.find(repository => repository.name === name));
 for (const deletedRepository of deletedRepositories) {
