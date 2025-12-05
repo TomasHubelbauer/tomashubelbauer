@@ -493,7 +493,8 @@ const identicalForksContentMarkDown =
   "# Identical forks\n\n" +
   identicalForks
     .map(
-      (fork) => `- [${fork}](${process.env.GITHUB_SERVER_URL}/${login}/${fork})`
+      (fork) =>
+        `- [${fork}](${process.env.GITHUB_SERVER_URL}/${login}/${fork}) ([Go to Settings > Delete](${process.env.GITHUB_SERVER_URL}/${login}/${fork}/settings#danger-zone))`
     )
     .join("\n\n") +
   "\n";
