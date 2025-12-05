@@ -1,11 +1,3 @@
-/* https://github.com/TomasHubelbauer/node-extract-zip */
-
-import util from "util";
-import zlib from "zlib";
-
-/**
- * Extracts a single file from a single-file DEFLATE ZIP archive.
- */
 export default async function extract(buffer: Buffer) {
   // https://en.wikipedia.org/wiki/ZIP_(file_format)#End_of_central_directory_record_(EOCD)
   const eocdIndex = buffer.indexOf(
@@ -62,7 +54,13 @@ export default async function extract(buffer: Buffer) {
     buffer.readUint16LE(lfhIndex + 26) +
     buffer.readUint16LE(lfhIndex + 28);
 
-  return util.promisify(zlib.inflateRaw)(
-    buffer.subarray(offset, offset + size)
-  );
+  const compressed = buffer.subarray(offset, offset + size);
+
+  const decompressed = await new Response(
+    new Blob([new Uint8Array(compressed)])
+      .stream()
+      .pipeThrough(new DecompressionStream("deflate-raw"))
+  ).arrayBuffer();
+
+  return Buffer.from(decompressed);
 }
