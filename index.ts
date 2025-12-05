@@ -397,6 +397,7 @@ const issues = issuesAndPrs
   .filter((issueOrPr: any) => !issueOrPr.pull_request)
   .map((issue: any) => ({
     repo: issue.html_url.split("/")[4],
+    user: issue.user.login,
     title: issue.title,
     url: issue.html_url,
   }));
@@ -415,8 +416,7 @@ const issuesMarkDown =
       (group) =>
         `## ${group[0].repo}\n\n${group
           .map(
-            (issue: any) =>
-              `- [${issue.user.login}: ${issue.title}](${issue.url})`
+            (issue: any) => `- [${issue.user}: ${issue.title}](${issue.url})`
           )
           .join("\n")}`
     )
