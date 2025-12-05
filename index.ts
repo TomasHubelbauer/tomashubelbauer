@@ -1,5 +1,3 @@
-// This is a test edit from the Github iOS app
-
 import todo from "todo";
 import date from "./date.ts";
 import downloadPages from "./downloadPages.ts";
