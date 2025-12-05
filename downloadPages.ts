@@ -1,4 +1,3 @@
-import fs from "fs";
 import headers from "./headers.ts";
 import reportRateLimit from "./reportRateLimit.ts";
 
@@ -29,7 +28,7 @@ export default async function downloadPages(initialUrl: string) {
 
     // Save response to a file marked to be uploaded as an artifact for debugging
     const fileNameBits = url.match(/\w+/g) ?? [];
-    await fs.promises.writeFile(
+    await Bun.write(
       `${fileNameBits.join("-") || "response"}.${
         response.status
       }.artifact.json`,

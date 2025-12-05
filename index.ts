@@ -1,6 +1,5 @@
 // This is a test edit from the Github iOS app
 
-import fs from "fs";
 import todo from "todo";
 import date from "./date.ts";
 import downloadPages from "./downloadPages.ts";
@@ -92,10 +91,7 @@ for (const login of logins) {
   followers.push({ login, followed_at, unfollowed_at });
 }
 
-await fs.promises.writeFile(
-  "followers.json",
-  JSON.stringify(followers, null, 2)
-);
+await Bun.write("followers.json", JSON.stringify(followers, null, 2));
 
 // Keep a list of accounts found to be dead to skip in unfollow-follow events
 const deadLogins: string[] = [];
@@ -211,7 +207,7 @@ for (const [field, order] of [
     markdown += `📒 ${repository.description}\n\n`;
   }
 
-  await fs.promises.writeFile(`by-${field}-${order}.md`, markdown);
+  await Bun.write(`by-${field}-${order}.md`, markdown);
   console.groupEnd();
 }
 
@@ -314,7 +310,7 @@ for (const repository of repositories) {
     }
 
     content = Buffer.from(content.content, "base64");
-    await fs.promises.writeFile(name + "." + readme, content);
+    await Bun.write(name + "." + readme, content);
 
     if (!todos[name]) {
       todos[name] ??= {};
@@ -329,7 +325,7 @@ for (const repository of repositories) {
       todos[name].todos.push(text);
     }
 
-    await fs.promises.unlink(name + "." + readme);
+    await Bun.file(name + "." + readme).delete();
   }
 }
 
@@ -339,13 +335,13 @@ for (const name in todos) {
   }
 }
 
-await fs.promises.writeFile(
+await Bun.write(
   "todos.json",
   JSON.stringify(Object.fromEntries(Object.entries(todos).sort()), null, 2)
 );
 
 // Sort the repositories object by key before persisting it to the change
-await fs.promises.writeFile(
+await Bun.write(
   "repositories.json",
   JSON.stringify(
     Object.fromEntries(Object.entries(_repositories).sort()),
@@ -423,7 +419,7 @@ const issuesMarkDown =
     )
     .join("\n\n") +
   "\n";
-await fs.promises.writeFile("issues.md", issuesMarkDown);
+await Bun.write("issues.md", issuesMarkDown);
 
 const prs = issuesAndPrs
   .filter((issueOrPr: any) => issueOrPr.pull_request)
@@ -451,7 +447,7 @@ const prsMarkDown =
     )
     .join("\n\n") +
   "\n";
-await fs.promises.writeFile("prs.md", prsMarkDown);
+await Bun.write("prs.md", prsMarkDown);
 
 const forkPrs = [
   ...(await downloadPages(
@@ -493,12 +489,12 @@ const identicalForksMarkDown =
     : identicalForks.length === 1
     ? `\n[One${nbsp}identical${nbsp}fork:${nbsp}\`${identicalForks[0]}\`${nbsp}🍴⚠️](${process.env.GITHUB_SERVER_URL}/${login}/${identicalForks[0]})`
     : `\n[${identicalForks.length}${nbsp}identical${nbsp}forks${nbsp}🍴⚠️](identical-forks.json)`;
-await fs.promises.writeFile(
+await Bun.write(
   "identical-forks.json",
   JSON.stringify(identicalForks, null, 2)
 );
 if (identicalForks.length === 0) {
-  await fs.promises.unlink("identical-forks.json");
+  await Bun.file("identical-forks.json").delete();
 }
 
 const followerCount = followers.filter(
@@ -594,4 +590,4 @@ for (const event of events) {
 markdown += "\n";
 markdown += "</details>\n";
 
-await fs.promises.writeFile("readme.md", markdown);
+await Bun.write("readme.md", markdown);
