@@ -19,41 +19,41 @@ No&nbsp;forks&nbsp;🍴
 </div>
 
 <details open>
-<summary>Today (23:55)</summary>
+<summary>Today (00:04)</summary>
 
 - `23:55`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/e21fbe0ba097e93d593f47339f2d50d592376701)
+  [`e21fbe0`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/e21fbe0ba097e93d593f47339f2d50d592376701)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `23:53`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/d8143b69ac412ffb9d1d1553aee7698d943445ed)
+  [`d8143b6`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/d8143b69ac412ffb9d1d1553aee7698d943445ed)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `23:49`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/e55eb5feacdcac80410307a3efd619659f86d688)
+  [`e55eb5f`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/e55eb5feacdcac80410307a3efd619659f86d688)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `23:45`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/8188578ed12cea23717194e7004eed21a9912eaa)
+  [`8188578`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/8188578ed12cea23717194e7004eed21a9912eaa)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `23:44`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/d572e4a381d1c1c7b19dd0f8fa9380729203bafb)
+  [`d572e4a`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/d572e4a381d1c1c7b19dd0f8fa9380729203bafb)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `23:43`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/f49d5c7830257a87bee9246510d2f90da2d8db40)
+  [`f49d5c7`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/f49d5c7830257a87bee9246510d2f90da2d8db40)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `23:40`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/3ac201ac5a5ef7060c630bc0db9eb57c5bd5ad02)
+  [`3ac201a`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/3ac201ac5a5ef7060c630bc0db9eb57c5bd5ad02)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `23:39`
@@ -68,7 +68,7 @@ No&nbsp;forks&nbsp;🍴
   [`cursor-agent-windows`](https://github.com/TomasHubelbauer/cursor-agent-windows)
 - `23:37`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/vscode-markdown-todo/commit/8f5af01a48bee96f2a77f449ad44e61fc5d5391f)
+  [`8f5af01`](https://github.com/TomasHubelbauer/vscode-markdown-todo/commit/8f5af01a48bee96f2a77f449ad44e61fc5d5391f)
   into
   [`vscode-markdown-todo`](https://github.com/TomasHubelbauer/vscode-markdown-todo)
 - `23:37`
@@ -78,34 +78,34 @@ No&nbsp;forks&nbsp;🍴
   [`vscode-markdown-table-format`](https://github.com/TomasHubelbauer/vscode-markdown-table-format)
 - `23:32`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/b0ca017615565d7810387f541b22a70275e29cc6)
+  [`b0ca017`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/b0ca017615565d7810387f541b22a70275e29cc6)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `23:27`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/2fc5b1fa966292c5aeb6876dd9676f59b76bee0c)
+  [`2fc5b1f`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/2fc5b1fa966292c5aeb6876dd9676f59b76bee0c)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `23:22`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/797cc7378c2266c8948d95fc43a2fc07c433ffda)
+  [`797cc73`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/797cc7378c2266c8948d95fc43a2fc07c433ffda)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `23:17`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/3460baf90c755cf5b566f1d4ed34ae08aa528954)
+  [`3460baf`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/3460baf90c755cf5b566f1d4ed34ae08aa528954)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `22:08`
   🤝 followed by [CelaFlori](https://github.com/CelaFlori)
 - `01:37`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/d59da9d995ed021de5a6fc3c2a24755eaa060385)
+  [`d59da9d`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/d59da9d995ed021de5a6fc3c2a24755eaa060385)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `01:13`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/b32091efc120a5d5247e189290f312dde052c618)
+  [`b32091e`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/b32091efc120a5d5247e189290f312dde052c618)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 
@@ -116,17 +116,17 @@ No&nbsp;forks&nbsp;🍴
 
 - `00:17`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/7c1039c05544ec9080604ce6657cd8f1cac142d9)
+  [`7c1039c`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/7c1039c05544ec9080604ce6657cd8f1cac142d9)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `23:10`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/aee58981d12936d4d43011b5104f16918f1e578f)
+  [`aee5898`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/aee58981d12936d4d43011b5104f16918f1e578f)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `23:10`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/8f66b7a6e3e9171ab197a9e8094817b7d312faad)
+  [`8f66b7a`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/8f66b7a6e3e9171ab197a9e8094817b7d312faad)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `21:19`
@@ -134,12 +134,12 @@ No&nbsp;forks&nbsp;🍴
   [`AncientJames/multivox`](https://github.com/AncientJames/multivox)
 - `20:16`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/8f66b7a6e3e9171ab197a9e8094817b7d312faad)
+  [`8f66b7a`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/8f66b7a6e3e9171ab197a9e8094817b7d312faad)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `20:14`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/56ff1bd3105a7b31e5cdcc18ca412a6b818cc702)
+  [`56ff1bd`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/56ff1bd3105a7b31e5cdcc18ca412a6b818cc702)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `20:04`
@@ -810,37 +810,37 @@ No&nbsp;forks&nbsp;🍴
   🤝 followed by [sphinxzerd](https://github.com/sphinxzerd)
 - `19:28`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/0f6a28f259264f647eaec862322f74f335ff0bdd)
+  [`0f6a28f`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/0f6a28f259264f647eaec862322f74f335ff0bdd)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `19:24`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/376faefeeda8dab82a007848dbf4d2132f366704)
+  [`376faef`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/376faefeeda8dab82a007848dbf4d2132f366704)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `19:17`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/e3c7f7ed0d1ee60e73cf651d97b98128e6df2d1a)
+  [`e3c7f7e`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/e3c7f7ed0d1ee60e73cf651d97b98128e6df2d1a)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `19:10`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/96e4f98573c45b29d5f214fb6302c419c1e037ca)
+  [`96e4f98`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/96e4f98573c45b29d5f214fb6302c419c1e037ca)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `19:05`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/148d97a9fd94d23fae7424f7edafe9b74c947e75)
+  [`148d97a`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/148d97a9fd94d23fae7424f7edafe9b74c947e75)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `18:56`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/58f74b547adad4c8669ce0083d72a7a3a8d3adc3)
+  [`58f74b5`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/58f74b547adad4c8669ce0083d72a7a3a8d3adc3)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `18:49`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/95afb42b41f0aff6776f84fe041ae5ba9884d601)
+  [`95afb42`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/95afb42b41f0aff6776f84fe041ae5ba9884d601)
   into
   [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `17:53`
@@ -1104,52 +1104,52 @@ No&nbsp;forks&nbsp;🍴
 
 - `20:27`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/osm-raster-map/commit/f423f01a63e90bbc5b3595235c5d9675a8cf3f64)
+  [`f423f01`](https://github.com/TomasHubelbauer/osm-raster-map/commit/f423f01a63e90bbc5b3595235c5d9675a8cf3f64)
   into
   [`osm-raster-map`](https://github.com/TomasHubelbauer/osm-raster-map)
 - `20:18`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/osm-raster-map/commit/c793932891403c30b7c4b166f11c4390fe627003)
+  [`c793932`](https://github.com/TomasHubelbauer/osm-raster-map/commit/c793932891403c30b7c4b166f11c4390fe627003)
   into
   [`osm-raster-map`](https://github.com/TomasHubelbauer/osm-raster-map)
 - `20:13`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/osm-raster-map/commit/f70c642146c0afd56708985b30aa3522562b9c4d)
+  [`f70c642`](https://github.com/TomasHubelbauer/osm-raster-map/commit/f70c642146c0afd56708985b30aa3522562b9c4d)
   into
   [`osm-raster-map`](https://github.com/TomasHubelbauer/osm-raster-map)
 - `19:59`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/osm-raster-map/commit/a39062eeb7f7b8763196f0f215a5321f02362256)
+  [`a39062e`](https://github.com/TomasHubelbauer/osm-raster-map/commit/a39062eeb7f7b8763196f0f215a5321f02362256)
   into
   [`osm-raster-map`](https://github.com/TomasHubelbauer/osm-raster-map)
 - `19:45`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/osm-raster-map/commit/74db10fe73bd95ccbeda0e1a0f8ea1699125881e)
+  [`74db10f`](https://github.com/TomasHubelbauer/osm-raster-map/commit/74db10fe73bd95ccbeda0e1a0f8ea1699125881e)
   into
   [`osm-raster-map`](https://github.com/TomasHubelbauer/osm-raster-map)
 - `19:40`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/osm-raster-map/commit/632dae21af340b57ae3f5d59f940be99963e6a91)
+  [`632dae2`](https://github.com/TomasHubelbauer/osm-raster-map/commit/632dae21af340b57ae3f5d59f940be99963e6a91)
   into
   [`osm-raster-map`](https://github.com/TomasHubelbauer/osm-raster-map)
 - `19:36`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/osm-raster-map/commit/644a79a4ab85de2c63cc97e955385b151d4dc712)
+  [`644a79a`](https://github.com/TomasHubelbauer/osm-raster-map/commit/644a79a4ab85de2c63cc97e955385b151d4dc712)
   into
   [`osm-raster-map`](https://github.com/TomasHubelbauer/osm-raster-map)
 - `19:24`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/osm-raster-map/commit/690e9af5c07b5d5eef53785c124cb21414e0f958)
+  [`690e9af`](https://github.com/TomasHubelbauer/osm-raster-map/commit/690e9af5c07b5d5eef53785c124cb21414e0f958)
   into
   [`osm-raster-map`](https://github.com/TomasHubelbauer/osm-raster-map)
 - `19:20`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/osm-raster-map/commit/f7d97580ea2915e766fa82556d12e0377457cf9e)
+  [`f7d9758`](https://github.com/TomasHubelbauer/osm-raster-map/commit/f7d97580ea2915e766fa82556d12e0377457cf9e)
   into
   [`osm-raster-map`](https://github.com/TomasHubelbauer/osm-raster-map)
 - `19:12`
   📌 pushed
-  [commit](https://github.com/TomasHubelbauer/osm-raster-map/commit/e5b91234e0a5af0bc7e90fb5c4da9a4aa6b93643)
+  [`e5b9123`](https://github.com/TomasHubelbauer/osm-raster-map/commit/e5b91234e0a5af0bc7e90fb5c4da9a4aa6b93643)
   into
   [`osm-raster-map`](https://github.com/TomasHubelbauer/osm-raster-map)
 
