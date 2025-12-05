@@ -61,7 +61,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
 
           # Stage the Git index change of the auto-generated files
-          git add readme.md prs.md issues.md identical-forks.md todos.json
+          # Note that followers.json+repositories.json+todos.json are artifacts
+          git add readme.md prs.md issues.md identical-forks.md
           git add by-name-asc.md by-name-desc.md
           git add by-pushed_at-asc.md by-pushed_at-desc.md
           git add by-size-asc.md by-size-desc.md
