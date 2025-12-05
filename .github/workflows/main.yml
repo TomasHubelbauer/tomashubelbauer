@@ -17,9 +17,9 @@ jobs:
       - name: Install Bun
         uses: oven-sh/setup-bun@v2
 
-      - name: Drop history of auto-generated files (readme.md, prs.md issues.md)
+      - name: Drop prior auto-generated commits to keep repository history clean
         run: |
-          FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch --force --index-filter "git rm --ignore-unmatch readme.md prs.md issues.md" --prune-empty HEAD
+          FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch --force --commit-filter '[ "$GIT_AUTHOR_NAME" = "github-actions[bot]" ] && skip_commit "$@" || git commit-tree "$@"' HEAD
 
       - name: Run the workflow script using the integration personal access token
         run: |
