@@ -15,12 +15,12 @@
 [3&nbsp;PRs&nbsp;🎁](prs.md) ᐧ
 [498&nbsp;todos&nbsp;💪](todos.json) ᐧ
 [24&nbsp;forks&nbsp;🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork) ᐧ 
-[18&nbsp;identical&nbsp;forks&nbsp;🍴⚠️](identical-forks.json)
+[18&nbsp;identical&nbsp;forks&nbsp;🍴⚠️](identical-forks.md)
 
 </div>
 
 <details open>
-<summary>Today (23:17)</summary>
+<summary>Today (23:23)</summary>
 
 - `23:17`
   📌 pushed

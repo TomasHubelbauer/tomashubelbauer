@@ -488,13 +488,18 @@ const identicalForksMarkDown =
     ? ""
     : identicalForks.length === 1
     ? `\n[One${nbsp}identical${nbsp}fork:${nbsp}\`${identicalForks[0]}\`${nbsp}🍴⚠️](${process.env.GITHUB_SERVER_URL}/${login}/${identicalForks[0]})`
-    : `\n[${identicalForks.length}${nbsp}identical${nbsp}forks${nbsp}🍴⚠️](identical-forks.json)`;
-await Bun.write(
-  "identical-forks.json",
-  JSON.stringify(identicalForks, null, 2)
-);
+    : `\n[${identicalForks.length}${nbsp}identical${nbsp}forks${nbsp}🍴⚠️](identical-forks.md)`;
+const identicalForksContentMarkDown =
+  "# Identical forks\n\n" +
+  identicalForks
+    .map(
+      (fork) => `- [${fork}](${process.env.GITHUB_SERVER_URL}/${login}/${fork})`
+    )
+    .join("\n\n") +
+  "\n";
+await Bun.write("identical-forks.md", identicalForksContentMarkDown);
 if (identicalForks.length === 0) {
-  await Bun.file("identical-forks.json").delete();
+  await Bun.file("identical-forks.md").delete();
 }
 
 const followerCount = followers.filter(

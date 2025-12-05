@@ -61,12 +61,11 @@ jobs:
           git config --global user.name "github-actions[bot]"
 
           # Stage the Git index change of the auto-generated files
-          git add readme.md prs.md issues.md
+          git add readme.md prs.md issues.md identical-forks.md
           git add by-name-asc.md by-name-desc.md
           git add by-pushed_at-asc.md by-pushed_at-desc.md
           git add by-size-asc.md by-size-desc.md
           git add by-updated_at-asc.md by-updated_at-desc.md
-          git add identical-forks.json
 
           # Bail if there are no changes to commit and hence no GitHub Pages to build
           if git diff-index --quiet HEAD --; then
