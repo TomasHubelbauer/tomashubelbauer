@@ -1,14 +1,22 @@
 # By `pushed_at` (desc)
 
-2025-12-05T22:32:54.985Z
+2025-12-05T22:43:30.017Z
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-12-05T22:32:39Z
+⚖️ 2025-12-05T22:43:11Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
+
+⚖️ 2025-12-05T22:37:43Z
+
+🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
+
+📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
 
 ## [osm-raster-map](https://github.com/TomasHubelbauer/osm-raster-map)
 
@@ -90,14 +98,6 @@
 
 📒 null
 
-## [bun](https://github.com/TomasHubelbauer/bun)
-
-⚖️ 2025-07-02T14:13:48Z
-
-🏷 
-
-📒 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
 ## [emoji-canvas](https://github.com/TomasHubelbauer/emoji-canvas)
 
 ⚖️ 2025-06-26T20:02:10Z
@@ -113,14 +113,6 @@
 🏷 agent-mode, bun, copilot, copilot-chat, mcp, mcp-server, vs-code, vscode, vscode-copilot-chat
 
 📒 A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
-
-## [bun.report](https://github.com/TomasHubelbauer/bun.report)
-
-⚖️ 2025-06-10T20:52:29Z
-
-🏷 
-
-📒 null
 
 ## [bun-passthrough-server](https://github.com/TomasHubelbauer/bun-passthrough-server)
 
@@ -250,14 +242,6 @@
 
 📒 A VS Code extension showing the number of the current week in the IDE status bar
 
-## [mermaid](https://github.com/TomasHubelbauer/mermaid)
-
-⚖️ 2024-10-18T08:53:07Z
-
-🏷 
-
-📒 Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-
 ## [leveret](https://github.com/TomasHubelbauer/leveret)
 
 ⚖️ 2024-10-13T12:12:06Z
@@ -385,14 +369,6 @@
 🏷 
 
 📒 null
-
-## [electron](https://github.com/TomasHubelbauer/electron)
-
-⚖️ 2024-06-13T20:24:44Z
-
-🏷 
-
-📒 :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 ## [lyrics](https://github.com/TomasHubelbauer/lyrics)
 
@@ -626,22 +602,6 @@
 
 📒 A library for capturing web page self screenshots
 
-## [jekyll](https://github.com/TomasHubelbauer/jekyll)
-
-⚖️ 2023-06-05T12:45:55Z
-
-🏷 
-
-📒 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
-
-## [liquidjs](https://github.com/TomasHubelbauer/liquidjs)
-
-⚖️ 2023-06-04T16:33:12Z
-
-🏷 
-
-📒 A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
-
 ## [nextra-mermaid](https://github.com/TomasHubelbauer/nextra-mermaid)
 
 ⚖️ 2023-06-04T13:20:09Z
@@ -698,14 +658,6 @@
 
 📒 My attempts at improving the user-friendliness of WebSaver and getting it to work for my needs.
 
-## [websaver](https://github.com/TomasHubelbauer/websaver)
-
-⚖️ 2023-05-28T15:53:06Z
-
-🏷 
-
-📒 Automatically exported from code.google.com/p/websaver
-
 ## [open-source-encore-2023-05-28-jekyll-readme-index](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-jekyll-readme-index)
 
 ⚖️ 2023-05-28T14:13:43Z
@@ -713,14 +665,6 @@
 🏷 github, github-pages, jekyll, open-source, readme, ruby
 
 📒 My contribution to the jekyll-readme-index Jekyll plugin that ships with GitHub Pages out of the box.
-
-## [jekyll-readme-index](https://github.com/TomasHubelbauer/jekyll-readme-index)
-
-⚖️ 2023-05-28T13:52:20Z
-
-🏷 
-
-📒 A Jekyll plugin to render a project's README as the site's index.
 
 ## [github-pages-dotgithub-readme](https://github.com/TomasHubelbauer/github-pages-dotgithub-readme)
 
@@ -745,14 +689,6 @@
 🏷 open-source, vs-code, vscode
 
 📒 A post about my investigation into how to add a VS Code feature I've so desired it already had for a long time.
-
-## [vscode](https://github.com/TomasHubelbauer/vscode)
-
-⚖️ 2023-05-23T12:18:39Z
-
-🏷 
-
-📒 Visual Studio Code
 
 ## [open-source-encore-2023-05-22](https://github.com/TomasHubelbauer/open-source-encore-2023-05-22)
 
@@ -801,14 +737,6 @@
 🏷 git, git-modules, submodules
 
 📒 A demo submodule used by my other repos.
-
-## [upptime](https://github.com/TomasHubelbauer/upptime)
-
-⚖️ 2023-05-19T22:36:26Z
-
-🏷 
-
-📒 ⬆️ Free uptime monitor and status page powered by GitHub
 
 ## [playwright-test-only](https://github.com/TomasHubelbauer/playwright-test-only)
 
@@ -953,14 +881,6 @@
 🏷 
 
 📒 null
-
-## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
-
-⚖️ 2023-02-28T16:17:44Z
-
-🏷 
-
-📒 GitHub Action to send LGTM reaction
 
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
@@ -1233,14 +1153,6 @@
 🏷 dataview, hex-editor, hex-viewer, html
 
 📒 An HTML component for displaying contents of a DataView with virtualized scrolling behavior
-
-## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
-
-⚖️ 2022-06-07T09:47:07Z
-
-🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
-
-📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
 
 ## [corebluetooth-peripheral-webbluetooth-central](https://github.com/TomasHubelbauer/corebluetooth-peripheral-webbluetooth-central)
 

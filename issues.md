@@ -8,10 +8,6 @@
 
 - [Custom UI for the label printer](https://github.com/TomasHubelbauer/brother-p-touch-d600/issues/1)
 
-## cursor-agent-windows
-
-- [Download link for cursor agent window](https://github.com/TomasHubelbauer/cursor-agent-windows/issues/1)
-
 ## dot-matrix-tester
 
 - [Fix the intregration PAT token seemingly not being able to push to the workflow](https://github.com/TomasHubelbauer/dot-matrix-tester/issues/1)

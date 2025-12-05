@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2025-12-05T22:32:54.977Z
+2025-12-05T22:43:30.009Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -33,14 +33,6 @@
 🏷 javascript, react
 
 📒 My idea about a UI framework
-
-## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
-
-⚖️ action-lgtm-reaction
-
-🏷 
-
-📒 GitHub Action to send LGTM reaction
 
 ## [ado-bookmarklet](https://github.com/TomasHubelbauer/ado-bookmarklet)
 
@@ -290,14 +282,6 @@
 
 📒 Thinking about using Web Bluetooth for WebRTC SDP exchange
 
-## [bun](https://github.com/TomasHubelbauer/bun)
-
-⚖️ bun
-
-🏷 
-
-📒 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
 ## [bun-basic-auth-cookie](https://github.com/TomasHubelbauer/bun-basic-auth-cookie)
 
 ⚖️ bun-basic-auth-cookie
@@ -485,14 +469,6 @@
 ## [bun-vm-typescript](https://github.com/TomasHubelbauer/bun-vm-typescript)
 
 ⚖️ bun-vm-typescript
-
-🏷 
-
-📒 null
-
-## [bun.report](https://github.com/TomasHubelbauer/bun.report)
-
-⚖️ bun.report
 
 🏷 
 
@@ -1017,14 +993,6 @@
 🏷 ef, ef-core, entity-framework, entity-framework-core, migrations, sqlite
 
 📒 Reproducing an issue with migrations and table rebuilds I had in EF Core SQLite
-
-## [electron](https://github.com/TomasHubelbauer/electron)
-
-⚖️ electron
-
-🏷 
-
-📒 :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 ## [electron-inspect-require](https://github.com/TomasHubelbauer/electron-inspect-require)
 
@@ -1890,22 +1858,6 @@
 
 📒 Downloads ISDS messages and attachments by using Puppeteer and the Mobilni klic ISDS application to sign in using a QR code and crawl all the boxes and their messages backing up new ones and downloading their attachments.
 
-## [jekyll](https://github.com/TomasHubelbauer/jekyll)
-
-⚖️ jekyll
-
-🏷 
-
-📒 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
-
-## [jekyll-readme-index](https://github.com/TomasHubelbauer/jekyll-readme-index)
-
-⚖️ jekyll-readme-index
-
-🏷 
-
-📒 A Jekyll plugin to render a project's README as the site's index.
-
 ## [jira-annotate](https://github.com/TomasHubelbauer/jira-annotate)
 
 ⚖️ jira-annotate
@@ -2082,14 +2034,6 @@
 
 📒 Setting up NGinx on Linode
 
-## [liquidjs](https://github.com/TomasHubelbauer/liquidjs)
-
-⚖️ liquidjs
-
-🏷 
-
-📒 A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
-
 ## [list-sections-groups](https://github.com/TomasHubelbauer/list-sections-groups)
 
 ⚖️ list-sections-groups
@@ -2225,14 +2169,6 @@
 🏷 
 
 📒 null
-
-## [mermaid](https://github.com/TomasHubelbauer/mermaid)
-
-⚖️ mermaid
-
-🏷 
-
-📒 Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## [mic-holder](https://github.com/TomasHubelbauer/mic-holder)
 
@@ -3466,14 +3402,6 @@
 
 📒 null
 
-## [upptime](https://github.com/TomasHubelbauer/upptime)
-
-⚖️ upptime
-
-🏷 
-
-📒 ⬆️ Free uptime monitor and status page powered by GitHub
-
 ## [usbtemp](https://github.com/TomasHubelbauer/usbtemp)
 
 ⚖️ usbtemp
@@ -3521,14 +3449,6 @@
 🏷 api, victron
 
 📒 Victron API sample scripts written in Node
-
-## [vscode](https://github.com/TomasHubelbauer/vscode)
-
-⚖️ vscode
-
-🏷 
-
-📒 Visual Studio Code
 
 ## [vscode-bare-extension](https://github.com/TomasHubelbauer/vscode-bare-extension)
 
@@ -3841,14 +3761,6 @@
 🏷 ice, idea, ios-16, macos-ventura, sdp, sharelink, swift, swiftui, webrtc
 
 📒 An idea for using ShareLink and Share Sheet with AirDrop to facilitate WebRTC connection
-
-## [websaver](https://github.com/TomasHubelbauer/websaver)
-
-⚖️ websaver
-
-🏷 
-
-📒 Automatically exported from code.google.com/p/websaver
 
 ## [webusb-op-1](https://github.com/TomasHubelbauer/webusb-op-1)
 

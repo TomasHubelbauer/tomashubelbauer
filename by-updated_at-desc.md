@@ -1,14 +1,22 @@
 # By `updated_at` (desc)
 
-2025-12-05T22:32:54.982Z
+2025-12-05T22:43:30.014Z
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-12-05T22:32:43Z
+⚖️ 2025-12-05T22:43:15Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
+
+⚖️ 2025-12-05T22:37:47Z
+
+🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
+
+📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
 
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
@@ -153,14 +161,6 @@
 🏷 animated-gif, animated-png, apng, javascript, node, node-library, node-module, png, puppeteer, screencast
 
 📒 A JavaScript library for recording screencasts of URLs or Puppeteer sessions to APNG
-
-## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
-
-⚖️ 2025-09-04T20:04:35Z
-
-🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
-
-📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
 
 ## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
 
@@ -321,22 +321,6 @@
 🏷 onewheel, web-ble, web-bluetooth, web-bluetooth-api
 
 📒 Onewheel Web Bluetooth
-
-## [bun.report](https://github.com/TomasHubelbauer/bun.report)
-
-⚖️ 2025-06-10T20:41:00Z
-
-🏷 
-
-📒 null
-
-## [bun](https://github.com/TomasHubelbauer/bun)
-
-⚖️ 2025-06-10T20:35:40Z
-
-🏷 
-
-📒 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## [bun-passthrough-server](https://github.com/TomasHubelbauer/bun-passthrough-server)
 
@@ -521,14 +505,6 @@
 🏷 ado, azure-devops
 
 📒 ADO bookmarklet
-
-## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
-
-⚖️ 2025-02-20T00:01:28Z
-
-🏷 
-
-📒 GitHub Action to send LGTM reaction
 
 ## [acter](https://github.com/TomasHubelbauer/acter)
 
@@ -746,14 +722,6 @@
 
 📒 null
 
-## [mermaid](https://github.com/TomasHubelbauer/mermaid)
-
-⚖️ 2024-10-11T20:20:58Z
-
-🏷 
-
-📒 Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-
 ## [onewheel](https://github.com/TomasHubelbauer/onewheel)
 
 ⚖️ 2024-10-05T01:20:44Z
@@ -921,14 +889,6 @@
 🏷 
 
 📒 null
-
-## [electron](https://github.com/TomasHubelbauer/electron)
-
-⚖️ 2024-06-11T20:06:19Z
-
-🏷 
-
-📒 :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 ## [solar](https://github.com/TomasHubelbauer/solar)
 
@@ -1298,14 +1258,6 @@
 
 📒 Detecting headphones button press in JavaScript using the Web Audio API
 
-## [jekyll](https://github.com/TomasHubelbauer/jekyll)
-
-⚖️ 2023-05-30T15:31:43Z
-
-🏷 
-
-📒 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
-
 ## [github-token-edit-another-repo](https://github.com/TomasHubelbauer/github-token-edit-another-repo)
 
 ⚖️ 2023-05-29T20:57:00Z
@@ -1346,14 +1298,6 @@
 
 📒 My contribution to the jekyll-readme-index Jekyll plugin that ships with GitHub Pages out of the box.
 
-## [jekyll-readme-index](https://github.com/TomasHubelbauer/jekyll-readme-index)
-
-⚖️ 2023-05-28T13:49:22Z
-
-🏷 
-
-📒 A Jekyll plugin to render a project's README as the site's index.
-
 ## [github-pages-dotgithub-readme](https://github.com/TomasHubelbauer/github-pages-dotgithub-readme)
 
 ⚖️ 2023-05-28T13:10:04Z
@@ -1361,14 +1305,6 @@
 🏷 
 
 📒 null
-
-## [websaver](https://github.com/TomasHubelbauer/websaver)
-
-⚖️ 2023-05-25T22:21:35Z
-
-🏷 
-
-📒 Automatically exported from code.google.com/p/websaver
 
 ## [open-source-encore-2023-05-25-liquid-js](https://github.com/TomasHubelbauer/open-source-encore-2023-05-25-liquid-js)
 
@@ -1386,14 +1322,6 @@
 
 📒 A post about my investigation into how to add a VS Code feature I've so desired it already had for a long time.
 
-## [vscode](https://github.com/TomasHubelbauer/vscode)
-
-⚖️ 2023-05-23T12:42:57Z
-
-🏷 
-
-📒 Visual Studio Code
-
 ## [podman](https://github.com/TomasHubelbauer/podman)
 
 ⚖️ 2023-05-23T04:46:16Z
@@ -1409,14 +1337,6 @@
 🏷 open-source, open-source-encore, playwright
 
 📒 Open Source Encore post about my Playwright test runner forbidOnly mode error message improvement contribution
-
-## [liquidjs](https://github.com/TomasHubelbauer/liquidjs)
-
-⚖️ 2023-05-22T16:35:52Z
-
-🏷 
-
-📒 A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
 
 ## [git-dot-ds_store-global-ignore](https://github.com/TomasHubelbauer/git-dot-ds_store-global-ignore)
 
@@ -1441,14 +1361,6 @@
 🏷 
 
 📒 A GitHub Action for automatically syncing changes to .gitmodules with the rest of the Git repository
-
-## [upptime](https://github.com/TomasHubelbauer/upptime)
-
-⚖️ 2023-05-19T22:36:29Z
-
-🏷 
-
-📒 ⬆️ Free uptime monitor and status page powered by GitHub
 
 ## [playwright-test-only](https://github.com/TomasHubelbauer/playwright-test-only)
 

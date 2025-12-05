@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2025-12-05T22:32:54.987Z
+2025-12-05T22:43:30.019Z
 
 ## [mcp-a2a](https://github.com/TomasHubelbauer/mcp-a2a)
 
@@ -2890,14 +2890,6 @@
 
 📒 An algorithm for the NMEA checksum calculation for Arduino
 
-## [jekyll-readme-index](https://github.com/TomasHubelbauer/jekyll-readme-index)
-
-⚖️ 79
-
-🏷 
-
-📒 A Jekyll plugin to render a project's README as the site's index.
-
 ## [openscad-aesthetic-cube](https://github.com/TomasHubelbauer/openscad-aesthetic-cube)
 
 ⚖️ 80
@@ -3218,14 +3210,6 @@
 
 📒 A highly specialized tool for designing tracks for 3D printing channels that hold LED strips for creating wall mounted neon-like logos.
 
-## [bun.report](https://github.com/TomasHubelbauer/bun.report)
-
-⚖️ 199
-
-🏷 
-
-📒 null
-
 ## [drawer-divider](https://github.com/TomasHubelbauer/drawer-divider)
 
 ⚖️ 208
@@ -3361,14 +3345,6 @@
 🏷 agenda, javascript, task-list, to-do-list
 
 📒 A to-do list
-
-## [websaver](https://github.com/TomasHubelbauer/websaver)
-
-⚖️ 358
-
-🏷 
-
-📒 Automatically exported from code.google.com/p/websaver
 
 ## [sencor-scg-2052wh-cap](https://github.com/TomasHubelbauer/sencor-scg-2052wh-cap)
 
@@ -3762,14 +3738,6 @@
 
 📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
-## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
-
-⚖️ 8275
-
-🏷 
-
-📒 GitHub Action to send LGTM reaction
-
 ## [css-merry-go-round](https://github.com/TomasHubelbauer/css-merry-go-round)
 
 ⚖️ 8766
@@ -3882,14 +3850,6 @@
 
 📒 A comparison of JavaScript QR scanner libraries
 
-## [liquidjs](https://github.com/TomasHubelbauer/liquidjs)
-
-⚖️ 34660
-
-🏷 
-
-📒 A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
-
 ## [js-protobuf](https://github.com/TomasHubelbauer/js-protobuf)
 
 ⚖️ 35366
@@ -3905,14 +3865,6 @@
 🏷 screenshot, vscode, vscode-extension
 
 📒 Demonstrates how to programatically capture a screencast of the VS Code extension host
-
-## [jekyll](https://github.com/TomasHubelbauer/jekyll)
-
-⚖️ 55972
-
-🏷 
-
-📒 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## [svg-screencast](https://github.com/TomasHubelbauer/svg-screencast)
 
@@ -3953,44 +3905,4 @@
 🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
 
 📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
-
-## [electron](https://github.com/TomasHubelbauer/electron)
-
-⚖️ 152819
-
-🏷 
-
-📒 :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-## [bun](https://github.com/TomasHubelbauer/bun)
-
-⚖️ 217668
-
-🏷 
-
-📒 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-## [mermaid](https://github.com/TomasHubelbauer/mermaid)
-
-⚖️ 239085
-
-🏷 
-
-📒 Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-
-## [upptime](https://github.com/TomasHubelbauer/upptime)
-
-⚖️ 464384
-
-🏷 
-
-📒 ⬆️ Free uptime monitor and status page powered by GitHub
-
-## [vscode](https://github.com/TomasHubelbauer/vscode)
-
-⚖️ 867726
-
-🏷 
-
-📒 Visual Studio Code
 

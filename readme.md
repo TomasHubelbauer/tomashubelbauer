@@ -9,19 +9,48 @@
 <div align="center">
 
 [334&nbsp;followers&nbsp;🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
-902&nbsp;stars&nbsp;⭐️  ᐧ
-[499&nbsp;repositories&nbsp;📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
-[49&nbsp;issues&nbsp;🎫](issues.md) ᐧ
-[3&nbsp;PRs&nbsp;🎁](prs.md) ᐧ
-[486&nbsp;todos&nbsp;💪](todos.json) ᐧ
-[11&nbsp;forks&nbsp;🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork) ᐧ 
-[5&nbsp;identical&nbsp;forks&nbsp;🍴⚠️](identical-forks.md)
+900&nbsp;stars&nbsp;⭐️  ᐧ
+[488&nbsp;repositories&nbsp;📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
+[48&nbsp;issues&nbsp;🎫](issues.md) ᐧ
+[0&nbsp;PRs&nbsp;🎁](prs.md) ᐧ
+[476&nbsp;todos&nbsp;💪](todos.json) ᐧ
+No&nbsp;forks&nbsp;🍴
 
 </div>
 
 <details open>
-<summary>Today (23:33)</summary>
+<summary>Today (23:43)</summary>
 
+- `23:40`
+  📌 pushed
+  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/3ac201ac5a5ef7060c630bc0db9eb57c5bd5ad02)
+  into
+  [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
+- `23:39`
+  🗑🎫 closed
+  [#1 Download link for cursor agent window](https://github.com/TomasHubelbauer/cursor-agent-windows/issues/1)
+  in
+  [`cursor-agent-windows`](https://github.com/TomasHubelbauer/cursor-agent-windows)
+- `23:39`
+  💬 commented on
+  [#1 Download link for cursor agent window](https://github.com/TomasHubelbauer/cursor-agent-windows/issues/1)
+  in
+  [`cursor-agent-windows`](https://github.com/TomasHubelbauer/cursor-agent-windows)
+- `23:37`
+  📌 pushed
+  [commit](https://github.com/TomasHubelbauer/vscode-markdown-todo/commit/8f5af01a48bee96f2a77f449ad44e61fc5d5391f)
+  into
+  [`vscode-markdown-todo`](https://github.com/TomasHubelbauer/vscode-markdown-todo)
+- `23:37`
+  💬 commented on
+  [#1 get header length when it contains 2 bytes chars](https://github.com/TomasHubelbauer/vscode-markdown-table-format/pull/1)
+  in
+  [`vscode-markdown-table-format`](https://github.com/TomasHubelbauer/vscode-markdown-table-format)
+- `23:32`
+  📌 pushed
+  [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/b0ca017615565d7810387f541b22a70275e29cc6)
+  into
+  [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `23:27`
   📌 pushed
   [commit](https://github.com/TomasHubelbauer/tomashubelbauer/commit/2fc5b1fa966292c5aeb6876dd9676f59b76bee0c)
@@ -1144,5 +1173,27 @@
 - `23:09`
   ⭐️ starred
   [`rxliuli/apps.apple.com`](https://github.com/rxliuli/apps.apple.com)
+
+</details>
+
+<details>
+<summary>2024-04-05</summary>
+
+- `03:51`
+  🎁 closed
+  [#2 undefined](undefined)
+  in
+  [`bun-runtime-plugin-onResolve-custom-protocol`](https://github.com/TomasHubelbauer/bun-runtime-plugin-onResolve-custom-protocol)
+
+</details>
+
+<details>
+<summary>2022-04-14</summary>
+
+- `23:28`
+  🎁 closed
+  [#1 undefined](undefined)
+  in
+  [`vscode-markdown-table-format`](https://github.com/TomasHubelbauer/vscode-markdown-table-format)
 
 </details>

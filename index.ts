@@ -414,7 +414,10 @@ const issuesMarkDown =
     .map(
       (group) =>
         `## ${group[0].repo}\n\n${group
-          .map((issue: any) => `- [${issue.title}](${issue.url})`)
+          .map(
+            (issue: any) =>
+              `- [${issue.user.login}: ${issue.title}](${issue.url})`
+          )
           .join("\n")}`
     )
     .join("\n\n") +

@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2025-12-05T22:32:54.984Z
+2025-12-05T22:43:30.016Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -2754,14 +2754,6 @@
 
 📒 null
 
-## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
-
-⚖️ 2022-06-07T09:47:07Z
-
-🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
-
-📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
-
 ## [html-data-view-box](https://github.com/TomasHubelbauer/html-data-view-box)
 
 ⚖️ 2022-07-04T08:03:04Z
@@ -3034,14 +3026,6 @@
 
 📒 Raspberry Pi Pico mouse jiggler
 
-## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
-
-⚖️ 2023-02-28T16:17:44Z
-
-🏷 
-
-📒 GitHub Action to send LGTM reaction
-
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
 ⚖️ 2023-03-18T22:06:28Z
@@ -3186,14 +3170,6 @@
 
 📒 null
 
-## [upptime](https://github.com/TomasHubelbauer/upptime)
-
-⚖️ 2023-05-19T22:36:26Z
-
-🏷 
-
-📒 ⬆️ Free uptime monitor and status page powered by GitHub
-
 ## [git-demo-submodule](https://github.com/TomasHubelbauer/git-demo-submodule)
 
 ⚖️ 2023-05-20T00:33:01Z
@@ -3242,14 +3218,6 @@
 
 📒 Open Source Encore post about my Playwright test runner forbidOnly mode error message improvement contribution
 
-## [vscode](https://github.com/TomasHubelbauer/vscode)
-
-⚖️ 2023-05-23T12:18:39Z
-
-🏷 
-
-📒 Visual Studio Code
-
 ## [open-source-encore-2023-05-23-vs-code](https://github.com/TomasHubelbauer/open-source-encore-2023-05-23-vs-code)
 
 ⚖️ 2023-05-23T17:54:00Z
@@ -3274,14 +3242,6 @@
 
 📒 null
 
-## [jekyll-readme-index](https://github.com/TomasHubelbauer/jekyll-readme-index)
-
-⚖️ 2023-05-28T13:52:20Z
-
-🏷 
-
-📒 A Jekyll plugin to render a project's README as the site's index.
-
 ## [open-source-encore-2023-05-28-jekyll-readme-index](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-jekyll-readme-index)
 
 ⚖️ 2023-05-28T14:13:43Z
@@ -3289,14 +3249,6 @@
 🏷 github, github-pages, jekyll, open-source, readme, ruby
 
 📒 My contribution to the jekyll-readme-index Jekyll plugin that ships with GitHub Pages out of the box.
-
-## [websaver](https://github.com/TomasHubelbauer/websaver)
-
-⚖️ 2023-05-28T15:53:06Z
-
-🏷 
-
-📒 Automatically exported from code.google.com/p/websaver
 
 ## [open-source-encore-2023-05-28-websaver](https://github.com/TomasHubelbauer/open-source-encore-2023-05-28-websaver)
 
@@ -3353,22 +3305,6 @@
 🏷 
 
 📒 null
-
-## [liquidjs](https://github.com/TomasHubelbauer/liquidjs)
-
-⚖️ 2023-06-04T16:33:12Z
-
-🏷 
-
-📒 A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
-
-## [jekyll](https://github.com/TomasHubelbauer/jekyll)
-
-⚖️ 2023-06-05T12:45:55Z
-
-🏷 
-
-📒 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## [selfie](https://github.com/TomasHubelbauer/selfie)
 
@@ -3602,14 +3538,6 @@
 
 📒 An Electron-based application for displaying the currently playing Spotify song synchronized lyrics
 
-## [electron](https://github.com/TomasHubelbauer/electron)
-
-⚖️ 2024-06-13T20:24:44Z
-
-🏷 
-
-📒 :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
 ## [bun-function-constructor-typescript](https://github.com/TomasHubelbauer/bun-function-constructor-typescript)
 
 ⚖️ 2024-06-19T18:57:24Z
@@ -3737,14 +3665,6 @@
 🏷 bun, bun-js, canvas, napi-rs, web-browser
 
 📒 A TypeScript+Bun+`canvas`-based "web browser"! My submission to the first-ever Browser Jam organized by @awesomekling
-
-## [mermaid](https://github.com/TomasHubelbauer/mermaid)
-
-⚖️ 2024-10-18T08:53:07Z
-
-🏷 
-
-📒 Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## [vscode-week-number](https://github.com/TomasHubelbauer/vscode-week-number)
 
@@ -3874,14 +3794,6 @@
 
 📒 null
 
-## [bun.report](https://github.com/TomasHubelbauer/bun.report)
-
-⚖️ 2025-06-10T20:52:29Z
-
-🏷 
-
-📒 null
-
 ## [bun-mcp](https://github.com/TomasHubelbauer/bun-mcp)
 
 ⚖️ 2025-06-17T12:09:08Z
@@ -3897,14 +3809,6 @@
 🏷 canvas, emoji, png
 
 📒 A tool for rendering emojis into transparent images.
-
-## [bun](https://github.com/TomasHubelbauer/bun)
-
-⚖️ 2025-07-02T14:13:48Z
-
-🏷 
-
-📒 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## [bun-sliplane](https://github.com/TomasHubelbauer/bun-sliplane)
 
@@ -3986,9 +3890,17 @@
 
 📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
 
+## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
+
+⚖️ 2025-12-05T22:37:43Z
+
+🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
+
+📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
+
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-12-05T22:32:39Z
+⚖️ 2025-12-05T22:43:11Z
 
 🏷 tomashubelbauer
 

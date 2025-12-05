@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2025-12-05T22:32:54.979Z
+2025-12-05T22:43:30.011Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -145,14 +145,6 @@
 🏷 midi, op-1, op1, webusb
 
 📒 Seeing if WebUSB can be used to control the OP-1
-
-## [websaver](https://github.com/TomasHubelbauer/websaver)
-
-⚖️ websaver
-
-🏷 
-
-📒 Automatically exported from code.google.com/p/websaver
 
 ## [webrtc-share-sheet-custom-scheme](https://github.com/TomasHubelbauer/webrtc-share-sheet-custom-scheme)
 
@@ -466,14 +458,6 @@
 
 📒 Finding the minimal possible VS Code extension
 
-## [vscode](https://github.com/TomasHubelbauer/vscode)
-
-⚖️ vscode
-
-🏷 
-
-📒 Visual Studio Code
-
 ## [vrm-api](https://github.com/TomasHubelbauer/vrm-api)
 
 ⚖️ vrm-api
@@ -521,14 +505,6 @@
 🏷 
 
 📒 null
-
-## [upptime](https://github.com/TomasHubelbauer/upptime)
-
-⚖️ upptime
-
-🏷 
-
-📒 ⬆️ Free uptime monitor and status page powered by GitHub
 
 ## [upload-indicator-copy](https://github.com/TomasHubelbauer/upload-indicator-copy)
 
@@ -1762,14 +1738,6 @@
 
 📒 A Rode NT-USB microphone holder 3D model
 
-## [mermaid](https://github.com/TomasHubelbauer/mermaid)
-
-⚖️ mermaid
-
-🏷 
-
-📒 Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-
 ## [mcp-a2a](https://github.com/TomasHubelbauer/mcp-a2a)
 
 ⚖️ mcp-a2a
@@ -1905,14 +1873,6 @@
 🏷 css, figma
 
 📒 Implementing a design idea I had
-
-## [liquidjs](https://github.com/TomasHubelbauer/liquidjs)
-
-⚖️ liquidjs
-
-🏷 
-
-📒 A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
 
 ## [linode-nginx](https://github.com/TomasHubelbauer/linode-nginx)
 
@@ -2089,22 +2049,6 @@
 🏷 jira
 
 📒 A web app for associating extra information with Jira tickets for personal reference.
-
-## [jekyll-readme-index](https://github.com/TomasHubelbauer/jekyll-readme-index)
-
-⚖️ jekyll-readme-index
-
-🏷 
-
-📒 A Jekyll plugin to render a project's README as the site's index.
-
-## [jekyll](https://github.com/TomasHubelbauer/jekyll)
-
-⚖️ jekyll
-
-🏷 
-
-📒 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## [isds-backup](https://github.com/TomasHubelbauer/isds-backup)
 
@@ -2970,14 +2914,6 @@
 
 📒 Trying to figure out how to control an Electron application using the Electron API through the debugger
 
-## [electron](https://github.com/TomasHubelbauer/electron)
-
-⚖️ electron
-
-🏷 
-
-📒 :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
 ## [ef-sqlite](https://github.com/TomasHubelbauer/ef-sqlite)
 
 ⚖️ ef-sqlite
@@ -3498,14 +3434,6 @@
 
 📒 A 3D model for a case to wind cables in.
 
-## [bun.report](https://github.com/TomasHubelbauer/bun.report)
-
-⚖️ bun.report
-
-🏷 
-
-📒 null
-
 ## [bun-vm-typescript](https://github.com/TomasHubelbauer/bun-vm-typescript)
 
 ⚖️ bun-vm-typescript
@@ -3697,14 +3625,6 @@
 🏷 
 
 📒 null
-
-## [bun](https://github.com/TomasHubelbauer/bun)
-
-⚖️ bun
-
-🏷 
-
-📒 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## [bt-channel](https://github.com/TomasHubelbauer/bt-channel)
 
@@ -3953,14 +3873,6 @@
 🏷 ado, azure-devops
 
 📒 ADO bookmarklet
-
-## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
-
-⚖️ action-lgtm-reaction
-
-🏷 
-
-📒 GitHub Action to send LGTM reaction
 
 ## [acter](https://github.com/TomasHubelbauer/acter)
 

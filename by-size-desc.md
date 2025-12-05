@@ -1,46 +1,6 @@
 # By `size` (desc)
 
-2025-12-05T22:32:54.988Z
-
-## [vscode](https://github.com/TomasHubelbauer/vscode)
-
-⚖️ 867726
-
-🏷 
-
-📒 Visual Studio Code
-
-## [upptime](https://github.com/TomasHubelbauer/upptime)
-
-⚖️ 464384
-
-🏷 
-
-📒 ⬆️ Free uptime monitor and status page powered by GitHub
-
-## [mermaid](https://github.com/TomasHubelbauer/mermaid)
-
-⚖️ 239085
-
-🏷 
-
-📒 Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-
-## [bun](https://github.com/TomasHubelbauer/bun)
-
-⚖️ 217668
-
-🏷 
-
-📒 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-## [electron](https://github.com/TomasHubelbauer/electron)
-
-⚖️ 152819
-
-🏷 
-
-📒 :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+2025-12-05T22:43:30.020Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -82,14 +42,6 @@
 
 📒 SVG screencast - animated SVG files from screenshots using CSS animations
 
-## [jekyll](https://github.com/TomasHubelbauer/jekyll)
-
-⚖️ 55972
-
-🏷 
-
-📒 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
-
 ## [code-extension-screencast](https://github.com/TomasHubelbauer/code-extension-screencast)
 
 ⚖️ 43084
@@ -105,14 +57,6 @@
 🏷 javascript, protobuf
 
 📒 A JavaScript protobuf wire payload parser
-
-## [liquidjs](https://github.com/TomasHubelbauer/liquidjs)
-
-⚖️ 34660
-
-🏷 
-
-📒 A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
 
 ## [js-qr-scanner-library-comparison](https://github.com/TomasHubelbauer/js-qr-scanner-library-comparison)
 
@@ -225,14 +169,6 @@
 🏷 css, layout, merry-go-round
 
 📒 CSS solution for a "merry-go-round" style sliding showcase
-
-## [action-lgtm-reaction](https://github.com/TomasHubelbauer/action-lgtm-reaction)
-
-⚖️ 8275
-
-🏷 
-
-📒 GitHub Action to send LGTM reaction
 
 ## [lyrics](https://github.com/TomasHubelbauer/lyrics)
 
@@ -626,14 +562,6 @@
 
 📒 Sencor SCG 2052WH coffee grinder replacement lid for when the interlocking flaps on the original part break off
 
-## [websaver](https://github.com/TomasHubelbauer/websaver)
-
-⚖️ 358
-
-🏷 
-
-📒 Automatically exported from code.google.com/p/websaver
-
 ## [agendum](https://github.com/TomasHubelbauer/agendum)
 
 ⚖️ 348
@@ -769,14 +697,6 @@
 🏷 3d-model, 3d-printing, stl
 
 📒 A 3D model for a drawer divider
-
-## [bun.report](https://github.com/TomasHubelbauer/bun.report)
-
-⚖️ 199
-
-🏷 
-
-📒 null
 
 ## [track-maker](https://github.com/TomasHubelbauer/track-maker)
 
@@ -1097,14 +1017,6 @@
 🏷 esm, esmodules, export, import, url, vscode, vscode-extension
 
 📒 VS Code extension adding support for ?search and #fragment in ESM module specifiers
-
-## [jekyll-readme-index](https://github.com/TomasHubelbauer/jekyll-readme-index)
-
-⚖️ 79
-
-🏷 
-
-📒 A Jekyll plugin to render a project's README as the site's index.
 
 ## [babel-sourcemap](https://github.com/TomasHubelbauer/babel-sourcemap)
 
