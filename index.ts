@@ -397,7 +397,7 @@ const issues = issuesAndPrs
   .filter((issueOrPr: any) => !issueOrPr.pull_request)
   .map((issue: any) => ({
     repo: issue.html_url.split("/")[4],
-    user: issue.user.login,
+    user: issue.user.login === login ? "🙋‍♂️" : `🤝 ${issue.user.login}`,
     title: issue.title,
     url: issue.html_url,
   }));
