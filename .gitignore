@@ -2,6 +2,8 @@ followers.json
 repositories.json
 todos.json
 
-# Node
+# Bun
+bun.lock
+
+# NPM
 node_modules
-package-lock.json

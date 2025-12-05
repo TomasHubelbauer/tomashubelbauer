@@ -1,6 +1,7 @@
 {
   "type": "module",
   "dependencies": {
+    "@types/bun": "latest",
     "todo": "github:tomashubelbauer/todo"
   }
 }
