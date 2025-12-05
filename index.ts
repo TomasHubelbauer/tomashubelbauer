@@ -532,7 +532,7 @@ ${_stars}&nbsp;star${_stars === 1 ? "" : "s"}&nbsp;⭐️  ᐧ
 [${issues.length}&nbsp;issue${
   issues.length === 1 ? "" : "s"
 }&nbsp;🎫](issues.md) ᐧ
-[${prs.length}&nbsp;PR${prs.length === 1 ? "" : "s"}&nbsp;🎁](prs.md) ᐧ
+[${prs.length || "No"}&nbsp;PR${prs.length === 1 ? "" : "s"}&nbsp;🎁](prs.md) ᐧ
 [${Object.keys(todos).length}&nbsp;todo${
   Object.keys(todos).length === 1 ? "" : "s"
 }&nbsp;💪](todos.json) ᐧ
