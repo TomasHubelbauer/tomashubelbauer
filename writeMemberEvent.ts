@@ -1,7 +1,7 @@
-import name from './name.ts';
+import name from "./name.ts";
+import type { MemberPayload, Event } from "./types.ts";
 
-// https://docs.github.com/en/developers/webhooks-and-events/github-event-types#memberevent
-export default function writeMemberEvent(event) {
+export default function writeMemberEvent(event: Event<MemberPayload>) {
   // TODO: Flesh this out properly
   return `👷‍♂️ ${event.payload.action} a member\n  in${name(event.repo.name)}`;
 }

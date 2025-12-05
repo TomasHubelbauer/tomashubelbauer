@@ -1,10 +1,12 @@
+import type { Event, FollowerPayload } from "./types.ts";
+
 // Note that this is a virtual, fake event created above by myself
-export default function writeFollowerEvent(event) {
+export default function writeFollowerEvent(event: Event<FollowerPayload>) {
   switch (event.payload.action) {
-    case 'followed': {
+    case "followed": {
       return `🤝 followed by [${event.payload.newFollower}](https://github.com/${event.payload.newFollower})`;
     }
-    case 'unfollowed': {
+    case "unfollowed": {
       let markdown = `💔 unfollowed by [${event.payload.unfollower}](https://github.com/${event.payload.unfollower})`;
       if (event.payload.duration !== undefined) {
         markdown += ` after ${event.payload.duration} days`;
@@ -13,7 +15,10 @@ export default function writeFollowerEvent(event) {
       return markdown;
     }
     default: {
-      throw new Error(`Unhandled follower event action ${event.payload.action}.`);
+      throw new Error(
+        // @ts-expect-error never
+        `Unhandled follower event action ${event.payload.action}.`
+      );
     }
   }
 }

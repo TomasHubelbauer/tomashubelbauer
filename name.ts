@@ -1,7 +1,7 @@
-import login from './login.ts';
+import login from "./login.ts";
 
-export default function name(name) {
-  const [user, repo] = name.split('/');
+export default function name(name: string) {
+  const [user, repo] = name.split("/");
   if (user !== login) {
     return `\n  [\`${name}\`](https://github.com/${name})`;
   }

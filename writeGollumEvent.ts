@@ -1,7 +1,7 @@
-import name from './name.ts';
+import name from "./name.ts";
+import type { Event, GollumPayload } from "./types.ts";
 
-// https://docs.github.com/en/developers/webhooks-and-events/github-event-types#gollumevent
-export default function writeGollumEvent(event) {
+export default function writeGollumEvent(event: Event<GollumPayload>) {
   // TODO: Flesh this message out further
   return `📃 updated${name(event.repo.name)}\n  wiki page`;
 }

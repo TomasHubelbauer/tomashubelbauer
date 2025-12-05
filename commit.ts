@@ -1,6 +1,9 @@
-import name from './name.ts';
+import name from "./name.ts";
+import type { PushPayload, Repo } from "./types.ts";
 
-export default function commit(repo, payload) {
+export default function commit(repo: Repo, payload: PushPayload) {
   // TODO: Find out a new way to get the commit name
-  return `\n  [commit](https://github.com/${repo.name}/commit/${payload.head})\n  into${name(repo.name)}`;
+  return `\n  [commit](https://github.com/${repo.name}/commit/${
+    payload.head
+  })\n  into${name(repo.name)}`;
 }

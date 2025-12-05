@@ -1,6 +1,8 @@
-import name from './name.ts';
+import name from "./name.ts";
+import type { ForkPayload, Event } from "./types.ts";
 
-// https://docs.github.com/en/developers/webhooks-and-events/github-event-types#forkevent
-export default function writeForkEvent(event) {
-  return `🍴 forked${name(event.repo.name)}\n  into${name(event.payload.forkee.full_name)}`;
+export default function writeForkEvent(event: Event<ForkPayload>) {
+  return `🍴 forked${name(event.repo.name)}\n  into${name(
+    event.payload.forkee.full_name
+  )}`;
 }

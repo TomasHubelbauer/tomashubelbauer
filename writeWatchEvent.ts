@@ -1,7 +1,7 @@
-import name from './name.ts';
+import name from "./name.ts";
+import type { Event, WatchPayload } from "./types.ts";
 
-// https://docs.github.com/en/developers/webhooks-and-events/github-event-types#watchevent
-export default function writeWatchEvent(event) {
+export default function writeWatchEvent(event: Event<WatchPayload>) {
   // TODO: Handle the `payload.action` once they fix it so it is not always `started` (sic)
   return `⭐️ starred${name(event.repo.name)}`;
 }

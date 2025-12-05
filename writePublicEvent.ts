@@ -1,6 +1,6 @@
-import name from './name.ts';
+import name from "./name.ts";
+import type { PublicPayload, Event } from "./types.ts";
 
-// https://docs.github.com/en/developers/webhooks-and-events/github-event-types#publicevent
-export default function writePublicEvent(event) {
+export default function writePublicEvent(event: Event<PublicPayload>) {
   return `📨 published ${name(event.repo.name)}`;
 }

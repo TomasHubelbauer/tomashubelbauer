@@ -1,24 +1,31 @@
-import name from './name.ts';
+import name from "./name.ts";
+import type { RepoPayload, Event } from "./types.ts";
 
 // Note that this is a virtual, fake event created above by myself
-export default function writeRepositoryEvent(event) {
+export default function writeRepositoryEvent(event: Event<RepoPayload>) {
   switch (event.payload.action) {
-    case 'starred': {
+    case "starred": {
       const delta = event.payload.new - event.payload.old;
-      const change = delta < 0 ? '📉 lost' : '📈 received';
-      const word = delta !== 1 && delta !== -1 ? delta + ' stars' : 'a star';
-      return `⭐️${change} ${word} on ${name(event.repo.name)} (now ${event.payload.new || 'none'})`;
+      const change = delta < 0 ? "📉 lost" : "📈 received";
+      const word = delta !== 1 && delta !== -1 ? delta + " stars" : "a star";
+      return `⭐️${change} ${word} on ${name(event.repo.name)} (now ${
+        event.payload.new || "none"
+      })`;
     }
 
-    case 'forked': {
+    case "forked": {
       const delta = event.payload.new - event.payload.old;
-      const change = delta < 0 ? '📉 lost' : '📈 received';
-      const word = delta !== 1 && delta !== -1 ? delta + 'forks' : 'a fork';
-      return `🍴${change} ${word} on ${name(event.repo.name)} (now ${event.payload.new || 'none'})`;
+      const change = delta < 0 ? "📉 lost" : "📈 received";
+      const word = delta !== 1 && delta !== -1 ? delta + "forks" : "a fork";
+      return `🍴${change} ${word} on ${name(event.repo.name)} (now ${
+        event.payload.new || "none"
+      })`;
     }
 
     default: {
-      throw new Error(`Unhandled follower event action ${event.payload.action}.`);
+      throw new Error(
+        `Unhandled follower event action ${event.payload.action}.`
+      );
     }
   }
 }

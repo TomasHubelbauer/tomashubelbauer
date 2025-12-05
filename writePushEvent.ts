@@ -1,8 +1,6 @@
-import commit from './commit.ts';
+import commit from "./commit.ts";
+import type { PushPayload, Event } from "./types.ts";
 
-// https://docs.github.com/en/developers/webhooks-and-events/github-event-types#pushevent
-export default function writePushEvent(event) {
-  let markdown = `📌 pushed${commit(event.repo, event.payload)}`;
-
-  return markdown;
+export default function writePushEvent(event: Event<PushPayload>) {
+  return `📌 pushed${commit(event.repo, event.payload)}`;
 }
