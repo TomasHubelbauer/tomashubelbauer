@@ -60,12 +60,13 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
 
-          # Stage the Git index change of the auto-generated readme.md file
+          # Stage the Git index change of the auto-generated files
           git add readme.md prs.md issues.md
           git add by-name-asc.md by-name-desc.md
           git add by-pushed_at-asc.md by-pushed_at-desc.md
           git add by-size-asc.md by-size-desc.md
           git add by-updated_at-asc.md by-updated_at-desc.md
+          git add identical-forks.json
 
           # Bail if there are no changes to commit and hence no GitHub Pages to build
           if git diff-index --quiet HEAD --; then
@@ -74,11 +75,6 @@ jobs:
 
           # Commit the staged history-less changes to the workflow repository
           git commit -m "Generate the profile repository readme" -m "This commit was automatically generated via GitHub Actions"
-
-      - name: Force push Git changes back to the workflow repository
-        run: |
-          set -e
-          set -x
 
           # Push the commit to the workflow repository using force since we rewrote history
           git push origin HEAD:main --force
