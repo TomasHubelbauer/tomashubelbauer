@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2025-12-05T23:04:30.913Z
+2025-12-06T23:03:59.962Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -809,6 +809,14 @@
 🏷 day-planner
 
 📒 A one-off utility for graphical day planning
+
+## [dexo](https://github.com/TomasHubelbauer/dexo)
+
+⚖️ dexo
+
+🏷 codex, companion-app, dexo
+
+📒 Dexo is a Codex companion app for your portable devices
 
 ## [dom-local-storage-perf](https://github.com/TomasHubelbauer/dom-local-storage-perf)
 

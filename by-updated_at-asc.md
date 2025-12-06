@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2025-12-05T23:04:30.916Z
+2025-12-06T23:03:59.965Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3898,9 +3898,17 @@
 
 📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
 
+## [dexo](https://github.com/TomasHubelbauer/dexo)
+
+⚖️ 2025-12-06T21:17:11Z
+
+🏷 codex, companion-app, dexo
+
+📒 Dexo is a Codex companion app for your portable devices
+
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-12-05T22:56:42Z
+⚖️ 2025-12-06T22:03:33Z
 
 🏷 tomashubelbauer
 

@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2025-12-05T23:04:30.915Z
+2025-12-06T23:03:59.964Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -3097,6 +3097,14 @@
 🏷 dom, local-storage
 
 📒 DOM local storage performance experiment
+
+## [dexo](https://github.com/TomasHubelbauer/dexo)
+
+⚖️ dexo
+
+🏷 codex, companion-app, dexo
+
+📒 Dexo is a Codex companion app for your portable devices
 
 ## [day-planner](https://github.com/TomasHubelbauer/day-planner)
 

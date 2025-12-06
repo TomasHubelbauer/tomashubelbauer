@@ -8,12 +8,12 @@
 
 <div align="center">
 
-[334&nbsp;followers&nbsp;🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
+[333&nbsp;followers&nbsp;🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
 900&nbsp;stars&nbsp;⭐️  ᐧ
-[488&nbsp;repositories&nbsp;📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
+[489&nbsp;repositories&nbsp;📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
 [48&nbsp;issues&nbsp;🎫](issues.md) ᐧ
 [No&nbsp;PRs&nbsp;🎁](prs.md) ᐧ
-[476&nbsp;todos&nbsp;💪](todos.json) ᐧ
+[477&nbsp;todos&nbsp;💪](todos.json) ᐧ
 No&nbsp;forks&nbsp;🍴
 
 </div>
@@ -21,6 +21,48 @@ No&nbsp;forks&nbsp;🍴
 <details open>
 <summary>Today (00:04)</summary>
 
+- `22:16`
+  🌳 created branch 
+  [`main`](https://github.com/TomasHubelbauer/dexo/tree/main)
+  in
+  [`dexo`](https://github.com/TomasHubelbauer/dexo)
+- `20:14`
+  💬 commented on
+  [#7136 Global installation not adding the path](https://github.com/oven-sh/bun/issues/7136)
+  in
+  [`oven-sh/bun`](https://github.com/oven-sh/bun)
+- `19:02`
+  ⭐️ starred
+  [`ZackWilde27/FlatOut-UC-Decomp`](https://github.com/ZackWilde27/FlatOut-UC-Decomp)
+- `19:02`
+  ⭐️ starred
+  [`ZackWilde27/FlatOut-2-decomp`](https://github.com/ZackWilde27/FlatOut-2-decomp)
+- `19:00`
+  ⭐️ starred
+  [`mrwonko/flatout-open-level-editor`](https://github.com/mrwonko/flatout-open-level-editor)
+- `13:06`
+  💔 unfollowed by [CelaFlori](https://github.com/CelaFlori) after 0 days
+
+</details>
+
+<details>
+<summary>Yesterday</summary>
+
+- `00:06`
+  📌 pushed
+  [`4ad70fb`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/4ad70fb472ca89be75a1582c39fa318f90e9ec1d)
+  into
+  [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
+- `00:06`
+  📌 pushed
+  [`a35c85d`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/a35c85dc382b3fd7cdaeb96e83bd10037b6eb454)
+  into
+  [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
+- `23:56`
+  📌 pushed
+  [`ef84a03`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/ef84a03200117d6a6a26cc69d7a24885b2040d31)
+  into
+  [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `23:55`
   📌 pushed
   [`e21fbe0`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/e21fbe0ba097e93d593f47339f2d50d592376701)
@@ -112,7 +154,7 @@ No&nbsp;forks&nbsp;🍴
 </details>
 
 <details>
-<summary>Yesterday</summary>
+<summary>Thursday</summary>
 
 - `00:17`
   📌 pushed
@@ -1163,46 +1205,6 @@ No&nbsp;forks&nbsp;🍴
   [#23701 HMR stuck - can we get an API for a hard reset?](https://github.com/oven-sh/bun/issues/23701)
   in
   [`oven-sh/bun`](https://github.com/oven-sh/bun)
-
-</details>
-
-<details>
-<summary>2025-11-06</summary>
-
-- `15:53`
-  💬 commented on
-  [#15853 Temporal support (TC39 stage 3 proposal)](https://github.com/oven-sh/bun/issues/15853)
-  in
-  [`oven-sh/bun`](https://github.com/oven-sh/bun)
-- `15:29`
-  ⭐️ starred
-  [`tc39/test262`](https://github.com/tc39/test262)
-- `14:18`
-  ⭐️ starred
-  [`openpcc/openpcc`](https://github.com/openpcc/openpcc)
-- `14:05`
-  ⭐️ starred
-  [`github/copilot-cli`](https://github.com/github/copilot-cli)
-- `12:37`
-  🎫 opened
-  [#1 No Releases despite readme](https://github.com/iagooar/qqqa/issues/1)
-  in
-  [`iagooar/qqqa`](https://github.com/iagooar/qqqa)
-- `12:30`
-  ⭐️ starred
-  [`iagooar/qqqa`](https://github.com/iagooar/qqqa)
-- `10:27`
-  ⭐️ starred
-  [`hassio-addons/addon-tailscale`](https://github.com/hassio-addons/addon-tailscale)
-
-</details>
-
-<details>
-<summary>2025-11-05</summary>
-
-- `23:09`
-  ⭐️ starred
-  [`rxliuli/apps.apple.com`](https://github.com/rxliuli/apps.apple.com)
 
 </details>
 

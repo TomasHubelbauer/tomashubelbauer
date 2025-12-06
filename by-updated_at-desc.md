@@ -1,14 +1,22 @@
 # By `updated_at` (desc)
 
-2025-12-05T23:04:30.918Z
+2025-12-06T23:03:59.967Z
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-12-05T22:56:42Z
+⚖️ 2025-12-06T22:03:33Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [dexo](https://github.com/TomasHubelbauer/dexo)
+
+⚖️ 2025-12-06T21:17:11Z
+
+🏷 codex, companion-app, dexo
+
+📒 Dexo is a Codex companion app for your portable devices
 
 ## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
 
