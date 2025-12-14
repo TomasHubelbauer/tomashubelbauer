@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2025-12-05T23:04:30.924Z
+2025-12-14T05:04:11.794Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -65,14 +65,6 @@
 🏷 benchmark, comparison, qr, qr-code, qr-codes, qrcode, qrcode-reader, qrcode-scanner
 
 📒 A comparison of JavaScript QR scanner libraries
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 31712
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [globus](https://github.com/TomasHubelbauer/globus)
 
@@ -300,7 +292,7 @@
 
 ## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
 
-⚖️ 1535
+⚖️ 1537
 
 🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
 
@@ -513,6 +505,14 @@
 🏷 g11n, globalization, globe, i18n, internalization, l10n, localization
 
 📒 Performance measurements of the Globe library compared to Intl and Moment
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 440
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [ast-localizer](https://github.com/TomasHubelbauer/ast-localizer)
 
@@ -2026,6 +2026,14 @@
 
 📒 DOM local storage performance experiment
 
+## [dexo](https://github.com/TomasHubelbauer/dexo)
+
+⚖️ 8
+
+🏷 codex, companion-app, dexo
+
+📒 Dexo is a Codex companion app for your portable devices
+
 ## [lsp-plugin](https://github.com/TomasHubelbauer/lsp-plugin)
 
 ⚖️ 8
@@ -3041,6 +3049,14 @@
 🏷 batch, desktop-background, desktop-wallpaper, powershell, wsb
 
 📒 A demonstration of setting desktop wallpaper and background color using Batch
+
+## [macos-iphone-automation](https://github.com/TomasHubelbauer/macos-iphone-automation)
+
+⚖️ 2
+
+🏷 
+
+📒 null
 
 ## [emoji-canvas](https://github.com/TomasHubelbauer/emoji-canvas)
 

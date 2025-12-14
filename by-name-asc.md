@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2025-12-05T23:04:30.913Z
+2025-12-14T05:04:11.783Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -809,6 +809,14 @@
 🏷 day-planner
 
 📒 A one-off utility for graphical day planning
+
+## [dexo](https://github.com/TomasHubelbauer/dexo)
+
+⚖️ dexo
+
+🏷 codex, companion-app, dexo
+
+📒 Dexo is a Codex companion app for your portable devices
 
 ## [dom-local-storage-perf](https://github.com/TomasHubelbauer/dom-local-storage-perf)
 
@@ -2081,6 +2089,14 @@
 🏷 am-pm, clock, date-and-time, date-time, g11n, i14n, l10n, mac-os, meridian
 
 📒 My findings about macOS date and time settings
+
+## [macos-iphone-automation](https://github.com/TomasHubelbauer/macos-iphone-automation)
+
+⚖️ macos-iphone-automation
+
+🏷 
+
+📒 null
 
 ## [macos-login-item-shell-script-no-terminal](https://github.com/TomasHubelbauer/macos-login-item-shell-script-no-terminal)
 

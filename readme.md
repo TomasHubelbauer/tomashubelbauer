@@ -8,19 +8,162 @@
 
 <div align="center">
 
-[334&nbsp;followers&nbsp;🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
-900&nbsp;stars&nbsp;⭐️  ᐧ
-[488&nbsp;repositories&nbsp;📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
+[333&nbsp;followers&nbsp;🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
+897&nbsp;stars&nbsp;⭐️  ᐧ
+[490&nbsp;repositories&nbsp;📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
 [48&nbsp;issues&nbsp;🎫](issues.md) ᐧ
 [No&nbsp;PRs&nbsp;🎁](prs.md) ᐧ
-[476&nbsp;todos&nbsp;💪](todos.json) ᐧ
+[478&nbsp;todos&nbsp;💪](todos.json) ᐧ
 No&nbsp;forks&nbsp;🍴
 
 </div>
 
 <details open>
-<summary>Today (00:04)</summary>
+<summary>Yesterday</summary>
 
+- `20:03`
+  🤝 followed by [mikechiloane](https://github.com/mikechiloane)
+
+</details>
+
+<details>
+<summary>Friday</summary>
+
+- `13:04`
+  ⭐️ starred
+  [`JohnEarnest/Octo`](https://github.com/JohnEarnest/Octo)
+
+</details>
+
+<details>
+<summary>Thursday</summary>
+
+- `21:39`
+  ⭐️ starred
+  [`microsoft/docfind`](https://github.com/microsoft/docfind)
+- `18:07`
+  💔 unfollowed by [CelaDaniel](https://github.com/CelaDaniel) after 6 days
+
+</details>
+
+<details>
+<summary>Tuesday</summary>
+
+- `19:20`
+  ⭐️ starred
+  [`mistralai/mistral-vibe`](https://github.com/mistralai/mistral-vibe)
+- `19:15`
+  ⭐️ starred
+  [`KaijuEngine/kaiju`](https://github.com/KaijuEngine/kaiju)
+- `15:04`
+  ⭐️📉 lost a star on 
+  [`blender-script`](https://github.com/TomasHubelbauer/blender-script) (now 1)
+- `15:04`
+  ⭐️📉 lost a star on 
+  [`github-pages-status`](https://github.com/TomasHubelbauer/github-pages-status) (now 1)
+- `15:04`
+  ⭐️📉 lost a star on 
+  [`scrape-github-invoices`](https://github.com/TomasHubelbauer/scrape-github-invoices) (now 2)
+- `13:08`
+  ⭐️ starred
+  [`wazero/wazero`](https://github.com/wazero/wazero)
+- `11:49`
+  ⭐️ starred
+  [`ziggy42/epsilon`](https://github.com/ziggy42/epsilon)
+
+</details>
+
+<details>
+<summary>Monday</summary>
+
+- `13:06`
+  🤝 followed by [Guy-Lay](https://github.com/Guy-Lay)
+
+</details>
+
+<details>
+<summary>2025-12-07</summary>
+
+- `23:03`
+  💔 unfollowed by [NamesMT](https://github.com/NamesMT) after 0 days
+- `22:03`
+  🤝 followed by [NamesMT](https://github.com/NamesMT)
+- `19:03`
+  ⭐️ starred
+  [`alienator88/Sentinel`](https://github.com/alienator88/Sentinel)
+- `18:18`
+  📌 pushed
+  [`00c14b6`](https://github.com/TomasHubelbauer/macos-iphone-automation/commit/00c14b69d20f109d4ae8df74d337a37853f4c6c7)
+  into
+  [`macos-iphone-automation`](https://github.com/TomasHubelbauer/macos-iphone-automation)
+- `18:12`
+  📌 pushed
+  [`7dda277`](https://github.com/TomasHubelbauer/macos-iphone-automation/commit/7dda2774a5f1696229bd7f30827383f229b180c6)
+  into
+  [`macos-iphone-automation`](https://github.com/TomasHubelbauer/macos-iphone-automation)
+- `17:57`
+  ⭐️ starred
+  [`doronz88/pymobiledevice3`](https://github.com/doronz88/pymobiledevice3)
+- `17:47`
+  🌳 created branch 
+  [`main`](https://github.com/TomasHubelbauer/macos-iphone-automation/tree/main)
+  in
+  [`macos-iphone-automation`](https://github.com/TomasHubelbauer/macos-iphone-automation)
+- `16:53`
+  💬 commented on
+  [#3139 Enable Web Search by default](https://github.com/openai/codex/issues/3139)
+  in
+  [`openai/codex`](https://github.com/openai/codex)
+- `10:04`
+  💔 unfollowed by [filedonkey](https://github.com/filedonkey) after 2 days
+
+</details>
+
+<details>
+<summary>2025-12-06</summary>
+
+- `22:16`
+  🌳 created branch 
+  [`main`](https://github.com/TomasHubelbauer/dexo/tree/main)
+  in
+  [`dexo`](https://github.com/TomasHubelbauer/dexo)
+- `20:14`
+  💬 commented on
+  [#7136 Global installation not adding the path](https://github.com/oven-sh/bun/issues/7136)
+  in
+  [`oven-sh/bun`](https://github.com/oven-sh/bun)
+- `19:02`
+  ⭐️ starred
+  [`ZackWilde27/FlatOut-UC-Decomp`](https://github.com/ZackWilde27/FlatOut-UC-Decomp)
+- `19:02`
+  ⭐️ starred
+  [`ZackWilde27/FlatOut-2-decomp`](https://github.com/ZackWilde27/FlatOut-2-decomp)
+- `19:00`
+  ⭐️ starred
+  [`mrwonko/flatout-open-level-editor`](https://github.com/mrwonko/flatout-open-level-editor)
+- `13:06`
+  💔 unfollowed by [CelaFlori](https://github.com/CelaFlori) after 0 days
+
+</details>
+
+<details>
+<summary>2025-12-05</summary>
+
+- `00:06`
+  📌 pushed
+  [`4ad70fb`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/4ad70fb472ca89be75a1582c39fa318f90e9ec1d)
+  into
+  [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
+- `00:06`
+  📌 pushed
+  [`a35c85d`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/a35c85dc382b3fd7cdaeb96e83bd10037b6eb454)
+  into
+  [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
+- `23:56`
+  📌 pushed
+  [`ef84a03`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/ef84a03200117d6a6a26cc69d7a24885b2040d31)
+  into
+  [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `23:55`
   📌 pushed
   [`e21fbe0`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/e21fbe0ba097e93d593f47339f2d50d592376701)
@@ -112,7 +255,7 @@ No&nbsp;forks&nbsp;🍴
 </details>
 
 <details>
-<summary>Yesterday</summary>
+<summary>2025-12-04</summary>
 
 - `00:17`
   📌 pushed
@@ -853,7 +996,7 @@ No&nbsp;forks&nbsp;🍴
 </details>
 
 <details>
-<summary>Wednesday</summary>
+<summary>2025-12-03</summary>
 
 - `23:47`
   ⭐️ starred
@@ -862,7 +1005,7 @@ No&nbsp;forks&nbsp;🍴
 </details>
 
 <details>
-<summary>Tuesday</summary>
+<summary>2025-12-02</summary>
 
 - `14:23`
   ⭐️ starred
@@ -871,7 +1014,7 @@ No&nbsp;forks&nbsp;🍴
 </details>
 
 <details>
-<summary>Monday</summary>
+<summary>2025-12-01</summary>
 
 - `20:55`
   ⭐️ starred
@@ -883,7 +1026,7 @@ No&nbsp;forks&nbsp;🍴
 </details>
 
 <details>
-<summary>Sunday</summary>
+<summary>2025-11-30</summary>
 
 - `18:32`
   💬 commented on
@@ -1046,163 +1189,6 @@ No&nbsp;forks&nbsp;🍴
 - `19:52`
   ⭐️ starred
   [`toon-format/toon`](https://github.com/toon-format/toon)
-
-</details>
-
-<details>
-<summary>2025-11-12</summary>
-
-- `22:08`
-  ⭐️ starred
-  [`jsx-tool/jsx-tool`](https://github.com/jsx-tool/jsx-tool)
-
-</details>
-
-<details>
-<summary>2025-11-11</summary>
-
-- `21:17`
-  💬 commented on
-  [#17259 HTMLRewriter doesn't support reading from a Blob](https://github.com/oven-sh/bun/issues/17259)
-  in
-  [`oven-sh/bun`](https://github.com/oven-sh/bun)
-- `11:04`
-  ⭐️ starred
-  [`gdzig/gdzig`](https://github.com/gdzig/gdzig)
-
-</details>
-
-<details>
-<summary>2025-11-10</summary>
-
-- `20:44`
-  ⭐️ starred
-  [`sfstar/hass-victron`](https://github.com/sfstar/hass-victron)
-- `20:44`
-  ⭐️ starred
-  [`Snapchat/Valdi`](https://github.com/Snapchat/Valdi)
-- `17:28`
-  ⭐️ starred
-  [`get-convex/convex-backend`](https://github.com/get-convex/convex-backend)
-- `14:00`
-  ⭐️ starred
-  [`timgit/pg-boss`](https://github.com/timgit/pg-boss)
-
-</details>
-
-<details>
-<summary>2025-11-09</summary>
-
-- `23:30`
-  ⭐️ starred
-  [`LaurieWired/GhidraMCP`](https://github.com/LaurieWired/GhidraMCP)
-
-</details>
-
-<details>
-<summary>2025-11-08</summary>
-
-- `20:27`
-  📌 pushed
-  [`f423f01`](https://github.com/TomasHubelbauer/osm-raster-map/commit/f423f01a63e90bbc5b3595235c5d9675a8cf3f64)
-  into
-  [`osm-raster-map`](https://github.com/TomasHubelbauer/osm-raster-map)
-- `20:18`
-  📌 pushed
-  [`c793932`](https://github.com/TomasHubelbauer/osm-raster-map/commit/c793932891403c30b7c4b166f11c4390fe627003)
-  into
-  [`osm-raster-map`](https://github.com/TomasHubelbauer/osm-raster-map)
-- `20:13`
-  📌 pushed
-  [`f70c642`](https://github.com/TomasHubelbauer/osm-raster-map/commit/f70c642146c0afd56708985b30aa3522562b9c4d)
-  into
-  [`osm-raster-map`](https://github.com/TomasHubelbauer/osm-raster-map)
-- `19:59`
-  📌 pushed
-  [`a39062e`](https://github.com/TomasHubelbauer/osm-raster-map/commit/a39062eeb7f7b8763196f0f215a5321f02362256)
-  into
-  [`osm-raster-map`](https://github.com/TomasHubelbauer/osm-raster-map)
-- `19:45`
-  📌 pushed
-  [`74db10f`](https://github.com/TomasHubelbauer/osm-raster-map/commit/74db10fe73bd95ccbeda0e1a0f8ea1699125881e)
-  into
-  [`osm-raster-map`](https://github.com/TomasHubelbauer/osm-raster-map)
-- `19:40`
-  📌 pushed
-  [`632dae2`](https://github.com/TomasHubelbauer/osm-raster-map/commit/632dae21af340b57ae3f5d59f940be99963e6a91)
-  into
-  [`osm-raster-map`](https://github.com/TomasHubelbauer/osm-raster-map)
-- `19:36`
-  📌 pushed
-  [`644a79a`](https://github.com/TomasHubelbauer/osm-raster-map/commit/644a79a4ab85de2c63cc97e955385b151d4dc712)
-  into
-  [`osm-raster-map`](https://github.com/TomasHubelbauer/osm-raster-map)
-- `19:24`
-  📌 pushed
-  [`690e9af`](https://github.com/TomasHubelbauer/osm-raster-map/commit/690e9af5c07b5d5eef53785c124cb21414e0f958)
-  into
-  [`osm-raster-map`](https://github.com/TomasHubelbauer/osm-raster-map)
-- `19:20`
-  📌 pushed
-  [`f7d9758`](https://github.com/TomasHubelbauer/osm-raster-map/commit/f7d97580ea2915e766fa82556d12e0377457cf9e)
-  into
-  [`osm-raster-map`](https://github.com/TomasHubelbauer/osm-raster-map)
-- `19:12`
-  📌 pushed
-  [`e5b9123`](https://github.com/TomasHubelbauer/osm-raster-map/commit/e5b91234e0a5af0bc7e90fb5c4da9a4aa6b93643)
-  into
-  [`osm-raster-map`](https://github.com/TomasHubelbauer/osm-raster-map)
-
-</details>
-
-<details>
-<summary>2025-11-07</summary>
-
-- `13:56`
-  💬 commented on
-  [#23701 HMR stuck - can we get an API for a hard reset?](https://github.com/oven-sh/bun/issues/23701)
-  in
-  [`oven-sh/bun`](https://github.com/oven-sh/bun)
-
-</details>
-
-<details>
-<summary>2025-11-06</summary>
-
-- `15:53`
-  💬 commented on
-  [#15853 Temporal support (TC39 stage 3 proposal)](https://github.com/oven-sh/bun/issues/15853)
-  in
-  [`oven-sh/bun`](https://github.com/oven-sh/bun)
-- `15:29`
-  ⭐️ starred
-  [`tc39/test262`](https://github.com/tc39/test262)
-- `14:18`
-  ⭐️ starred
-  [`openpcc/openpcc`](https://github.com/openpcc/openpcc)
-- `14:05`
-  ⭐️ starred
-  [`github/copilot-cli`](https://github.com/github/copilot-cli)
-- `12:37`
-  🎫 opened
-  [#1 No Releases despite readme](https://github.com/iagooar/qqqa/issues/1)
-  in
-  [`iagooar/qqqa`](https://github.com/iagooar/qqqa)
-- `12:30`
-  ⭐️ starred
-  [`iagooar/qqqa`](https://github.com/iagooar/qqqa)
-- `10:27`
-  ⭐️ starred
-  [`hassio-addons/addon-tailscale`](https://github.com/hassio-addons/addon-tailscale)
-
-</details>
-
-<details>
-<summary>2025-11-05</summary>
-
-- `23:09`
-  ⭐️ starred
-  [`rxliuli/apps.apple.com`](https://github.com/rxliuli/apps.apple.com)
 
 </details>
 
