@@ -67,55 +67,59 @@ await Bun.write("followers.json", JSON.stringify(followers, null, 2));
 // Keep a list of accounts found to be dead to skip in unfollow-follow events
 const deadLogins: string[] = [];
 
-const cutoff = events[events.length - 1].created_at;
-for (const follower of followers) {
-  // Generate follower event (unfollowed) if the user unfollowed earlier than the oldest GitHub activity event returned
-  if (follower.unfollowed_at?.localeCompare(cutoff) >= 0) {
-    // Skip accounts known to be dead already
-    if (deadLogins.includes(follower.login)) {
-      continue;
-    }
+// Generate synthetic follower events only if GitHub API returned events
+// (skip if empty due to transient API issue)
+if (events.length > 0) {
+  const cutoff = events[events.length - 1].created_at;
+  for (const follower of followers) {
+    // Generate follower event (unfollowed) if the user unfollowed earlier than the oldest GitHub activity event returned
+    if (follower.unfollowed_at?.localeCompare(cutoff) >= 0) {
+      // Skip accounts known to be dead already
+      if (deadLogins.includes(follower.login)) {
+        continue;
+      }
 
-    // Check if the account is dead and if so, mark it as such and skip
-    // Use the non-API endpoint because the API is not always accurate on this
-    const { status } = await fetch(
-      process.env.GITHUB_SERVER_URL + "/" + follower.login
-    );
-    if (status === 404) {
-      deadLogins.push(follower.login);
-      continue;
-    }
-
-    let duration;
-    if (follower.followed_at !== "0000-00-00T00:00:00Z") {
-      duration = ~~(
-        (new Date(follower.unfollowed_at).valueOf() -
-          new Date(follower.followed_at).valueOf()) /
-        (1000 * 3600 * 24)
+      // Check if the account is dead and if so, mark it as such and skip
+      // Use the non-API endpoint because the API is not always accurate on this
+      const { status } = await fetch(
+        process.env.GITHUB_SERVER_URL + "/" + follower.login
       );
+      if (status === 404) {
+        deadLogins.push(follower.login);
+        continue;
+      }
+
+      let duration;
+      if (follower.followed_at !== "0000-00-00T00:00:00Z") {
+        duration = ~~(
+          (new Date(follower.unfollowed_at).valueOf() -
+            new Date(follower.followed_at).valueOf()) /
+          (1000 * 3600 * 24)
+        );
+      }
+
+      events.push({
+        actor: { login },
+        created_at: follower.unfollowed_at,
+        type: "FollowerEvent",
+        payload: { action: "unfollowed", unfollower: follower.login, duration },
+      });
     }
 
-    events.push({
-      actor: { login },
-      created_at: follower.unfollowed_at,
-      type: "FollowerEvent",
-      payload: { action: "unfollowed", unfollower: follower.login, duration },
-    });
-  }
+    // Generate follower event (followed) if the user followed earlier than the oldest GitHub activity event returned
+    if (follower.followed_at?.localeCompare(cutoff) >= 0) {
+      // Skip accounts known to be dead (marked as such by unfollow event)
+      if (deadLogins.includes(follower.login)) {
+        continue;
+      }
 
-  // Generate follower event (followed) if the user followed earlier than the oldest GitHub activity event returned
-  if (follower.followed_at?.localeCompare(cutoff) >= 0) {
-    // Skip accounts known to be dead (marked as such by unfollow event)
-    if (deadLogins.includes(follower.login)) {
-      continue;
+      events.push({
+        actor: { login },
+        created_at: follower.followed_at,
+        type: "FollowerEvent",
+        payload: { action: "followed", newFollower: follower.login },
+      });
     }
-
-    events.push({
-      actor: { login },
-      created_at: follower.followed_at,
-      type: "FollowerEvent",
-      payload: { action: "followed", newFollower: follower.login },
-    });
   }
 }
 
@@ -323,38 +327,42 @@ await Bun.write(
 
 // Compare changes between repository attributes and generate events for them
 // Note that repo creations and deletions are handled by GitHub Activity API
-for (const repository in _repositories) {
-  let _stat;
-  const stats = _repositories[repository];
-  for (const stamp in stats) {
-    const stat = stats[stamp];
-    // Set the first stat as the comparison basis and continue
-    if (!_stat) {
+// Skip if no events returned from API (transient GitHub API issue)
+if (events.length > 0) {
+  const cutoff = events[events.length - 1].created_at;
+  for (const repository in _repositories) {
+    let _stat;
+    const stats = _repositories[repository];
+    for (const stamp in stats) {
+      const stat = stats[stamp];
+      // Set the first stat as the comparison basis and continue
+      if (!_stat) {
+        _stat = stat;
+        continue;
+      }
+
+      if (stat.stars !== _stat.stars && stamp?.localeCompare(cutoff) >= 0) {
+        events.push({
+          actor: { login },
+          created_at: stamp,
+          type: "RepositoryEvent",
+          repo: { name: `${login}/${repository}` },
+          payload: { action: "starred", old: _stat.stars, new: stat.stars },
+        });
+      }
+
+      if (stat.forks !== _stat.forks && stamp?.localeCompare(cutoff) >= 0) {
+        events.push({
+          actor: { login },
+          created_at: stamp,
+          type: "RepositoryEvent",
+          repo: { name: `${login}/${repository}` },
+          payload: { action: "forked", old: _stat.forks, new: stat.forks },
+        });
+      }
+
       _stat = stat;
-      continue;
     }
-
-    if (stat.stars !== _stat.stars && stamp?.localeCompare(cutoff) >= 0) {
-      events.push({
-        actor: { login },
-        created_at: stamp,
-        type: "RepositoryEvent",
-        repo: { name: `${login}/${repository}` },
-        payload: { action: "starred", old: _stat.stars, new: stat.stars },
-      });
-    }
-
-    if (stat.forks !== _stat.forks && stamp?.localeCompare(cutoff) >= 0) {
-      events.push({
-        actor: { login },
-        created_at: stamp,
-        type: "RepositoryEvent",
-        repo: { name: `${login}/${repository}` },
-        payload: { action: "forked", old: _stat.forks, new: stat.forks },
-      });
-    }
-
-    _stat = stat;
   }
 }
 

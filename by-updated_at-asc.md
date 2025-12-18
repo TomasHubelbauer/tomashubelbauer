@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2025-12-05T23:04:30.916Z
+2025-12-18T14:04:58.934Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -1714,14 +1714,6 @@
 
 📒 GitHub Pages API deployment progress watcher script
 
-## [github-pages-status](https://github.com/TomasHubelbauer/github-pages-status)
-
-⚖️ 2022-04-17T09:58:23Z
-
-🏷 github, github-pages
-
-📒 A scraper for one's GitHub repos and their associated GitHub Pages with health checks
-
 ## [globe-perf](https://github.com/TomasHubelbauer/globe-perf)
 
 ⚖️ 2022-04-17T09:59:08Z
@@ -1969,14 +1961,6 @@
 🏷 asp, asp-net, asp-net-core, pdf
 
 📒 An example of printing a PDF using a .NET Core port of PDFSharp and using Chrome
-
-## [blender-script](https://github.com/TomasHubelbauer/blender-script)
-
-⚖️ 2022-04-28T08:43:58Z
-
-🏷 blender, blender-python, blender-python-api, blender-python-scripts
-
-📒 A demo on running Blender with a Python script for generating and rendering a scene.
 
 ## [cra-hosts](https://github.com/TomasHubelbauer/cra-hosts)
 
@@ -3530,14 +3514,6 @@
 
 📒 A query in WebP support in browsers and MarkDown previews on GitHub and in VS Code
 
-## [scrape-github-invoices](https://github.com/TomasHubelbauer/scrape-github-invoices)
-
-⚖️ 2025-05-07T10:41:24Z
-
-🏷 github, invoices, puppeteer, scraper, scraping, scraping-websites
-
-📒 Download invoices from the GitHub billing page to your Downloads automatically using Puppeteer.
-
 ## [bun-render](https://github.com/TomasHubelbauer/bun-render)
 
 ⚖️ 2025-06-02T22:18:56Z
@@ -3722,14 +3698,6 @@
 
 📒 My personal website
 
-## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
-
-⚖️ 2025-08-21T14:25:29Z
-
-🏷 arduino, arduino-qr, dot-matrix, led-matrix, ledcontrol, max7219, qr, qr-code
-
-📒 Arduino LED dot-matrix display QR code
-
 ## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
 
 ⚖️ 2025-08-29T03:42:44Z
@@ -3898,9 +3866,57 @@
 
 📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
 
+## [dexo](https://github.com/TomasHubelbauer/dexo)
+
+⚖️ 2025-12-06T21:17:11Z
+
+🏷 codex, companion-app, dexo
+
+📒 Dexo is a Codex companion app for your portable devices
+
+## [macos-iphone-automation](https://github.com/TomasHubelbauer/macos-iphone-automation)
+
+⚖️ 2025-12-07T17:18:51Z
+
+🏷 
+
+📒 null
+
+## [scrape-github-invoices](https://github.com/TomasHubelbauer/scrape-github-invoices)
+
+⚖️ 2025-12-09T13:23:50Z
+
+🏷 github, invoices, puppeteer, scraper, scraping, scraping-websites
+
+📒 Download invoices from the GitHub billing page to your Downloads automatically using Puppeteer.
+
+## [blender-script](https://github.com/TomasHubelbauer/blender-script)
+
+⚖️ 2025-12-09T13:33:57Z
+
+🏷 blender, blender-python, blender-python-api, blender-python-scripts
+
+📒 A demo on running Blender with a Python script for generating and rendering a scene.
+
+## [github-pages-status](https://github.com/TomasHubelbauer/github-pages-status)
+
+⚖️ 2025-12-09T13:35:16Z
+
+🏷 github, github-pages
+
+📒 A scraper for one's GitHub repos and their associated GitHub Pages with health checks
+
+## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
+
+⚖️ 2025-12-16T00:50:44Z
+
+🏷 arduino, arduino-qr, dot-matrix, led-matrix, ledcontrol, max7219, qr, qr-code
+
+📒 Arduino LED dot-matrix display QR code
+
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-12-05T22:56:42Z
+⚖️ 2025-12-18T13:15:06Z
 
 🏷 tomashubelbauer
 

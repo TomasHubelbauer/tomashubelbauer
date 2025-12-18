@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2025-12-05T23:04:30.915Z
+2025-12-18T14:04:58.932Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -1826,6 +1826,14 @@
 
 📒 null
 
+## [macos-iphone-automation](https://github.com/TomasHubelbauer/macos-iphone-automation)
+
+⚖️ macos-iphone-automation
+
+🏷 
+
+📒 null
+
 ## [macos-date-time](https://github.com/TomasHubelbauer/macos-date-time)
 
 ⚖️ macos-date-time
@@ -3097,6 +3105,14 @@
 🏷 dom, local-storage
 
 📒 DOM local storage performance experiment
+
+## [dexo](https://github.com/TomasHubelbauer/dexo)
+
+⚖️ dexo
+
+🏷 codex, companion-app, dexo
+
+📒 Dexo is a Codex companion app for your portable devices
 
 ## [day-planner](https://github.com/TomasHubelbauer/day-planner)
 

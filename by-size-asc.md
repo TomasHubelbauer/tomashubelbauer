@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2025-12-05T23:04:30.923Z
+2025-12-18T14:04:58.941Z
 
 ## [mcp-a2a](https://github.com/TomasHubelbauer/mcp-a2a)
 
@@ -545,6 +545,14 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
+
+## [macos-iphone-automation](https://github.com/TomasHubelbauer/macos-iphone-automation)
+
+⚖️ 2
+
+🏷 
+
+📒 null
 
 ## [emoji-canvas](https://github.com/TomasHubelbauer/emoji-canvas)
 
@@ -1817,6 +1825,14 @@
 🏷 flirc, ir, led, led-strip
 
 📒 Using Flirc to control an IR LED strip
+
+## [dexo](https://github.com/TomasHubelbauer/dexo)
+
+⚖️ 8
+
+🏷 codex, companion-app, dexo
+
+📒 Dexo is a Codex companion app for your portable devices
 
 ## [lsp-plugin](https://github.com/TomasHubelbauer/lsp-plugin)
 
@@ -3402,6 +3418,14 @@
 
 📒 Performance measurements of the Globe library compared to Intl and Moment
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 463
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [bun-sliplane](https://github.com/TomasHubelbauer/bun-sliplane)
 
 ⚖️ 469
@@ -3604,7 +3628,7 @@
 
 ## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
 
-⚖️ 1535
+⚖️ 1537
 
 🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
 
@@ -3833,14 +3857,6 @@
 🏷 globus, pdf-scraping, puppeteer, puppeteer-firefox
 
 📒 Scrapes the Globus PDF catalogue using Puppeteer
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 31712
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [js-qr-scanner-library-comparison](https://github.com/TomasHubelbauer/js-qr-scanner-library-comparison)
 
