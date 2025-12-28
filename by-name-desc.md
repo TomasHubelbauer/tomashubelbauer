@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2025-12-18T14:04:58.932Z
+2025-12-28T01:33:04.855Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -393,6 +393,14 @@
 🏷 
 
 📒 null
+
+## [vscode-local-extensions](https://github.com/TomasHubelbauer/vscode-local-extensions)
+
+⚖️ vscode-local-extensions
+
+🏷 hubelbauer-net, vscode, vscode-extensions
+
+📒 An article about VS Code Local Workspace Extensions feature
 
 ## [vscode-kb](https://github.com/TomasHubelbauer/vscode-kb)
 
@@ -3158,9 +3166,9 @@
 
 ⚖️ cursor-agent-windows
 
-🏷 
+🏷 cursor, cursor-agent, hubelbauer-net, windows
 
-📒 null
+📒 A post showing how I made a Windows version of Cursor Agent despite no official Windows-native builds.
 
 ## [css-wrap](https://github.com/TomasHubelbauer/css-wrap)
 

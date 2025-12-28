@@ -1,6 +1,6 @@
 # By `name` (asc)
 
-2025-12-18T14:04:58.929Z
+2025-12-28T01:33:04.853Z
 
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
@@ -766,9 +766,9 @@
 
 ⚖️ cursor-agent-windows
 
-🏷 
+🏷 cursor, cursor-agent, hubelbauer-net, windows
 
-📒 null
+📒 A post showing how I made a Windows version of Cursor Agent despite no official Windows-native builds.
 
 ## [dagre](https://github.com/TomasHubelbauer/dagre)
 
@@ -3529,6 +3529,14 @@
 🏷 vscode, vscode-extension
 
 📒 VS Code and VS Code extension API knowledge base
+
+## [vscode-local-extensions](https://github.com/TomasHubelbauer/vscode-local-extensions)
+
+⚖️ vscode-local-extensions
+
+🏷 hubelbauer-net, vscode, vscode-extensions
+
+📒 An article about VS Code Local Workspace Extensions feature
 
 ## [vscode-local-workspace-extensions](https://github.com/TomasHubelbauer/vscode-local-workspace-extensions)
 

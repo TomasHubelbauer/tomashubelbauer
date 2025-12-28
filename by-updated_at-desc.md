@@ -1,14 +1,54 @@
 # By `updated_at` (desc)
 
-2025-12-18T14:04:58.935Z
+2025-12-28T01:33:04.858Z
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-12-18T13:15:06Z
+⚖️ 2025-12-28T00:21:10Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 2025-12-27T21:13:14Z
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
+## [vscode-local-extensions](https://github.com/TomasHubelbauer/vscode-local-extensions)
+
+⚖️ 2025-12-27T21:12:32Z
+
+🏷 hubelbauer-net, vscode, vscode-extensions
+
+📒 An article about VS Code Local Workspace Extensions feature
+
+## [cursor-agent-windows](https://github.com/TomasHubelbauer/cursor-agent-windows)
+
+⚖️ 2025-12-27T20:42:21Z
+
+🏷 cursor, cursor-agent, hubelbauer-net, windows
+
+📒 A post showing how I made a Windows version of Cursor Agent despite no official Windows-native builds.
+
+## [bun-mcp](https://github.com/TomasHubelbauer/bun-mcp)
+
+⚖️ 2025-12-27T12:26:52Z
+
+🏷 agent-mode, bun, copilot, copilot-chat, mcp, mcp-server, vs-code, vscode, vscode-copilot-chat
+
+📒 A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
+
+## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
+
+⚖️ 2025-12-20T22:17:04Z
+
+🏷 
+
+📒 null
 
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
@@ -114,14 +154,6 @@
 
 📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
 
-## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
-
-⚖️ 2025-11-04T18:08:07Z
-
-🏷 
-
-📒 null
-
 ## [mcp-a2a](https://github.com/TomasHubelbauer/mcp-a2a)
 
 ⚖️ 2025-10-29T12:08:16Z
@@ -162,14 +194,6 @@
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
 
-## [cursor-agent-windows](https://github.com/TomasHubelbauer/cursor-agent-windows)
-
-⚖️ 2025-10-10T13:05:03Z
-
-🏷 
-
-📒 null
-
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
 ⚖️ 2025-10-06T20:51:42Z
@@ -185,14 +209,6 @@
 🏷 github, github-actions, wsl
 
 📒 Seeing if it is possible to use WSL in Windows based GitHub Actions agents
-
-## [bun-mcp](https://github.com/TomasHubelbauer/bun-mcp)
-
-⚖️ 2025-10-04T10:59:00Z
-
-🏷 agent-mode, bun, copilot, copilot-chat, mcp, mcp-server, vs-code, vscode, vscode-copilot-chat
-
-📒 A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
 
 ## [onewheel-charger](https://github.com/TomasHubelbauer/onewheel-charger)
 
@@ -225,14 +241,6 @@
 🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
 
 📒 Brother P-touch D600 label maker USB communication with P-touch Editor
-
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 2025-08-15T09:57:53Z
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
 
 ## [conspiracy-rss](https://github.com/TomasHubelbauer/conspiracy-rss)
 

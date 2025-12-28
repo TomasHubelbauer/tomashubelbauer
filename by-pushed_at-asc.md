@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2025-12-18T14:04:58.937Z
+2025-12-28T01:33:04.860Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -3862,17 +3862,9 @@
 
 ⚖️ 2025-08-15T09:55:15Z
 
-🏷 
+🏷 cursor, cursor-agent, hubelbauer-net, windows
 
-📒 null
-
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 2025-08-15T09:57:50Z
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
+📒 A post showing how I made a Windows version of Cursor Agent despite no official Windows-native builds.
 
 ## [mcp-a2a](https://github.com/TomasHubelbauer/mcp-a2a)
 
@@ -3914,9 +3906,25 @@
 
 📒 null
 
+## [vscode-local-extensions](https://github.com/TomasHubelbauer/vscode-local-extensions)
+
+⚖️ 2025-12-27T21:02:45Z
+
+🏷 hubelbauer-net, vscode, vscode-extensions
+
+📒 An article about VS Code Local Workspace Extensions feature
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 2025-12-27T21:13:10Z
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-12-18T13:15:02Z
+⚖️ 2025-12-28T00:21:06Z
 
 🏷 tomashubelbauer
 

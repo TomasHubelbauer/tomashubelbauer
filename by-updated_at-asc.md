@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2025-12-18T14:04:58.934Z
+2025-12-28T01:33:04.857Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3690,14 +3690,6 @@
 
 📒 Conspiracy upcoming events RSS
 
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 2025-08-15T09:57:53Z
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
-
 ## [brother-p-touch-d600](https://github.com/TomasHubelbauer/brother-p-touch-d600)
 
 ⚖️ 2025-08-29T03:42:44Z
@@ -3730,14 +3722,6 @@
 
 📒 Onewheel Pint and +XR charger specs and connector pinouts
 
-## [bun-mcp](https://github.com/TomasHubelbauer/bun-mcp)
-
-⚖️ 2025-10-04T10:59:00Z
-
-🏷 agent-mode, bun, copilot, copilot-chat, mcp, mcp-server, vs-code, vscode, vscode-copilot-chat
-
-📒 A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
-
 ## [github-actions-wsl](https://github.com/TomasHubelbauer/github-actions-wsl)
 
 ⚖️ 2025-10-06T09:29:41Z
@@ -3753,14 +3737,6 @@
 🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
 
 📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
-
-## [cursor-agent-windows](https://github.com/TomasHubelbauer/cursor-agent-windows)
-
-⚖️ 2025-10-10T13:05:03Z
-
-🏷 
-
-📒 null
 
 ## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
 
@@ -3797,14 +3773,6 @@
 ## [mcp-a2a](https://github.com/TomasHubelbauer/mcp-a2a)
 
 ⚖️ 2025-10-29T12:08:16Z
-
-🏷 
-
-📒 null
-
-## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
-
-⚖️ 2025-11-04T18:08:07Z
 
 🏷 
 
@@ -3914,9 +3882,49 @@
 
 📒 Arduino LED dot-matrix display QR code
 
+## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
+
+⚖️ 2025-12-20T22:17:04Z
+
+🏷 
+
+📒 null
+
+## [bun-mcp](https://github.com/TomasHubelbauer/bun-mcp)
+
+⚖️ 2025-12-27T12:26:52Z
+
+🏷 agent-mode, bun, copilot, copilot-chat, mcp, mcp-server, vs-code, vscode, vscode-copilot-chat
+
+📒 A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
+
+## [cursor-agent-windows](https://github.com/TomasHubelbauer/cursor-agent-windows)
+
+⚖️ 2025-12-27T20:42:21Z
+
+🏷 cursor, cursor-agent, hubelbauer-net, windows
+
+📒 A post showing how I made a Windows version of Cursor Agent despite no official Windows-native builds.
+
+## [vscode-local-extensions](https://github.com/TomasHubelbauer/vscode-local-extensions)
+
+⚖️ 2025-12-27T21:12:32Z
+
+🏷 hubelbauer-net, vscode, vscode-extensions
+
+📒 An article about VS Code Local Workspace Extensions feature
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 2025-12-27T21:13:14Z
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-12-18T13:15:06Z
+⚖️ 2025-12-28T00:21:10Z
 
 🏷 tomashubelbauer
 

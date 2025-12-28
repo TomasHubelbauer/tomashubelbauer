@@ -10,17 +10,150 @@
 
 [333&nbsp;followers&nbsp;🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
 898&nbsp;stars&nbsp;⭐️  ᐧ
-[490&nbsp;repositories&nbsp;📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
+[491&nbsp;repositories&nbsp;📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
 [48&nbsp;issues&nbsp;🎫](issues.md) ᐧ
 [No&nbsp;PRs&nbsp;🎁](prs.md) ᐧ
-[478&nbsp;todos&nbsp;💪](todos.json) ᐧ
+[479&nbsp;todos&nbsp;💪](todos.json) ᐧ
 No&nbsp;forks&nbsp;🍴
 
 </div>
 
 <details open>
-<summary>Today (15:05)</summary>
+<summary>Yesterday</summary>
 
+- `22:11`
+  📌 pushed
+  [`4bbf4fa`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/4bbf4fa2ebad7e38aceb4f00d48662850a5259d7)
+  into
+  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
+- `22:10`
+  📌 pushed
+  [`22e6c2f`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/22e6c2f97ff6e3988c536cf6c97a8b5f55c1e915)
+  into
+  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
+- `22:06`
+  ⭐️ starred
+  [`Ripple-TS/ripple`](https://github.com/Ripple-TS/ripple)
+- `22:02`
+  🌳 created branch 
+  [`main`](https://github.com/TomasHubelbauer/vscode-local-extensions/tree/main)
+  in
+  [`vscode-local-extensions`](https://github.com/TomasHubelbauer/vscode-local-extensions)
+- `21:48`
+  📌 pushed
+  [`84d2e17`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/84d2e17f1768d42afbeb7e52ff49583e73d62d72)
+  into
+  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
+- `21:43`
+  📌 pushed
+  [`b0d5cdc`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/b0d5cdc0a3db86bdd31334939e3c982cff3576cf)
+  into
+  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
+- `21:38`
+  📌 pushed
+  [`aea984f`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/aea984fe8fe6c734f44e6080b2cb06c843e19e64)
+  into
+  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
+- `17:51`
+  ⭐️ starred
+  [`apple/ml-sharp`](https://github.com/apple/ml-sharp)
+- `14:11`
+  ⭐️📉 lost a star on 
+  [`bun-mcp`](https://github.com/TomasHubelbauer/bun-mcp) (now 4)
+
+</details>
+
+<details>
+<summary>Friday</summary>
+
+- `21:51`
+  ⭐️ starred
+  [`jordansissel/xdotool`](https://github.com/jordansissel/xdotool)
+- `13:26`
+  ⭐️ starred
+  [`zen-browser/desktop`](https://github.com/zen-browser/desktop)
+
+</details>
+
+<details>
+<summary>Thursday</summary>
+
+- `18:22`
+  ⭐️ starred
+  [`tw93/Mole`](https://github.com/tw93/Mole)
+- `15:54`
+  ⭐️ starred
+  [`sebastienros/comptime`](https://github.com/sebastienros/comptime)
+
+</details>
+
+<details>
+<summary>Wednesday</summary>
+
+- `23:04`
+  💔 unfollowed by [NamesMT](https://github.com/NamesMT) after 17 days
+- `20:08`
+  ⭐️ starred
+  [`VibiumDev/vibium`](https://github.com/VibiumDev/vibium)
+- `16:06`
+  ⭐️ starred
+  [`freelawproject/x-ray`](https://github.com/freelawproject/x-ray)
+
+</details>
+
+<details>
+<summary>Tuesday</summary>
+
+- `20:22`
+  ⭐️ starred
+  [`bellard/mquickjs`](https://github.com/bellard/mquickjs)
+
+</details>
+
+<details>
+<summary>Monday</summary>
+
+- `23:07`
+  ⭐️ starred
+  [`oraios/serena`](https://github.com/oraios/serena)
+
+</details>
+
+<details>
+<summary>2025-12-21</summary>
+
+- `00:19`
+  ⭐️ starred
+  [`rue-language/rue`](https://github.com/rue-language/rue)
+
+</details>
+
+<details>
+<summary>2025-12-20</summary>
+
+- `00:03`
+  ⭐️📈 received a star on 
+  [`firefox-permanent-unsigned-extension`](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension) (now 9)
+- `18:54`
+  ⭐️ starred
+  [`Jarred-Sumner/poof`](https://github.com/Jarred-Sumner/poof)
+- `18:53`
+  ⭐️ starred
+  [`sst/opentui`](https://github.com/sst/opentui)
+- `18:49`
+  ⭐️ starred
+  [`cameroncooke/AXe`](https://github.com/cameroncooke/AXe)
+
+</details>
+
+<details>
+<summary>2025-12-18</summary>
+
+- `15:17`
+  📌 pushed
+  [`da344f3`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/da344f394f69a75b842c6b7ec0b700e7f292372f)
+  into
+  [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `12:50`
   ⭐️ starred
   [`ironcalc/IronCalc`](https://github.com/ironcalc/IronCalc)
@@ -31,7 +164,7 @@ No&nbsp;forks&nbsp;🍴
 </details>
 
 <details>
-<summary>Yesterday</summary>
+<summary>2025-12-17</summary>
 
 - `08:45`
   ⭐️ starred
@@ -46,7 +179,7 @@ No&nbsp;forks&nbsp;🍴
 </details>
 
 <details>
-<summary>Tuesday</summary>
+<summary>2025-12-16</summary>
 
 - `20:00`
   ⭐️ starred
@@ -76,7 +209,7 @@ No&nbsp;forks&nbsp;🍴
 </details>
 
 <details>
-<summary>Monday</summary>
+<summary>2025-12-15</summary>
 
 - `21:29`
   💬 commented on
@@ -87,7 +220,7 @@ No&nbsp;forks&nbsp;🍴
 </details>
 
 <details>
-<summary>Saturday</summary>
+<summary>2025-12-13</summary>
 
 - `20:03`
   🤝 followed by [mikechiloane](https://github.com/mikechiloane)
@@ -95,7 +228,7 @@ No&nbsp;forks&nbsp;🍴
 </details>
 
 <details>
-<summary>Friday</summary>
+<summary>2025-12-12</summary>
 
 - `13:04`
   ⭐️ starred
@@ -123,15 +256,6 @@ No&nbsp;forks&nbsp;🍴
 - `19:15`
   ⭐️ starred
   [`KaijuEngine/kaiju`](https://github.com/KaijuEngine/kaiju)
-- `15:04`
-  ⭐️📉 lost a star on 
-  [`blender-script`](https://github.com/TomasHubelbauer/blender-script) (now 1)
-- `15:04`
-  ⭐️📉 lost a star on 
-  [`github-pages-status`](https://github.com/TomasHubelbauer/github-pages-status) (now 1)
-- `15:04`
-  ⭐️📉 lost a star on 
-  [`scrape-github-invoices`](https://github.com/TomasHubelbauer/scrape-github-invoices) (now 2)
 - `13:08`
   ⭐️ starred
   [`wazero/wazero`](https://github.com/wazero/wazero)
@@ -152,8 +276,6 @@ No&nbsp;forks&nbsp;🍴
 <details>
 <summary>2025-12-07</summary>
 
-- `23:03`
-  💔 unfollowed by [NamesMT](https://github.com/NamesMT) after 0 days
 - `22:03`
   🤝 followed by [NamesMT](https://github.com/NamesMT)
 - `19:03`
@@ -1110,108 +1232,6 @@ No&nbsp;forks&nbsp;🍴
 - `13:30`
   ⭐️ starred
   [`hexagonal-sun/moss-kernel`](https://github.com/hexagonal-sun/moss-kernel)
-
-</details>
-
-<details>
-<summary>2025-11-27</summary>
-
-- `13:12`
-  ⭐️ starred
-  [`ryankaplan/gpu-distance-field`](https://github.com/ryankaplan/gpu-distance-field)
-
-</details>
-
-<details>
-<summary>2025-11-26</summary>
-
-- `18:33`
-  ⭐️ starred
-  [`matter-js/matter.js`](https://github.com/matter-js/matter.js)
-- `14:12`
-  ⭐️ starred
-  [`ndesmic/zip`](https://github.com/ndesmic/zip)
-- `13:47`
-  ⭐️ starred
-  [`onyx-dot-app/onyx`](https://github.com/onyx-dot-app/onyx)
-- `10:02`
-  ⭐️ starred
-  [`MichaelAyles/ScopeDoom`](https://github.com/MichaelAyles/ScopeDoom)
-- `10:01`
-  ⭐️ starred
-  [`MichaelAyles/KiDoom`](https://github.com/MichaelAyles/KiDoom)
-
-</details>
-
-<details>
-<summary>2025-11-25</summary>
-
-- `23:57`
-  ⭐️ starred
-  [`steipete/Peekaboo`](https://github.com/steipete/Peekaboo)
-- `11:37`
-  🏷🎫 labeled
-  [#1026 Provide an example of how to connect telemetry with Application Insights](https://github.com/modelcontextprotocol/csharp-sdk/issues/1026)
-  in
-  [`modelcontextprotocol/csharp-sdk`](https://github.com/modelcontextprotocol/csharp-sdk)
-- `11:37`
-  🎫 opened
-  [#1026 Provide an example of how to connect telemetry with Application Insights](https://github.com/modelcontextprotocol/csharp-sdk/issues/1026)
-  in
-  [`modelcontextprotocol/csharp-sdk`](https://github.com/modelcontextprotocol/csharp-sdk)
-
-</details>
-
-<details>
-<summary>2025-11-21</summary>
-
-- `22:24`
-  ⭐️ starred
-  [`JSLegendDev/Athena-PS2-Template`](https://github.com/JSLegendDev/Athena-PS2-Template)
-- `22:19`
-  ⭐️ starred
-  [`DanielSant0s/AthenaEnv`](https://github.com/DanielSant0s/AthenaEnv)
-- `13:20`
-  ⭐️ starred
-  [`Janiczek/fawk`](https://github.com/Janiczek/fawk)
-
-</details>
-
-<details>
-<summary>2025-11-20</summary>
-
-- `19:46`
-  ⭐️ starred
-  [`historicalsource/zork1`](https://github.com/historicalsource/zork1)
-- `15:34`
-  ⭐️ starred
-  [`github/spec-kit`](https://github.com/github/spec-kit)
-- `14:55`
-  💬 commented on
-  [#24883 Bun.html`<code>{unsafeInput}</code> to provide an easy way to sanitise input for html (like sql)](https://github.com/oven-sh/bun/issues/24883)
-  in
-  [`oven-sh/bun`](https://github.com/oven-sh/bun)
-
-</details>
-
-<details>
-<summary>2025-11-19</summary>
-
-- `17:33`
-  ⭐️ starred
-  [`RetroC64/RetroC64`](https://github.com/RetroC64/RetroC64)
-
-</details>
-
-<details>
-<summary>2025-11-18</summary>
-
-- `21:12`
-  ⭐️ starred
-  [`rowboatlabs/rowboat`](https://github.com/rowboatlabs/rowboat)
-- `07:19`
-  ⭐️ starred
-  [`rust9x/rust`](https://github.com/rust9x/rust)
 
 </details>
 

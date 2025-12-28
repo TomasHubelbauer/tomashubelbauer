@@ -1,14 +1,30 @@
 # By `pushed_at` (desc)
 
-2025-12-18T14:04:58.938Z
+2025-12-28T01:33:04.861Z
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-12-18T13:15:02Z
+⚖️ 2025-12-28T00:21:06Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 2025-12-27T21:13:10Z
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
+## [vscode-local-extensions](https://github.com/TomasHubelbauer/vscode-local-extensions)
+
+⚖️ 2025-12-27T21:02:45Z
+
+🏷 hubelbauer-net, vscode, vscode-extensions
+
+📒 An article about VS Code Local Workspace Extensions feature
 
 ## [macos-iphone-automation](https://github.com/TomasHubelbauer/macos-iphone-automation)
 
@@ -50,21 +66,13 @@
 
 📒 null
 
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 2025-08-15T09:57:50Z
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
-
 ## [cursor-agent-windows](https://github.com/TomasHubelbauer/cursor-agent-windows)
 
 ⚖️ 2025-08-15T09:55:15Z
 
-🏷 
+🏷 cursor, cursor-agent, hubelbauer-net, windows
 
-📒 null
+📒 A post showing how I made a Windows version of Cursor Agent despite no official Windows-native builds.
 
 ## [conspiracy-rss](https://github.com/TomasHubelbauer/conspiracy-rss)
 
