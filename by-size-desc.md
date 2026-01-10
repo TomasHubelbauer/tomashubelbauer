@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2025-12-18T14:04:58.942Z
+2026-01-10T15:04:17.493Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -422,9 +422,9 @@
 
 ⚖️ 560
 
-🏷 
+🏷 cursor, cursor-agent, hubelbauer-net, windows
 
-📒 null
+📒 A post showing how I made a Windows version of Cursor Agent despite no official Windows-native builds.
 
 ## [esm-uzip-js](https://github.com/TomasHubelbauer/esm-uzip-js)
 
@@ -457,6 +457,14 @@
 🏷 markdown, vscode, vscode-extension, vscode-plugin, week-calendar
 
 📒 A VS Code extension showing the number of the current week in the IDE status bar
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 501
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [sqlite-javascript](https://github.com/TomasHubelbauer/sqlite-javascript)
 
@@ -497,14 +505,6 @@
 🏷 
 
 📒 null
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 463
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [globe-perf](https://github.com/TomasHubelbauer/globe-perf)
 
@@ -578,6 +578,14 @@
 
 📒 Raspberry Pi Pico mouse jiggler
 
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 336
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
 ## [next-13-ssg](https://github.com/TomasHubelbauer/next-13-ssg)
 
 ⚖️ 322
@@ -601,14 +609,6 @@
 🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
 
 📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
-
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 312
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
 
 ## [three-op-1](https://github.com/TomasHubelbauer/three-op-1)
 
@@ -1930,6 +1930,14 @@
 
 📒 A repro showing EF to auto-generating a successive ID after seeding the DB with hardcoded IDs.
 
+## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
+
+⚖️ 9
+
+🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
+
+📒 KalorickeTabulky.cz Node/browser JavaScript API
+
 ## [vscode-local-workspace-extensions](https://github.com/TomasHubelbauer/vscode-local-workspace-extensions)
 
 ⚖️ 9
@@ -2497,14 +2505,6 @@
 🏷 box-shadow, css
 
 📒 A gradual box shadow technique not achieveable using pure CSS
-
-## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
-
-⚖️ 5
-
-🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
-
-📒 KalorickeTabulky.cz Node/browser JavaScript API
 
 ## [conspiracy-rss](https://github.com/TomasHubelbauer/conspiracy-rss)
 
@@ -3377,6 +3377,14 @@
 🏷 blender, vscode
 
 📒 Notes for using Blender with VS Code
+
+## [vscode-local-extensions](https://github.com/TomasHubelbauer/vscode-local-extensions)
+
+⚖️ 1
+
+🏷 hubelbauer-net, vscode, vscode-extensions
+
+📒 An article about VS Code Local Workspace Extensions feature
 
 ## [bun-passthrough-server](https://github.com/TomasHubelbauer/bun-passthrough-server)
 

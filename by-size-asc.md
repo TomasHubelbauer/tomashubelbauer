@@ -1,6 +1,6 @@
 # By `size` (asc)
 
-2025-12-18T14:04:58.941Z
+2026-01-10T15:04:17.491Z
 
 ## [mcp-a2a](https://github.com/TomasHubelbauer/mcp-a2a)
 
@@ -129,6 +129,14 @@
 🏷 console, node
 
 📒 Overriding console.log in Node
+
+## [vscode-local-extensions](https://github.com/TomasHubelbauer/vscode-local-extensions)
+
+⚖️ 1
+
+🏷 hubelbauer-net, vscode, vscode-extensions
+
+📒 An article about VS Code Local Workspace Extensions feature
 
 ## [bun-passthrough-server](https://github.com/TomasHubelbauer/bun-passthrough-server)
 
@@ -1570,14 +1578,6 @@
 
 📒 A gradual box shadow technique not achieveable using pure CSS
 
-## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
-
-⚖️ 5
-
-🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
-
-📒 KalorickeTabulky.cz Node/browser JavaScript API
-
 ## [localhost.run-custom-domain-https](https://github.com/TomasHubelbauer/localhost.run-custom-domain-https)
 
 ⚖️ 6
@@ -1897,6 +1897,14 @@
 🏷 3mf
 
 📒 A script for extracting 3MF files into 3MF directories
+
+## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
+
+⚖️ 9
+
+🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
+
+📒 KalorickeTabulky.cz Node/browser JavaScript API
 
 ## [vscode-local-workspace-extensions](https://github.com/TomasHubelbauer/vscode-local-workspace-extensions)
 
@@ -3314,14 +3322,6 @@
 
 📒 An OP-1 model in ThreeJS
 
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 312
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
-
 ## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
 
 ⚖️ 313
@@ -3345,6 +3345,14 @@
 🏷 
 
 📒 null
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 336
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
 
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
@@ -3418,14 +3426,6 @@
 
 📒 Performance measurements of the Globe library compared to Intl and Moment
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 463
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [bun-sliplane](https://github.com/TomasHubelbauer/bun-sliplane)
 
 ⚖️ 469
@@ -3466,6 +3466,14 @@
 
 📒 SQLite database file parser in pure JavaScript
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 501
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [vscode-week-number](https://github.com/TomasHubelbauer/vscode-week-number)
 
 ⚖️ 504
@@ -3502,9 +3510,9 @@
 
 ⚖️ 560
 
-🏷 
+🏷 cursor, cursor-agent, hubelbauer-net, windows
 
-📒 null
+📒 A post showing how I made a Windows version of Cursor Agent despite no official Windows-native builds.
 
 ## [rbc-week-am-pm](https://github.com/TomasHubelbauer/rbc-week-am-pm)
 

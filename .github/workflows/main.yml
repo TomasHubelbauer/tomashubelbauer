@@ -23,7 +23,11 @@ jobs:
 
       - name: Run the workflow script using the integration personal access token
         run: |
-          bun install
+          if ! bun install; then
+            echo "Transient error, skipping this run"
+            echo "INSTALL_FAILURE=1" >> "$GITHUB_ENV"
+            exit 0
+          fi
           bun . ${{github.token}}
 
       - name: Upload JSON response artifacts for debugging in case of failure
@@ -34,24 +38,28 @@ jobs:
           path: "*.artifact.json"
 
       - name: Upload the followers.json cache file as an artifact
+        if: env.INSTALL_FAILURE != '1'
         uses: actions/upload-artifact@v4
         with:
           name: followers.json
           path: followers.json
 
       - name: Upload the repositories.json cache file as an artifact
+        if: env.INSTALL_FAILURE != '1'
         uses: actions/upload-artifact@v4
         with:
           name: repositories.json
           path: repositories.json
 
       - name: Upload the todos.json cache file as an artifact
+        if: env.INSTALL_FAILURE != '1'
         uses: actions/upload-artifact@v4
         with:
           name: todos.json
           path: todos.json
 
       - name: Stage and commit the changes made by the script to Git
+        if: env.INSTALL_FAILURE != '1'
         run: |
           set -e
           set -x

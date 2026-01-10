@@ -1,14 +1,38 @@
 # By `pushed_at` (desc)
 
-2025-12-18T14:04:58.938Z
+2026-01-10T15:04:17.490Z
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-12-18T13:15:02Z
+⚖️ 2026-01-10T14:03:45Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 2026-01-07T15:29:38Z
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
+## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
+
+⚖️ 2026-01-05T22:34:54Z
+
+🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
+
+📒 KalorickeTabulky.cz Node/browser JavaScript API
+
+## [vscode-local-extensions](https://github.com/TomasHubelbauer/vscode-local-extensions)
+
+⚖️ 2025-12-27T21:02:45Z
+
+🏷 hubelbauer-net, vscode, vscode-extensions
+
+📒 An article about VS Code Local Workspace Extensions feature
 
 ## [macos-iphone-automation](https://github.com/TomasHubelbauer/macos-iphone-automation)
 
@@ -50,21 +74,13 @@
 
 📒 null
 
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 2025-08-15T09:57:50Z
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
-
 ## [cursor-agent-windows](https://github.com/TomasHubelbauer/cursor-agent-windows)
 
 ⚖️ 2025-08-15T09:55:15Z
 
-🏷 
+🏷 cursor, cursor-agent, hubelbauer-net, windows
 
-📒 null
+📒 A post showing how I made a Windows version of Cursor Agent despite no official Windows-native builds.
 
 ## [conspiracy-rss](https://github.com/TomasHubelbauer/conspiracy-rss)
 
@@ -3857,14 +3873,6 @@
 🏷 3d-model, stl
 
 📒 A Rode NT-USB microphone holder 3D model
-
-## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
-
-⚖️ 2022-03-19T16:39:00Z
-
-🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
-
-📒 KalorickeTabulky.cz Node/browser JavaScript API
 
 ## [phone-organizer](https://github.com/TomasHubelbauer/phone-organizer)
 

@@ -1,14 +1,70 @@
 # By `updated_at` (desc)
 
-2025-12-18T14:04:58.935Z
+2026-01-10T15:04:17.487Z
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-12-18T13:15:06Z
+⚖️ 2026-01-10T14:03:49Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
+
+⚖️ 2026-01-09T16:39:07Z
+
+🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
+
+📒 3D SVG projection and animation
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 2026-01-07T15:29:42Z
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
+## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
+
+⚖️ 2026-01-05T22:34:57Z
+
+🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
+
+📒 KalorickeTabulky.cz Node/browser JavaScript API
+
+## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
+
+⚖️ 2025-12-31T14:54:34Z
+
+🏷 
+
+📒 null
+
+## [vscode-local-extensions](https://github.com/TomasHubelbauer/vscode-local-extensions)
+
+⚖️ 2025-12-28T12:54:38Z
+
+🏷 hubelbauer-net, vscode, vscode-extensions
+
+📒 An article about VS Code Local Workspace Extensions feature
+
+## [cursor-agent-windows](https://github.com/TomasHubelbauer/cursor-agent-windows)
+
+⚖️ 2025-12-27T20:42:21Z
+
+🏷 cursor, cursor-agent, hubelbauer-net, windows
+
+📒 A post showing how I made a Windows version of Cursor Agent despite no official Windows-native builds.
+
+## [bun-mcp](https://github.com/TomasHubelbauer/bun-mcp)
+
+⚖️ 2025-12-27T12:26:52Z
+
+🏷 agent-mode, bun, copilot, copilot-chat, mcp, mcp-server, vs-code, vscode, vscode-copilot-chat
+
+📒 A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
 
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
@@ -82,14 +138,6 @@
 
 📒 Windows Sandbox exploration
 
-## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
-
-⚖️ 2025-11-18T15:11:57Z
-
-🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
-
-📒 3D SVG projection and animation
-
 ## [workers-formdata](https://github.com/TomasHubelbauer/workers-formdata)
 
 ⚖️ 2025-11-09T14:27:55Z
@@ -113,14 +161,6 @@
 🏷 map, maps, open-street-map, osm, raster-tiles
 
 📒 A raster tile map renderer using the Mapy.cz/OSM/Wikimedia map tile servers
-
-## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
-
-⚖️ 2025-11-04T18:08:07Z
-
-🏷 
-
-📒 null
 
 ## [mcp-a2a](https://github.com/TomasHubelbauer/mcp-a2a)
 
@@ -154,22 +194,6 @@
 
 📒 Bun reverse proxy
 
-## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
-
-⚖️ 2025-10-14T10:03:51Z
-
-🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
-
-📒 KalorickeTabulky.cz Node/browser JavaScript API
-
-## [cursor-agent-windows](https://github.com/TomasHubelbauer/cursor-agent-windows)
-
-⚖️ 2025-10-10T13:05:03Z
-
-🏷 
-
-📒 null
-
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
 ⚖️ 2025-10-06T20:51:42Z
@@ -185,14 +209,6 @@
 🏷 github, github-actions, wsl
 
 📒 Seeing if it is possible to use WSL in Windows based GitHub Actions agents
-
-## [bun-mcp](https://github.com/TomasHubelbauer/bun-mcp)
-
-⚖️ 2025-10-04T10:59:00Z
-
-🏷 agent-mode, bun, copilot, copilot-chat, mcp, mcp-server, vs-code, vscode, vscode-copilot-chat
-
-📒 A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
 
 ## [onewheel-charger](https://github.com/TomasHubelbauer/onewheel-charger)
 
@@ -225,14 +241,6 @@
 🏷 brother, brother-ptouch, d600, label-marker, p-touch, printer
 
 📒 Brother P-touch D600 label maker USB communication with P-touch Editor
-
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 2025-08-15T09:57:53Z
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
 
 ## [conspiracy-rss](https://github.com/TomasHubelbauer/conspiracy-rss)
 

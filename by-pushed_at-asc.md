@@ -1,6 +1,6 @@
 # By `pushed_at` (asc)
 
-2025-12-18T14:04:58.937Z
+2026-01-10T15:04:17.488Z
 
 ## [flirc-led-strip-party](https://github.com/TomasHubelbauer/flirc-led-strip-party)
 
@@ -57,14 +57,6 @@
 🏷 3d-model, 3d-print, stl
 
 📒 Phone organizer 3D model
-
-## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
-
-⚖️ 2022-03-19T16:39:00Z
-
-🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
-
-📒 KalorickeTabulky.cz Node/browser JavaScript API
 
 ## [mic-holder](https://github.com/TomasHubelbauer/mic-holder)
 
@@ -3862,17 +3854,9 @@
 
 ⚖️ 2025-08-15T09:55:15Z
 
-🏷 
+🏷 cursor, cursor-agent, hubelbauer-net, windows
 
-📒 null
-
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 2025-08-15T09:57:50Z
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
+📒 A post showing how I made a Windows version of Cursor Agent despite no official Windows-native builds.
 
 ## [mcp-a2a](https://github.com/TomasHubelbauer/mcp-a2a)
 
@@ -3914,9 +3898,33 @@
 
 📒 null
 
+## [vscode-local-extensions](https://github.com/TomasHubelbauer/vscode-local-extensions)
+
+⚖️ 2025-12-27T21:02:45Z
+
+🏷 hubelbauer-net, vscode, vscode-extensions
+
+📒 An article about VS Code Local Workspace Extensions feature
+
+## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
+
+⚖️ 2026-01-05T22:34:54Z
+
+🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
+
+📒 KalorickeTabulky.cz Node/browser JavaScript API
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 2026-01-07T15:29:38Z
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2025-12-18T13:15:02Z
+⚖️ 2026-01-10T14:03:45Z
 
 🏷 tomashubelbauer
 
