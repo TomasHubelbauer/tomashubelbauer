@@ -1,6 +1,6 @@
 # By `size` (desc)
 
-2026-01-10T15:04:17.493Z
+2026-01-15T16:08:29.958Z
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -378,6 +378,14 @@
 
 📒 A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
 
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 723
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
+
 ## [mic-holder](https://github.com/TomasHubelbauer/mic-holder)
 
 ⚖️ 715
@@ -457,14 +465,6 @@
 🏷 markdown, vscode, vscode-extension, vscode-plugin, week-calendar
 
 📒 A VS Code extension showing the number of the current week in the IDE status bar
-
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 501
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
 
 ## [sqlite-javascript](https://github.com/TomasHubelbauer/sqlite-javascript)
 

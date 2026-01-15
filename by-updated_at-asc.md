@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2026-01-10T15:04:17.485Z
+2026-01-15T16:08:29.950Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3898,14 +3898,6 @@
 
 📒 null
 
-## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
-
-⚖️ 2026-01-05T22:34:57Z
-
-🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
-
-📒 KalorickeTabulky.cz Node/browser JavaScript API
-
 ## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
 
 ⚖️ 2026-01-07T15:29:42Z
@@ -3922,9 +3914,17 @@
 
 📒 3D SVG projection and animation
 
+## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
+
+⚖️ 2026-01-15T11:39:20Z
+
+🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
+
+📒 KalorickeTabulky.cz Node/browser JavaScript API
+
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2026-01-10T14:03:49Z
+⚖️ 2026-01-15T15:05:32Z
 
 🏷 tomashubelbauer
 

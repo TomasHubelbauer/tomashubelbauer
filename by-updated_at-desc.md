@@ -1,14 +1,22 @@
 # By `updated_at` (desc)
 
-2026-01-10T15:04:17.487Z
+2026-01-15T16:08:29.951Z
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2026-01-10T14:03:49Z
+⚖️ 2026-01-15T15:05:32Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
+
+⚖️ 2026-01-15T11:39:20Z
+
+🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
+
+📒 KalorickeTabulky.cz Node/browser JavaScript API
 
 ## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
 
@@ -25,14 +33,6 @@
 🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
 
 📒 My personal website
-
-## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
-
-⚖️ 2026-01-05T22:34:57Z
-
-🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
-
-📒 KalorickeTabulky.cz Node/browser JavaScript API
 
 ## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
 

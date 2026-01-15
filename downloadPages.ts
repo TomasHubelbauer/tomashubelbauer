@@ -1,3 +1,4 @@
+import { appendFile } from "fs/promises";
 import headers from "./headers.ts";
 import reportRateLimit from "./reportRateLimit.ts";
 
@@ -41,6 +42,18 @@ export default async function downloadPages(initialUrl: string) {
         "X-GitHub-Request-Id:",
         response.headers.get("X-GitHub-Request-Id")
       );
+
+      // Terminate early on 5xx errors (transient GitHub API issue)
+      if (response.status >= 500) {
+        console.log(
+          `Terminating due to ${response.status} ${response.statusText}`
+        );
+        if (process.env.GITHUB_ENV) {
+          await appendFile(process.env.GITHUB_ENV, "API_FAILURE=1\n");
+        }
+        process.exit(0);
+      }
+
       throw new Error(
         `Errored (${response.status} ${
           response.statusText

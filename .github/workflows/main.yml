@@ -38,28 +38,28 @@ jobs:
           path: "*.artifact.json"
 
       - name: Upload the followers.json cache file as an artifact
-        if: env.INSTALL_FAILURE != '1'
+        if: env.INSTALL_FAILURE != '1' && env.API_FAILURE != '1'
         uses: actions/upload-artifact@v4
         with:
           name: followers.json
           path: followers.json
 
       - name: Upload the repositories.json cache file as an artifact
-        if: env.INSTALL_FAILURE != '1'
+        if: env.INSTALL_FAILURE != '1' && env.API_FAILURE != '1'
         uses: actions/upload-artifact@v4
         with:
           name: repositories.json
           path: repositories.json
 
       - name: Upload the todos.json cache file as an artifact
-        if: env.INSTALL_FAILURE != '1'
+        if: env.INSTALL_FAILURE != '1' && env.API_FAILURE != '1'
         uses: actions/upload-artifact@v4
         with:
           name: todos.json
           path: todos.json
 
       - name: Stage and commit the changes made by the script to Git
-        if: env.INSTALL_FAILURE != '1'
+        if: env.INSTALL_FAILURE != '1' && env.API_FAILURE != '1'
         run: |
           set -e
           set -x

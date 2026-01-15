@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[336&nbsp;followers&nbsp;🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
+[335&nbsp;followers&nbsp;🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
 902&nbsp;stars&nbsp;⭐️  ᐧ
 [491&nbsp;repositories&nbsp;📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
 [49&nbsp;issues&nbsp;🎫](issues.md) ᐧ
@@ -19,8 +19,65 @@ No&nbsp;forks&nbsp;🍴
 </div>
 
 <details open>
-<summary>Today (16:04)</summary>
+<summary>Yesterday</summary>
 
+- `20:56`
+  💬 commented on
+  [#263558 Support developing VS Code extensions in TypeScript](https://github.com/microsoft/vscode/issues/263558)
+  in
+  [`microsoft/vscode`](https://github.com/microsoft/vscode)
+
+</details>
+
+<details>
+<summary>Tuesday</summary>
+
+- `23:05`
+  ⭐️ starred
+  [`KartikLabhshetwar/better-shot`](https://github.com/KartikLabhshetwar/better-shot)
+- `23:01`
+  ⭐️ starred
+  [`eigent-ai/eigent`](https://github.com/eigent-ai/eigent)
+- `10:21`
+  💬 commented on
+  [#263558 Support developing VS Code extensions in TypeScript](https://github.com/microsoft/vscode/issues/263558)
+  in
+  [`microsoft/vscode`](https://github.com/microsoft/vscode)
+
+</details>
+
+<details>
+<summary>Monday</summary>
+
+- `15:09`
+  ⭐️ starred
+  [`lawrencegripper/actions-term-on-fail`](https://github.com/lawrencegripper/actions-term-on-fail)
+- `15:06`
+  🍴📉 lost a fork on 
+  [`html-video-frame-extractor`](https://github.com/TomasHubelbauer/html-video-frame-extractor) (now 1)
+
+</details>
+
+<details>
+<summary>Sunday</summary>
+
+- `21:22`
+  ⭐️ starred
+  [`jrouwe/JoltPhysics`](https://github.com/jrouwe/JoltPhysics)
+
+</details>
+
+<details>
+<summary>Saturday</summary>
+
+- `17:52`
+  ⭐️ starred
+  [`skridlevsky/openchaos`](https://github.com/skridlevsky/openchaos)
+- `16:51`
+  📌 pushed
+  [`9704c7b`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/9704c7bb40e44444b85cb194ee1eab8a880538f7)
+  into
+  [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
 - `11:04`
   🤝 followed by [vandersoncostasantos](https://github.com/vandersoncostasantos)
 - `01:18`
@@ -29,7 +86,7 @@ No&nbsp;forks&nbsp;🍴
 </details>
 
 <details>
-<summary>Yesterday</summary>
+<summary>Friday</summary>
 
 - `19:06`
   🤝 followed by [AD404-0](https://github.com/AD404-0)
@@ -65,7 +122,7 @@ No&nbsp;forks&nbsp;🍴
 </details>
 
 <details>
-<summary>Wednesday</summary>
+<summary>2026-01-07</summary>
 
 - `16:29`
   📌 pushed
@@ -80,7 +137,7 @@ No&nbsp;forks&nbsp;🍴
 </details>
 
 <details>
-<summary>Tuesday</summary>
+<summary>2026-01-06</summary>
 
 - `22:10`
   ⭐️ starred
@@ -92,7 +149,7 @@ No&nbsp;forks&nbsp;🍴
 </details>
 
 <details>
-<summary>Monday</summary>
+<summary>2026-01-05</summary>
 
 - `23:34`
   📌 pushed
@@ -111,7 +168,7 @@ No&nbsp;forks&nbsp;🍴
 </details>
 
 <details>
-<summary>Sunday</summary>
+<summary>2026-01-04</summary>
 
 - `23:56`
   ⭐️ starred
@@ -343,42 +400,5 @@ No&nbsp;forks&nbsp;🍴
 - `13:06`
   ⭐️ starred
   [`google/A2UI`](https://github.com/google/A2UI)
-
-</details>
-
-<details>
-<summary>2025-12-15</summary>
-
-- `21:29`
-  💬 commented on
-  [#263558 Support developing VS Code extensions in TypeScript](https://github.com/microsoft/vscode/issues/263558)
-  in
-  [`microsoft/vscode`](https://github.com/microsoft/vscode)
-
-</details>
-
-<details>
-<summary>2025-12-13</summary>
-
-- `20:03`
-  🤝 followed by [mikechiloane](https://github.com/mikechiloane)
-
-</details>
-
-<details>
-<summary>2025-12-12</summary>
-
-- `13:04`
-  ⭐️ starred
-  [`JohnEarnest/Octo`](https://github.com/JohnEarnest/Octo)
-
-</details>
-
-<details>
-<summary>2025-12-11</summary>
-
-- `21:39`
-  ⭐️ starred
-  [`microsoft/docfind`](https://github.com/microsoft/docfind)
 
 </details>
