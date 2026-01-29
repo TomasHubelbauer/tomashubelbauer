@@ -1,14 +1,54 @@
 # By `updated_at` (desc)
 
-2026-01-15T16:08:29.951Z
+2026-01-29T10:12:33.875Z
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2026-01-15T15:05:32Z
+⚖️ 2026-01-29T09:14:19Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [safari-offline](https://github.com/TomasHubelbauer/safari-offline)
+
+⚖️ 2026-01-22T15:50:07Z
+
+🏷 offline-app, offline-first, service-worker
+
+📒 An example of a fully ofline web app running in iOS Safari
+
+## [onewheel-charger](https://github.com/TomasHubelbauer/onewheel-charger)
+
+⚖️ 2026-01-19T17:45:52Z
+
+🏷 charger, onewheel, onewheel-charger, onewheel-pint, onewheel-xr
+
+📒 Onewheel Pint and +XR charger specs and connector pinouts
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 2026-01-19T14:08:19Z
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
+## [cursor-agent-windows](https://github.com/TomasHubelbauer/cursor-agent-windows)
+
+⚖️ 2026-01-19T13:39:01Z
+
+🏷 cursor, cursor-agent, hubelbauer-net, windows
+
+📒 A post showing how I made a Windows version of Cursor Agent despite no official Windows-native builds.
+
+## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
+
+⚖️ 2026-01-17T16:20:10Z
+
+🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
+
+📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
 
 ## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
 
@@ -26,14 +66,6 @@
 
 📒 3D SVG projection and animation
 
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 2026-01-07T15:29:42Z
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
-
 ## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
 
 ⚖️ 2025-12-31T14:54:34Z
@@ -49,14 +81,6 @@
 🏷 hubelbauer-net, vscode, vscode-extensions
 
 📒 An article about VS Code Local Workspace Extensions feature
-
-## [cursor-agent-windows](https://github.com/TomasHubelbauer/cursor-agent-windows)
-
-⚖️ 2025-12-27T20:42:21Z
-
-🏷 cursor, cursor-agent, hubelbauer-net, windows
-
-📒 A post showing how I made a Windows version of Cursor Agent despite no official Windows-native builds.
 
 ## [bun-mcp](https://github.com/TomasHubelbauer/bun-mcp)
 
@@ -210,14 +234,6 @@
 
 📒 Seeing if it is possible to use WSL in Windows based GitHub Actions agents
 
-## [onewheel-charger](https://github.com/TomasHubelbauer/onewheel-charger)
-
-⚖️ 2025-09-24T14:51:46Z
-
-🏷 charger, onewheel, onewheel-charger, onewheel-pint, onewheel-xr
-
-📒 Onewheel Pint and +XR charger specs and connector pinouts
-
 ## [node-puppeteer-apng](https://github.com/TomasHubelbauer/node-puppeteer-apng)
 
 ⚖️ 2025-09-11T12:06:53Z
@@ -305,14 +321,6 @@
 🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
 
 📒 OP-1 working with web MIDI
-
-## [safari-offline](https://github.com/TomasHubelbauer/safari-offline)
-
-⚖️ 2025-07-04T22:57:48Z
-
-🏷 offline-app, offline-first, service-worker
-
-📒 An example of a fully ofline web app running in iOS Safari
 
 ## [bun-basic-auth-cookie](https://github.com/TomasHubelbauer/bun-basic-auth-cookie)
 
@@ -713,14 +721,6 @@
 🏷 markdown, vscode, vscode-extension, vscode-plugin, week-calendar
 
 📒 A VS Code extension showing the number of the current week in the IDE status bar
-
-## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
-
-⚖️ 2024-10-22T00:12:13Z
-
-🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
-
-📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
 
 ## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
 
