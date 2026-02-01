@@ -8,18 +8,261 @@
 
 <div align="center">
 
-[335&nbsp;followers&nbsp;🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
-902&nbsp;stars&nbsp;⭐️  ᐧ
+[339&nbsp;followers&nbsp;🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
+907&nbsp;stars&nbsp;⭐️  ᐧ
 [491&nbsp;repositories&nbsp;📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
 [49&nbsp;issues&nbsp;🎫](issues.md) ᐧ
-[No&nbsp;PRs&nbsp;🎁](prs.md) ᐧ
+[1&nbsp;PR&nbsp;🎁](prs.md) ᐧ
 [479&nbsp;todos&nbsp;💪](todos.json) ᐧ
 No&nbsp;forks&nbsp;🍴
 
 </div>
 
 <details open>
+<summary>Today (14:18)</summary>
+
+- `11:33`
+  ⭐️ starred
+  [`tailscale/tailscale`](https://github.com/tailscale/tailscale)
+
+</details>
+
+<details>
 <summary>Yesterday</summary>
+
+- `21:12`
+  💬 commented on
+  [#10563 Memory Leak: Orphaned processes when terminal closes without explicit exit](https://github.com/anomalyco/opencode/issues/10563)
+  in
+  [`anomalyco/opencode`](https://github.com/anomalyco/opencode)
+- `21:10`
+  💬 commented on
+  [#11527 OpenCode leaves an orphaned process when it itself is killed](https://github.com/anomalyco/opencode/issues/11527)
+  in
+  [`anomalyco/opencode`](https://github.com/anomalyco/opencode)
+- `21:05`
+  🏷🎫 labeled
+  [#11527 OpenCode leaves an orphaned process when it itself is killed](https://github.com/anomalyco/opencode/issues/11527)
+  in
+  [`anomalyco/opencode`](https://github.com/anomalyco/opencode)
+- `21:05`
+  🎫 opened
+  [#11527 OpenCode leaves an orphaned process when it itself is killed](https://github.com/anomalyco/opencode/issues/11527)
+  in
+  [`anomalyco/opencode`](https://github.com/anomalyco/opencode)
+- `18:06`
+  ⭐️📈 received a star on 
+  [`3mf-zip-dir`](https://github.com/TomasHubelbauer/3mf-zip-dir) (now 3)
+- `14:13`
+  ⭐️ starred
+  [`jimaek/geolocation-tool`](https://github.com/jimaek/geolocation-tool)
+
+</details>
+
+<details>
+<summary>Friday</summary>
+
+- `20:42`
+  💬 commented on
+  [#3464 Cursor CLI native Windows roadmap?](https://github.com/cursor/cursor/issues/3464)
+  in
+  [`cursor/cursor`](https://github.com/cursor/cursor)
+- `15:05`
+  💬 commented on
+  [#11318 Running `opencode` without Node installed results in an error](https://github.com/anomalyco/opencode/issues/11318)
+  in
+  [`anomalyco/opencode`](https://github.com/anomalyco/opencode)
+- `15:01`
+  🏷🎫 labeled
+  [#11318 Running `opencode` without Node installed results in an error](https://github.com/anomalyco/opencode/issues/11318)
+  in
+  [`anomalyco/opencode`](https://github.com/anomalyco/opencode)
+- `15:01`
+  🎫 opened
+  [#11318 Running `opencode` without Node installed results in an error](https://github.com/anomalyco/opencode/issues/11318)
+  in
+  [`anomalyco/opencode`](https://github.com/anomalyco/opencode)
+- `11:59`
+  ⭐️ starred
+  [`GridSpace/grid-apps`](https://github.com/GridSpace/grid-apps)
+- `10:13`
+  🤝 followed by [minions514](https://github.com/minions514)
+
+</details>
+
+<details>
+<summary>Thursday</summary>
+
+- `19:44`
+  ⭐️ starred
+  [`EmulatorJS/EmulatorJS`](https://github.com/EmulatorJS/EmulatorJS)
+
+</details>
+
+<details>
+<summary>Wednesday</summary>
+
+- `18:05`
+  ⭐️ starred
+  [`electronicmaterialsoffice/firmware-altar-i`](https://github.com/electronicmaterialsoffice/firmware-altar-i)
+- `17:28`
+  ⭐️ starred
+  [`albertsikkema/figma-make-extractor`](https://github.com/albertsikkema/figma-make-extractor)
+
+</details>
+
+<details>
+<summary>Tuesday</summary>
+
+- `23:25`
+  ⭐️ starred
+  [`Open-Cascade-SAS/OCCT`](https://github.com/Open-Cascade-SAS/OCCT)
+- `23:25`
+  ⭐️ starred
+  [`elalish/manifold`](https://github.com/elalish/manifold)
+- `20:41`
+  💬 commented on
+  [#2 is this a joke?](https://github.com/nkuntz1934/matrix-workers/issues/2)
+  in
+  [`nkuntz1934/matrix-workers`](https://github.com/nkuntz1934/matrix-workers)
+- `20:25`
+  ⭐️ starred
+  [`embedding-shapes/one-agent-one-browser`](https://github.com/embedding-shapes/one-agent-one-browser)
+- `13:07`
+  🤝 followed by [kh-mahmoud](https://github.com/kh-mahmoud)
+- `05:21`
+  🤝 followed by [mathiscode](https://github.com/mathiscode)
+
+</details>
+
+<details>
+<summary>Monday</summary>
+
+- `13:14`
+  ⭐️ starred
+  [`PaulKinlan/Co-do`](https://github.com/PaulKinlan/Co-do)
+- `12:22`
+  ⭐️ starred
+  [`maplibre/maplibre-tile-spec`](https://github.com/maplibre/maplibre-tile-spec)
+- `12:15`
+  ⭐️ starred
+  [`WhiskeySockets/Baileys`](https://github.com/WhiskeySockets/Baileys)
+- `12:02`
+  ⭐️ starred
+  [`openclaw/openclaw`](https://github.com/openclaw/openclaw)
+
+</details>
+
+<details>
+<summary>2026-01-23</summary>
+
+- `17:40`
+  💬 commented on
+  [#20398 Restore --no-session-persistence flag](https://github.com/anthropics/claude-code/issues/20398)
+  in
+  [`anthropics/claude-code`](https://github.com/anthropics/claude-code)
+- `17:35`
+  🎫 opened
+  [#20398 Restore --no-session-persistence flag](https://github.com/anthropics/claude-code/issues/20398)
+  in
+  [`anthropics/claude-code`](https://github.com/anthropics/claude-code)
+- `11:47`
+  💬 commented on
+  [#6 Add Unmount command for ZIP workspaces](https://github.com/TomasHubelbauer/vscode-zip-file-system/pull/6)
+  in
+  [`vscode-zip-file-system`](https://github.com/TomasHubelbauer/vscode-zip-file-system)
+
+</details>
+
+<details>
+<summary>2026-01-22</summary>
+
+- `20:46`
+  ⭐️ starred
+  [`browseros-ai/BrowserOS`](https://github.com/browseros-ai/BrowserOS)
+- `17:17`
+  ⭐️ starred
+  [`TrustTunnel/TrustTunnel`](https://github.com/TrustTunnel/TrustTunnel)
+
+</details>
+
+<details>
+<summary>2026-01-21</summary>
+
+- `21:08`
+  💔 unfollowed by [codebyhuman](https://github.com/codebyhuman) after 23 days
+
+</details>
+
+<details>
+<summary>2026-01-19</summary>
+
+- `15:08`
+  🤝 followed by [gustoune](https://github.com/gustoune)
+
+</details>
+
+<details>
+<summary>2026-01-18</summary>
+
+- `23:03`
+  💔 unfollowed by [7PH](https://github.com/7PH) after 0 days
+- `22:03`
+  🤝 followed by [7PH](https://github.com/7PH)
+
+</details>
+
+<details>
+<summary>2026-01-17</summary>
+
+- `11:15`
+  💬 commented on
+  [#14183 [FEATURE] Add a new tool to the VS Code extension to let Claude Code trigger format on save on a file](https://github.com/anthropics/claude-code/issues/14183)
+  in
+  [`anthropics/claude-code`](https://github.com/anthropics/claude-code)
+
+</details>
+
+<details>
+<summary>2026-01-16</summary>
+
+- `14:36`
+  ⭐️ starred
+  [`different-ai/openwork`](https://github.com/different-ai/openwork)
+- `14:15`
+  🤝 followed by [dewhush](https://github.com/dewhush)
+- `11:34`
+  ⭐️ starred
+  [`kyutai-labs/pocket-tts`](https://github.com/kyutai-labs/pocket-tts)
+- `08:06`
+  💔 unfollowed by [rasidi3112](https://github.com/rasidi3112) after 0 days
+- `03:41`
+  🤝 followed by [rasidi3112](https://github.com/rasidi3112)
+- `01:18`
+  💔 unfollowed by [procerezo](https://github.com/procerezo) after 0 days
+
+</details>
+
+<details>
+<summary>2026-01-15</summary>
+
+- `18:42`
+  📌 pushed
+  [`b8deb02`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/b8deb022e3ca7e9a865e45f0a911265eaa184f00)
+  into
+  [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
+- `18:41`
+  🤝 followed by [procerezo](https://github.com/procerezo)
+- `18:41`
+  📌 pushed
+  [`86139a6`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/86139a69a785fc8de9a1fee0abfe6a91554cfd51)
+  into
+  [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+</details>
+
+<details>
+<summary>2026-01-14</summary>
 
 - `20:56`
   💬 commented on
@@ -30,7 +273,7 @@ No&nbsp;forks&nbsp;🍴
 </details>
 
 <details>
-<summary>Tuesday</summary>
+<summary>2026-01-13</summary>
 
 - `23:05`
   ⭐️ starred
@@ -47,19 +290,16 @@ No&nbsp;forks&nbsp;🍴
 </details>
 
 <details>
-<summary>Monday</summary>
+<summary>2026-01-12</summary>
 
 - `15:09`
   ⭐️ starred
   [`lawrencegripper/actions-term-on-fail`](https://github.com/lawrencegripper/actions-term-on-fail)
-- `15:06`
-  🍴📉 lost a fork on 
-  [`html-video-frame-extractor`](https://github.com/TomasHubelbauer/html-video-frame-extractor) (now 1)
 
 </details>
 
 <details>
-<summary>Sunday</summary>
+<summary>2026-01-11</summary>
 
 - `21:22`
   ⭐️ starred
@@ -68,7 +308,7 @@ No&nbsp;forks&nbsp;🍴
 </details>
 
 <details>
-<summary>Saturday</summary>
+<summary>2026-01-10</summary>
 
 - `17:52`
   ⭐️ starred
@@ -86,7 +326,7 @@ No&nbsp;forks&nbsp;🍴
 </details>
 
 <details>
-<summary>Friday</summary>
+<summary>2026-01-09</summary>
 
 - `19:06`
   🤝 followed by [AD404-0](https://github.com/AD404-0)
@@ -129,8 +369,6 @@ No&nbsp;forks&nbsp;🍴
   [`6ad43ac`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/6ad43ac252c7db45cb96a7fbcba45bfbf7706055)
   into
   [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
-- `13:07`
-  💔 unfollowed by [emilycodestar](https://github.com/emilycodestar) after 33 days
 - `07:06`
   💔 unfollowed by [mikechiloane](https://github.com/mikechiloane) after 24 days
 
@@ -188,217 +426,5 @@ No&nbsp;forks&nbsp;🍴
 - `21:08`
   ⭐️ starred
   [`sirius-db/sirius`](https://github.com/sirius-db/sirius)
-
-</details>
-
-<details>
-<summary>2026-01-01</summary>
-
-- `23:04`
-  💔 unfollowed by [NamesMT](https://github.com/NamesMT) after 25 days
-- `12:59`
-  ⭐️ starred
-  [`techwinder/flow5`](https://github.com/techwinder/flow5)
-
-</details>
-
-<details>
-<summary>2025-12-29</summary>
-
-- `14:15`
-  🤝 followed by [codebyhuman](https://github.com/codebyhuman)
-
-</details>
-
-<details>
-<summary>2025-12-28</summary>
-
-- `21:04`
-  🤝 followed by [rodrigogalura](https://github.com/rodrigogalura)
-- `20:04`
-  ⭐️ starred
-  [`steipete/imsg`](https://github.com/steipete/imsg)
-- `17:58`
-  ⭐️ starred
-  [`rex-rs/rex`](https://github.com/rex-rs/rex)
-
-</details>
-
-<details>
-<summary>2025-12-27</summary>
-
-- `22:11`
-  📌 pushed
-  [`4bbf4fa`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/4bbf4fa2ebad7e38aceb4f00d48662850a5259d7)
-  into
-  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
-- `22:10`
-  📌 pushed
-  [`22e6c2f`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/22e6c2f97ff6e3988c536cf6c97a8b5f55c1e915)
-  into
-  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
-- `22:06`
-  ⭐️ starred
-  [`Ripple-TS/ripple`](https://github.com/Ripple-TS/ripple)
-- `22:02`
-  🌳 created branch 
-  [`main`](https://github.com/TomasHubelbauer/vscode-local-extensions/tree/main)
-  in
-  [`vscode-local-extensions`](https://github.com/TomasHubelbauer/vscode-local-extensions)
-- `21:48`
-  📌 pushed
-  [`84d2e17`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/84d2e17f1768d42afbeb7e52ff49583e73d62d72)
-  into
-  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
-- `21:43`
-  📌 pushed
-  [`b0d5cdc`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/b0d5cdc0a3db86bdd31334939e3c982cff3576cf)
-  into
-  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
-- `21:38`
-  📌 pushed
-  [`aea984f`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/aea984fe8fe6c734f44e6080b2cb06c843e19e64)
-  into
-  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
-- `17:51`
-  ⭐️ starred
-  [`apple/ml-sharp`](https://github.com/apple/ml-sharp)
-
-</details>
-
-<details>
-<summary>2025-12-26</summary>
-
-- `21:51`
-  ⭐️ starred
-  [`jordansissel/xdotool`](https://github.com/jordansissel/xdotool)
-- `13:26`
-  ⭐️ starred
-  [`zen-browser/desktop`](https://github.com/zen-browser/desktop)
-
-</details>
-
-<details>
-<summary>2025-12-25</summary>
-
-- `18:22`
-  ⭐️ starred
-  [`tw93/Mole`](https://github.com/tw93/Mole)
-- `15:54`
-  ⭐️ starred
-  [`sebastienros/comptime`](https://github.com/sebastienros/comptime)
-
-</details>
-
-<details>
-<summary>2025-12-24</summary>
-
-- `20:08`
-  ⭐️ starred
-  [`VibiumDev/vibium`](https://github.com/VibiumDev/vibium)
-- `16:06`
-  ⭐️ starred
-  [`freelawproject/x-ray`](https://github.com/freelawproject/x-ray)
-
-</details>
-
-<details>
-<summary>2025-12-23</summary>
-
-- `20:22`
-  ⭐️ starred
-  [`bellard/mquickjs`](https://github.com/bellard/mquickjs)
-
-</details>
-
-<details>
-<summary>2025-12-22</summary>
-
-- `23:07`
-  ⭐️ starred
-  [`oraios/serena`](https://github.com/oraios/serena)
-
-</details>
-
-<details>
-<summary>2025-12-21</summary>
-
-- `00:19`
-  ⭐️ starred
-  [`rue-language/rue`](https://github.com/rue-language/rue)
-
-</details>
-
-<details>
-<summary>2025-12-20</summary>
-
-- `18:54`
-  ⭐️ starred
-  [`Jarred-Sumner/poof`](https://github.com/Jarred-Sumner/poof)
-- `18:53`
-  ⭐️ starred
-  [`anomalyco/opentui`](https://github.com/anomalyco/opentui)
-- `18:49`
-  ⭐️ starred
-  [`cameroncooke/AXe`](https://github.com/cameroncooke/AXe)
-
-</details>
-
-<details>
-<summary>2025-12-18</summary>
-
-- `15:17`
-  📌 pushed
-  [`da344f3`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/da344f394f69a75b842c6b7ec0b700e7f292372f)
-  into
-  [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
-- `12:50`
-  ⭐️ starred
-  [`ironcalc/IronCalc`](https://github.com/ironcalc/IronCalc)
-- `08:59`
-  ⭐️ starred
-  [`openai/apps-sdk-ui`](https://github.com/openai/apps-sdk-ui)
-
-</details>
-
-<details>
-<summary>2025-12-17</summary>
-
-- `08:45`
-  ⭐️ starred
-  [`simonw/justjshtml`](https://github.com/simonw/justjshtml)
-- `08:33`
-  ⭐️ starred
-  [`html5lib/html5lib-tests`](https://github.com/html5lib/html5lib-tests)
-- `08:04`
-  ⭐️ starred
-  [`scallyw4g/bonsai`](https://github.com/scallyw4g/bonsai)
-
-</details>
-
-<details>
-<summary>2025-12-16</summary>
-
-- `20:00`
-  ⭐️ starred
-  [`gaearon/rscexplorer`](https://github.com/gaearon/rscexplorer)
-- `16:58`
-  💬 commented on
-  [#229288 Auto-reload local workspace extensions when a file in the extension directory gets saved](https://github.com/microsoft/vscode/issues/229288)
-  in
-  [`microsoft/vscode`](https://github.com/microsoft/vscode)
-- `16:09`
-  🏷🎫 labeled
-  [#14183 [FEATURE] Add a new tool to the VS Code extension to let Claude Code trigger format on save on a file](https://github.com/anthropics/claude-code/issues/14183)
-  in
-  [`anthropics/claude-code`](https://github.com/anthropics/claude-code)
-- `16:09`
-  🎫 opened
-  [#14183 [FEATURE] Add a new tool to the VS Code extension to let Claude Code trigger format on save on a file](https://github.com/anthropics/claude-code/issues/14183)
-  in
-  [`anthropics/claude-code`](https://github.com/anthropics/claude-code)
-- `13:06`
-  ⭐️ starred
-  [`google/A2UI`](https://github.com/google/A2UI)
 
 </details>
