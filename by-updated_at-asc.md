@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2026-01-15T16:08:29.950Z
+2026-02-08T18:07:56.460Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -3138,14 +3138,6 @@
 
 📒 null
 
-## [bun-react](https://github.com/TomasHubelbauer/bun-react)
-
-⚖️ 2024-09-23T18:17:52Z
-
-🏷 
-
-📒 A sample of using TypeScript and React in a Bun server.
-
 ## [image-editor-poc-react-image-crop](https://github.com/TomasHubelbauer/image-editor-poc-react-image-crop)
 
 ⚖️ 2024-10-02T20:52:53Z
@@ -3209,14 +3201,6 @@
 🏷 vscode, vscode-extension
 
 📒 Barebones setup for developing local workspace extensions for VS Code
-
-## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
-
-⚖️ 2024-10-22T00:12:13Z
-
-🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
-
-📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
 
 ## [vscode-week-number](https://github.com/TomasHubelbauer/vscode-week-number)
 
@@ -3361,14 +3345,6 @@
 🏷 
 
 📒 null
-
-## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
-
-⚖️ 2025-02-20T00:01:23Z
-
-🏷 3mf
-
-📒 A script for extracting 3MF files into 3MF directories
 
 ## [3mf-zip-uncompressed](https://github.com/TomasHubelbauer/3mf-zip-uncompressed)
 
@@ -3618,14 +3594,6 @@
 
 📒 null
 
-## [safari-offline](https://github.com/TomasHubelbauer/safari-offline)
-
-⚖️ 2025-07-04T22:57:48Z
-
-🏷 offline-app, offline-first, service-worker
-
-📒 An example of a fully ofline web app running in iOS Safari
-
 ## [web-midi](https://github.com/TomasHubelbauer/web-midi)
 
 ⚖️ 2025-07-10T16:13:56Z
@@ -3714,14 +3682,6 @@
 
 📒 A JavaScript library for recording screencasts of URLs or Puppeteer sessions to APNG
 
-## [onewheel-charger](https://github.com/TomasHubelbauer/onewheel-charger)
-
-⚖️ 2025-09-24T14:51:46Z
-
-🏷 charger, onewheel, onewheel-charger, onewheel-pint, onewheel-xr
-
-📒 Onewheel Pint and +XR charger specs and connector pinouts
-
 ## [github-actions-wsl](https://github.com/TomasHubelbauer/github-actions-wsl)
 
 ⚖️ 2025-10-06T09:29:41Z
@@ -3802,14 +3762,6 @@
 
 📒 Windows Sandbox exploration
 
-## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
-
-⚖️ 2025-11-30T23:31:16Z
-
-🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
-
-📒 Raspberry Pi Pico mouse jiggler
-
 ## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
 
 ⚖️ 2025-12-05T22:37:47Z
@@ -3874,14 +3826,6 @@
 
 📒 A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
 
-## [cursor-agent-windows](https://github.com/TomasHubelbauer/cursor-agent-windows)
-
-⚖️ 2025-12-27T20:42:21Z
-
-🏷 cursor, cursor-agent, hubelbauer-net, windows
-
-📒 A post showing how I made a Windows version of Cursor Agent despite no official Windows-native builds.
-
 ## [vscode-local-extensions](https://github.com/TomasHubelbauer/vscode-local-extensions)
 
 ⚖️ 2025-12-28T12:54:38Z
@@ -3897,14 +3841,6 @@
 🏷 
 
 📒 null
-
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 2026-01-07T15:29:42Z
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
 
 ## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
 
@@ -3922,9 +3858,73 @@
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
 
+## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
+
+⚖️ 2026-01-17T16:20:10Z
+
+🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
+
+📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
+
+## [cursor-agent-windows](https://github.com/TomasHubelbauer/cursor-agent-windows)
+
+⚖️ 2026-01-19T13:39:01Z
+
+🏷 cursor, cursor-agent, hubelbauer-net, windows
+
+📒 A post showing how I made a Windows version of Cursor Agent despite no official Windows-native builds.
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 2026-01-19T14:08:19Z
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
+## [onewheel-charger](https://github.com/TomasHubelbauer/onewheel-charger)
+
+⚖️ 2026-01-19T17:45:52Z
+
+🏷 charger, onewheel, onewheel-charger, onewheel-pint, onewheel-xr
+
+📒 Onewheel Pint and +XR charger specs and connector pinouts
+
+## [safari-offline](https://github.com/TomasHubelbauer/safari-offline)
+
+⚖️ 2026-01-22T15:50:07Z
+
+🏷 offline-app, offline-first, service-worker
+
+📒 An example of a fully ofline web app running in iOS Safari
+
+## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
+
+⚖️ 2026-01-31T16:50:26Z
+
+🏷 3mf
+
+📒 A script for extracting 3MF files into 3MF directories
+
+## [bun-react](https://github.com/TomasHubelbauer/bun-react)
+
+⚖️ 2026-02-02T19:56:05Z
+
+🏷 
+
+📒 A sample of using TypeScript and React in a Bun server.
+
+## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
+
+⚖️ 2026-02-07T14:00:29Z
+
+🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
+
+📒 Raspberry Pi Pico mouse jiggler
+
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2026-01-15T15:05:32Z
+⚖️ 2026-02-08T17:07:23Z
 
 🏷 tomashubelbauer
 
