@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2026-01-15T16:08:29.948Z
+2026-02-22T21:05:39.617Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -2626,6 +2626,14 @@
 
 📒 null
 
+## [firefox-unsigned](https://github.com/TomasHubelbauer/firefox-unsigned)
+
+⚖️ firefox-unsigned
+
+🏷 
+
+📒 null
+
 ## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
 
 ⚖️ firefox-permanent-unsigned-extension
@@ -3634,6 +3642,22 @@
 
 📒 null
 
+## [bun-dep-user](https://github.com/TomasHubelbauer/bun-dep-user)
+
+⚖️ bun-dep-user
+
+🏷 
+
+📒 null
+
+## [bun-dep](https://github.com/TomasHubelbauer/bun-dep)
+
+⚖️ bun-dep
+
+🏷 
+
+📒 null
+
 ## [bun-bundle-service-worker](https://github.com/TomasHubelbauer/bun-bundle-service-worker)
 
 ⚖️ bun-bundle-service-worker
@@ -3649,6 +3673,14 @@
 🏷 
 
 📒 null
+
+## [bun](https://github.com/TomasHubelbauer/bun)
+
+⚖️ bun
+
+🏷 
+
+📒 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## [bt-channel](https://github.com/TomasHubelbauer/bt-channel)
 

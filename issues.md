@@ -22,7 +22,7 @@
 
 ## fastmail
 
-- [🤝 connorgurney: Possibility of using PushSubscription object in JMAP’s core specification to implement webhooks](https://github.com/TomasHubelbauer/fastmail/issues/1)
+- [🤝 connorgurney-me: Possibility of using PushSubscription object in JMAP’s core specification to implement webhooks](https://github.com/TomasHubelbauer/fastmail/issues/1)
 
 ## fatcow-icons
 
