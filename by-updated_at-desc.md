@@ -1,14 +1,150 @@
 # By `updated_at` (desc)
 
-2026-01-15T16:08:29.951Z
+2026-03-16T00:27:08.793Z
 
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2026-01-15T15:05:32Z
+⚖️ 2026-03-15T23:08:04Z
 
 🏷 tomashubelbauer
 
 📒 My GitHub profile page repository
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 2026-03-12T13:39:48Z
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
+
+## [bun-mcp](https://github.com/TomasHubelbauer/bun-mcp)
+
+⚖️ 2026-02-24T19:56:28Z
+
+🏷 agent-mode, bun, copilot, copilot-chat, mcp, mcp-server, vs-code, vscode, vscode-copilot-chat
+
+📒 A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
+
+## [bun](https://github.com/TomasHubelbauer/bun)
+
+⚖️ 2026-02-20T22:34:09Z
+
+🏷 
+
+📒 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
+
+⚖️ 2026-02-13T20:44:04Z
+
+🏷 esm, nextjs, url-import
+
+📒 NextJS URL imports
+
+## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
+
+⚖️ 2026-02-13T15:06:57Z
+
+🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
+
+📒 Raspberry Pi Pico mouse jiggler
+
+## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
+
+⚖️ 2026-02-13T05:02:53Z
+
+🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
+
+📒 3D SVG projection and animation
+
+## [firefox-unsigned](https://github.com/TomasHubelbauer/firefox-unsigned)
+
+⚖️ 2026-02-13T00:14:44Z
+
+🏷 
+
+📒 null
+
+## [bun-dep-user](https://github.com/TomasHubelbauer/bun-dep-user)
+
+⚖️ 2026-02-11T22:43:32Z
+
+🏷 
+
+📒 null
+
+## [bun-dep](https://github.com/TomasHubelbauer/bun-dep)
+
+⚖️ 2026-02-11T22:42:07Z
+
+🏷 
+
+📒 null
+
+## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
+
+⚖️ 2026-02-10T23:13:47Z
+
+🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
+
+📒 WebRTC Data Channel demo
+
+## [bun-react](https://github.com/TomasHubelbauer/bun-react)
+
+⚖️ 2026-02-02T19:56:05Z
+
+🏷 
+
+📒 A sample of using TypeScript and React in a Bun server.
+
+## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
+
+⚖️ 2026-01-31T16:50:26Z
+
+🏷 3mf
+
+📒 A script for extracting 3MF files into 3MF directories
+
+## [safari-offline](https://github.com/TomasHubelbauer/safari-offline)
+
+⚖️ 2026-01-22T15:50:07Z
+
+🏷 offline-app, offline-first, service-worker
+
+📒 An example of a fully ofline web app running in iOS Safari
+
+## [onewheel-charger](https://github.com/TomasHubelbauer/onewheel-charger)
+
+⚖️ 2026-01-19T17:45:52Z
+
+🏷 charger, onewheel, onewheel-charger, onewheel-pint, onewheel-xr
+
+📒 Onewheel Pint and +XR charger specs and connector pinouts
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 2026-01-19T14:08:19Z
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
+## [cursor-agent-windows](https://github.com/TomasHubelbauer/cursor-agent-windows)
+
+⚖️ 2026-01-19T13:39:01Z
+
+🏷 cursor, cursor-agent, hubelbauer-net, windows
+
+📒 A post showing how I made a Windows version of Cursor Agent despite no official Windows-native builds.
+
+## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
+
+⚖️ 2026-01-17T16:20:10Z
+
+🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
+
+📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
 
 ## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
 
@@ -17,22 +153,6 @@
 🏷 api, javascript, kaloricke-tabulky, kaloricketabulky, node
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
-
-## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
-
-⚖️ 2026-01-09T16:39:07Z
-
-🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
-
-📒 3D SVG projection and animation
-
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 2026-01-07T15:29:42Z
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
 
 ## [firefox-permanent-unsigned-extension](https://github.com/TomasHubelbauer/firefox-permanent-unsigned-extension)
 
@@ -49,22 +169,6 @@
 🏷 hubelbauer-net, vscode, vscode-extensions
 
 📒 An article about VS Code Local Workspace Extensions feature
-
-## [cursor-agent-windows](https://github.com/TomasHubelbauer/cursor-agent-windows)
-
-⚖️ 2025-12-27T20:42:21Z
-
-🏷 cursor, cursor-agent, hubelbauer-net, windows
-
-📒 A post showing how I made a Windows version of Cursor Agent despite no official Windows-native builds.
-
-## [bun-mcp](https://github.com/TomasHubelbauer/bun-mcp)
-
-⚖️ 2025-12-27T12:26:52Z
-
-🏷 agent-mode, bun, copilot, copilot-chat, mcp, mcp-server, vs-code, vscode, vscode-copilot-chat
-
-📒 A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
 
 ## [arduino-qr](https://github.com/TomasHubelbauer/arduino-qr)
 
@@ -121,14 +225,6 @@
 🏷 markdown, todo, todoapp, todolist, todolist-application, vscode, vscode-extension, vscode-plugin
 
 📒 A VS Code extension for displaying all MarkDown todos in one Explorer pane.
-
-## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
-
-⚖️ 2025-11-30T23:31:16Z
-
-🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
-
-📒 Raspberry Pi Pico mouse jiggler
 
 ## [windows-sandbox-script](https://github.com/TomasHubelbauer/windows-sandbox-script)
 
@@ -210,14 +306,6 @@
 
 📒 Seeing if it is possible to use WSL in Windows based GitHub Actions agents
 
-## [onewheel-charger](https://github.com/TomasHubelbauer/onewheel-charger)
-
-⚖️ 2025-09-24T14:51:46Z
-
-🏷 charger, onewheel, onewheel-charger, onewheel-pint, onewheel-xr
-
-📒 Onewheel Pint and +XR charger specs and connector pinouts
-
 ## [node-puppeteer-apng](https://github.com/TomasHubelbauer/node-puppeteer-apng)
 
 ⚖️ 2025-09-11T12:06:53Z
@@ -274,14 +362,6 @@
 
 📒 Obscure upcoming events RSS
 
-## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
-
-⚖️ 2025-07-22T06:38:22Z
-
-🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
-
-📒 WebRTC Data Channel demo
-
 ## [vscode-esm-url](https://github.com/TomasHubelbauer/vscode-esm-url)
 
 ⚖️ 2025-07-13T19:52:38Z
@@ -305,14 +385,6 @@
 🏷 akai, apc-mini, launchpad, midi, op-1, op1, web-midi, web-usb
 
 📒 OP-1 working with web MIDI
-
-## [safari-offline](https://github.com/TomasHubelbauer/safari-offline)
-
-⚖️ 2025-07-04T22:57:48Z
-
-🏷 offline-app, offline-first, service-worker
-
-📒 An example of a fully ofline web app running in iOS Safari
 
 ## [bun-basic-auth-cookie](https://github.com/TomasHubelbauer/bun-basic-auth-cookie)
 
@@ -562,14 +634,6 @@
 
 📒 An experiment in seeing how no-compression ZIP file will diff in Git
 
-## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
-
-⚖️ 2025-02-20T00:01:23Z
-
-🏷 3mf
-
-📒 A script for extracting 3MF files into 3MF directories
-
 ## [150.community](https://github.com/TomasHubelbauer/150.community)
 
 ⚖️ 2025-02-20T00:01:22Z
@@ -714,14 +778,6 @@
 
 📒 A VS Code extension showing the number of the current week in the IDE status bar
 
-## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
-
-⚖️ 2024-10-22T00:12:13Z
-
-🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
-
-📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
-
 ## [vscode-extension-playground](https://github.com/TomasHubelbauer/vscode-extension-playground)
 
 ⚖️ 2024-10-20T09:05:22Z
@@ -785,14 +841,6 @@
 🏷 
 
 📒 null
-
-## [bun-react](https://github.com/TomasHubelbauer/bun-react)
-
-⚖️ 2024-09-23T18:17:52Z
-
-🏷 
-
-📒 A sample of using TypeScript and React in a Bun server.
 
 ## [image-editor-poc-cropperjs](https://github.com/TomasHubelbauer/image-editor-poc-cropperjs)
 
@@ -873,14 +921,6 @@
 🏷 data-channel, peer-connection, qr-code, qrcode, signaling-server, webrtc
 
 📒 A WebRTC data channel establishment with QR codes used for signaling channel.
-
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 2024-08-29T13:40:18Z
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
 
 ## [github-rulers](https://github.com/TomasHubelbauer/github-rulers)
 
@@ -1529,14 +1569,6 @@
 🏷 array, javascript
 
 📒 JavaScript Split Array Into Groups of the Same Size
-
-## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
-
-⚖️ 2023-03-20T11:11:59Z
-
-🏷 esm, nextjs, url-import
-
-📒 NextJS URL imports
 
 ## [vrm-api](https://github.com/TomasHubelbauer/vrm-api)
 
