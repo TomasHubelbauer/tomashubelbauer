@@ -1,6 +1,22 @@
 # By `size` (desc)
 
-2026-01-15T16:08:29.958Z
+2026-04-30T13:34:58.905Z
+
+## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
+
+⚖️ 816998
+
+🏷 
+
+📒 The repository for high quality TypeScript type definitions.
+
+## [bun](https://github.com/TomasHubelbauer/bun)
+
+⚖️ 276690
+
+🏷 
+
+📒 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
 
@@ -378,14 +394,6 @@
 
 📒 A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
 
-## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
-
-⚖️ 723
-
-🏷 tomashubelbauer
-
-📒 My GitHub profile page repository
-
 ## [mic-holder](https://github.com/TomasHubelbauer/mic-holder)
 
 ⚖️ 715
@@ -441,6 +449,14 @@
 🏷 es-modules, esm, photopea, uzip, uzipjs, zip
 
 📒 ESM package of the UZIP.js module by Photopea
+
+## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
+
+⚖️ 535
+
+🏷 tomashubelbauer
+
+📒 My GitHub profile page repository
 
 ## [analog-panel-meter](https://github.com/TomasHubelbauer/analog-panel-meter)
 
@@ -570,6 +586,14 @@
 
 📒 A to-do list
 
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 340
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
 ## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
 
 ⚖️ 339
@@ -577,14 +601,6 @@
 🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
 
 📒 Raspberry Pi Pico mouse jiggler
-
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 336
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
 
 ## [next-13-ssg](https://github.com/TomasHubelbauer/next-13-ssg)
 
@@ -2226,6 +2242,14 @@
 
 📒 Using Flirc to control an IR LED strip
 
+## [bun-react](https://github.com/TomasHubelbauer/bun-react)
+
+⚖️ 6
+
+🏷 
+
+📒 A sample of using TypeScript and React in a Bun server.
+
 ## [localhost.run-custom-domain-https](https://github.com/TomasHubelbauer/localhost.run-custom-domain-https)
 
 ⚖️ 6
@@ -2353,6 +2377,14 @@
 🏷 contenteditable
 
 📒 Making contenteditable less useless
+
+## [firefox-unsigned](https://github.com/TomasHubelbauer/firefox-unsigned)
+
+⚖️ 5
+
+🏷 
+
+📒 null
 
 ## [git-submodule-track-branch](https://github.com/TomasHubelbauer/git-submodule-track-branch)
 
@@ -3082,14 +3114,6 @@
 
 📒 null
 
-## [bun-react](https://github.com/TomasHubelbauer/bun-react)
-
-⚖️ 2
-
-🏷 
-
-📒 A sample of using TypeScript and React in a Bun server.
-
 ## [jsx-service-worker](https://github.com/TomasHubelbauer/jsx-service-worker)
 
 ⚖️ 2
@@ -3377,6 +3401,14 @@
 🏷 blender, vscode
 
 📒 Notes for using Blender with VS Code
+
+## [bun-dep](https://github.com/TomasHubelbauer/bun-dep)
+
+⚖️ 1
+
+🏷 
+
+📒 null
 
 ## [vscode-local-extensions](https://github.com/TomasHubelbauer/vscode-local-extensions)
 
@@ -3801,6 +3833,14 @@
 🏷 he3
 
 📒 A webcam page for with with He3 as a face camera
+
+## [bun-dep-user](https://github.com/TomasHubelbauer/bun-dep-user)
+
+⚖️ 0
+
+🏷 
+
+📒 null
 
 ## [mcp-a2a](https://github.com/TomasHubelbauer/mcp-a2a)
 

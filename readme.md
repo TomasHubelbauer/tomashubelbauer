@@ -8,39 +8,48 @@
 
 <div align="center">
 
-[335&nbsp;followers&nbsp;🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
-902&nbsp;stars&nbsp;⭐️  ᐧ
-[491&nbsp;repositories&nbsp;📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
+[348&nbsp;followers&nbsp;🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
+925&nbsp;stars&nbsp;⭐️  ᐧ
+[496&nbsp;repositories&nbsp;📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
 [49&nbsp;issues&nbsp;🎫](issues.md) ᐧ
-[No&nbsp;PRs&nbsp;🎁](prs.md) ᐧ
-[479&nbsp;todos&nbsp;💪](todos.json) ᐧ
-No&nbsp;forks&nbsp;🍴
+[1&nbsp;PR&nbsp;🎁](prs.md) ᐧ
+[482&nbsp;todos&nbsp;💪](todos.json) ᐧ
+[2&nbsp;forks&nbsp;🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork) ᐧ 
+[One&nbsp;identical&nbsp;fork:&nbsp;`DefinitelyTyped`&nbsp;🍴⚠️](https://github.com/TomasHubelbauer/DefinitelyTyped)
 
 </div>
 
 <details open>
+<summary>Today (15:35)</summary>
+
+- `08:53`
+  🤝 followed by [pengvinx](https://github.com/pengvinx)
+
+</details>
+
+<details>
 <summary>Yesterday</summary>
 
-- `20:56`
-  💬 commented on
-  [#263558 Support developing VS Code extensions in TypeScript](https://github.com/microsoft/vscode/issues/263558)
+- `11:20`
+  🎫 opened
+  [#5 Feature request: DuckDuckGo web search](https://github.com/Arthur-Ficial/apfel-chat/issues/5)
   in
-  [`microsoft/vscode`](https://github.com/microsoft/vscode)
+  [`Arthur-Ficial/apfel-chat`](https://github.com/Arthur-Ficial/apfel-chat)
+- `10:02`
+  ⭐️ starred
+  [`trycua/cua`](https://github.com/trycua/cua)
 
 </details>
 
 <details>
 <summary>Tuesday</summary>
 
-- `23:05`
+- `21:06`
   ⭐️ starred
-  [`KartikLabhshetwar/better-shot`](https://github.com/KartikLabhshetwar/better-shot)
-- `23:01`
-  ⭐️ starred
-  [`eigent-ai/eigent`](https://github.com/eigent-ai/eigent)
-- `10:21`
+  [`warpdotdev/warp`](https://github.com/warpdotdev/warp)
+- `10:09`
   💬 commented on
-  [#263558 Support developing VS Code extensions in TypeScript](https://github.com/microsoft/vscode/issues/263558)
+  [#312680 just hangs and does nothing!!!!](https://github.com/microsoft/vscode/issues/312680)
   in
   [`microsoft/vscode`](https://github.com/microsoft/vscode)
 
@@ -49,356 +58,328 @@ No&nbsp;forks&nbsp;🍴
 <details>
 <summary>Monday</summary>
 
-- `15:09`
+- `14:29`
+  💬 commented on
+  [#312680 just hangs and does nothing!!!!](https://github.com/microsoft/vscode/issues/312680)
+  in
+  [`microsoft/vscode`](https://github.com/microsoft/vscode)
+- `13:39`
   ⭐️ starred
-  [`lawrencegripper/actions-term-on-fail`](https://github.com/lawrencegripper/actions-term-on-fail)
-- `15:06`
-  🍴📉 lost a fork on 
-  [`html-video-frame-extractor`](https://github.com/TomasHubelbauer/html-video-frame-extractor) (now 1)
+  [`WeebLabs/DSPi`](https://github.com/WeebLabs/DSPi)
+- `13:39`
+  ⭐️ starred
+  [`pgbackrest/pgbackrest`](https://github.com/pgbackrest/pgbackrest)
+- `11:48`
+  💬 commented on
+  [#312699 打不开 Visual Studio Code Insiders](https://github.com/microsoft/vscode/issues/312699)
+  in
+  [`microsoft/vscode`](https://github.com/microsoft/vscode)
+- `11:45`
+  💬 commented on
+  [#312680 just hangs and does nothing!!!!](https://github.com/microsoft/vscode/issues/312680)
+  in
+  [`microsoft/vscode`](https://github.com/microsoft/vscode)
+- `11:12`
+  💬 commented on
+  [#311006 1.117.0 Endgame](https://github.com/microsoft/vscode/issues/311006)
+  in
+  [`microsoft/vscode`](https://github.com/microsoft/vscode)
+- `11:00`
+  💬 commented on
+  [#312680 just hangs and does nothing!!!!](https://github.com/microsoft/vscode/issues/312680)
+  in
+  [`microsoft/vscode`](https://github.com/microsoft/vscode)
+- `10:22`
+  ⭐️ starred
+  [`maria-rcks/clawd.rip`](https://github.com/maria-rcks/clawd.rip)
 
 </details>
 
 <details>
 <summary>Sunday</summary>
 
-- `21:22`
-  ⭐️ starred
-  [`jrouwe/JoltPhysics`](https://github.com/jrouwe/JoltPhysics)
+- `14:16`
+  💔 unfollowed by [FTCHD](https://github.com/FTCHD) after 4 days
 
 </details>
 
 <details>
 <summary>Saturday</summary>
 
-- `17:52`
-  ⭐️ starred
-  [`skridlevsky/openchaos`](https://github.com/skridlevsky/openchaos)
-- `16:51`
-  📌 pushed
-  [`9704c7b`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/9704c7bb40e44444b85cb194ee1eab8a880538f7)
-  into
-  [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
-- `11:04`
-  🤝 followed by [vandersoncostasantos](https://github.com/vandersoncostasantos)
-- `01:18`
-  🤝 followed by [Shehab513](https://github.com/Shehab513)
+- `11:19`
+  🤝 followed by [AhmedDabish](https://github.com/AhmedDabish)
 
 </details>
 
 <details>
 <summary>Friday</summary>
 
-- `19:06`
-  🤝 followed by [AD404-0](https://github.com/AD404-0)
-- `17:13`
+- `18:21`
+  🤝 followed by [mahmood-yz](https://github.com/mahmood-yz)
+
+</details>
+
+<details>
+<summary>2026-04-23</summary>
+
+- `18:39`
   ⭐️ starred
-  [`numman-ali/opencode-openai-codex-auth`](https://github.com/numman-ali/opencode-openai-codex-auth)
-- `17:10`
-  💬 commented on
-  [#17118 [Feature Request] Support for OpenCode and Max plan](https://github.com/anthropics/claude-code/issues/17118)
-  in
-  [`anthropics/claude-code`](https://github.com/anthropics/claude-code)
-- `17:04`
-  💬 commented on
-  [#7078 Use local LLM via Ollama on desktop](https://github.com/anomalyco/opencode/issues/7078)
-  in
-  [`anomalyco/opencode`](https://github.com/anomalyco/opencode)
-- `16:34`
-  💬 commented on
-  [#216 Editor integrations](https://github.com/anomalyco/opencode/issues/216)
-  in
-  [`anomalyco/opencode`](https://github.com/anomalyco/opencode)
-- `16:11`
-  🏷🎫 labeled
-  [#7491 [FEATURE]: Verify subscription/model is usable when `/connect`ing it](https://github.com/anomalyco/opencode/issues/7491)
-  in
-  [`anomalyco/opencode`](https://github.com/anomalyco/opencode)
-- `16:11`
+  [`refactoringhq/tolaria`](https://github.com/refactoringhq/tolaria)
+- `16:09`
+  ⭐️ starred
+  [`russellromney/honker`](https://github.com/russellromney/honker)
+- `14:51`
   🎫 opened
-  [#7491 [FEATURE]: Verify subscription/model is usable when `/connect`ing it](https://github.com/anomalyco/opencode/issues/7491)
+  [#4 Deleting a chat while it is open doesn't close it](https://github.com/Arthur-Ficial/apfel-chat/issues/4)
+  in
+  [`Arthur-Ficial/apfel-chat`](https://github.com/Arthur-Ficial/apfel-chat)
+- `14:44`
+  ⭐️ starred
+  [`Arthur-Ficial/apfel-chat`](https://github.com/Arthur-Ficial/apfel-chat)
+- `12:48`
+  ⭐️ starred
+  [`pierrecomputer/pierre`](https://github.com/pierrecomputer/pierre)
+- `03:34`
+  🤝 followed by [ephmo](https://github.com/ephmo)
+
+</details>
+
+<details>
+<summary>2026-04-22</summary>
+
+- `06:58`
+  🤝 followed by [FTCHD](https://github.com/FTCHD)
+
+</details>
+
+<details>
+<summary>2026-04-21</summary>
+
+- `11:57`
+  ⭐️ starred
+  [`i12bp8/TagTinker`](https://github.com/i12bp8/TagTinker)
+
+</details>
+
+<details>
+<summary>2026-04-20</summary>
+
+- `16:11`
+  ⭐️ starred
+  [`sharkdp/hyperfine`](https://github.com/sharkdp/hyperfine)
+- `16:05`
+  ⭐️ starred
+  [`ArcaneNibble/awawausb`](https://github.com/ArcaneNibble/awawausb)
+- `07:03`
+  🤝 followed by [ijyrock](https://github.com/ijyrock)
+
+</details>
+
+<details>
+<summary>2026-04-16</summary>
+
+- `18:04`
+  ⭐️ starred
+  [`thunderbird/thunderbolt`](https://github.com/thunderbird/thunderbolt)
+- `10:37`
+  ⭐️ starred
+  [`pydantic/pydantic-ai-harness`](https://github.com/pydantic/pydantic-ai-harness)
+
+</details>
+
+<details>
+<summary>2026-04-15</summary>
+
+- `10:11`
+  ⭐️ starred
+  [`tulir/whatsmeow`](https://github.com/tulir/whatsmeow)
+- `10:10`
+  ⭐️ starred
+  [`steipete/wacli`](https://github.com/steipete/wacli)
+- `07:38`
+  ⭐️ starred
+  [`Tyrrrz/LightBulb`](https://github.com/Tyrrrz/LightBulb)
+
+</details>
+
+<details>
+<summary>2026-04-14</summary>
+
+- `11:22`
+  ⭐️ starred
+  [`aloshdenny/reverse-SynthID`](https://github.com/aloshdenny/reverse-SynthID)
+
+</details>
+
+<details>
+<summary>2026-04-12</summary>
+
+- `18:57`
+  💬 commented on
+  [#19185 Tailscale funnel with authentication](https://github.com/tailscale/tailscale/issues/19185)
+  in
+  [`tailscale/tailscale`](https://github.com/tailscale/tailscale)
+
+</details>
+
+<details>
+<summary>2026-04-10</summary>
+
+- `19:47`
+  🗑🌳 deleted branch `patch-1` in
+  [`DefinitelyTyped`](https://github.com/TomasHubelbauer/DefinitelyTyped)
+- `19:47`
+  🎁 closed
+  [#74866 undefined](undefined)
+  in
+  [`DefinitelyTyped/DefinitelyTyped`](https://github.com/DefinitelyTyped/DefinitelyTyped)
+- `19:47`
+  💬 commented on
+  [#74866 `@types/bun`: Bump to 1.3.12 for `Bun.WebView`](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/74866)
+  in
+  [`DefinitelyTyped/DefinitelyTyped`](https://github.com/DefinitelyTyped/DefinitelyTyped)
+- `11:55`
+  💬 commented on
+  [#74866 `@types/bun`: Bump to 1.3.12 for `Bun.WebView`](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/74866)
+  in
+  [`DefinitelyTyped/DefinitelyTyped`](https://github.com/DefinitelyTyped/DefinitelyTyped)
+- `11:55`
+  🎁 opened
+  [#74866 undefined](undefined)
+  in
+  [`DefinitelyTyped/DefinitelyTyped`](https://github.com/DefinitelyTyped/DefinitelyTyped)
+- `11:54`
+  📌 pushed
+  [`e4f24e9`](https://github.com/TomasHubelbauer/DefinitelyTyped/commit/e4f24e9d940b111a8d23993f18379ff3b6d04053)
+  into
+  [`DefinitelyTyped`](https://github.com/TomasHubelbauer/DefinitelyTyped)
+
+</details>
+
+<details>
+<summary>2026-04-09</summary>
+
+- `23:26`
+  ⭐️ starred
+  [`meodai/color-names`](https://github.com/meodai/color-names)
+- `23:25`
+  ⭐️ starred
+  [`meodai/poline`](https://github.com/meodai/poline)
+- `16:07`
+  ⭐️ starred
+  [`jure/webphysics`](https://github.com/jure/webphysics)
+
+</details>
+
+<details>
+<summary>2026-04-08</summary>
+
+- `13:42`
+  ⭐️ starred
+  [`libgdx/libgdx`](https://github.com/libgdx/libgdx)
+
+</details>
+
+<details>
+<summary>2026-04-07</summary>
+
+- `15:55`
+  ⭐️ starred
+  [`pion/handoff`](https://github.com/pion/handoff)
+- `11:56`
+  ⭐️ starred
+  [`dcrebbin/meta-glasses-api`](https://github.com/dcrebbin/meta-glasses-api)
+
+</details>
+
+<details>
+<summary>2026-04-04</summary>
+
+- `14:06`
+  ⭐️ starred
+  [`vercel-labs/agent-browser`](https://github.com/vercel-labs/agent-browser)
+- `14:06`
+  ⭐️ starred
+  [`callstackincubator/agent-device`](https://github.com/callstackincubator/agent-device)
+
+</details>
+
+<details>
+<summary>2026-04-03</summary>
+
+- `16:52`
+  ⭐️ starred
+  [`Arthur-Ficial/apfel-gui`](https://github.com/Arthur-Ficial/apfel-gui)
+- `16:52`
+  ⭐️ starred
+  [`Arthur-Ficial/apfel`](https://github.com/Arthur-Ficial/apfel)
+- `08:53`
+  💬 commented on
+  [#11527 OpenCode leaves an orphaned process when it itself is killed](https://github.com/anomalyco/opencode/issues/11527)
   in
   [`anomalyco/opencode`](https://github.com/anomalyco/opencode)
 
 </details>
 
 <details>
-<summary>2026-01-07</summary>
+<summary>2026-04-02</summary>
 
-- `16:29`
-  📌 pushed
-  [`6ad43ac`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/6ad43ac252c7db45cb96a7fbcba45bfbf7706055)
-  into
-  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
-- `13:07`
-  💔 unfollowed by [emilycodestar](https://github.com/emilycodestar) after 33 days
-- `07:06`
-  💔 unfollowed by [mikechiloane](https://github.com/mikechiloane) after 24 days
+- `23:48`
+  ⭐️ starred
+  [`vercel-labs/portless`](https://github.com/vercel-labs/portless)
+- `22:12`
+  ⭐️ starred
+  [`rexglue/rexglue-sdk`](https://github.com/rexglue/rexglue-sdk)
+- `20:50`
+  ⭐️ starred
+  [`vdsmon/claude-warmup`](https://github.com/vdsmon/claude-warmup)
+- `19:47`
+  ⭐️ starred
+  [`simstudioai/sim`](https://github.com/simstudioai/sim)
+- `11:07`
+  ⭐️ starred
+  [`yuzeguitarist/Deck`](https://github.com/yuzeguitarist/Deck)
 
 </details>
 
 <details>
-<summary>2026-01-06</summary>
+<summary>2026-04-01</summary>
 
-- `22:10`
+- `21:53`
   ⭐️ starred
-  [`cristibaluta/Leica-G9ii`](https://github.com/cristibaluta/Leica-G9ii)
-- `21:50`
-  ⭐️ starred
-  [`frigate-nvr/apple-silicon-detector`](https://github.com/frigate-nvr/apple-silicon-detector)
-
-</details>
-
-<details>
-<summary>2026-01-05</summary>
-
-- `23:34`
-  📌 pushed
-  [`547eaa2`](https://github.com/TomasHubelbauer/kaloricke-tabulky-api/commit/547eaa2762420c1ca4f4011faa624af4fdf2293f)
-  into
-  [`kaloricke-tabulky-api`](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
-- `23:33`
-  📌 pushed
-  [`3a1bace`](https://github.com/TomasHubelbauer/kaloricke-tabulky-api/commit/3a1bace525617b3e012a3bfc81fdf6f43324fbd5)
-  into
-  [`kaloricke-tabulky-api`](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
-- `20:05`
-  ⭐️ starred
-  [`cifertech/ESP32-DIV`](https://github.com/cifertech/ESP32-DIV)
-
-</details>
-
-<details>
-<summary>2026-01-04</summary>
-
-- `23:56`
-  ⭐️ starred
-  [`DevEmperor/Dictate`](https://github.com/DevEmperor/Dictate)
-- `15:03`
-  ⭐️ starred
-  [`buyukakyuz/corroded`](https://github.com/buyukakyuz/corroded)
+  [`hauntsaninja/git_bayesect`](https://github.com/hauntsaninja/git_bayesect)
 - `14:53`
   ⭐️ starred
-  [`cmajor-lang/cmajor`](https://github.com/cmajor-lang/cmajor)
+  [`badlogic/jot`](https://github.com/badlogic/jot)
 
 </details>
 
 <details>
-<summary>2026-01-03</summary>
+<summary>2026-03-31</summary>
 
-- `21:08`
+- `22:27`
   ⭐️ starred
-  [`sirius-db/sirius`](https://github.com/sirius-db/sirius)
-
-</details>
-
-<details>
-<summary>2026-01-01</summary>
-
-- `23:04`
-  💔 unfollowed by [NamesMT](https://github.com/NamesMT) after 25 days
-- `12:59`
-  ⭐️ starred
-  [`techwinder/flow5`](https://github.com/techwinder/flow5)
-
-</details>
-
-<details>
-<summary>2025-12-29</summary>
-
-- `14:15`
-  🤝 followed by [codebyhuman](https://github.com/codebyhuman)
-
-</details>
-
-<details>
-<summary>2025-12-28</summary>
-
-- `21:04`
-  🤝 followed by [rodrigogalura](https://github.com/rodrigogalura)
-- `20:04`
-  ⭐️ starred
-  [`steipete/imsg`](https://github.com/steipete/imsg)
-- `17:58`
-  ⭐️ starred
-  [`rex-rs/rex`](https://github.com/rex-rs/rex)
-
-</details>
-
-<details>
-<summary>2025-12-27</summary>
-
-- `22:11`
-  📌 pushed
-  [`4bbf4fa`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/4bbf4fa2ebad7e38aceb4f00d48662850a5259d7)
-  into
-  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
+  [`jiri-prokop-pb/floudeck`](https://github.com/jiri-prokop-pb/floudeck)
 - `22:10`
-  📌 pushed
-  [`22e6c2f`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/22e6c2f97ff6e3988c536cf6c97a8b5f55c1e915)
-  into
-  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
-- `22:06`
   ⭐️ starred
-  [`Ripple-TS/ripple`](https://github.com/Ripple-TS/ripple)
-- `22:02`
-  🌳 created branch 
-  [`main`](https://github.com/TomasHubelbauer/vscode-local-extensions/tree/main)
-  in
-  [`vscode-local-extensions`](https://github.com/TomasHubelbauer/vscode-local-extensions)
-- `21:48`
-  📌 pushed
-  [`84d2e17`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/84d2e17f1768d42afbeb7e52ff49583e73d62d72)
-  into
-  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
-- `21:43`
-  📌 pushed
-  [`b0d5cdc`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/b0d5cdc0a3db86bdd31334939e3c982cff3576cf)
-  into
-  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
-- `21:38`
-  📌 pushed
-  [`aea984f`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/aea984fe8fe6c734f44e6080b2cb06c843e19e64)
-  into
-  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
-- `17:51`
+  [`ericlewis/libpo32`](https://github.com/ericlewis/libpo32)
+- `21:50`
   ⭐️ starred
-  [`apple/ml-sharp`](https://github.com/apple/ml-sharp)
-
-</details>
-
-<details>
-<summary>2025-12-26</summary>
-
-- `21:51`
-  ⭐️ starred
-  [`jordansissel/xdotool`](https://github.com/jordansissel/xdotool)
-- `13:26`
-  ⭐️ starred
-  [`zen-browser/desktop`](https://github.com/zen-browser/desktop)
-
-</details>
-
-<details>
-<summary>2025-12-25</summary>
-
-- `18:22`
-  ⭐️ starred
-  [`tw93/Mole`](https://github.com/tw93/Mole)
-- `15:54`
-  ⭐️ starred
-  [`sebastienros/comptime`](https://github.com/sebastienros/comptime)
-
-</details>
-
-<details>
-<summary>2025-12-24</summary>
-
-- `20:08`
-  ⭐️ starred
-  [`VibiumDev/vibium`](https://github.com/VibiumDev/vibium)
-- `16:06`
-  ⭐️ starred
-  [`freelawproject/x-ray`](https://github.com/freelawproject/x-ray)
-
-</details>
-
-<details>
-<summary>2025-12-23</summary>
-
-- `20:22`
-  ⭐️ starred
-  [`bellard/mquickjs`](https://github.com/bellard/mquickjs)
-
-</details>
-
-<details>
-<summary>2025-12-22</summary>
-
-- `23:07`
-  ⭐️ starred
-  [`oraios/serena`](https://github.com/oraios/serena)
-
-</details>
-
-<details>
-<summary>2025-12-21</summary>
-
-- `00:19`
-  ⭐️ starred
-  [`rue-language/rue`](https://github.com/rue-language/rue)
-
-</details>
-
-<details>
-<summary>2025-12-20</summary>
-
-- `18:54`
-  ⭐️ starred
-  [`Jarred-Sumner/poof`](https://github.com/Jarred-Sumner/poof)
-- `18:53`
-  ⭐️ starred
-  [`anomalyco/opentui`](https://github.com/anomalyco/opentui)
-- `18:49`
-  ⭐️ starred
-  [`cameroncooke/AXe`](https://github.com/cameroncooke/AXe)
-
-</details>
-
-<details>
-<summary>2025-12-18</summary>
-
-- `15:17`
-  📌 pushed
-  [`da344f3`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/da344f394f69a75b842c6b7ec0b700e7f292372f)
-  into
-  [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
-- `12:50`
-  ⭐️ starred
-  [`ironcalc/IronCalc`](https://github.com/ironcalc/IronCalc)
-- `08:59`
-  ⭐️ starred
-  [`openai/apps-sdk-ui`](https://github.com/openai/apps-sdk-ui)
-
-</details>
-
-<details>
-<summary>2025-12-17</summary>
-
-- `08:45`
-  ⭐️ starred
-  [`simonw/justjshtml`](https://github.com/simonw/justjshtml)
-- `08:33`
-  ⭐️ starred
-  [`html5lib/html5lib-tests`](https://github.com/html5lib/html5lib-tests)
-- `08:04`
-  ⭐️ starred
-  [`scallyw4g/bonsai`](https://github.com/scallyw4g/bonsai)
-
-</details>
-
-<details>
-<summary>2025-12-16</summary>
-
-- `20:00`
-  ⭐️ starred
-  [`gaearon/rscexplorer`](https://github.com/gaearon/rscexplorer)
-- `16:58`
+  [`paoloanzn/free-code`](https://github.com/paoloanzn/free-code)
+- `15:32`
+  🤝 followed by [CHENBAE](https://github.com/CHENBAE)
+- `15:32`
+  🤝 followed by [wind41](https://github.com/wind41)
+- `13:04`
   💬 commented on
-  [#229288 Auto-reload local workspace extensions when a file in the extension directory gets saved](https://github.com/microsoft/vscode/issues/229288)
-  in
-  [`microsoft/vscode`](https://github.com/microsoft/vscode)
-- `16:09`
-  🏷🎫 labeled
-  [#14183 [FEATURE] Add a new tool to the VS Code extension to let Claude Code trigger format on save on a file](https://github.com/anthropics/claude-code/issues/14183)
+  [#40524 [BUG] Conversation history invalidated on subsequent turns](https://github.com/anthropics/claude-code/issues/40524)
   in
   [`anthropics/claude-code`](https://github.com/anthropics/claude-code)
-- `16:09`
-  🎫 opened
-  [#14183 [FEATURE] Add a new tool to the VS Code extension to let Claude Code trigger format on save on a file](https://github.com/anthropics/claude-code/issues/14183)
-  in
-  [`anthropics/claude-code`](https://github.com/anthropics/claude-code)
-- `13:06`
+- `12:09`
   ⭐️ starred
-  [`google/A2UI`](https://github.com/google/A2UI)
+  [`ultraworkers/claw-code`](https://github.com/ultraworkers/claw-code)
+- `09:35`
+  ⭐️ starred
+  [`openai/codex-plugin-cc`](https://github.com/openai/codex-plugin-cc)
 
 </details>

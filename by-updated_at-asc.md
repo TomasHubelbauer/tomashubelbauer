@@ -1,6 +1,6 @@
 # By `updated_at` (asc)
 
-2026-01-15T16:08:29.950Z
+2026-04-30T13:34:58.899Z
 
 ## [github-pages-osm-pbf](https://github.com/TomasHubelbauer/github-pages-osm-pbf)
 
@@ -850,14 +850,6 @@
 
 📒 Hyper-V PowerShell script for running a script in a temporary VM
 
-## [indexed-db](https://github.com/TomasHubelbauer/indexed-db)
-
-⚖️ 2022-04-16T13:33:46Z
-
-🏷 indexed-db, local-storage, todo, todo-app, todo-list
-
-📒 An IndexedDB exploration repository
-
 ## [ios-app-web-control](https://github.com/TomasHubelbauer/ios-app-web-control)
 
 ⚖️ 2022-04-16T13:34:42Z
@@ -1265,14 +1257,6 @@
 🏷 html, video
 
 📒 An application for generating videos from HTML+JS scenes
-
-## [node-cdp-ws](https://github.com/TomasHubelbauer/node-cdp-ws)
-
-⚖️ 2022-04-16T22:56:18Z
-
-🏷 cdp, debugger, electron, websocket
-
-📒 Pure Node websocket client
 
 ## [node-forever](https://github.com/TomasHubelbauer/node-forever)
 
@@ -2394,14 +2378,6 @@
 
 📒 An experiment in replacing UI-shown string literals with method calls for looking up localized versions
 
-## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
-
-⚖️ 2023-03-20T11:11:59Z
-
-🏷 esm, nextjs, url-import
-
-📒 NextJS URL imports
-
 ## [js-array-groups](https://github.com/TomasHubelbauer/js-array-groups)
 
 ⚖️ 2023-04-11T15:28:57Z
@@ -3050,14 +3026,6 @@
 
 📒 A browser extension and stylesheet to display 0, 80 and 120 character lines in the GitHub code editor
 
-## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
-
-⚖️ 2024-08-29T13:40:18Z
-
-🏷 slack, slack-app, slack-status, spotify
-
-📒 A script for setting the currently playing Spotify song as your Slack status
-
 ## [webrtc-qr-signaling-channel](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel)
 
 ⚖️ 2024-09-03T22:52:26Z
@@ -3138,14 +3106,6 @@
 
 📒 null
 
-## [bun-react](https://github.com/TomasHubelbauer/bun-react)
-
-⚖️ 2024-09-23T18:17:52Z
-
-🏷 
-
-📒 A sample of using TypeScript and React in a Bun server.
-
 ## [image-editor-poc-react-image-crop](https://github.com/TomasHubelbauer/image-editor-poc-react-image-crop)
 
 ⚖️ 2024-10-02T20:52:53Z
@@ -3209,14 +3169,6 @@
 🏷 vscode, vscode-extension
 
 📒 Barebones setup for developing local workspace extensions for VS Code
-
-## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
-
-⚖️ 2024-10-22T00:12:13Z
-
-🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
-
-📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
 
 ## [vscode-week-number](https://github.com/TomasHubelbauer/vscode-week-number)
 
@@ -3362,14 +3314,6 @@
 
 📒 null
 
-## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
-
-⚖️ 2025-02-20T00:01:23Z
-
-🏷 3mf
-
-📒 A script for extracting 3MF files into 3MF directories
-
 ## [3mf-zip-uncompressed](https://github.com/TomasHubelbauer/3mf-zip-uncompressed)
 
 ⚖️ 2025-02-20T00:01:25Z
@@ -3437,14 +3381,6 @@
 ## [bun-serve-multiple-ports](https://github.com/TomasHubelbauer/bun-serve-multiple-ports)
 
 ⚖️ 2025-02-22T15:16:12Z
-
-🏷 
-
-📒 null
-
-## [localhost.run-custom-domain-https](https://github.com/TomasHubelbauer/localhost.run-custom-domain-https)
-
-⚖️ 2025-02-23T10:48:30Z
 
 🏷 
 
@@ -3618,14 +3554,6 @@
 
 📒 null
 
-## [safari-offline](https://github.com/TomasHubelbauer/safari-offline)
-
-⚖️ 2025-07-04T22:57:48Z
-
-🏷 offline-app, offline-first, service-worker
-
-📒 An example of a fully ofline web app running in iOS Safari
-
 ## [web-midi](https://github.com/TomasHubelbauer/web-midi)
 
 ⚖️ 2025-07-10T16:13:56Z
@@ -3634,14 +3562,6 @@
 
 📒 OP-1 working with web MIDI
 
-## [fastmail](https://github.com/TomasHubelbauer/fastmail)
-
-⚖️ 2025-07-13T15:03:59Z
-
-🏷 api-token, email, fastmail, fastmail-api, sieve
-
-📒 My exploration of the Fastmail API
-
 ## [vscode-esm-url](https://github.com/TomasHubelbauer/vscode-esm-url)
 
 ⚖️ 2025-07-13T19:52:38Z
@@ -3649,14 +3569,6 @@
 🏷 esm, esmodules, export, import, url, vscode, vscode-extension
 
 📒 VS Code extension adding support for ?search and #fragment in ESM module specifiers
-
-## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
-
-⚖️ 2025-07-22T06:38:22Z
-
-🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
-
-📒 WebRTC Data Channel demo
 
 ## [obscure-rss](https://github.com/TomasHubelbauer/obscure-rss)
 
@@ -3698,14 +3610,6 @@
 
 📒 Brother P-touch D600 label maker USB communication with P-touch Editor
 
-## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
-
-⚖️ 2025-09-03T23:11:54Z
-
-🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
-
-📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
-
 ## [node-puppeteer-apng](https://github.com/TomasHubelbauer/node-puppeteer-apng)
 
 ⚖️ 2025-09-11T12:06:53Z
@@ -3714,14 +3618,6 @@
 
 📒 A JavaScript library for recording screencasts of URLs or Puppeteer sessions to APNG
 
-## [onewheel-charger](https://github.com/TomasHubelbauer/onewheel-charger)
-
-⚖️ 2025-09-24T14:51:46Z
-
-🏷 charger, onewheel, onewheel-charger, onewheel-pint, onewheel-xr
-
-📒 Onewheel Pint and +XR charger specs and connector pinouts
-
 ## [github-actions-wsl](https://github.com/TomasHubelbauer/github-actions-wsl)
 
 ⚖️ 2025-10-06T09:29:41Z
@@ -3729,14 +3625,6 @@
 🏷 github, github-actions, wsl
 
 📒 Seeing if it is possible to use WSL in Windows based GitHub Actions agents
-
-## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
-
-⚖️ 2025-10-06T20:51:42Z
-
-🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
-
-📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
 
 ## [bun-reverse-proxy](https://github.com/TomasHubelbauer/bun-reverse-proxy)
 
@@ -3794,22 +3682,6 @@
 
 📒 FormData support for Cloudflare Workers
 
-## [windows-sandbox-script](https://github.com/TomasHubelbauer/windows-sandbox-script)
-
-⚖️ 2025-11-22T13:14:49Z
-
-🏷 windows-sandbox, wsb
-
-📒 Windows Sandbox exploration
-
-## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
-
-⚖️ 2025-11-30T23:31:16Z
-
-🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
-
-📒 Raspberry Pi Pico mouse jiggler
-
 ## [vscode-markdown-todo](https://github.com/TomasHubelbauer/vscode-markdown-todo)
 
 ⚖️ 2025-12-05T22:37:47Z
@@ -3866,22 +3738,6 @@
 
 📒 Arduino LED dot-matrix display QR code
 
-## [bun-mcp](https://github.com/TomasHubelbauer/bun-mcp)
-
-⚖️ 2025-12-27T12:26:52Z
-
-🏷 agent-mode, bun, copilot, copilot-chat, mcp, mcp-server, vs-code, vscode, vscode-copilot-chat
-
-📒 A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
-
-## [cursor-agent-windows](https://github.com/TomasHubelbauer/cursor-agent-windows)
-
-⚖️ 2025-12-27T20:42:21Z
-
-🏷 cursor, cursor-agent, hubelbauer-net, windows
-
-📒 A post showing how I made a Windows version of Cursor Agent despite no official Windows-native builds.
-
 ## [vscode-local-extensions](https://github.com/TomasHubelbauer/vscode-local-extensions)
 
 ⚖️ 2025-12-28T12:54:38Z
@@ -3898,22 +3754,6 @@
 
 📒 null
 
-## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
-
-⚖️ 2026-01-07T15:29:42Z
-
-🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
-
-📒 My personal website
-
-## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
-
-⚖️ 2026-01-09T16:39:07Z
-
-🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
-
-📒 3D SVG projection and animation
-
 ## [kaloricke-tabulky-api](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
 
 ⚖️ 2026-01-15T11:39:20Z
@@ -3922,9 +3762,209 @@
 
 📒 KalorickeTabulky.cz Node/browser JavaScript API
 
+## [arduino-mouse-jiggler](https://github.com/TomasHubelbauer/arduino-mouse-jiggler)
+
+⚖️ 2026-01-17T16:20:10Z
+
+🏷 arduino, cursor, cursor-jiggler, cursor-movement, mouse, mouse-jiggler, mouse-movement
+
+📒 Arduino mouse jiggler for preventing a computer from locking in cases where it is not preventable in software (group policy).
+
+## [safari-offline](https://github.com/TomasHubelbauer/safari-offline)
+
+⚖️ 2026-01-22T15:50:07Z
+
+🏷 offline-app, offline-first, service-worker
+
+📒 An example of a fully ofline web app running in iOS Safari
+
+## [3mf-zip-dir](https://github.com/TomasHubelbauer/3mf-zip-dir)
+
+⚖️ 2026-01-31T16:50:26Z
+
+🏷 3mf
+
+📒 A script for extracting 3MF files into 3MF directories
+
+## [bun-react](https://github.com/TomasHubelbauer/bun-react)
+
+⚖️ 2026-02-02T19:56:05Z
+
+🏷 
+
+📒 A sample of using TypeScript and React in a Bun server.
+
+## [webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo)
+
+⚖️ 2026-02-10T23:13:47Z
+
+🏷 data-channel, data-channels, ice, webrtc, webrtc-demos
+
+📒 WebRTC Data Channel demo
+
+## [bun-dep](https://github.com/TomasHubelbauer/bun-dep)
+
+⚖️ 2026-02-11T22:42:07Z
+
+🏷 
+
+📒 null
+
+## [bun-dep-user](https://github.com/TomasHubelbauer/bun-dep-user)
+
+⚖️ 2026-02-11T22:43:32Z
+
+🏷 
+
+📒 null
+
+## [firefox-unsigned](https://github.com/TomasHubelbauer/firefox-unsigned)
+
+⚖️ 2026-02-13T00:14:44Z
+
+🏷 
+
+📒 null
+
+## [raspi-mouse-jiggler](https://github.com/TomasHubelbauer/raspi-mouse-jiggler)
+
+⚖️ 2026-02-13T15:06:57Z
+
+🏷 mouse-jiggler, raspberry-pi, raspberry-pi-pico
+
+📒 Raspberry Pi Pico mouse jiggler
+
+## [next-url-import-react-component](https://github.com/TomasHubelbauer/next-url-import-react-component)
+
+⚖️ 2026-02-13T20:44:04Z
+
+🏷 esm, nextjs, url-import
+
+📒 NextJS URL imports
+
+## [bun](https://github.com/TomasHubelbauer/bun)
+
+⚖️ 2026-02-20T22:34:09Z
+
+🏷 
+
+📒 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+## [bun-mcp](https://github.com/TomasHubelbauer/bun-mcp)
+
+⚖️ 2026-02-24T19:56:28Z
+
+🏷 agent-mode, bun, copilot, copilot-chat, mcp, mcp-server, vs-code, vscode, vscode-copilot-chat
+
+📒 A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
+
+## [indexed-db](https://github.com/TomasHubelbauer/indexed-db)
+
+⚖️ 2026-03-16T16:00:32Z
+
+🏷 indexed-db, local-storage, todo, todo-app, todo-list
+
+📒 An IndexedDB exploration repository
+
+## [cursor-agent-windows](https://github.com/TomasHubelbauer/cursor-agent-windows)
+
+⚖️ 2026-03-16T18:00:08Z
+
+🏷 cursor, cursor-agent, hubelbauer-net, windows
+
+📒 A post showing how I made a Windows version of Cursor Agent despite no official Windows-native builds.
+
+## [hubelbauer.net](https://github.com/TomasHubelbauer/hubelbauer.net)
+
+⚖️ 2026-03-16T18:20:53Z
+
+🏷 blog, hubelbauer, personal-website, tomas-hubelbauer
+
+📒 My personal website
+
+## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
+
+⚖️ 2026-03-18T15:20:09Z
+
+🏷 
+
+📒 The repository for high quality TypeScript type definitions.
+
+## [puppeteer-bazos-cz-scraper](https://github.com/TomasHubelbauer/puppeteer-bazos-cz-scraper)
+
+⚖️ 2026-03-23T22:12:57Z
+
+🏷 bazos, bazos-cz, node, nodejs, puppeteer, scraper
+
+📒 Bazos.cz scraper built using Puppeteer used for obtaining search results as JSON.
+
+## [localhost.run-custom-domain-https](https://github.com/TomasHubelbauer/localhost.run-custom-domain-https)
+
+⚖️ 2026-03-30T21:04:35Z
+
+🏷 
+
+📒 null
+
+## [windows-sandbox-script](https://github.com/TomasHubelbauer/windows-sandbox-script)
+
+⚖️ 2026-04-06T12:14:24Z
+
+🏷 windows-sandbox, wsb
+
+📒 Windows Sandbox exploration
+
+## [fastmail](https://github.com/TomasHubelbauer/fastmail)
+
+⚖️ 2026-04-07T21:52:47Z
+
+🏷 api-token, email, fastmail, fastmail-api, sieve
+
+📒 My exploration of the Fastmail API
+
+## [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff)
+
+⚖️ 2026-04-14T03:24:57Z
+
+🏷 docx, git, git-hooks, git-pre-commit, microsoft-office, office, pptx, xlsx
+
+📒 An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
+
+## [onewheel-charger](https://github.com/TomasHubelbauer/onewheel-charger)
+
+⚖️ 2026-04-17T22:59:10Z
+
+🏷 charger, onewheel, onewheel-charger, onewheel-pint, onewheel-xr
+
+📒 Onewheel Pint and +XR charger specs and connector pinouts
+
+## [spotify-slack-status](https://github.com/TomasHubelbauer/spotify-slack-status)
+
+⚖️ 2026-04-22T16:46:42Z
+
+🏷 slack, slack-app, slack-status, spotify
+
+📒 A script for setting the currently playing Spotify song as your Slack status
+
+## [svg-3d](https://github.com/TomasHubelbauer/svg-3d)
+
+⚖️ 2026-04-29T05:48:41Z
+
+🏷 3d, 3d-animation, animation, css, perspective, projection, smil, svg
+
+📒 3D SVG projection and animation
+
+## [node-cdp-ws](https://github.com/TomasHubelbauer/node-cdp-ws)
+
+⚖️ 2026-04-29T07:12:11Z
+
+🏷 cdp, debugger, electron, websocket
+
+📒 Pure Node websocket client
+
 ## [tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer)
 
-⚖️ 2026-01-15T15:05:32Z
+⚖️ 2026-04-30T12:33:31Z
 
 🏷 tomashubelbauer
 
