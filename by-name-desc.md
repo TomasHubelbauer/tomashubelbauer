@@ -1,6 +1,6 @@
 # By `name` (desc)
 
-2026-01-15T16:08:29.948Z
+2026-07-24T19:30:19.536Z
 
 ## [yt-downloader](https://github.com/TomasHubelbauer/yt-downloader)
 
@@ -2098,6 +2098,14 @@
 
 📒 A demonstration of using WebRTC to achieve communication between an iOS application and a web page
 
+## [iOS](https://github.com/TomasHubelbauer/iOS)
+
+⚖️ iOS
+
+🏷 
+
+📒 :iphone: Home Assistant for Apple platforms
+
 ## [instagram-backup](https://github.com/TomasHubelbauer/instagram-backup)
 
 ⚖️ instagram-backup
@@ -2193,6 +2201,14 @@
 🏷 html, video
 
 📒 An application for generating videos from HTML+JS scenes
+
+## [html-to-image](https://github.com/TomasHubelbauer/html-to-image)
+
+⚖️ html-to-image
+
+🏷 
+
+📒 ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 
 ## [html-responsive-table](https://github.com/TomasHubelbauer/html-responsive-table)
 
@@ -2621,6 +2637,14 @@
 ## [firefox-youtube-buddy](https://github.com/TomasHubelbauer/firefox-youtube-buddy)
 
 ⚖️ firefox-youtube-buddy
+
+🏷 
+
+📒 null
+
+## [firefox-unsigned](https://github.com/TomasHubelbauer/firefox-unsigned)
+
+⚖️ firefox-unsigned
 
 🏷 
 
@@ -3121,6 +3145,14 @@
 🏷 codex, companion-app, dexo
 
 📒 Dexo is a Codex companion app for your portable devices
+
+## [DefinitelyTyped](https://github.com/TomasHubelbauer/DefinitelyTyped)
+
+⚖️ DefinitelyTyped
+
+🏷 
+
+📒 The repository for high quality TypeScript type definitions.
 
 ## [day-planner](https://github.com/TomasHubelbauer/day-planner)
 
@@ -3634,6 +3666,22 @@
 
 📒 null
 
+## [bun-dep-user](https://github.com/TomasHubelbauer/bun-dep-user)
+
+⚖️ bun-dep-user
+
+🏷 
+
+📒 null
+
+## [bun-dep](https://github.com/TomasHubelbauer/bun-dep)
+
+⚖️ bun-dep
+
+🏷 
+
+📒 null
+
 ## [bun-bundle-service-worker](https://github.com/TomasHubelbauer/bun-bundle-service-worker)
 
 ⚖️ bun-bundle-service-worker
@@ -3649,6 +3697,14 @@
 🏷 
 
 📒 null
+
+## [bun](https://github.com/TomasHubelbauer/bun)
+
+⚖️ bun
+
+🏷 
+
+📒 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## [bt-channel](https://github.com/TomasHubelbauer/bt-channel)
 
