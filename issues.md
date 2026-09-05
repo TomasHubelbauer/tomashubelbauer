@@ -10,6 +10,7 @@
 
 ## cursor-agent-windows
 
+- [🤝 sinonchum: Working Windows native launcher — bypass both blockers at runtime](https://github.com/TomasHubelbauer/cursor-agent-windows/issues/4)
 - [🤝 gitcnd: [comment] (not an issue) - easier way to sort out the dependencies](https://github.com/TomasHubelbauer/cursor-agent-windows/issues/2)
 
 ## dot-matrix-tester
