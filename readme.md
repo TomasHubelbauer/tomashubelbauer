@@ -8,397 +8,433 @@
 
 <div align="center">
 
-[335&nbsp;followers&nbsp;🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
-902&nbsp;stars&nbsp;⭐️  ᐧ
-[491&nbsp;repositories&nbsp;📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
-[49&nbsp;issues&nbsp;🎫](issues.md) ᐧ
-[No&nbsp;PRs&nbsp;🎁](prs.md) ᐧ
-[479&nbsp;todos&nbsp;💪](todos.json) ᐧ
-No&nbsp;forks&nbsp;🍴
+[358&nbsp;followers&nbsp;🤝](https://github.com/TomasHubelbauer?tab=followers) ᐧ
+981&nbsp;stars&nbsp;⭐️  ᐧ
+[500&nbsp;repositories&nbsp;📓](https://github.com/TomasHubelbauer?tab=repositories) ᐧ
+[51&nbsp;issues&nbsp;🎫](issues.md) ᐧ
+[2&nbsp;PRs&nbsp;🎁](prs.md) ᐧ
+[486&nbsp;todos&nbsp;💪](todos.json) ᐧ
+[5&nbsp;forks&nbsp;🍴](https://github.com/TomasHubelbauer?tab=repositories&q=&type=fork) ᐧ 
+[5&nbsp;identical&nbsp;forks&nbsp;🍴⚠️](identical-forks.md)
 
 </div>
 
 <details open>
+<summary>Today (23:07)</summary>
+
+- `16:53`
+  ⭐️ starred
+  [`aurora-silicon/linux`](https://github.com/aurora-silicon/linux)
+
+</details>
+
+<details>
 <summary>Yesterday</summary>
 
-- `20:56`
-  💬 commented on
-  [#263558 Support developing VS Code extensions in TypeScript](https://github.com/microsoft/vscode/issues/263558)
+- `21:07`
+  🍴📉 lost a fork on 
+  [`onewheel-charger`](https://github.com/TomasHubelbauer/onewheel-charger) (now 16)
+- `13:36`
+  ⭐️ starred
+  [`Gathin23/cleanyourtv`](https://github.com/Gathin23/cleanyourtv)
+- `13:36`
+  ⭐️ starred
+  [`anubhavmalhotra/r2d2-tv`](https://github.com/anubhavmalhotra/r2d2-tv)
+- `11:09`
+  ⭐️📈 received a star on 
+  [`vscode-markdown-todo`](https://github.com/TomasHubelbauer/vscode-markdown-todo) (now 18)
+
+</details>
+
+<details>
+<summary>Thursday</summary>
+
+- `23:08`
+  ⭐️📈 received a star on 
+  [`svg-3d`](https://github.com/TomasHubelbauer/svg-3d) (now 41)
+- `21:39`
+  ⭐️ starred
+  [`oosexgang/hackios-xnu-kernel`](https://github.com/oosexgang/hackios-xnu-kernel)
+- `21:38`
+  ⭐️ starred
+  [`NVIDIA/OpenShell`](https://github.com/NVIDIA/OpenShell)
+- `20:45`
+  🎁 merged
+  [#2189 undefined](undefined)
   in
-  [`microsoft/vscode`](https://github.com/microsoft/vscode)
+  [`webpro-nl/knip`](https://github.com/webpro-nl/knip)
+- `13:31`
+  🎁 opened
+  [#2189 undefined](undefined)
+  in
+  [`webpro-nl/knip`](https://github.com/webpro-nl/knip)
+- `13:31`
+  🌳 created branch 
+  [`codex/bun-fmt`](https://github.com/TomasHubelbauer/knip/tree/codex/bun-fmt)
+  in
+  [`knip`](https://github.com/TomasHubelbauer/knip)
+- `13:30`
+  🍴 forked
+  [`webpro-nl/knip`](https://github.com/webpro-nl/knip)
+  into
+  [`knip`](https://github.com/TomasHubelbauer/knip)
+- `09:48`
+  ⭐️ starred
+  [`david-alvarez-rosa/php-rce`](https://github.com/david-alvarez-rosa/php-rce)
+- `08:59`
+  ⭐️ starred
+  [`openai/openai-cli`](https://github.com/openai/openai-cli)
+
+</details>
+
+<details>
+<summary>Wednesday</summary>
+
+- `15:03`
+  ⭐️ starred
+  [`google-pytorch/torch_tpu`](https://github.com/google-pytorch/torch_tpu)
+- `11:43`
+  ⭐️ starred
+  [`deepseek-ai/3FS`](https://github.com/deepseek-ai/3FS)
+- `11:33`
+  ⭐️ starred
+  [`zion-sati/NetWasm`](https://github.com/zion-sati/NetWasm)
 
 </details>
 
 <details>
 <summary>Tuesday</summary>
 
-- `23:05`
+- `00:18`
   ⭐️ starred
-  [`KartikLabhshetwar/better-shot`](https://github.com/KartikLabhshetwar/better-shot)
-- `23:01`
+  [`oxc-project/tsrs`](https://github.com/oxc-project/tsrs)
+- `17:15`
   ⭐️ starred
-  [`eigent-ai/eigent`](https://github.com/eigent-ai/eigent)
-- `10:21`
-  💬 commented on
-  [#263558 Support developing VS Code extensions in TypeScript](https://github.com/microsoft/vscode/issues/263558)
-  in
-  [`microsoft/vscode`](https://github.com/microsoft/vscode)
+  [`rustls/upki`](https://github.com/rustls/upki)
+- `17:09`
+  ⭐️📈 received a star on 
+  [`webrtc-qr-signaling-channel`](https://github.com/TomasHubelbauer/webrtc-qr-signaling-channel) (now 11)
+- `13:04`
+  ⭐️ starred
+  [`xscreensaver-official/xscreensaver`](https://github.com/xscreensaver-official/xscreensaver)
+- `12:00`
+  ⭐️ starred
+  [`deepseek-ai/DeepInfer`](https://github.com/deepseek-ai/DeepInfer)
 
 </details>
 
 <details>
 <summary>Monday</summary>
 
-- `15:09`
+- `15:19`
   ⭐️ starred
-  [`lawrencegripper/actions-term-on-fail`](https://github.com/lawrencegripper/actions-term-on-fail)
-- `15:06`
-  🍴📉 lost a fork on 
-  [`html-video-frame-extractor`](https://github.com/TomasHubelbauer/html-video-frame-extractor) (now 1)
+  [`omacom/try-omarchy`](https://github.com/omacom/try-omarchy)
+- `15:18`
+  ⭐️ starred
+  [`omacom/omarchy-mac`](https://github.com/omacom/omarchy-mac)
+- `15:17`
+  ⭐️ starred
+  [`maralcbr/omarchy-mx-mac`](https://github.com/maralcbr/omarchy-mx-mac)
+- `15:17`
+  ⭐️ starred
+  [`joshuaswarren/omarchy-mlx`](https://github.com/joshuaswarren/omarchy-mlx)
+- `15:17`
+  ⭐️ starred
+  [`joshuaswarren/omarchy-cluster`](https://github.com/joshuaswarren/omarchy-cluster)
+- `14:29`
+  💬 commented on
+  [#4316 macOS App still randomly opens on its own (2026.1.2 (2026.1748))](https://github.com/home-assistant/iOS/issues/4316)
+  in
+  [`home-assistant/iOS`](https://github.com/home-assistant/iOS)
+- `11:13`
+  ⭐️ starred
+  [`kermanx/p2p-live-share`](https://github.com/kermanx/p2p-live-share)
+- `11:03`
+  ⭐️ starred
+  [`finereli/whatsapp-mcp`](https://github.com/finereli/whatsapp-mcp)
+- `09:41`
+  ⭐️ starred
+  [`togethercomputer/HybridAgent`](https://github.com/togethercomputer/HybridAgent)
+- `03:23`
+  🤝 followed by [Git-FED](https://github.com/Git-FED)
 
 </details>
 
 <details>
 <summary>Sunday</summary>
 
-- `21:22`
-  ⭐️ starred
-  [`jrouwe/JoltPhysics`](https://github.com/jrouwe/JoltPhysics)
-
-</details>
-
-<details>
-<summary>Saturday</summary>
-
-- `17:52`
-  ⭐️ starred
-  [`skridlevsky/openchaos`](https://github.com/skridlevsky/openchaos)
-- `16:51`
-  📌 pushed
-  [`9704c7b`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/9704c7bb40e44444b85cb194ee1eab8a880538f7)
-  into
-  [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
-- `11:04`
-  🤝 followed by [vandersoncostasantos](https://github.com/vandersoncostasantos)
-- `01:18`
-  🤝 followed by [Shehab513](https://github.com/Shehab513)
-
-</details>
-
-<details>
-<summary>Friday</summary>
-
+- `20:09`
+  🤝 followed by [kpopdev](https://github.com/kpopdev)
 - `19:06`
-  🤝 followed by [AD404-0](https://github.com/AD404-0)
-- `17:13`
+  💔 unfollowed by [coffsec](https://github.com/coffsec) after 0 days
+- `18:07`
+  💔 unfollowed by [Ali-hey-0](https://github.com/Ali-hey-0) after 72 days
+- `12:07`
+  🤝 followed by [coffsec](https://github.com/coffsec)
+
+</details>
+
+<details>
+<summary>2026-10-15</summary>
+
+- `11:49`
   ⭐️ starred
-  [`numman-ali/opencode-openai-codex-auth`](https://github.com/numman-ali/opencode-openai-codex-auth)
-- `17:10`
-  💬 commented on
-  [#17118 [Feature Request] Support for OpenCode and Max plan](https://github.com/anthropics/claude-code/issues/17118)
-  in
-  [`anthropics/claude-code`](https://github.com/anthropics/claude-code)
-- `17:04`
-  💬 commented on
-  [#7078 Use local LLM via Ollama on desktop](https://github.com/anomalyco/opencode/issues/7078)
-  in
-  [`anomalyco/opencode`](https://github.com/anomalyco/opencode)
-- `16:34`
-  💬 commented on
-  [#216 Editor integrations](https://github.com/anomalyco/opencode/issues/216)
-  in
-  [`anomalyco/opencode`](https://github.com/anomalyco/opencode)
+  [`kiruna-labs/petal`](https://github.com/kiruna-labs/petal)
+
+</details>
+
+<details>
+<summary>2026-10-14</summary>
+
+- `16:53`
+  ⭐️ starred
+  [`gaycoderprincess/FlatOut2AILimitAdjuster`](https://github.com/gaycoderprincess/FlatOut2AILimitAdjuster)
+- `12:34`
+  ⭐️ starred
+  [`Saffsanity/sill`](https://github.com/Saffsanity/sill)
+
+</details>
+
+<details>
+<summary>2026-10-13</summary>
+
+- `23:01`
+  ⭐️ starred
+  [`samhenrigold/LightTouchMac`](https://github.com/samhenrigold/LightTouchMac)
+
+</details>
+
+<details>
+<summary>2026-10-12</summary>
+
+- `15:33`
+  ⭐️ starred
+  [`willfaust/Madeira`](https://github.com/willfaust/Madeira)
+- `15:15`
+  ⭐️ starred
+  [`Droid-Deck/DroidDeck`](https://github.com/Droid-Deck/DroidDeck)
+
+</details>
+
+<details>
+<summary>2026-10-11</summary>
+
+- `12:50`
+  ⭐️ starred
+  [`fleetdm/fleet`](https://github.com/fleetdm/fleet)
+- `09:27`
+  ⭐️ starred
+  [`t4t5/owly`](https://github.com/t4t5/owly)
+- `08:52`
+  ⭐️ starred
+  [`othermod/PSPi-Version-6`](https://github.com/othermod/PSPi-Version-6)
+
+</details>
+
+<details>
+<summary>2026-10-09</summary>
+
 - `16:11`
-  🏷🎫 labeled
-  [#7491 [FEATURE]: Verify subscription/model is usable when `/connect`ing it](https://github.com/anomalyco/opencode/issues/7491)
-  in
-  [`anomalyco/opencode`](https://github.com/anomalyco/opencode)
-- `16:11`
-  🎫 opened
-  [#7491 [FEATURE]: Verify subscription/model is usable when `/connect`ing it](https://github.com/anomalyco/opencode/issues/7491)
-  in
-  [`anomalyco/opencode`](https://github.com/anomalyco/opencode)
+  ⭐️ starred
+  [`franzenzenhofer/big-arrow-on-the-screen`](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
+- `16:10`
+  ⭐️ starred
+  [`nullmoth/1401`](https://github.com/nullmoth/1401)
+- `16:09`
+  ⭐️ starred
+  [`nullmoth/nvidia-macos-driver`](https://github.com/nullmoth/nvidia-macos-driver)
+- `13:53`
+  ⭐️ starred
+  [`morluto/rea`](https://github.com/morluto/rea)
 
 </details>
 
 <details>
-<summary>2026-01-07</summary>
+<summary>2026-10-08</summary>
 
-- `16:29`
+- `19:46`
+  ⭐️ starred
+  [`cactus-compute/needle`](https://github.com/cactus-compute/needle)
+- `10:30`
+  ⭐️ starred
+  [`shihabal3amri/DiPlay`](https://github.com/shihabal3amri/DiPlay)
+
+</details>
+
+<details>
+<summary>2026-10-07</summary>
+
+- `22:03`
+  ⭐️ starred
+  [`docker/docker-agent`](https://github.com/docker/docker-agent)
+- `19:52`
+  ⭐️ starred
+  [`AL-255/FM-1-RE`](https://github.com/AL-255/FM-1-RE)
+- `17:00`
+  ⭐️ starred
+  [`shader-effects-inc/shaders`](https://github.com/shader-effects-inc/shaders)
+- `09:49`
+  ⭐️ starred
+  [`nano-muse/nanoMuse`](https://github.com/nano-muse/nanoMuse)
+
+</details>
+
+<details>
+<summary>2026-10-06</summary>
+
+- `21:01`
+  ⭐️ starred
+  [`storytold/photocraft`](https://github.com/storytold/photocraft)
+- `20:51`
+  ⭐️ starred
+  [`mihai-dinculescu/tapo`](https://github.com/mihai-dinculescu/tapo)
+
+</details>
+
+<details>
+<summary>2026-10-05</summary>
+
+- `22:20`
+  ⭐️ starred
+  [`p2r3/Arachnidium`](https://github.com/p2r3/Arachnidium)
+- `22:07`
+  ⭐️ starred
+  [`veedstudio/open-edit`](https://github.com/veedstudio/open-edit)
+- `22:05`
+  ⭐️ starred
+  [`gatewai-dev/framefields`](https://github.com/gatewai-dev/framefields)
+- `21:37`
   📌 pushed
-  [`6ad43ac`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/6ad43ac252c7db45cb96a7fbcba45bfbf7706055)
+  [`b898dcf`](https://github.com/TomasHubelbauer/kamoo-twingo-elektra/commit/b898dcf32248e508f01b12d7a898595681d8b240)
   into
-  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
-- `13:07`
-  💔 unfollowed by [emilycodestar](https://github.com/emilycodestar) after 33 days
-- `07:06`
-  💔 unfollowed by [mikechiloane](https://github.com/mikechiloane) after 24 days
-
-</details>
-
-<details>
-<summary>2026-01-06</summary>
-
-- `22:10`
-  ⭐️ starred
-  [`cristibaluta/Leica-G9ii`](https://github.com/cristibaluta/Leica-G9ii)
-- `21:50`
-  ⭐️ starred
-  [`frigate-nvr/apple-silicon-detector`](https://github.com/frigate-nvr/apple-silicon-detector)
-
-</details>
-
-<details>
-<summary>2026-01-05</summary>
-
-- `23:34`
+  [`kamoo-twingo-elektra`](https://github.com/TomasHubelbauer/kamoo-twingo-elektra)
+- `21:33`
   📌 pushed
-  [`547eaa2`](https://github.com/TomasHubelbauer/kaloricke-tabulky-api/commit/547eaa2762420c1ca4f4011faa624af4fdf2293f)
+  [`4a6ea17`](https://github.com/TomasHubelbauer/kamoo-twingo-elektra/commit/4a6ea175309f4f4a533808acb0556dd3af6f038b)
   into
-  [`kaloricke-tabulky-api`](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
-- `23:33`
-  📌 pushed
-  [`3a1bace`](https://github.com/TomasHubelbauer/kaloricke-tabulky-api/commit/3a1bace525617b3e012a3bfc81fdf6f43324fbd5)
-  into
-  [`kaloricke-tabulky-api`](https://github.com/TomasHubelbauer/kaloricke-tabulky-api)
-- `20:05`
-  ⭐️ starred
-  [`cifertech/ESP32-DIV`](https://github.com/cifertech/ESP32-DIV)
-
-</details>
-
-<details>
-<summary>2026-01-04</summary>
-
-- `23:56`
-  ⭐️ starred
-  [`DevEmperor/Dictate`](https://github.com/DevEmperor/Dictate)
-- `15:03`
-  ⭐️ starred
-  [`buyukakyuz/corroded`](https://github.com/buyukakyuz/corroded)
-- `14:53`
-  ⭐️ starred
-  [`cmajor-lang/cmajor`](https://github.com/cmajor-lang/cmajor)
-
-</details>
-
-<details>
-<summary>2026-01-03</summary>
-
-- `21:08`
-  ⭐️ starred
-  [`sirius-db/sirius`](https://github.com/sirius-db/sirius)
-
-</details>
-
-<details>
-<summary>2026-01-01</summary>
-
-- `23:04`
-  💔 unfollowed by [NamesMT](https://github.com/NamesMT) after 25 days
-- `12:59`
-  ⭐️ starred
-  [`techwinder/flow5`](https://github.com/techwinder/flow5)
-
-</details>
-
-<details>
-<summary>2025-12-29</summary>
-
-- `14:15`
-  🤝 followed by [codebyhuman](https://github.com/codebyhuman)
-
-</details>
-
-<details>
-<summary>2025-12-28</summary>
-
-- `21:04`
-  🤝 followed by [rodrigogalura](https://github.com/rodrigogalura)
-- `20:04`
-  ⭐️ starred
-  [`steipete/imsg`](https://github.com/steipete/imsg)
-- `17:58`
-  ⭐️ starred
-  [`rex-rs/rex`](https://github.com/rex-rs/rex)
-
-</details>
-
-<details>
-<summary>2025-12-27</summary>
-
-- `22:11`
-  📌 pushed
-  [`4bbf4fa`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/4bbf4fa2ebad7e38aceb4f00d48662850a5259d7)
-  into
-  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
-- `22:10`
-  📌 pushed
-  [`22e6c2f`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/22e6c2f97ff6e3988c536cf6c97a8b5f55c1e915)
-  into
-  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
-- `22:06`
-  ⭐️ starred
-  [`Ripple-TS/ripple`](https://github.com/Ripple-TS/ripple)
-- `22:02`
+  [`kamoo-twingo-elektra`](https://github.com/TomasHubelbauer/kamoo-twingo-elektra)
+- `20:10`
   🌳 created branch 
-  [`main`](https://github.com/TomasHubelbauer/vscode-local-extensions/tree/main)
+  [`main`](https://github.com/TomasHubelbauer/kamoo-twingo-elektra/tree/main)
   in
-  [`vscode-local-extensions`](https://github.com/TomasHubelbauer/vscode-local-extensions)
-- `21:48`
-  📌 pushed
-  [`84d2e17`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/84d2e17f1768d42afbeb7e52ff49583e73d62d72)
-  into
-  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
-- `21:43`
-  📌 pushed
-  [`b0d5cdc`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/b0d5cdc0a3db86bdd31334939e3c982cff3576cf)
-  into
-  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
-- `21:38`
-  📌 pushed
-  [`aea984f`](https://github.com/TomasHubelbauer/hubelbauer.net/commit/aea984fe8fe6c734f44e6080b2cb06c843e19e64)
-  into
-  [`hubelbauer.net`](https://github.com/TomasHubelbauer/hubelbauer.net)
-- `17:51`
+  [`kamoo-twingo-elektra`](https://github.com/TomasHubelbauer/kamoo-twingo-elektra)
+- `20:10`
+  🌳 created branch 
+  [`main`](https://github.com/TomasHubelbauer/kamoo-twingo-elektra/tree/main)
+  in
+  [`kamoo-twingo-elektra`](https://github.com/TomasHubelbauer/kamoo-twingo-elektra)
+- `15:16`
   ⭐️ starred
-  [`apple/ml-sharp`](https://github.com/apple/ml-sharp)
+  [`asciimoo/hister`](https://github.com/asciimoo/hister)
+- `13:15`
+  ⭐️ starred
+  [`omlahore/RemoveMacAI`](https://github.com/omlahore/RemoveMacAI)
+- `10:13`
+  ⭐️ starred
+  [`cedardb/sqldoom`](https://github.com/cedardb/sqldoom)
 
 </details>
 
 <details>
-<summary>2025-12-26</summary>
+<summary>2026-10-04</summary>
 
-- `21:51`
+- `23:35`
   ⭐️ starred
-  [`jordansissel/xdotool`](https://github.com/jordansissel/xdotool)
-- `13:26`
+  [`PowderworksCode/headstart`](https://github.com/PowderworksCode/headstart)
+- `15:38`
   ⭐️ starred
-  [`zen-browser/desktop`](https://github.com/zen-browser/desktop)
+  [`Niko1221/Strata`](https://github.com/Niko1221/Strata)
 
 </details>
 
 <details>
-<summary>2025-12-25</summary>
+<summary>2026-10-02</summary>
 
-- `18:22`
+- `15:37`
   ⭐️ starred
-  [`tw93/Mole`](https://github.com/tw93/Mole)
-- `15:54`
+  [`cordiverse/cordis`](https://github.com/cordiverse/cordis)
+- `12:20`
   ⭐️ starred
-  [`sebastienros/comptime`](https://github.com/sebastienros/comptime)
+  [`tester-army/e2e`](https://github.com/tester-army/e2e)
+- `08:39`
+  ⭐️ starred
+  [`deepseek-ai/deepseek-harness`](https://github.com/deepseek-ai/deepseek-harness)
 
 </details>
 
 <details>
-<summary>2025-12-24</summary>
+<summary>2026-10-01</summary>
 
-- `20:08`
+- `14:39`
   ⭐️ starred
-  [`VibiumDev/vibium`](https://github.com/VibiumDev/vibium)
-- `16:06`
+  [`jeremyipark/vision-demos`](https://github.com/jeremyipark/vision-demos)
+- `13:18`
   ⭐️ starred
-  [`freelawproject/x-ray`](https://github.com/freelawproject/x-ray)
+  [`CHOMPI-Club/CHOMPI`](https://github.com/CHOMPI-Club/CHOMPI)
+- `10:07`
+  ⭐️ starred
+  [`open-watcom/open-watcom-v2`](https://github.com/open-watcom/open-watcom-v2)
 
 </details>
 
 <details>
-<summary>2025-12-23</summary>
-
-- `20:22`
-  ⭐️ starred
-  [`bellard/mquickjs`](https://github.com/bellard/mquickjs)
-
-</details>
-
-<details>
-<summary>2025-12-22</summary>
+<summary>2026-09-29</summary>
 
 - `23:07`
   ⭐️ starred
-  [`oraios/serena`](https://github.com/oraios/serena)
+  [`AlexsJones/llmfit`](https://github.com/AlexsJones/llmfit)
+- `22:55`
+  ⭐️ starred
+  [`boykopovar/AnyPS5`](https://github.com/boykopovar/AnyPS5)
+- `22:54`
+  ⭐️ starred
+  [`ntfargo/Relapse-Exploit`](https://github.com/ntfargo/Relapse-Exploit)
 
 </details>
 
 <details>
-<summary>2025-12-21</summary>
+<summary>2026-09-28</summary>
 
-- `00:19`
+- `19:08`
+  🤝 followed by [shahidazam2020-oss](https://github.com/shahidazam2020-oss)
+- `17:26`
   ⭐️ starred
-  [`rue-language/rue`](https://github.com/rue-language/rue)
+  [`seamusc/papermono-shopping-list`](https://github.com/seamusc/papermono-shopping-list)
+- `08:11`
+  ⭐️ starred
+  [`dashersw/coyopedal`](https://github.com/dashersw/coyopedal)
 
 </details>
 
 <details>
-<summary>2025-12-20</summary>
+<summary>2026-09-27</summary>
 
-- `18:54`
+- `19:53`
   ⭐️ starred
-  [`Jarred-Sumner/poof`](https://github.com/Jarred-Sumner/poof)
-- `18:53`
+  [`faiscadev/fakecloud`](https://github.com/faiscadev/fakecloud)
+- `13:59`
   ⭐️ starred
-  [`anomalyco/opentui`](https://github.com/anomalyco/opentui)
-- `18:49`
+  [`colinvkim/Radix`](https://github.com/colinvkim/Radix)
+- `09:11`
   ⭐️ starred
-  [`cameroncooke/AXe`](https://github.com/cameroncooke/AXe)
-
-</details>
-
-<details>
-<summary>2025-12-18</summary>
-
-- `15:17`
-  📌 pushed
-  [`da344f3`](https://github.com/TomasHubelbauer/tomashubelbauer/commit/da344f394f69a75b842c6b7ec0b700e7f292372f)
-  into
-  [`tomashubelbauer`](https://github.com/TomasHubelbauer/tomashubelbauer)
-- `12:50`
-  ⭐️ starred
-  [`ironcalc/IronCalc`](https://github.com/ironcalc/IronCalc)
-- `08:59`
-  ⭐️ starred
-  [`openai/apps-sdk-ui`](https://github.com/openai/apps-sdk-ui)
+  [`starbrightlab/immortal`](https://github.com/starbrightlab/immortal)
 
 </details>
 
 <details>
-<summary>2025-12-17</summary>
+<summary>2026-09-26</summary>
 
-- `08:45`
+- `20:56`
   ⭐️ starred
-  [`simonw/justjshtml`](https://github.com/simonw/justjshtml)
-- `08:33`
-  ⭐️ starred
-  [`html5lib/html5lib-tests`](https://github.com/html5lib/html5lib-tests)
-- `08:04`
-  ⭐️ starred
-  [`scallyw4g/bonsai`](https://github.com/scallyw4g/bonsai)
+  [`InfinityLoop1308/PipePipe`](https://github.com/InfinityLoop1308/PipePipe)
 
 </details>
 
 <details>
-<summary>2025-12-16</summary>
+<summary>2026-09-25</summary>
 
-- `20:00`
+- `10:33`
   ⭐️ starred
-  [`gaearon/rscexplorer`](https://github.com/gaearon/rscexplorer)
-- `16:58`
-  💬 commented on
-  [#229288 Auto-reload local workspace extensions when a file in the extension directory gets saved](https://github.com/microsoft/vscode/issues/229288)
-  in
-  [`microsoft/vscode`](https://github.com/microsoft/vscode)
-- `16:09`
-  🏷🎫 labeled
-  [#14183 [FEATURE] Add a new tool to the VS Code extension to let Claude Code trigger format on save on a file](https://github.com/anthropics/claude-code/issues/14183)
-  in
-  [`anthropics/claude-code`](https://github.com/anthropics/claude-code)
-- `16:09`
-  🎫 opened
-  [#14183 [FEATURE] Add a new tool to the VS Code extension to let Claude Code trigger format on save on a file](https://github.com/anthropics/claude-code/issues/14183)
-  in
-  [`anthropics/claude-code`](https://github.com/anthropics/claude-code)
-- `13:06`
-  ⭐️ starred
-  [`google/A2UI`](https://github.com/google/A2UI)
+  [`egma-ai/jev-code-reviewer`](https://github.com/egma-ai/jev-code-reviewer)
 
 </details>
