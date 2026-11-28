@@ -10,6 +10,7 @@
 
 ## cursor-agent-windows
 
+- [🤝 sinonchum: Working Windows native launcher — bypass both blockers at runtime](https://github.com/TomasHubelbauer/cursor-agent-windows/issues/4)
 - [🤝 gitcnd: [comment] (not an issue) - easier way to sort out the dependencies](https://github.com/TomasHubelbauer/cursor-agent-windows/issues/2)
 
 ## dot-matrix-tester
@@ -45,6 +46,10 @@
 - [🙋‍♂️: Walk the Git notes log output, parse the JSON and print only issue numbers and titles](https://github.com/TomasHubelbauer/github-issues-git-notes-demo/issues/3)
 - [🙋‍♂️: Add support for default branches not named main by using ${{github.ref_name}}](https://github.com/TomasHubelbauer/github-issues-git-notes-demo/issues/2)
 - [🙋‍♂️: Test](https://github.com/TomasHubelbauer/github-issues-git-notes-demo/issues/1)
+
+## kamoo-twingo-elektra
+
+- [🤝 bertocarlo: technical documents](https://github.com/TomasHubelbauer/kamoo-twingo-elektra/issues/1)
 
 ## mime-multipart
 
